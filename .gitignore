@@ -1,0 +1,12 @@
+# Python environment
+.venv/
+
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
