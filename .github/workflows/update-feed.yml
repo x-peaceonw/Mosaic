@@ -17,6 +17,16 @@ jobs:
 
       - run: pip install requests python-dotenv
 
+      - name: Debug secret lengths (safe - no values shown)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        run: |
+          echo "YOUTUBE_API_KEY length: ${#YOUTUBE_API_KEY}"
+          echo "CLIENT_ID length: ${#CLIENT_ID}"
+          echo "CLIENT_SECRET length: ${#CLIENT_SECRET}"
+
       - name: Fetch new releases
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
