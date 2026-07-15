@@ -205,16 +205,38 @@ def google_news_rss(query, category, artist_name, limit=6):
 def main():
     all_posts = []
 
-    token = get_spotify_token()
+    try:
+        token = get_spotify_token()
+        for artist in ARTISTS:
+            found = spotify_new_releases(artist, token)
+            print(f"Spotify [{artist}]: {len(found)} items")
+            all_posts.extend(found)
+    except Exception as e:
+        print(f"Spotify failed: {e}")
+
     for artist in ARTISTS:
-        all_posts.extend(spotify_new_releases(artist, token))
-        all_posts.extend(youtube_new_uploads(artist))
+        try:
+            found = youtube_new_uploads(artist)
+            print(f"YouTube [{artist}]: {len(found)} items")
+            all_posts.extend(found)
+        except Exception as e:
+            print(f"YouTube [{artist}] failed: {e}")
 
     for artist in TICKET_ARTISTS:
-        all_posts.extend(ticketmaster_events(artist))
+        try:
+            found = ticketmaster_events(artist)
+            print(f"Ticketmaster [{artist}]: {len(found)} items")
+            all_posts.extend(found)
+        except Exception as e:
+            print(f"Ticketmaster [{artist}] failed: {e}")
 
     for topic in NEWS_TOPICS:
-        all_posts.extend(google_news_rss(topic["query"], topic["category"], topic["artist"]))
+        try:
+            found = google_news_rss(topic["query"], topic["category"], topic["artist"])
+            print(f"News [{topic['category']}]: {len(found)} items")
+            all_posts.extend(found)
+        except Exception as e:
+            print(f"News [{topic['category']}] failed: {e}")
 
     all_posts.sort(key=lambda p: p["time"], reverse=True)
 
@@ -227,4 +249,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
