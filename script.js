@@ -1,61 +1,89 @@
 let allPosts = [];
 
+const THUMB_CLASSES = ["thumb--a", "thumb--b", "thumb--c", "thumb--d", "thumb--e"];
+
+function normalize(str) {
+  return (str || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
+document.getElementById("today-date").textContent =
+  new Date().toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" }).toUpperCase();
+
 fetch("data/music.json")
   .then(response => response.json())
   .then(posts => {
     allPosts = posts;
+    buildTabs(posts);
+    buildTicker(posts);
     renderPosts(posts);
   })
   .catch(err => console.error("Failed to load feed:", err));
 
+function buildTicker(posts) {
+  const track = document.getElementById("ticker-track");
+  if (!posts.length) {
+    track.innerHTML = "<span>NO NEW RELEASES YET</span><span>\u00b7</span>";
+    return;
+  }
+  const items = posts.map(p => `<span>${p.artist.toUpperCase()} \u2014 ${p.title.toUpperCase()}</span><span>\u00b7</span>`);
+  track.innerHTML = items.join("") + items.join("");
+}
+
+function buildTabs(posts) {
+  const categories = ["All", ...new Set(posts.map(p => p.category || "Music"))];
+  const list = document.getElementById("tabs-list");
+  list.innerHTML = categories.map((cat, i) => `
+    <li><button class="tab ${i === 0 ? "is-active" : ""}" data-cat="${cat}">${cat}</button></li>
+  `).join("");
+
+  list.querySelectorAll(".tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+      list.querySelectorAll(".tab").forEach(t => t.classList.remove("is-active"));
+      tab.classList.add("is-active");
+      const cat = tab.dataset.cat;
+      renderPosts(cat === "All" ? allPosts : allPosts.filter(p => (p.category || "Music") === cat));
+    });
+  });
+}
+
 function renderPosts(posts) {
   const feed = document.getElementById("feed");
-  feed.innerHTML = "";
 
-  posts.forEach(post => {
-    feed.innerHTML += `
-      <div class="card" data-category="${post.category || "Music"}">
-        <div class="card__thumb" style="background-image:url('${post.image}')">
+  if (!posts.length) {
+    feed.innerHTML = `<p class="empty-state">Nothing here yet \u2014 check back after the next update.</p>`;
+    return;
+  }
+
+  feed.innerHTML = posts.map((post, i) => {
+    const thumbClass = THUMB_CLASSES[i % THUMB_CLASSES.length];
+    const rotate = i % 5 === 1 ? "pin--rotate-l" : i % 5 === 3 ? "pin--rotate-r" : "";
+
+    return `
+      <article class="card card--pin pin ${rotate}" data-category="${post.category || "Music"}">
+        <div class="card__thumb ${thumbClass}" style="background-image:url('${post.image}')">
+          <span class="tape${i % 2 === 0 ? "" : " tape--right"}"></span>
+          <a href="${post.spotify}" target="_blank"><button class="save-btn">Open</button></a>
           <span class="source-tag">${post.source}</span>
-          <button class="save-btn">📌 Save</button>
         </div>
-        <h2 class="card__title">${post.title}</h2>
-        <p class="card__meta">
+        <h3 class="card__title">${post.title}</h3>
+        <div class="card__meta">
           <span>${post.artist}</span>
-          <span class="card__meta-dot">•</span>
+          <span class="card__meta-dot">\u00b7</span>
           <span>${post.time}</span>
-        </p>
-        <div class="actions">
-          <a href="${post.spotify}" target="_blank"><button>▶ Spotify</button></a>
-          <button>✕</button>
         </div>
-      </div>
+      </article>
     `;
-  });
+  }).join("");
 }
 
-// Called by the category tabs in index.html (onclick="filterPosts('Music')")
-function filterPosts(category) {
-  document.querySelectorAll(".tab").forEach(tab => {
-    tab.classList.toggle("is-active", tab.textContent.trim() === category);
-  });
-
-  const cards = document.querySelectorAll("#feed .card");
-  cards.forEach(card => {
-    const matches = category === "All" || card.dataset.category === category;
-    card.style.display = matches ? "" : "none";
-  });
-}
-
-// Wire up the search box
-const searchInput = document.getElementById("search");
-if (searchInput) {
-  searchInput.addEventListener("input", (e) => {
-    const term = e.target.value.toLowerCase();
-    const filtered = allPosts.filter(post =>
-      post.title.toLowerCase().includes(term) ||
-      post.artist.toLowerCase().includes(term)
-    );
-    renderPosts(filtered);
-  });
-}
+document.getElementById("search").addEventListener("input", (e) => {
+  const term = normalize(e.target.value);
+  const filtered = allPosts.filter(post =>
+    normalize(post.title).includes(term) ||
+    normalize(post.artist).includes(term)
+  );
+  renderPosts(filtered);
+});
