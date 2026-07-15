@@ -22,6 +22,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: |
           echo "YOUTUBE_API_KEY length: ${#YOUTUBE_API_KEY}"
           echo "CLIENT_ID length: ${#CLIENT_ID}"
