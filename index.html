@@ -3,57 +3,49 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Mosaic</title>
-
+<title>Mosaic — a personalized newspaper</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@700&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;800;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <header class="masthead">
+  <div class="masthead__editionbar">
+    <span>MORNING EDITION</span>
+    <span class="dot">•</span>
+    <span>VOL. I — NO. 001</span>
+    <span class="dot">•</span>
+    <span id="today-date"></span>
+    <span class="dot">•</span>
+    <span>CIRC. 1 READER</span>
+  </div>
 
-<div class="masthead__editionbar">
-<span>MORNING EDITION</span>
-<span>•</span>
-<span>NO ADS</span>
-<span>•</span>
-<span>NO ALGORITHM</span>
-</div>
+  <div class="masthead__main">
+    <h1 class="masthead__title">MOSAIC</h1>
+    <p class="masthead__tagline">a personalized newspaper — no noise, no ads, no algorithm to answer to</p>
+    <input id="search" type="text" placeholder="Search...">
+  </div>
 
-<h1 class="masthead__title">MOSAIC</h1>
-
-<p class="masthead__tagline">
-Your personalized newspaper.
-</p>
-
-<input
-id="search"
-type="text"
-placeholder="Search..."
->
-
+  <div class="ticker">
+    <div class="ticker__track" id="ticker-track"></div>
+  </div>
 </header>
 
-<nav class="tabs">
-
-<button onclick="filterPosts('All')">All</button>
-<button onclick="filterPosts('Music')">Music</button>
-<button onclick="filterPosts('Movies')">Movies</button>
-<button onclick="filterPosts('Sports')">Sports</button>
-<button onclick="filterPosts('Books')">Books</button>
-<button onclick="filterPosts('Shopping')">Shopping</button>
-
+<nav class="tabs" aria-label="Boards">
+  <ul class="tabs__list" id="tabs-list">
+    <li><button class="tab is-active" data-cat="All">All</button></li>
+  </ul>
 </nav>
 
-<main id="feed"></main>
+<main class="board" id="feed"></main>
+
+<footer class="masthead-footer">
+  <p class="masthead-footer__title">MOSAIC</p>
+  <p>printed for one reader, refreshed whenever she feels like it.</p>
+</footer>
 
 <script src="script.js"></script>
-
 </body>
 </html>
