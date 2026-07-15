@@ -60,10 +60,11 @@ function renderPosts(posts) {
   feed.innerHTML = posts.map((post, i) => {
     const thumbClass = THUMB_CLASSES[i % THUMB_CLASSES.length];
     const rotate = i % 5 === 1 ? "pin--rotate-l" : i % 5 === 3 ? "pin--rotate-r" : "";
+    const tall = i % 3 === 0 ? " thumb--tall" : "";
 
     return `
       <article class="card card--pin pin ${rotate}" data-category="${post.category || "Music"}">
-        <div class="card__thumb ${thumbClass}" style="background-image:url('${post.image}')">
+        <div class="card__thumb ${thumbClass}${tall}" style="background-image:url('${post.image}')">
           <span class="tape${i % 2 === 0 ? "" : " tape--right"}"></span>
           <a href="${post.spotify}" target="_blank"><button class="save-btn">Open</button></a>
           <span class="source-tag">${post.source}</span>
