@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -12,11 +13,11 @@ SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
 
-ARTISTS = ["Olivia Rodrigo", "Sondae", "Beyonce", "Taylor Swift", "Tori Kelly","Ariana Grande","Olivia Dean"]
+ARTISTS = ["SZA", "Beyonce", "Taylor Swift", "Bad Bunny"]
 TICKET_ARTISTS = ["Beyonce"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
-    {"query": "Beyonce", "category": "Beyonce News", "artist": "Beyonce"},
+    {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
 ]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
@@ -163,6 +164,26 @@ def ticketmaster_events(artist_name):
 
 # ---------- Google News RSS: Zendaya fashion, Beyonce news ----------
 
+def fetch_og_image(url):
+    try:
+        response = requests.get(
+            url,
+            headers={"User-Agent": "Mozilla/5.0"},
+            timeout=5,
+            allow_redirects=True
+        )
+        match = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            response.text,
+            re.IGNORECASE
+        )
+        if match:
+            return match.group(1)
+    except Exception:
+        pass
+    return ""
+
+
 def google_news_rss(query, category, artist_name, limit=6):
     response = requests.get(
         "https://news.google.com/rss/search",
@@ -190,16 +211,38 @@ def google_news_rss(query, category, artist_name, limit=6):
         if published < CUTOFF:
             continue
 
+        image_url = fetch_og_image(link)
+
         results.append({
             "title": title,
             "artist": artist_name,
             "source": source,
             "time": published.strftime("%Y-%m-%d"),
-            "image": "",
+            "image": image_url,
             "spotify": link,
             "category": category
         })
     return results
+
+
+def daily_bible_verse():
+    response = requests.get(
+        "https://beta.ourmanna.com/api/v1/get",
+        params={"format": "json", "order": "daily"},
+        timeout=10
+    )
+    response.raise_for_status()
+    details = response.json()["verse"]["details"]
+
+    return [{
+        "title": details["text"],
+        "artist": details["reference"],
+        "source": "OurManna",
+        "time": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "image": "",
+        "spotify": details.get("verseurl", "https://ourmanna.com"),
+        "category": "Faith"
+    }]
 
 
 def main():
@@ -237,6 +280,13 @@ def main():
             all_posts.extend(found)
         except Exception as e:
             print(f"News [{topic['category']}] failed: {e}")
+
+    try:
+        found = daily_bible_verse()
+        print(f"Bible verse: {len(found)} items")
+        all_posts.extend(found)
+    except Exception as e:
+        print(f"Bible verse failed: {e}")
 
     all_posts.sort(key=lambda p: p["time"], reverse=True)
 
