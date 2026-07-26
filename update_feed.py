@@ -1,6 +1,9 @@
 import os
 import json
+import re
 import requests
+import xml.etree.ElementTree as ET
+from googlenewsdecoder import gnewsdecoder
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
@@ -10,14 +13,13 @@ YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
-NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
 ARTISTS = ["SZA", "Beyonce", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae"]
 TICKET_ARTISTS = ["Beyonce", "Coldplay"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
-    {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist":"Volleyball" }
+    {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist": "Volleyball"}
 ]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
@@ -162,42 +164,75 @@ def ticketmaster_events(artist_name):
     return results
 
 
-# ---------- NewsAPI: Zendaya fashion, movie news ----------
-# Free key from newsapi.org — gives real per-article images directly,
-# no scraping or redirect-following needed.
+# ---------- Google News RSS, with real images ----------
+# Google News RSS gives the article selection you liked. Its links are wrapped
+# redirects though, so we decode each one back to the real publisher URL first
+# (via googlenewsdecoder), then grab that real page's og:image.
 
-def newsapi_articles(query, category, artist_name, limit=6):
+def resolve_real_url(google_link):
+    try:
+        result = gnewsdecoder(google_link, interval=1)
+        if result.get("status") and result.get("decoded_url"):
+            return result["decoded_url"]
+    except Exception:
+        pass
+    return google_link
+
+
+def fetch_og_image(url):
+    try:
+        response = requests.get(
+            url, headers={"User-Agent": "Mozilla/5.0"}, timeout=6, allow_redirects=True
+        )
+        match = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            response.text,
+            re.IGNORECASE
+        )
+        if match:
+            return match.group(1)
+    except Exception:
+        pass
+    return ""
+
+
+def google_news_rss(query, category, artist_name, limit=6):
     response = requests.get(
-        "https://newsapi.org/v2/everything",
-        params={
-            "q": query,
-            "sortBy": "publishedAt",
-            "language": "en",
-            "pageSize": limit,
-            "apiKey": NEWSAPI_KEY
-        }
+        "https://news.google.com/rss/search",
+        params={"q": query, "hl": "en-US", "gl": "US", "ceid": "US:en"},
+        headers={"User-Agent": "Mozilla/5.0"}
     )
     response.raise_for_status()
-    articles = response.json().get("articles", [])
+
+    root = ET.fromstring(response.content)
+    items = root.findall("./channel/item")[:limit]
 
     results = []
-    for article in articles:
-        published_raw = article.get("publishedAt", "")
+    for item in items:
+        title = item.findtext("title", default="")
+        google_link = item.findtext("link", default="")
+        pub_date_raw = item.findtext("pubDate", default="")
+        source_el = item.find("source")
+        source = source_el.text if source_el is not None else "Google News"
+
         try:
-            published = datetime.strptime(published_raw, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+            published = datetime.strptime(pub_date_raw, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc)
         except ValueError:
             published = datetime.now(timezone.utc)
 
         if published < CUTOFF:
             continue
 
+        real_url = resolve_real_url(google_link)
+        image_url = fetch_og_image(real_url)
+
         results.append({
-            "title": article.get("title", ""),
+            "title": title,
             "artist": artist_name,
-            "source": article.get("source", {}).get("name", "News"),
+            "source": source,
             "time": published.strftime("%Y-%m-%d"),
-            "image": article.get("urlToImage") or "",
-            "spotify": article.get("url", ""),
+            "image": image_url,
+            "spotify": real_url,
             "category": category
         })
     return results
@@ -254,7 +289,7 @@ def main():
 
     for topic in NEWS_TOPICS:
         try:
-            found = newsapi_articles(topic["query"], topic["category"], topic["artist"])
+            found = google_news_rss(topic["query"], topic["category"], topic["artist"])
             print(f"News [{topic['category']}]: {len(found)} items")
             all_posts.extend(found)
         except Exception as e:
