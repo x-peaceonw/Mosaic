@@ -2,7 +2,7 @@ name: Update Mosaic Feed
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # every day at 6am UTC — change as you like
+    - cron: "0 */4 * * *"   #e as you like
   workflow_dispatch:        # lets you trigger it manually from GitHub too
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install requests python-dotenv
+      - run: pip install requests python-dotenv googlenewsdecoder,
 
       - name: Debug secret lengths (safe - no values shown)
         env:
