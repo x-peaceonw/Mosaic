@@ -9,12 +9,21 @@
     "category": "Faith"
   },
   {
-    "title": "Beyonc\u00e9 - MORNING DEW (DONK)",
+    "title": "Tahoe Nights",
+    "artist": "Rascal Flatts",
+    "source": "YouTube",
+    "time": "2026-07-09",
+    "image": "https://i.ytimg.com/vi/aHkeGMhSZXE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=aHkeGMhSZXE",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK)",
     "artist": "Beyonce",
     "source": "YouTube",
     "time": "2026-07-04",
-    "image": "https://i.ytimg.com/vi/Mv5f9Q2LJYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=Mv5f9Q2LJYM",
+    "image": "https://i.ytimg.com/vi/KuzCFXwtGCA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=KuzCFXwtGCA",
     "category": "Music"
   }
 ]
