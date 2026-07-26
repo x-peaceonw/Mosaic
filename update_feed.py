@@ -1,8 +1,6 @@
 import os
 import json
-import re
 import requests
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
@@ -12,9 +10,10 @@ YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
+NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
-ARTISTS = ["SZA", "Beyonce", "Sondae", "Olivia Dean", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Coldplay"]
-TICKET_ARTISTS = ["Beyonce", "Coldplay"]
+ARTISTS = ["SZA", "Beyonce", "Taylor Swift", "Bad Bunny"]
+TICKET_ARTISTS = ["Beyonce"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
@@ -162,67 +161,46 @@ def ticketmaster_events(artist_name):
     return results
 
 
-# ---------- Google News RSS: Zendaya fashion, Beyonce news ----------
+# ---------- NewsAPI: Zendaya fashion, movie news ----------
+# Free key from newsapi.org — gives real per-article images directly,
+# no scraping or redirect-following needed.
 
-def fetch_og_image(url):
-    try:
-        response = requests.get(
-            url,
-            headers={"User-Agent": "Mozilla/5.0"},
-            timeout=5,
-            allow_redirects=True
-        )
-        match = re.search(
-            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
-            response.text,
-            re.IGNORECASE
-        )
-        if match:
-            return match.group(1)
-    except Exception:
-        pass
-    return ""
-
-
-def google_news_rss(query, category, artist_name, limit=6):
+def newsapi_articles(query, category, artist_name, limit=6):
     response = requests.get(
-        "https://news.google.com/rss/search",
-        params={"q": query, "hl": "en-US", "gl": "US", "ceid": "US:en"},
-        headers={"User-Agent": "Mozilla/5.0"}
+        "https://newsapi.org/v2/everything",
+        params={
+            "q": query,
+            "sortBy": "publishedAt",
+            "language": "en",
+            "pageSize": limit,
+            "apiKey": NEWSAPI_KEY
+        }
     )
     response.raise_for_status()
-
-    root = ET.fromstring(response.content)
-    items = root.findall("./channel/item")[:limit]
+    articles = response.json().get("articles", [])
 
     results = []
-    for item in items:
-        title = item.findtext("title", default="")
-        link = item.findtext("link", default="")
-        pub_date_raw = item.findtext("pubDate", default="")
-        source_el = item.find("source")
-        source = source_el.text if source_el is not None else "Google News"
-
+    for article in articles:
+        published_raw = article.get("publishedAt", "")
         try:
-            published = datetime.strptime(pub_date_raw, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc)
+            published = datetime.strptime(published_raw, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
         except ValueError:
             published = datetime.now(timezone.utc)
 
         if published < CUTOFF:
             continue
 
-        image_url = fetch_og_image(link)
-
         results.append({
-            "title": title,
+            "title": article.get("title", ""),
             "artist": artist_name,
-            "source": source,
+            "source": article.get("source", {}).get("name", "News"),
             "time": published.strftime("%Y-%m-%d"),
-            "image": image_url,
-            "spotify": link,
+            "image": article.get("urlToImage") or "",
+            "spotify": article.get("url", ""),
             "category": category
         })
     return results
+
 
 
 def daily_bible_verse():
@@ -275,7 +253,7 @@ def main():
 
     for topic in NEWS_TOPICS:
         try:
-            found = google_news_rss(topic["query"], topic["category"], topic["artist"])
+            found = newsapi_articles(topic["query"], topic["category"], topic["artist"])
             print(f"News [{topic['category']}]: {len(found)} items")
             all_posts.extend(found)
         except Exception as e:
