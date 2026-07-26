@@ -81,6 +81,98 @@ function buildTabs(posts) {
   });
 }
 
+function saveButtonHTML(post) {
+  const saved = isSaved(post.spotify);
+  const label = saved ? "Saved \u2713" : "Save";
+  const cls = saved ? "save-btn is-saved" : "save-btn";
+  return `<button class="${cls}" data-url="${post.spotify}">${label}</button>`;
+}
+
+function cardMusic(post, i) {
+  const thumbClass = THUMB_CLASSES[i % THUMB_CLASSES.length];
+  const rotate = i % 5 === 1 ? "pin--rotate-l" : i % 5 === 3 ? "pin--rotate-r" : "";
+  const tall = i % 3 === 0 ? " thumb--tall" : "";
+  return `
+    <article class="card card--pin pin ${rotate}" data-category="${post.category || "Music"}">
+      <div class="card__thumb ${thumbClass}${tall}" style="background-image:url('${post.image}')">
+        <span class="tape${i % 2 === 0 ? "" : " tape--right"}"></span>
+        ${isRecent(post.time) ? '<span class="new-badge">NEW</span>' : ""}
+        ${saveButtonHTML(post)}
+        <span class="source-tag">${post.source}</span>
+      </div>
+      <h3 class="card__title"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
+      <div class="card__meta">
+        <span>${post.artist}</span>
+        <span class="card__meta-dot">\u00b7</span>
+        <span>${post.time}</span>
+      </div>
+    </article>
+  `;
+}
+
+function cardClipping(post) {
+  // magazine-clipping style, for fashion/movie news with a real image
+  return `
+    <article class="card card--pin card--clipping pin" data-category="${post.category || "News"}">
+      <div class="card__thumb" style="background-image:url('${post.image}')">
+        <span class="source-tag">${post.source}</span>
+        ${isRecent(post.time) ? '<span class="new-badge">NEW</span>' : ""}
+        ${saveButtonHTML(post)}
+      </div>
+      <p class="card__eyebrow">${post.artist}</p>
+      <h3 class="card__title"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
+      <div class="card__meta">
+        <span>${post.time}</span>
+      </div>
+    </article>
+  `;
+}
+
+function cardTicket(post) {
+  const hasImage = !!post.image;
+  return `
+    <article class="card card--ticket" data-category="${post.category || "Tickets"}">
+      ${hasImage ? `<div class="card__thumb" style="background-image:url('${post.image}')"></div>` : ""}
+      <h3 class="card__title" style="margin:14px 16px 4px;"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
+      <div class="card__meta" style="padding:0 16px 14px;">
+        <span>${post.artist}</span>
+        <span class="card__meta-dot">\u00b7</span>
+        <span>${post.time}</span>
+      </div>
+    </article>
+  `;
+}
+
+function cardQuote(post) {
+  // used for the daily Bible verse / other short-quote content
+  return `
+    <article class="card card--quote pin" data-category="${post.category || "Faith"}">
+      <p class="card__quotemark">&ldquo;</p>
+      <p class="card__quote">${post.title}</p>
+      <div class="card__meta">
+        <span>${post.artist}</span>
+        <span class="card__meta-dot">\u00b7</span>
+        <span>${post.time}</span>
+      </div>
+    </article>
+  `;
+}
+
+function cardTextOnly(post) {
+  return `
+    <article class="card card--newstext" data-category="${post.category || "News"}">
+      <p class="card__eyebrow">${post.source}</p>
+      <h3 class="card__title"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
+      <div class="card__meta">
+        <span>${post.artist}</span>
+        <span class="card__meta-dot">\u00b7</span>
+        <span>${post.time}</span>
+      </div>
+      ${saveButtonHTML(post)}
+    </article>
+  `;
+}
+
 function renderPosts(posts) {
   const feed = document.getElementById("feed");
 
@@ -90,46 +182,13 @@ function renderPosts(posts) {
   }
 
   feed.innerHTML = posts.map((post, i) => {
-    const saved = isSaved(post.spotify);
-    const saveLabel = saved ? "Saved \u2713" : "Save";
-    const saveClass = saved ? "save-btn is-saved" : "save-btn";
+    const category = post.category || "Music";
 
-    // No image -> compact text-only card instead of a big photo card
-    if (!post.image) {
-      return `
-        <article class="card card--newstext" data-category="${post.category || "Music"}">
-          <p class="card__eyebrow">${post.source}</p>
-          <h3 class="card__title"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
-          <div class="card__meta">
-            <span>${post.artist}</span>
-            <span class="card__meta-dot">\u00b7</span>
-            <span>${post.time}</span>
-          </div>
-          <button class="${saveClass}" data-url="${post.spotify}">${saveLabel}</button>
-        </article>
-      `;
-    }
-
-    const thumbClass = THUMB_CLASSES[i % THUMB_CLASSES.length];
-    const rotate = i % 5 === 1 ? "pin--rotate-l" : i % 5 === 3 ? "pin--rotate-r" : "";
-    const tall = i % 3 === 0 ? " thumb--tall" : "";
-
-    return `
-      <article class="card card--pin pin ${rotate}" data-category="${post.category || "Music"}">
-        <div class="card__thumb ${thumbClass}${tall}" style="background-image:url('${post.image}')">
-          <span class="tape${i % 2 === 0 ? "" : " tape--right"}"></span>
-          ${isRecent(post.time) ? '<span class="new-badge">NEW</span>' : ""}
-          <button class="${saveClass}" data-url="${post.spotify}">${saveLabel}</button>
-          <span class="source-tag">${post.source}</span>
-        </div>
-        <h3 class="card__title"><a href="${post.spotify}" target="_blank">${post.title}</a></h3>
-        <div class="card__meta">
-          <span>${post.artist}</span>
-          <span class="card__meta-dot">\u00b7</span>
-          <span>${post.time}</span>
-        </div>
-      </article>
-    `;
+    if (category === "Faith") return cardQuote(post);
+    if (category.toLowerCase().includes("ticket")) return cardTicket(post);
+    if (!post.image) return cardTextOnly(post);
+    if (category === "Music") return cardMusic(post, i);
+    return cardClipping(post); // Zendaya, Movies, and any other news-style category
   }).join("");
 
   feed.querySelectorAll(".save-btn").forEach(btn => {
