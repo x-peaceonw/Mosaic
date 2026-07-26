@@ -186,6 +186,41 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 .card__title { margin: 14px 16px 4px; font-family: var(--font-serif); font-weight: 600; font-size: 16px; line-height: 1.3; }
+.card__title a { color: inherit; text-decoration: none; }
+.card__title a:hover { text-decoration: underline; text-decoration-color: var(--magenta); }
+
+/* -------- news clipping card -------- */
+.card--clipping { }
+.card--clipping .card__thumb { aspect-ratio: 16 / 10; filter: saturate(0.92) contrast(1.03); }
+.card--clipping .card__thumb::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, transparent 60%, rgba(20,20,26,0.55) 100%);
+}
+.card--clipping .source-tag {
+  left: 10px; top: 10px; bottom: auto; background: var(--paper); color: var(--ink);
+  border: 1px solid var(--ink); font-weight: 700;
+}
+.card--clipping .card__title { font-family: var(--font-serif); font-weight: 700; font-size: 17px; }
+.card--clipping .card__eyebrow { margin: 12px 16px 0; }
+
+/* -------- ticket / event card -------- */
+.card--ticket {
+  background: var(--ink); color: var(--paper);
+  border: 1px dashed var(--chrome-4);
+  padding-bottom: 38px;
+}
+.card--ticket .card__thumb { aspect-ratio: 16 / 9; }
+.card--ticket .card__title { color: var(--paper); font-family: var(--font-display); font-size: 15px; font-weight: 700; }
+.card--ticket .card__title a { color: var(--paper); }
+.card--ticket .card__meta { color: var(--chrome-4); }
+.card--ticket .card__meta-dot { color: var(--chrome-3); }
+.card--ticket .save-btn { background: var(--lime); color: var(--ink); }
+.card--ticket::before {
+  content: "GET TICKETS →"; position: absolute; bottom: 0; left: 0; right: 0;
+  background: var(--magenta); color: var(--paper); text-align: center;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: 0.05em;
+  padding: 8px; z-index: 3;
+}
 
 .card--article, .card--about { padding: 20px 18px 16px; }
 .card__eyebrow { margin: 0 0 6px; font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--magenta); }
