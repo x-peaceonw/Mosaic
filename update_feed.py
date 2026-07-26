@@ -13,13 +13,15 @@ YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
+TRAVELPAYOUTS_TOKEN = os.getenv("TRAVELPAYOUTS_TOKEN")
 
 ARTISTS = ["SZA", "Beyonce", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae"]
 TICKET_ARTISTS = ["Beyonce", "Coldplay"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
-    {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist": "Volleyball"}
+    {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist": "Volleyball"},
+    {"query": "Beyonce", "category": "Beyonce News", "artist": "Beyonce"}
 ]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
@@ -53,17 +55,26 @@ def spotify_new_releases(artist_name, token):
     albums = requests.get(
         f"https://api.spotify.com/v1/artists/{artist_id}/albums",
         headers=headers,
-        params={"include_groups": "single,album", "limit": 10}
+        params={"include_groups": "single,album", "limit": 50, "market": "US"}
     )
     albums.raise_for_status()
 
-    results = []
-    for album in albums.json()["items"]:
-        release_date = album["release_date"]
+    def parse_date(d):
         try:
-            released = datetime.strptime(release_date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            return datetime.strptime(d, "%Y-%m-%d").replace(tzinfo=timezone.utc)
         except ValueError:
-            released = datetime.strptime(release_date, "%Y").replace(tzinfo=timezone.utc)
+            return datetime.strptime(d, "%Y").replace(tzinfo=timezone.utc)
+
+    all_albums = sorted(
+        albums.json()["items"],
+        key=lambda a: parse_date(a["release_date"]),
+        reverse=True
+    )
+
+    results = []
+    for album in all_albums:
+        release_date = album["release_date"]
+        released = parse_date(release_date)
         if released < CUTOFF:
             continue
         results.append({
@@ -259,6 +270,61 @@ def daily_bible_verse():
     }]
 
 
+# ---------- Cheap flights from Austin ----------
+
+def cheap_flights_from(origin="AUS", limit=8):
+    if not TRAVELPAYOUTS_TOKEN:
+        return []
+    response = requests.get(
+        "https://api.travelpayouts.com/v2/prices/latest",
+        params={
+            "origin": origin,
+            "currency": "usd",
+            "sorting": "price",
+            "trip_class": 0,
+            "limit": limit,
+            "token": TRAVELPAYOUTS_TOKEN
+        }
+    )
+    response.raise_for_status()
+    deals = response.json().get("data", [])
+
+    results = []
+    for deal in deals:
+        destination = deal.get("destination", "?")
+        price = deal.get("value", deal.get("price", "?"))
+        depart = deal.get("depart_date", "")
+        booking_link = f"https://www.aviasales.com/search/{origin}{depart.replace('-', '')[2:]}{destination}1" if depart else "https://www.aviasales.com"
+
+        results.append({
+            "title": f"{origin} \u2192 {destination} \u2014 ${price}",
+            "artist": "Cheap Flights",
+            "source": "Travelpayouts",
+            "time": depart or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "image": "",
+            "spotify": booking_link,
+            "category": "Flights"
+        })
+    return results
+
+
+# ---------- Beyonce official site featured image ----------
+
+def beyonce_site_snapshot():
+    image = fetch_og_image("https://beyonce.com")
+    if not image:
+        return []
+    return [{
+        "title": "Currently featured on beyonce.com",
+        "artist": "Beyonce",
+        "source": "beyonce.com",
+        "time": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "image": image,
+        "spotify": "https://beyonce.com",
+        "category": "Beyonce News"
+    }]
+
+
 def main():
     all_posts = []
 
@@ -301,6 +367,20 @@ def main():
         all_posts.extend(found)
     except Exception as e:
         print(f"Bible verse failed: {e}")
+
+    try:
+        found = cheap_flights_from("AUS")
+        print(f"Flights [AUS]: {len(found)} items")
+        all_posts.extend(found)
+    except Exception as e:
+        print(f"Flights failed: {e}")
+
+    try:
+        found = beyonce_site_snapshot()
+        print(f"Beyonce site snapshot: {len(found)} items")
+        all_posts.extend(found)
+    except Exception as e:
+        print(f"Beyonce site snapshot failed: {e}")
 
     all_posts.sort(key=lambda p: p["time"], reverse=True)
 
