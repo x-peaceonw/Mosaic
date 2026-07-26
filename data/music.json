@@ -1,14 +1,5 @@
 [
   {
-    "title": "Interview | My life has some kind of parallel with Peter Parker: Tom Holland - The New Indian Express",
-    "artist": "Spider-Man",
-    "source": "The New Indian Express",
-    "time": "2026-07-26",
-    "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-23%2Fsqjugth2%2FSPIDER042635.JPG?rect=0%2C0%2C967%2C508&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-    "spotify": "https://www.newindianexpress.com/entertainment/2026/Jul/26/interview-my-life-has-some-kind-of-parallel-with-peter-parker-tom-holland",
-    "category": "Movies"
-  },
-  {
     "title": "\"A new command I give you: Love one another. As I have loved you, so you must love one another.",
     "artist": "John 13:34",
     "source": "OurManna",
@@ -18,6 +9,15 @@
     "category": "Faith"
   },
   {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-07-26",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya Never Flops on the Red Carpet, These Are Her 20 Most Iconic Looks Yet - instyle.com",
     "artist": "Zendaya",
     "source": "instyle.com",
@@ -25,6 +25,24 @@
     "image": "",
     "spotify": "https://www.instyle.com/zendaya-best-outfits-of-all-time-11984329",
     "category": "Zendaya"
+  },
+  {
+    "title": "First \u2018Spider-Man: Brand New Day\u2019 Sadie Sink Video, Statement Add Confusion - Forbes",
+    "artist": "Spider-Man",
+    "source": "Forbes",
+    "time": "2026-07-25",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a64c629ab95fefa51103107/0x0.jpg?format=jpg&amp;crop=1806,1016,x0,y162,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "spotify": "https://www.forbes.com/sites/paultassi/2026/07/25/first-spider-man-brand-new-day-sadie-sink-video-statement-add-confusion/",
+    "category": "Movies"
+  },
+  {
+    "title": "Fans Noticed A TINY Detail In Zendaya\u2019s \u201cSpider-Man\u201d Dress. Now They\u2019re Scared. - AOL.com",
+    "artist": "Spider-Man",
+    "source": "AOL.com",
+    "time": "2026-07-25",
+    "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+    "spotify": "https://www.aol.com/articles/fans-noticed-tiny-detail-zendaya-213807000.html",
+    "category": "Movies"
   },
   {
     "title": "Zendaya Breaks Her All-Black 'Spider-Man' Streak In Archival Versace - W Magazine",
@@ -54,21 +72,21 @@
     "category": "Movies"
   },
   {
+    "title": "Beyonce's refreshingly honest about her postpartum recovery and what mothers everywhere go through - Motherly",
+    "artist": "Beyonce",
+    "source": "Motherly",
+    "time": "2026-07-24",
+    "image": "https://e4ukasriyd3.exactdn.com/wp-content/uploads/2018/08/beyonce-postpartum-recovery-twins-birth-featured.jpg",
+    "spotify": "https://mother.ly/news/celebrity-news/beyonce-postpartum-recovery-twins-birth/",
+    "category": "Beyonce News"
+  },
+  {
     "title": "I'm a Spider-Man expert. 7 key things to know before watching 'Brand New Day.' - Yahoo",
     "artist": "Spider-Man",
     "source": "Yahoo",
     "time": "2026-07-23",
     "image": "https://s.yimg.com/lo/mysterio/api/b87ddfc3f037a73ed2f5e8d5142ef32aa2ae0eecca85bdb226d915fc8c9c0868/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-spider-man-movies_0517.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/article/im-a-spider-man-expert-7-key-things-to-know-before-watching-brand-new-day-095816841.html",
-    "category": "Movies"
-  },
-  {
-    "title": "All the Marvel movies and Disney+ shows to watch before \u2018Spider-Man: Brand New Day\u2019 - NME",
-    "artist": "Spider-Man",
-    "source": "NME",
-    "time": "2026-07-23",
-    "image": "https://www.nme.com/wp-content/uploads/2026/03/Spider-Man-Brand-New-Day-Image.jpg",
-    "spotify": "https://www.nme.com/news/film/all-the-marvel-movies-and-disney-shows-to-watch-before-spider-man-brand-new-day-3958615",
     "category": "Movies"
   },
   {
@@ -90,6 +108,42 @@
     "category": "Movies"
   },
   {
+    "title": "New Destiny\u2019s Child Music Set to Be Released in the Next Month, Beyonc\u00e9\u2019s Father Says - The Hollywood Reporter",
+    "artist": "Beyonce",
+    "source": "The Hollywood Reporter",
+    "time": "2026-07-23",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-160973397.jpg?crop=0px%2C268px%2C5184px%2C2901px&#038;resize=1440%2C810",
+    "spotify": "https://www.hollywoodreporter.com/music/music-news/new-destinys-child-music-beyonce-mathew-knowles-1236655334/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Markus Klinko On the Iconic Beyonc\u00e9 Portrait That Defined an Era \u2013 and Now It\u2019s Taking Over Paris - Us Weekly",
+    "artist": "Beyonce",
+    "source": "Us Weekly",
+    "time": "2026-07-23",
+    "image": "https://www.usmagazine.com/wp-content/uploads/2026/07/Klinko-Beyonce-Inset.jpeg?crop=0px%2C0px%2C1550px%2C814px&#038;resize=1200%2C630&#038;quality=40&#038;strip=all",
+    "spotify": "https://www.usmagazine.com/celebrity-news/news/markus-klinkos-iconic-beyonce-portrait-takes-over-paris/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "The Secrets Behind Beyonc\u00e9's Big, Bouncy Curls - essence.com",
+    "artist": "Beyonce",
+    "source": "essence.com",
+    "time": "2026-07-22",
+    "image": "https://media.essence.com/essence_pubp/styles/card-social/2026/07/22/SnapInsta.to_750290229_18039281429807594_1176687098336025082_n-Cropped.jpg.webp?version=6a60f944e7ed2",
+    "spotify": "https://www.essence.com/hair/the-secrets-behind-beyonce-big-bouncy-curls/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Man Crashes Through Gate at Beyonc\u00e9 and Jay-Z\u2019s East Hampton Estate - 27east",
+    "artist": "Beyonce",
+    "source": "27east",
+    "time": "2026-07-22",
+    "image": "https://bloximages.chicago2.vip.townnews.com/27east.com/content/tncms/assets/v3/editorial/8/55/855541e9-62e5-4387-abee-1b012117b7b9/6a5a6dc9c9a3d.image.jpg?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "spotify": "https://www.27east.com/east-hampton-press/police-fire/police-news/article_119cec1a-ef33-4512-9c1e-e7048555617f.html",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya faces backlash for wearing ancient Iranian jewellery at Odyssey event - The Guardian",
     "artist": "Zendaya",
     "source": "The Guardian",
@@ -97,6 +151,15 @@
     "image": "https://i.guim.co.uk/img/media/fc0d2a75c06ee927a34e5edf127544a1990475c7/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf9229dddb2787ee9c32216438d64d52",
     "spotify": "https://www.theguardian.com/science/2026/jul/21/zendaya-faces-backlash-for-wearing-ancient-iranian-jewellery-at-odyssey-event",
     "category": "Zendaya"
+  },
+  {
+    "title": "Man charged with ramming gate at Beyonc\u00e9, Jay-Z's home - ABC News - Breaking News, Latest News and Videos",
+    "artist": "Beyonce",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "time": "2026-07-21",
+    "image": "https://i.abcnewsfe.com/a/2864d7b6-78be-4903-824b-5ffd3bad360b/beyonce-jayz-gty-jef-260721_1784644718094_hpMain_16x9.jpg?w=1600",
+    "spotify": "https://abcnews.com/GMA/Culture/man-charged-ramming-gate-beyonce-jay-z-home/story?id=134949317",
+    "category": "Beyonce News"
   },
   {
     "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
@@ -117,6 +180,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "Tahoe Nights",
+    "artist": "Rascal Flatts",
+    "source": "Spotify",
+    "time": "2026-07-10",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
+    "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
+    "category": "Music"
+  },
+  {
     "title": "Russian volleyball players to return to international tournaments: federation lifts restrictions - ukranews.com",
     "artist": "Volleyball",
     "source": "ukranews.com",
@@ -124,5 +196,23 @@
     "image": "",
     "spotify": "https://ukranews.com/en/news/1162175-russian-volleyball-players-to-return-to-international-tournaments-federation-lifts-restrictions",
     "category": "Sports"
+  },
+  {
+    "title": "MORNING DEW (DONK)",
+    "artist": "Beyonce",
+    "source": "Spotify",
+    "time": "2026-07-04",
+    "image": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
+    "spotify": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-07-04",
+    "image": "https://i.ytimg.com/vi/KuzCFXwtGCA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=KuzCFXwtGCA",
+    "category": "Music"
   }
 ]
