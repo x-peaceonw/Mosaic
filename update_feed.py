@@ -13,7 +13,6 @@ YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
-TRAVELPAYOUTS_TOKEN = os.getenv("TRAVELPAYOUTS_TOKEN")
 
 ARTISTS = ["SZA", "Beyonce", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae"]
 TICKET_ARTISTS = ["Beyonce", "Coldplay"]
@@ -23,6 +22,7 @@ NEWS_TOPICS = [
     {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist": "Volleyball"},
     {"query": "Beyonce", "category": "Beyonce News", "artist": "Beyonce"}
 ]
+BOOK_AUTHORS = ["Brandon Sanderson"]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
 
@@ -270,44 +270,6 @@ def daily_bible_verse():
     }]
 
 
-# ---------- Cheap flights from Austin ----------
-
-def cheap_flights_from(origin="AUS", limit=8):
-    if not TRAVELPAYOUTS_TOKEN:
-        return []
-    response = requests.get(
-        "https://api.travelpayouts.com/v2/prices/latest",
-        params={
-            "origin": origin,
-            "currency": "usd",
-            "sorting": "price",
-            "trip_class": 0,
-            "limit": limit,
-            "token": TRAVELPAYOUTS_TOKEN
-        }
-    )
-    response.raise_for_status()
-    deals = response.json().get("data", [])
-
-    results = []
-    for deal in deals:
-        destination = deal.get("destination", "?")
-        price = deal.get("value", deal.get("price", "?"))
-        depart = deal.get("depart_date", "")
-        booking_link = f"https://www.aviasales.com/search/{origin}{depart.replace('-', '')[2:]}{destination}1" if depart else "https://www.aviasales.com"
-
-        results.append({
-            "title": f"{origin} \u2192 {destination} \u2014 ${price}",
-            "artist": "Cheap Flights",
-            "source": "Travelpayouts",
-            "time": depart or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-            "image": "",
-            "spotify": booking_link,
-            "category": "Flights"
-        })
-    return results
-
-
 # ---------- Beyonce official site featured image ----------
 
 def beyonce_site_snapshot():
@@ -323,6 +285,52 @@ def beyonce_site_snapshot():
         "spotify": "https://beyonce.com",
         "category": "Beyonce News"
     }]
+
+
+# ---------- Books: new releases by tracked authors ----------
+# Google Books API, free, no key needed for this volume of use.
+
+def book_new_releases(author, limit=5):
+    response = requests.get(
+        "https://www.googleapis.com/books/v1/volumes",
+        params={
+            "q": f'inauthor:"{author}"',
+            "orderBy": "newest",
+            "maxResults": limit
+        }
+    )
+    response.raise_for_status()
+    items = response.json().get("items", [])
+
+    results = []
+    for item in items:
+        info = item.get("volumeInfo", {})
+        published_raw = info.get("publishedDate", "")
+        try:
+            if len(published_raw) == 4:
+                published = datetime.strptime(published_raw, "%Y").replace(tzinfo=timezone.utc)
+            elif len(published_raw) == 7:
+                published = datetime.strptime(published_raw, "%Y-%m").replace(tzinfo=timezone.utc)
+            else:
+                published = datetime.strptime(published_raw, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+
+        if published < CUTOFF:
+            continue
+
+        image_links = info.get("imageLinks", {})
+
+        results.append({
+            "title": info.get("title", "Untitled"),
+            "artist": author,
+            "source": "Google Books",
+            "time": published.strftime("%Y-%m-%d"),
+            "image": image_links.get("thumbnail", "").replace("http://", "https://"),
+            "spotify": info.get("infoLink", "https://books.google.com"),
+            "category": "Books"
+        })
+    return results
 
 
 def main():
@@ -369,18 +377,19 @@ def main():
         print(f"Bible verse failed: {e}")
 
     try:
-        found = cheap_flights_from("AUS")
-        print(f"Flights [AUS]: {len(found)} items")
-        all_posts.extend(found)
-    except Exception as e:
-        print(f"Flights failed: {e}")
-
-    try:
         found = beyonce_site_snapshot()
         print(f"Beyonce site snapshot: {len(found)} items")
         all_posts.extend(found)
     except Exception as e:
         print(f"Beyonce site snapshot failed: {e}")
+
+    for author in BOOK_AUTHORS:
+        try:
+            found = book_new_releases(author)
+            print(f"Books [{author}]: {len(found)} items")
+            all_posts.extend(found)
+        except Exception as e:
+            print(f"Books [{author}] failed: {e}")
 
     all_posts.sort(key=lambda p: p["time"], reverse=True)
 
