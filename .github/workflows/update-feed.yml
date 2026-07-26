@@ -25,16 +25,19 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: |
           echo "YOUTUBE_API_KEY length: ${#YOUTUBE_API_KEY}"
           echo "CLIENT_ID length: ${#CLIENT_ID}"
           echo "CLIENT_SECRET length: ${#CLIENT_SECRET}"
+          echo "NEWSAPI_KEY length: ${#NEWSAPI_KEY}"
 
       - name: Fetch new releases
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python update_feed.py
 
       - name: Commit updated feed
