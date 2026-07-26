@@ -12,11 +12,12 @@ SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
-ARTISTS = ["SZA", "Beyonce", "Taylor Swift", "Bad Bunny"]
-TICKET_ARTISTS = ["Beyonce"]
+ARTISTS = ["SZA", "Beyonce", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae"]
+TICKET_ARTISTS = ["Beyonce", "Coldplay"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
+    {"query": "Olympic Volleyball or Volleyball Nations League or Fédération Internationale de Volleyball", "category": "Sports", "artist":"Volleyball" }
 ]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=30)
