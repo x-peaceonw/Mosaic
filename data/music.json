@@ -1,11 +1,38 @@
 [
   {
-    "title": "Spider-Man: Brand New Day Snack Bags, Release, And Promo - Yahoo",
+    "title": "Tracee Ellis Ross Recounts Diana Ross Surprising Beyonc\u00e9 at Her Concert - Bravo",
+    "artist": "Beyonce",
+    "source": "Bravo",
+    "time": "2026-07-27",
+    "image": "https://www.bravotv.com/sites/bravo/files/media_mpx/thumbnails/bravo-video.nbcuni.com/image/NBCU_Bravo/278/883/as.jpg",
+    "spotify": "https://www.bravotv.com/watch-what-happens-live-with-andy-cohen/season-23/episode-123/videos/tracee-ellis-ross-recounts",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble.",
+    "artist": "1 Peter 3:8",
+    "source": "OurManna",
+    "time": "2026-07-27",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-07-27",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Spider-Man's Tom Holland Led A Box Office Flop Based On A Beloved Sci-Fi Book Series - SlashFilm",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "SlashFilm",
     "time": "2026-07-26",
-    "image": "https://s.yimg.com/lo/mysterio/api/7e96ca4895eda78da1acf1147df4937cee08a687ba034dda717a6c970408e213/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F2c46933bfc3945288491944f4a9ffd86",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-snack-202448153.html",
+    "image": "https://www.slashfilm.com/img/gallery/spider-mans-tom-holland-led-a-box-office-flop-based-on-a-beloved-sci-fi-book-series/l-intro-1784840867.jpg",
+    "spotify": "https://www.slashfilm.com/2222194/spider-man-tom-holland-sci-fi-box-office-flop-chaos-walking/",
     "category": "Movies"
   },
   {
@@ -36,21 +63,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "\"A new command I give you: Love one another. As I have loved you, so you must love one another.",
-    "artist": "John 13:34",
-    "source": "OurManna",
+    "title": "Destiny\u2019s Child to release new music \u2018in the next 30 days,\u2019 Beyonc\u00e9\u2019s dad says - FOX 8 News",
+    "artist": "Beyonce",
+    "source": "FOX 8 News",
     "time": "2026-07-26",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-07-26",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "spotify": "https://fox8.com/news/destinys-child-to-release-new-music-in-the-next-30-days-beyonces-dad-says/",
     "category": "Beyonce News"
   },
   {
@@ -90,21 +108,21 @@
     "category": "Movies"
   },
   {
-    "title": "Zendaya's Micro-Bangs for Spider-Man Premiere May Be Her Edgiest Hairstyle Yet - E! News",
-    "artist": "Zendaya",
-    "source": "E! News",
-    "time": "2026-07-24",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260724/09f176d2-a84f-4925-b252-1b56459d261c_1784912053.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "spotify": "https://www.eonline.com/news/1434315/zendaya-debuts-micro-bangs-at-spider-man-brand-new-day-premiere",
-    "category": "Zendaya"
-  },
-  {
     "title": "Zendaya Breaks Her All-Black 'Spider-Man' Streak In Archival Versace - W Magazine",
     "artist": "Zendaya",
     "source": "W Magazine",
     "time": "2026-07-24",
     "image": "https://imgix.bustle.com/uploads/image/2026/7/24/3e06a29d/shanghai-china-july-24.jpeg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.5456&amp;fp-y=0.3058",
     "spotify": "https://www.wmagazine.com/fashion/zendaya-spider-man-versace-archival-dress",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya's Micro-Bangs for Spider-Man Premiere May Be Her Edgiest Hairstyle Yet - E! News",
+    "artist": "Zendaya",
+    "source": "E! News",
+    "time": "2026-07-24",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260724/09f176d2-a84f-4925-b252-1b56459d261c_1784912053.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "spotify": "https://www.eonline.com/news/1434315/zendaya-debuts-micro-bangs-at-spider-man-brand-new-day-premiere",
     "category": "Zendaya"
   },
   {
@@ -117,13 +135,13 @@
     "category": "Movies"
   },
   {
-    "title": "New Destiny\u2019s Child Music Set to Be Released in the Next Month, Beyonc\u00e9\u2019s Father Says - The Hollywood Reporter",
-    "artist": "Beyonce",
-    "source": "The Hollywood Reporter",
+    "title": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to \u2018Odyssey\u2019 Event - The New York Times",
+    "artist": "Zendaya",
+    "source": "The New York Times",
     "time": "2026-07-23",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-160973397.jpg?crop=0px%2C268px%2C5184px%2C2901px&#038;resize=1440%2C810",
-    "spotify": "https://www.hollywoodreporter.com/music/music-news/new-destinys-child-music-beyonce-mathew-knowles-1236655334/",
-    "category": "Beyonce News"
+    "image": "",
+    "spotify": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
+    "category": "Zendaya"
   },
   {
     "title": "Mathew Knowles Teases Previously Unheard Destiny\u2019s Child Remixes Coming in the Next Month with Special Guests - People.com",
@@ -135,21 +153,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Destiny\u2019s Child to release new music \u2018in the next 30 days\u2019, Beyonc\u00e9\u2019s dad says - KTLA",
+    "title": "New Destiny\u2019s Child Music Set to Be Released in the Next Month, Beyonc\u00e9\u2019s Father Says - The Hollywood Reporter",
     "artist": "Beyonce",
-    "source": "KTLA",
+    "source": "The Hollywood Reporter",
     "time": "2026-07-23",
-    "image": "",
-    "spotify": "https://ktla.com/entertainment/destinys-child-to-release-new-music-in-the-next-30-days-beyonces-dad-says/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Mathew Knowles Says a Bunch of Destiny\u2019s Child Remixes Are Coming - VIBE.com",
-    "artist": "Beyonce",
-    "source": "VIBE.com",
-    "time": "2026-07-23",
-    "image": "https://www.vibe.com/wp-content/uploads/2026/07/GettyImages-53169702-e1784845765443.jpg?w=1024",
-    "spotify": "https://www.vibe.com/music/music-news/mathew-knowles-destinys-child-remixes-are-coming-1235180811/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-160973397.jpg?crop=0px%2C268px%2C5184px%2C2901px&#038;resize=1440%2C810",
+    "spotify": "https://www.hollywoodreporter.com/music/music-news/new-destinys-child-music-beyonce-mathew-knowles-1236655334/",
     "category": "Beyonce News"
   },
   {
@@ -196,15 +205,6 @@
     "image": "",
     "spotify": "https://ukranews.com/en/news/1162175-russian-volleyball-players-to-return-to-international-tournaments-federation-lifts-restrictions",
     "category": "Sports"
-  },
-  {
-    "title": "\u201cFlew Too Close To The Sun\u201d: People Are Super Divided Over Zendaya\u2019s Latest Look, And You\u2019ll Get It When You See It - BuzzFeed",
-    "artist": "Zendaya",
-    "source": "BuzzFeed",
-    "time": "2026-07-08",
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/08/17/thumb/li-jfLVPQ.jpg?crop=1250:654;0,16%26downsize=1250:*",
-    "spotify": "https://www.buzzfeed.com/natashajokic1/zendaya-odyssey-red-carpet",
-    "category": "Zendaya"
   },
   {
     "title": "MORNING DEW (DONK)",
