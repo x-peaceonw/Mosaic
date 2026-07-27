@@ -9,12 +9,39 @@
     "category": "Zendaya"
   },
   {
-    "title": "Tracee Ellis Ross Recounts Diana Ross Surprising Beyonc\u00e9 at Her Concert - Bravo",
-    "artist": "Beyonce",
-    "source": "Bravo",
+    "title": "Who's the best Spider-Man ever? I've seen all of the movies and here is my definitive answer - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
     "time": "2026-07-27",
-    "image": "https://www.bravotv.com/sites/bravo/files/media_mpx/thumbnails/bravo-video.nbcuni.com/image/NBCU_Bravo/278/883/as.jpg",
-    "spotify": "https://www.bravotv.com/watch-what-happens-live-with-andy-cohen/season-23/episode-123/videos/tracee-ellis-ross-recounts",
+    "image": "https://s.yimg.com/lo/mysterio/api/1942c5ba408bd45ee165e611f1cdcd0e7da1690934975b9d1449af6291307642/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_guide_826%2Fdaa744bd0ae0668e95b2bb83622079c1",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/whos-best-spider-man-ever-090000431.html",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' advance booking: Tom Holland starrer crosses Rs 25 crore in pre-sales in Indi - The Times of India",
+    "artist": "Spider-Man",
+    "source": "The Times of India",
+    "time": "2026-07-27",
+    "image": "https://static.toiimg.com/thumb/msid-132654655,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-advance-booking-tom-holland-starrer-crosses-rs-25-crore-in-pre-sales-in-india-reports/articleshow/132652079.cms",
+    "category": "Movies"
+  },
+  {
+    "title": "PNVF BOARD TO START FROM SCRATCH The Philippine National Volleyball Federation (PNVF) is expected to start fresh after all of its board members \u201cagreed to resign,\u201d the Philippine Olympic Committee announced. Full story in the link in the comments se - facebook.com",
+    "artist": "Volleyball",
+    "source": "facebook.com",
+    "time": "2026-07-27",
+    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/758964300_2761861614216563_3608074089034071056_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3JF8jM4hfp4Q7kNvwGn6Y3M&amp;_nc_oc=Adp0wzzmGHAkexbW6y0fVoVUI0qFsqN8493WMNrL1lvlUK16CFbNN8s90lwRx9NFY3Y&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=PdvmHSEWYCiJF2LNX79c4w&amp;_nc_ss=7e20f&amp;oh=00_AQBYLuCpG6w5jmMTUpqgybPsIpCJ5FpFZvCrYNORkyUoRQ&amp;oe=6A6D2805",
+    "spotify": "https://www.facebook.com/abscbnNEWS/posts/pnvf-board-to-start-from-scratchthe-philippine-national-volleyball-federation-pn/1611763317665585/",
+    "category": "Sports"
+  },
+  {
+    "title": "Blue Ivy spitting image of mum Beyonce - News.com.au",
+    "artist": "Beyonce",
+    "source": "News.com.au",
+    "time": "2026-07-27",
+    "image": "",
+    "spotify": "https://www.news.com.au/entertainment/celebrity-life/blue-ivy-looks-the-spitting-image-of-beyonce-while-enjoying-a-concert-with-her-parents/news-story/becf126b5a492f2a6856d1c1a4a2d57e",
     "category": "Beyonce News"
   },
   {
@@ -45,21 +72,21 @@
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day Is Out Next Week \u2014 Here Are 7 Comics You Should Read To Get Ready - empireonline.com",
-    "artist": "Spider-Man",
-    "source": "empireonline.com",
-    "time": "2026-07-26",
-    "image": "https://images.bauerhosting.com/empire/2026/07/Brand-New-Day-Comics.png?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
-    "spotify": "https://www.empireonline.com/movies/features/7-comics-you-need-to-read-before-spider-man-brand-new-day-hits-cinemas/",
-    "category": "Movies"
-  },
-  {
     "title": "Spider-Man's Tom Holland Led A Box Office Flop Based On A Beloved Sci-Fi Book Series - SlashFilm",
     "artist": "Spider-Man",
     "source": "SlashFilm",
     "time": "2026-07-26",
     "image": "https://www.slashfilm.com/img/gallery/spider-mans-tom-holland-led-a-box-office-flop-based-on-a-beloved-sci-fi-book-series/l-intro-1784840867.jpg",
     "spotify": "https://www.slashfilm.com/2222194/spider-man-tom-holland-sci-fi-box-office-flop-chaos-walking/",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Is Out This Week \u2014 Here Are 7 Comics You Should Read To Get Ready - empireonline.com",
+    "artist": "Spider-Man",
+    "source": "empireonline.com",
+    "time": "2026-07-26",
+    "image": "https://images.bauerhosting.com/empire/2026/07/Brand-New-Day-Comics.png?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
+    "spotify": "https://www.empireonline.com/movies/features/7-comics-you-need-to-read-before-spider-man-brand-new-day-hits-cinemas/",
     "category": "Movies"
   },
   {
@@ -90,6 +117,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Jay-Z and Beyonc\u00e9 Boogie Down at Lauryn Hill's Concert in The Hamptons: Video - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-07-26",
+    "image": "https://s.yimg.com/lo/mysterio/api/e980d889a25bf805447c1c2a77cea6bcc96c044b2ebd568649123c820bb9e394/lightyear_networkapi/resizefill_w420_h315;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftmz_articles_672%2Fd348d3242df6a42022e8b62cccb8d0c7",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/jay-z-beyonc-boogie-down-141546607.html",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya Never Flops on the Red Carpet, These Are Her 20 Most Iconic Looks Yet - instyle.com",
     "artist": "Zendaya",
     "source": "instyle.com",
@@ -97,15 +133,6 @@
     "image": "",
     "spotify": "https://www.instyle.com/zendaya-best-outfits-of-all-time-11984329",
     "category": "Zendaya"
-  },
-  {
-    "title": "The Marvel movies and shows to watch before Spider-Man: Brand New Day - GamesRadar+",
-    "artist": "Spider-Man",
-    "source": "GamesRadar+",
-    "time": "2026-07-25",
-    "image": "https://cdn.mos.cms.futurecdn.net/sfd9Wrubbw3aE6pLt5oGrY-1920-80.jpg",
-    "spotify": "https://www.gamesradar.com/entertainment/marvel-movies/the-marvel-movies-and-shows-to-watch-before-spider-man-brand-new-day/",
-    "category": "Movies"
   },
   {
     "title": "First \u2018Spider-Man: Brand New Day\u2019 Sadie Sink Video, Statement Add Confusion - Forbes",
@@ -126,13 +153,13 @@
     "category": "Zendaya"
   },
   {
-    "title": "Sadie Sink joins 'Spider-Man: Brand New Day' in role Marvel refuses to reveal - Ynetnews",
-    "artist": "Spider-Man",
-    "source": "Ynetnews",
+    "title": "Destiny\u2019s Child remixes are coming, Beyonc\u00e9\u2019s dad says - ew.com",
+    "artist": "Beyonce",
+    "source": "ew.com",
     "time": "2026-07-24",
-    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/01/22/rJEjyjboio/rJEjyjboio_0_0_3000_1689_0_large.jpg",
-    "spotify": "https://www.ynetnews.com/culture/article/bjnquj3vfe",
-    "category": "Movies"
+    "image": "",
+    "spotify": "https://ew.com/destinys-child-remixes-are-coming-beyonces-dad-says-12026055",
+    "category": "Beyonce News"
   },
   {
     "title": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to \u2018Odyssey\u2019 Event - The New York Times",
@@ -142,24 +169,6 @@
     "image": "",
     "spotify": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
     "category": "Zendaya"
-  },
-  {
-    "title": "Mathew Knowles Teases Previously Unheard Destiny\u2019s Child Remixes Coming in the Next Month with Special Guests - People.com",
-    "artist": "Beyonce",
-    "source": "People.com",
-    "time": "2026-07-23",
-    "image": "",
-    "spotify": "https://people.com/mathew-knowles-teases-previously-unheard-destinys-child-remixes-coming-soon-12025426",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "New Destiny\u2019s Child Music Set to Be Released in the Next Month, Beyonc\u00e9\u2019s Father Says - The Hollywood Reporter",
-    "artist": "Beyonce",
-    "source": "The Hollywood Reporter",
-    "time": "2026-07-23",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-160973397.jpg?crop=0px%2C268px%2C5184px%2C2901px&#038;resize=1440%2C810",
-    "spotify": "https://www.hollywoodreporter.com/music/music-news/new-destinys-child-music-beyonce-mathew-knowles-1236655334/",
-    "category": "Beyonce News"
   },
   {
     "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
@@ -186,15 +195,6 @@
     "time": "2026-07-10",
     "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
     "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
-    "category": "Music"
-  },
-  {
-    "title": "Tahoe Nights",
-    "artist": "Rascal Flatts",
-    "source": "YouTube",
-    "time": "2026-07-09",
-    "image": "https://i.ytimg.com/vi/aHkeGMhSZXE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=aHkeGMhSZXE",
     "category": "Music"
   },
   {
