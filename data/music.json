@@ -1,5 +1,41 @@
 [
   {
+    "title": "Zendaya Stuns \u2018Spider-Man: Brand New Day\u2019 Premiere in \u2018Abstract\u2019 Spider-Inspired Look: \u2018It\u2019s Like This Metamorphosis\u2019 - Variety",
+    "artist": "Zendaya",
+    "source": "Variety",
+    "time": "2026-07-28",
+    "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2287920235.jpg?crop=0px%2C137px%2C5192px%2C2920px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/news/zendaya-spider-man-brand-new-day-premiere-dress-law-roach-1236822294/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya steals the show in daring thigh-skimming gown at star-studded premiere - HELLO! Magazine",
+    "artist": "Zendaya",
+    "source": "HELLO! Magazine",
+    "time": "2026-07-28",
+    "image": "https://images.hellomagazine.com/horizon/landscape/4980972a7a60-gettyimages-2287921211.jpg?tx=c_fill,w_1200",
+    "spotify": "https://www.hellomagazine.com/us/915082/zendaya-steals-the-show-in-daring-thigh-skimming-gown-at-star-studded-premiere/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 First Reactions: Tom Holland Has \u2018Never Been Better\u2019 in a Sequel That Ditches \u2018Multiverse Tedium\u2019 and Delivers a \u2018Grounded Spider-Man Tale\u2019 - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-07-28",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP138-e1785154645459.jpg?crop=0px%2C0px%2C1955px%2C1100px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236821722/",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man Brand New Day Director on Why Peter Parker's Loneliest Chapter Is Also His Most Street-Level Yet (EXCLUSIVE) - IGN India",
+    "artist": "Spider-Man",
+    "source": "IGN India",
+    "time": "2026-07-28",
+    "image": "https://sm.ign.com/t/ign_in/news/n/new-spider/new-spider-man-filming-spotted-in-london_6ncj.1200.jpg",
+    "spotify": "https://in.ign.com/spider-man-brand-new-day/267274/spider-man-brand-new-day-director-on-why-peter-parkers-loneliest-chapter-is-also-his-most-street-lev",
+    "category": "Movies"
+  },
+  {
     "title": "Column | This designer has made gowns for Beyonc\u00e9 and Bj\u00f6rk. She needed my help. - The Washington Post",
     "artist": "Beyonce",
     "source": "The Washington Post",
@@ -25,42 +61,6 @@
     "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
     "spotify": "https://beyonce.com",
     "category": "Beyonce News"
-  },
-  {
-    "title": "\u2018The Odyssey\u2019 Star Charlize Theron Can\u2019t Praise Zendaya\u2019s Outfit Choices Enough - IMDb",
-    "artist": "Zendaya",
-    "source": "IMDb",
-    "time": "2026-07-27",
-    "image": "",
-    "spotify": "https://www.imdb.com/news/ni65946123/?ref_=nm_nwr_2",
-    "category": "Zendaya"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Tracking To Have Biggest Opening Of 2026 - Forbes",
-    "artist": "Spider-Man",
-    "source": "Forbes",
-    "time": "2026-07-27",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a67b7a8f885ea61e1f94b61/0x0.jpg?format=jpg&amp;crop=1272,715,x49,y0,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
-    "spotify": "https://www.forbes.com/sites/timlammers/2026/07/27/spider-man-brand-new-day-tracking-to-have-biggest-opening-of-2026/",
-    "category": "Movies"
-  },
-  {
-    "title": "You Never Got To See The Worst Spider-Man Movie Ever - SlashFilm",
-    "artist": "Spider-Man",
-    "source": "SlashFilm",
-    "time": "2026-07-27",
-    "image": "https://www.slashfilm.com/img/gallery/you-never-got-to-see-the-worst-spider-man-movie-ever/l-intro-1783608370.jpg",
-    "spotify": "https://www.slashfilm.com/2211417/spider-man-unmade-movies-cannon/",
-    "category": "Movies"
-  },
-  {
-    "title": "Tom Holland's Spider-Man is back this week. How 'Brand New Day' fits in the MCU timeline. - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-07-27",
-    "image": "https://s.yimg.com/lo/mysterio/api/9005a4fb091f55a749c53cb441f1a6fca342770881fa30a61c8ef9f777b3aa44/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-spiderman-new-day_4672.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/tom-hollands-spider-man-is-back-this-week-how-brand-new-day-fits-in-the-mcu-timeline-095258114.html",
-    "category": "Movies"
   },
   {
     "title": "Tom Holland: Some of my films are so bad you shouldn\u2019t watch them - The Times",
@@ -94,7 +94,7 @@
     "artist": "Volleyball",
     "source": "facebook.com",
     "time": "2026-07-27",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/758964300_2761861614216563_3608074089034071056_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3JF8jM4hfp4Q7kNvwFqHqeT&amp;_nc_oc=AdooLmymwBAXJvqogGLimvB6Aeeu-BWB9TIZ4EJQfhq2SFHWijVuv4eak69j_9YgIfA&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=sUI8lofLzCJzsthj8etqIw&amp;_nc_ss=7e20f&amp;oh=00_AQCmKQMNjzW5-XW452CU1Qgjp8eJ-NmV-dEspZ1w3mkzhg&amp;oe=6A6E0905",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/758964300_2761861614216563_3608074089034071056_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3JF8jM4hfp4Q7kNvwHemTZS&amp;_nc_oc=AdofUy--YkgV4Cqf4M0-xVhWyghzP9Q5Tk5jkLyzljYXFzGUELaphVe05eLVpFRbj4M&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=c2nq9x1WiPLLrLX6FisNGQ&amp;_nc_ss=7e20f&amp;oh=00_AQBxNSZEs6E5TfSV2_pyOYvalZXGeBkDPV-xqdcz2sMGRg&amp;oe=6A6E0905",
     "spotify": "https://www.facebook.com/abscbnNEWS/posts/pnvf-board-to-start-from-scratchthe-philippine-national-volleyball-federation-pn/1611763317665585/",
     "category": "Sports"
   },
@@ -124,6 +124,15 @@
     "image": "",
     "spotify": "https://www.news.com.au/entertainment/celebrity-life/blue-ivy-looks-the-spitting-image-of-beyonce-while-enjoying-a-concert-with-her-parents/news-story/becf126b5a492f2a6856d1c1a4a2d57e",
     "category": "Beyonce News"
+  },
+  {
+    "title": "Spider-Man's Tom Holland Led A Box Office Flop Based On A Beloved Sci-Fi Book Series - SlashFilm",
+    "artist": "Spider-Man",
+    "source": "SlashFilm",
+    "time": "2026-07-26",
+    "image": "https://www.slashfilm.com/img/gallery/spider-mans-tom-holland-led-a-box-office-flop-based-on-a-beloved-sci-fi-book-series/l-intro-1784840867.jpg",
+    "spotify": "https://www.slashfilm.com/2222194/spider-man-tom-holland-sci-fi-box-office-flop-chaos-walking/",
+    "category": "Movies"
   },
   {
     "title": "Jay-Z and Beyonc\u00e9 Boogie Down at Lauryn Hill's Concert in The Hamptons: Video - Yahoo",
@@ -159,15 +168,6 @@
     "time": "2026-07-24",
     "image": "https://imgix.bustle.com/uploads/image/2026/7/24/3e06a29d/shanghai-china-july-24.jpeg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.5456&amp;fp-y=0.3058",
     "spotify": "https://www.wmagazine.com/fashion/zendaya-spider-man-versace-archival-dress",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya's Micro-Bangs for Spider-Man Premiere May Be Her Edgiest Hairstyle Yet - E! News",
-    "artist": "Zendaya",
-    "source": "E! News",
-    "time": "2026-07-24",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260724/09f176d2-a84f-4925-b252-1b56459d261c_1784912053.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "spotify": "https://www.eonline.com/news/1434315/zendaya-debuts-micro-bangs-at-spider-man-brand-new-day-premiere",
     "category": "Zendaya"
   },
   {
