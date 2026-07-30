@@ -1,5 +1,14 @@
 [
   {
+    "title": "Florence Pugh and Zendaya Couture Co-Ord at the \u2018Spider-Man\u2019 London Premiere - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-07-30",
+    "image": "https://assets.vogue.com/photos/6a6b2366f6761eb31e44322a/16:9/w_1280,c_limit/2288201342",
+    "spotify": "https://www.vogue.com/article/florence-pugh-and-zendaya-couture-coordinate-spider-man-london",
+    "category": "Zendaya"
+  },
+  {
     "title": "Zendaya And Tom Holland Embrace Husband-And-Wife Style For Their \u2018Spider-Man\u2019 Tour - British Vogue",
     "artist": "Zendaya",
     "source": "British Vogue",
@@ -9,9 +18,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "See Zendaya's Full Style Evolution - whowhatwear.com",
+    "title": "See Zendaya's Full Style Evolution - Who What Wear",
     "artist": "Zendaya",
-    "source": "whowhatwear.com",
+    "source": "Who What Wear",
     "time": "2026-07-30",
     "image": "https://cdn.mos.cms.futurecdn.net/Fk3aVzV3M8HENQxVkGRQab-1200-80.png",
     "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
@@ -27,12 +36,48 @@
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Aims to Make Box Office History as It Targets High-Flying Opening - The Hollywood Reporter",
+    "title": "Zendaya's Latest 'Spider-Man' Look Comes From the Comics (and Fashion History) - W Magazine",
+    "artist": "Zendaya",
+    "source": "W Magazine",
+    "time": "2026-07-30",
+    "image": "https://imgix.bustle.com/uploads/image/2026/7/30/93465b04/zendaya-laquan-smith.jpeg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.5&amp;fp-y=0.1222",
+    "spotify": "https://www.wmagazine.com/fashion/zendaya-spider-man-laquan-smith-willi-smith",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Spider-Man: The Last Blockbuster Franchise Nobody\u2019s Managed to Screw Up - The Hollywood Reporter",
     "artist": "Spider-Man",
     "source": "The Hollywood Reporter",
     "time": "2026-07-30",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-11508_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-tom-holland-1236659734/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/MCDSPMA_SP146-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-ranked-1236660008/",
+    "category": "Movies"
+  },
+  {
+    "title": "Viral Arkansas 'Spider-Man' invited to movie premiere after helping man using wheelchair cross busy street - 10TV",
+    "artist": "Spider-Man",
+    "source": "10TV",
+    "time": "2026-07-30",
+    "image": "",
+    "spotify": "https://www.10tv.com/article/news/nation-world/spider-man-arkansas-man-invited-premiere-after-viral-video-helping-man-wheelchair-cross/507-d5833b89-c436-4fb0-bb84-e4ae71aa2207",
+    "category": "Movies"
+  },
+  {
+    "title": "The Hit Show That Pulls in Fans to Spend Billions of Hours Watching Spider-Man - WSJ",
+    "artist": "Spider-Man",
+    "source": "WSJ",
+    "time": "2026-07-30",
+    "image": "",
+    "spotify": "https://www.wsj.com/business/media/spider-man-spidey-and-friends-marvel-sony-e6574858",
+    "category": "Movies"
+  },
+  {
+    "title": "Sony Planned to Integrate Spider-Man Into Its Marvel Villain Spin-Offs, Says Tom Holland - IGN",
+    "artist": "Spider-Man",
+    "source": "IGN",
+    "time": "2026-07-30",
+    "image": "https://assets-prd.ignimgs.com/2026/06/17/spiderthumb-1781723266727.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+    "spotify": "https://www.ign.com/articles/sony-planned-to-integrate-spider-man-into-its-marvel-villain-spin-offs-says-tom-holland",
     "category": "Movies"
   },
   {
@@ -45,13 +90,22 @@
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day confirms that the MCU has a new Black Widow - Yahoo",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Ties An MCU Rotten Tomatoes Review Score Record - Forbes",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "Forbes",
     "time": "2026-07-30",
-    "image": "https://s.yimg.com/lo/mysterio/api/25e007feeaa73fd71454952d80ab4945deb9bbf2b57096005219408a39db4ac1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2F56caf209f42d0330dbb6d2c4e5db9b59",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-confirms-120539891.html",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a315ce7a71905f2bf280ba0/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "spotify": "https://www.forbes.com/sites/paultassi/2026/07/30/spider-man-brand-new-day-ties-an-mcu-rotten-tomatoes-review-score-record/",
     "category": "Movies"
+  },
+  {
+    "title": "Beyonce and Jay Z sway to Lauryn Hill acoustic set in the Hamptons - New York Daily News",
+    "artist": "Beyonce",
+    "source": "New York Daily News",
+    "time": "2026-07-30",
+    "image": "https://www.nydailynews.com/wp-content/uploads/2026/07/GettyImages-2274800228.jpg?w=4124&#038;h=2580",
+    "spotify": "https://www.nydailynews.com/2026/07/30/beyonce-jay-z-lauryn-hill-hamptons/",
+    "category": "Beyonce News"
   },
   {
     "title": "Beyonc\u00e9 Uses This Coloring Strategy for Her Blonde and the Reason It Works on Her Isn't What You Think - graziamagazine.com",
@@ -81,15 +135,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya and Tom Holland\u2019s \u2018Spider-Man\u2019 Tour Is All About Couple Style - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-07-29",
-    "image": "https://assets.vogue.com/photos/6a6a651830ea63dfbefbdd69/16:9/w_1280,c_limit/GettyImages-2288194473%20(1).jpg",
-    "spotify": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
-    "category": "Zendaya"
-  },
-  {
     "title": "Zendaya Is a \u2018Jewel in Motion\u2019 in Tamara Ralph Couture - WWD",
     "artist": "Zendaya",
     "source": "WWD",
@@ -97,42 +142,6 @@
     "image": "https://wwd.com/wp-content/uploads/2026/07/zendaya-new-fi.jpg?w=1000&#038;h=563&#038;crop=1",
     "spotify": "https://wwd.com/pop-culture/celebrity-news/zendaya-tamara-ralph-couture-spider-man-london-premiere-1239087123/",
     "category": "Zendaya"
-  },
-  {
-    "title": "How Zendaya pulled off an epic red carpet summer - USA Today",
-    "artist": "Zendaya",
-    "source": "USA Today",
-    "time": "2026-07-29",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/style/2026/07/28/zendaya-spider-man-odyssey-press-tour-looks-fashion-style/90947909007/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya on working with Tom Holland in Spider-Man: \u2018When you\u2019re best friends it\u2019s easy\u2019 - BBC",
-    "artist": "Spider-Man",
-    "source": "BBC",
-    "time": "2026-07-29",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7d57/live/a947dab0-8beb-11f1-b2ab-0dd01740f9f6.jpg",
-    "spotify": "https://www.bbc.com/news/articles/c0km3d2j6mko",
-    "category": "Movies"
-  },
-  {
-    "title": "Jonesboro\u2019s \u2018Spider-Man\u2019 invited to Hollywood movie premiere - K8 News | Jonesboro, Arkansas",
-    "artist": "Spider-Man",
-    "source": "K8 News | Jonesboro, Arkansas",
-    "time": "2026-07-29",
-    "image": "https://gray-kait-prod.gtv-cdn.com/resizer/v2/JT26YT73RVFWVMRS4XRLBFABLU.png?auth=91443e2fb18c19c83e00336156f7452e02c50f137a539237edc6e60d67159635&amp;width=1200&amp;height=600&amp;smart=true",
-    "spotify": "https://www.kait8.com/2026/07/29/jonesboros-spider-man-invited-hollywood-movie-premiere/",
-    "category": "Movies"
-  },
-  {
-    "title": "Zendaya wanted an \u2018MJ pass\u2019 of the Spider-Man: Brand New Day script: \u2018Where did all her weirdness go?\u2019 - Entertainment Weekly",
-    "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
-    "time": "2026-07-29",
-    "image": "",
-    "spotify": "https://ew.com/zendaya-mj-pass-spider-man-brand-new-day-script-12028408",
-    "category": "Movies"
   },
   {
     "title": "Beyonc\u00e9 Becomes Sole Owner Of SirDavis American Whisky - AfroTech",
@@ -153,30 +162,21 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 takes ownership of SirDavis American Whisky - thespiritsbusiness.com",
+    "title": "Beyonc\u00e9 takes ownership of SirDavis American Whisky - The Spirits Business",
     "artist": "Beyonce",
-    "source": "thespiritsbusiness.com",
+    "source": "The Spirits Business",
     "time": "2026-07-28",
     "image": "https://www.thespiritsbusiness.com/content/uploads/2024/08/Sir-Davis-Beyonce.jpg",
     "spotify": "https://www.thespiritsbusiness.com/2026/07/beyonce-takes-ownership-of-sirdavis-american-whisky/",
     "category": "Beyonce News"
   },
   {
-    "title": "Column | This designer has made gowns for Beyonc\u00e9 and Bj\u00f6rk. She needed my help. - washingtonpost.com",
+    "title": "Column | This designer has made gowns for Beyonc\u00e9 and Bj\u00f6rk. She needed my help. - The Washington Post",
     "artist": "Beyonce",
-    "source": "washingtonpost.com",
+    "source": "The Washington Post",
     "time": "2026-07-28",
     "image": "",
     "spotify": "https://www.washingtonpost.com/style/2026/07/27/iris-van-herpen-has-made-gowns-beyonc-bjrk-she-needed-my-help/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Oprah Gushes Over Beyonc\u00e9, Reveals the Gift She Received from the Singer After Writing Her a \u2018Fan Letter\u2019 - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-07-27",
-    "image": "https://s.yimg.com/lo/mysterio/api/a42c5e9182da7e324f475bcf10e68c937fd7334ea12014baef5c7633e3cf6ab1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F984be7b69fe4f1bbf73a489857486997",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/oprah-gushes-over-beyonc-reveals-224903976.html",
     "category": "Beyonce News"
   },
   {
