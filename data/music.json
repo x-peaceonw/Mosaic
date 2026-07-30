@@ -1,12 +1,39 @@
 [
   {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #112",
-    "artist": "Solange",
-    "source": "YouTube",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Aims to Make Box Office History as It Targets High-Flying Opening - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-07-30",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-11508_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-tom-holland-1236659734/",
+    "category": "Movies"
+  },
+  {
+    "title": "Praise be to the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead",
+    "artist": "1 Peter 1:3",
+    "source": "OurManna",
+    "time": "2026-07-30",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-07-30",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Zendaya and Tom Holland\u2019s \u2018Spider-Man\u2019 Tour Is All About Couple Style - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
     "time": "2026-07-29",
-    "image": "https://i.ytimg.com/vi/XnWYMtpKjUo/hqdefault_live.jpg",
-    "spotify": "https://youtube.com/watch?v=XnWYMtpKjUo",
-    "category": "Music"
+    "image": "https://assets.vogue.com/photos/6a6a651830ea63dfbefbdd69/16:9/w_1280,c_limit/GettyImages-2288194473%20(1).jpg",
+    "spotify": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
+    "category": "Zendaya"
   },
   {
     "title": "How Zendaya pulled off an epic red carpet summer - USA Today",
@@ -18,6 +45,33 @@
     "category": "Zendaya"
   },
   {
+    "title": "Zendaya Is a \u2018Jewel in Motion\u2019 in Tamara Ralph Couture - WWD",
+    "artist": "Zendaya",
+    "source": "WWD",
+    "time": "2026-07-29",
+    "image": "https://wwd.com/wp-content/uploads/2026/07/zendaya-new-fi.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://wwd.com/pop-culture/celebrity-news/zendaya-tamara-ralph-couture-spider-man-london-premiere-1239087123/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya and Tom Holland Wore Matching Spider Brooches - thecut.com",
+    "artist": "Zendaya",
+    "source": "thecut.com",
+    "time": "2026-07-29",
+    "image": "https://pyxis.nymag.com/v1/imgs/309/c3d/51cce80f9a21d89c36be4dd790569f3b36-lede-1.1x.rsocial.w1200.jpg",
+    "spotify": "https://www.thecut.com/article/zendaya-and-tom-holland-wore-matching-spider-brooches.html",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Is Draped in a Web of Gemstones for the U.K. \u201cSpider-Man\u201d Premiere - Harper's BAZAAR",
+    "artist": "Zendaya",
+    "source": "Harper's BAZAAR",
+    "time": "2026-07-29",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/6c0c6833-0706-4061-a138-6d43aa4ef764.jpg?crop=1xw:0.889xh;0xw,0.032xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71627221/all-zendaya-spider-man-brand-new-day-press-tour-outfits-photos/",
+    "category": "Zendaya"
+  },
+  {
     "title": "How Zendaya Turned Her \u2018Spider-Man\u2019 Tour Into a Jewelry Moment - jckonline.com",
     "artist": "Zendaya",
     "source": "jckonline.com",
@@ -25,15 +79,6 @@
     "image": "https://www.jckonline.com/wp-content/uploads/2026/07/ZendayaatSpidermanBerlinfanevent.jpg",
     "spotify": "https://www.jckonline.com/editorial-article/zendaya-spider-man-jewelry/",
     "category": "Zendaya"
-  },
-  {
-    "title": "Spider-Man or Sadder-Man? Brand New Day finds Peter Parker in his feels - CBC",
-    "artist": "Spider-Man",
-    "source": "CBC",
-    "time": "2026-07-29",
-    "image": "https://i.cbc.ca/ais/5b0845fd-1c1c-47ab-b13b-bc61e88c8165,1785274327952/full/max/0/default.jpg?im=Crop%2Crect%3D%28255%2C0%2C1489%2C837%29%3BResize%3D620",
-    "spotify": "https://www.cbc.ca/news/entertainment/spider-man-brand-new-day-tom-holland-9.7288116",
-    "category": "Movies"
   },
   {
     "title": "\u2018Spider-Man: Brand New Day\u2019 Swings to China\u2019s Biggest Superhero Opening in Seven Years - The Hollywood Reporter",
@@ -54,66 +99,30 @@
     "category": "Movies"
   },
   {
-    "title": "Marvel\u2019s Kevin Feige says Sadie Sink\u2019s name \u2018solidified the idea\u2019 of her Spider-Man character - Entertainment Weekly",
+    "title": "Amy Pascal On Tom Holland's Spider-Man & Tom Hardy's Venom Crossover: \"We Have Hope\" - Deadline",
     "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
+    "source": "Deadline",
     "time": "2026-07-29",
-    "image": "",
-    "spotify": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953",
+    "image": "https://deadline.com/wp-content/uploads/2026/07/tom-holland-spider-man-tom-hardy-venom.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/07/amy-pascal-tom-holland-spider-man-tom-hardy-venom-crossover-1237012366/",
     "category": "Movies"
   },
   {
-    "title": "For it is by grace you have been saved, through faith\u2014and this is not from yourselves, it is the gift of God\u2014",
-    "artist": "Ephesians 2:8",
-    "source": "OurManna",
+    "title": "Live-action MCU Venom gets positive update from Marvel Studios' Kevin Feige - Polygon.com",
+    "artist": "Spider-Man",
+    "source": "Polygon.com",
     "time": "2026-07-29",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-07-29",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Zendaya and Tom Holland\u2019s \u2018Spider-Man\u2019 Tour Is All About Couple Style - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-07-28",
-    "image": "https://assets.vogue.com/photos/6a6a651830ea63dfbefbdd69/16:9/w_1280,c_limit/GettyImages-2288194473%20(1).jpg",
-    "spotify": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya Stuns \u2018Spider-Man: Brand New Day\u2019 Premiere in \u2018Abstract\u2019 Spider-Inspired Look: \u2018It\u2019s Like This Metamorphosis\u2019 - Variety",
-    "artist": "Zendaya",
-    "source": "Variety",
-    "time": "2026-07-28",
-    "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2287920235.jpg?crop=0px%2C137px%2C5192px%2C2920px&#038;resize=1000%2C563",
-    "spotify": "https://variety.com/2026/film/news/zendaya-spider-man-brand-new-day-premiere-dress-law-roach-1236822294/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Spider-Man 4: Sadie Sink\u2019s MCU Role Has Critics Shocked for This Reason - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-07-28",
-    "image": "https://s.yimg.com/lo/mysterio/api/a40261f51b945e45e5468ef5060efabb322339c66ec7f90ec920c9494d13807d/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F9ee20305135a5cc875ef83d4f0f2308e",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-4-sadie-sink-184711712.html",
+    "spotify": "https://www.polygon.com/spider-man-brand-new-day-venom-tom-hardy-animated-movie/",
     "category": "Movies"
   },
   {
-    "title": "Sadie Sink\u2019s Role Spoiled At \u2018Spider-Man: Brand New Day\u2019 Premiere - Forbes",
+    "title": "Spider-Man\u2019s Producers Still Aren\u2019t Ruling Out a Venom Crossover - Gizmodo",
     "artist": "Spider-Man",
-    "source": "Forbes",
-    "time": "2026-07-28",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a68aa389c1a0ccd51f47438/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-    "spotify": "https://www.forbes.com/sites/paultassi/2026/07/28/sadie-sinks-role-spoiled-at-spider-man-brand-new-day-premiere/",
+    "source": "Gizmodo",
+    "time": "2026-07-29",
+    "image": "",
+    "spotify": "https://gizmodo.com/spider-mans-producers-still-arent-ruling-out-a-venom-crossover-2000792637",
     "category": "Movies"
   },
   {
@@ -126,24 +135,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Mo\u00ebt Hennessy hands over full ownership of SirDavis American \u2018whisky\u2019 to Beyonc\u00e9 - Global Drinks Intel",
-    "artist": "Beyonce",
-    "source": "Global Drinks Intel",
-    "time": "2026-07-28",
-    "image": "",
-    "spotify": "https://drinks-intel.com/news/moet-hennessy-hands-over-full-ownership-of-sirdavis-american-whisky-to-beyonce/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Becomes Sole Owner of SirDavis American Whisky After Acquiring Shares From Mo\u00ebt Hennessy - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-07-28",
-    "image": "https://s.yimg.com/lo/mysterio/api/5841a11a176054b5fd75c16261145460a9d5f8d8e791c59487f359240d247e49/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_pour_articles_808%2Fdd63fd0accf19cdb5378009156d9a375",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-becomes-sole-owner-sirdavis-175245866.html",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Column | This designer has made gowns for Beyonc\u00e9 and Bj\u00f6rk. She needed my help. - The Washington Post",
     "artist": "Beyonce",
     "source": "The Washington Post",
@@ -153,21 +144,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #111 Bagay yo chanje faz ",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-27",
-    "image": "https://i.ytimg.com/vi/2Sw4m4_1N8g/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=2Sw4m4_1N8g",
-    "category": "Music"
-  },
-  {
-    "title": "Blue Ivy, 14, Looks Like Mom Beyonc\u00e9\u2019s Twin at Concert With XXL Ringlets and Y2K It Girl Outfit - instyle.com",
+    "title": "Mo\u00ebt Hennessy hands over full ownership of SirDavis American \u2018whisky\u2019 to Beyonc\u00e9 - Global Drinks Intel",
     "artist": "Beyonce",
-    "source": "instyle.com",
-    "time": "2026-07-27",
+    "source": "Global Drinks Intel",
+    "time": "2026-07-28",
     "image": "",
-    "spotify": "https://www.instyle.com/beyonce-daughter-blue-ivy-half-up-pigtails-y2k-outfit-lauryn-hill-concert-12027212",
+    "spotify": "https://drinks-intel.com/news/moet-hennessy-hands-over-full-ownership-of-sirdavis-american-whisky-to-beyonce/",
     "category": "Beyonce News"
   },
   {
@@ -180,85 +162,22 @@
     "category": "Beyonce News"
   },
   {
-    "title": "LAFWA NAN BONDYE (TRAILER )nouvo feyton 2026.",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-26",
-    "image": "https://i.ytimg.com/vi/ea9ZQ7s4hfc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=ea9ZQ7s4hfc",
-    "category": "Music"
+    "title": "Blue Ivy, 14, Looks Like Mom Beyonc\u00e9\u2019s Twin at Concert With XXL Ringlets and Y2K It Girl Outfit - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-07-27",
+    "image": "https://s.yimg.com/lo/mysterio/api/28458fd3b317b4ff1aa3224337e50941f96fa1465f0648df5c8f5fd28471515b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F6b9c39e006744f3842c03c41af8dd435",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/blue-ivy-14-looks-mom-134734910.html",
+    "category": "Beyonce News"
   },
   {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #110",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-25",
-    "image": "https://i.ytimg.com/vi/PLVpEmfZdlA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=PLVpEmfZdlA",
-    "category": "Music"
-  },
-  {
-    "title": "Zendaya Never Flops on the Red Carpet, These Are Her 20 Most Iconic Looks Yet - instyle.com",
-    "artist": "Zendaya",
-    "source": "instyle.com",
-    "time": "2026-07-25",
+    "title": "Blue Ivy spitting image of mum Beyonce - News.com.au",
+    "artist": "Beyonce",
+    "source": "News.com.au",
+    "time": "2026-07-27",
     "image": "",
-    "spotify": "https://www.instyle.com/zendaya-best-outfits-of-all-time-11984329",
-    "category": "Zendaya"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #109",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-24",
-    "image": "https://i.ytimg.com/vi/YZvmpYlTfmU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=YZvmpYlTfmU",
-    "category": "Music"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #108",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-23",
-    "image": "https://i.ytimg.com/vi/JEnEvJ3utdA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=JEnEvJ3utdA",
-    "category": "Music"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #106",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-18",
-    "image": "https://i.ytimg.com/vi/psm-EnSq8U8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=psm-EnSq8U8",
-    "category": "Music"
-  },
-  {
-    "title": "Zendaya Was Born to Dress Like a Goddess - Harper's BAZAAR",
-    "artist": "Zendaya",
-    "source": "Harper's BAZAAR",
-    "time": "2026-07-16",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/c2513010-45b8-4d30-a222-5ca89fae8a99.jpg?crop=1xw:0.889xh;0xw,0.044xh&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71851224/all-zendaya-the-odyssey-press-tour-looks-photos/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #105 &quot;",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-15",
-    "image": "https://i.ytimg.com/vi/QUuDLkFjDtk/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=QUuDLkFjDtk",
-    "category": "Music"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #104",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-13",
-    "image": "https://i.ytimg.com/vi/yaZh3Y2uGcs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=yaZh3Y2uGcs",
-    "category": "Music"
+    "spotify": "https://www.news.com.au/entertainment/celebrity-life/blue-ivy-looks-the-spitting-image-of-beyonce-while-enjoying-a-concert-with-her-parents/news-story/becf126b5a492f2a6856d1c1a4a2d57e",
+    "category": "Beyonce News"
   },
   {
     "title": "Tahoe Nights",
@@ -267,15 +186,6 @@
     "time": "2026-07-10",
     "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
     "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
-    "category": "Music"
-  },
-  {
-    "title": "MOVE B\u00c8LM\u00c8 EPIZOD #103",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-07-09",
-    "image": "https://i.ytimg.com/vi/44tt837gIPE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=44tt837gIPE",
     "category": "Music"
   },
   {
@@ -294,15 +204,6 @@
     "time": "2026-07-04",
     "image": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40",
     "spotify": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ",
-    "category": "Music"
-  },
-  {
-    "title": "MORNING DEW (DONK)",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-07-04",
-    "image": "https://i.ytimg.com/vi/KuzCFXwtGCA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=KuzCFXwtGCA",
     "category": "Music"
   }
 ]
