@@ -9,15 +9,6 @@
     "category": "Music"
   },
   {
-    "title": "nowhere, nobody",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/DT06UE8qX4M/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=DT06UE8qX4M",
-    "category": "Music"
-  },
-  {
     "title": "freak",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -90,13 +81,40 @@
     "category": "Music"
   },
   {
-    "title": "warning signs (interlude)",
+    "title": "kiss me",
     "artist": "Ariana Grande",
     "source": "YouTube",
     "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/ssGgDd47xjo/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=ssGgDd47xjo",
+    "image": "https://i.ytimg.com/vi/bfszA_eFvnw/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=bfszA_eFvnw",
     "category": "Music"
+  },
+  {
+    "title": "stay",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/nOjzP-HHXG0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=nOjzP-HHXG0",
+    "category": "Music"
+  },
+  {
+    "title": "Look of the Week: Tom Holland can hold his own on the red carpet, actually - cnn.com",
+    "artist": "Zendaya",
+    "source": "cnn.com",
+    "time": "2026-07-31",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287924211.jpg?c=16x9&q=w_800,c_fill",
+    "spotify": "https://www.cnn.com/2026/07/31/style/tom-holland-zendaya-red-carpet-lotw",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-07-31",
+    "image": "https://assets.vogue.com/photos/6a6ccf1774fcceb207af2cba/16:9/w_1280,c_limit/BLU_A129074903.jpg",
+    "spotify": "https://www.vogue.com/article/zendaya-tom-holland-off-duty-couple-style",
+    "category": "Zendaya"
   },
   {
     "title": "As Zendaya spins another \u2018Spider-Man\u2019 fashion story, has method dressing gone too far? - glossy.co",
@@ -126,15 +144,6 @@
     "category": "Movies"
   },
   {
-    "title": "Do They Know Each Other? Here\u2019s How Ned Finally Remembers Peter Parker in \u2018Spider-Man: Brand New Day\u2019 - IMDb",
-    "artist": "Spider-Man",
-    "source": "IMDb",
-    "time": "2026-07-31",
-    "image": "",
-    "spotify": "https://www.imdb.com/es/news/ni65952968/?ref_=int_nwr_2",
-    "category": "Movies"
-  },
-  {
     "title": "Sadie Sink\u2019s Secret Role in \u2018Spider-Man: Brand New Day\u2019 Finally Revealed - The Hollywood Reporter",
     "artist": "Spider-Man",
     "source": "The Hollywood Reporter",
@@ -153,12 +162,12 @@
     "category": "Movies"
   },
   {
-    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
+    "title": "Sadie Sink\u2019s Role in Spider-Man: Brand New Day Unveiled After Year-Long Speculation - People.com",
     "artist": "Spider-Man",
-    "source": "Time Magazine",
+    "source": "People.com",
     "time": "2026-07-31",
-    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
-    "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
+    "image": "",
+    "spotify": "https://people.com/sadie-sink-mysterious-role-in-spider-man-brand-new-day-12031747",
     "category": "Movies"
   },
   {
@@ -207,6 +216,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "Zendaya and Tom Holland's decade-long Spider-Man romance in pictures - BBC",
+    "artist": "Spider-Man",
+    "source": "BBC",
+    "time": "2026-07-30",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5704/live/937bd6c0-8bee-11f1-9127-6b0fc0b6fa67.jpg",
+    "spotify": "https://www.bbc.com/news/articles/cj4kel0yv11o",
+    "category": "Movies"
+  },
+  {
     "title": "Blue Ivy Follows Beyonc\u00e9\u2019s Fashion Lead While at Lauryn Hill\u2019s Intimate Hamptons Show - Harper's BAZAAR",
     "artist": "Beyonce",
     "source": "Harper's BAZAAR",
@@ -216,22 +234,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonce and Jay Z sway to Lauryn Hill acoustic set in the Hamptons - New York Daily News",
+    "title": "Beyonce and Jay Z sway to Lauryn Hill acoustic set in the Hamptons - nydailynews.com",
     "artist": "Beyonce",
-    "source": "New York Daily News",
+    "source": "nydailynews.com",
     "time": "2026-07-30",
     "image": "https://www.nydailynews.com/wp-content/uploads/2026/07/GettyImages-2274800228.jpg?w=4124&#038;h=2580",
     "spotify": "https://www.nydailynews.com/2026/07/30/beyonce-jay-z-lauryn-hill-hamptons/",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Zendaya Is a \u2018Jewel in Motion\u2019 in Tamara Ralph Couture - WWD",
-    "artist": "Zendaya",
-    "source": "WWD",
-    "time": "2026-07-29",
-    "image": "https://wwd.com/wp-content/uploads/2026/07/zendaya-new-fi.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://wwd.com/pop-culture/celebrity-news/zendaya-tamara-ralph-couture-spider-man-london-premiere-1239087123/",
-    "category": "Zendaya"
   },
   {
     "title": "Beyonc\u00e9 Becomes Sole Owner Of SirDavis American Whisky - AfroTech",
@@ -243,9 +252,18 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya's spider-inspired look was very intentional: A breakdown of her highly theatrical method dressing - HOLA",
+    "title": "Beyonc\u00e9 Rides Solo With American Whisky Brand Two Years After Launching - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-07-29",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b0598cb666757a4f0572dec486c7fceb59f93518451c00a20709b570e11a2ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F0dc9d8ec5c256626da8d7777be2013a5",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-rides-solo-american-whisky-211000770.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Zendaya's spider-inspired look was very intentional: A breakdown of her highly theatrical method dressing - hola.com",
     "artist": "Zendaya",
-    "source": "HOLA",
+    "source": "hola.com",
     "time": "2026-07-28",
     "image": "https://www.hola.com/us/horizon/landscape/d8c980682064-gettyimages-2287990719.jpg?im=Resize=(1200)",
     "spotify": "https://www.hola.com/us/fashion/20260728915272/zendaya-spider-inspired-look-breakdown-method-dressing/",
@@ -259,24 +277,6 @@
     "image": "https://www.thespiritsbusiness.com/content/uploads/2024/08/Sir-Davis-Beyonce.jpg",
     "spotify": "https://www.thespiritsbusiness.com/2026/07/beyonce-takes-ownership-of-sirdavis-american-whisky/",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Becomes Sole Owner of SirDavis American Whisky After Acquiring Shares From Mo\u00ebt Hennessy - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-07-28",
-    "image": "https://s.yimg.com/lo/mysterio/api/5841a11a176054b5fd75c16261145460a9d5f8d8e791c59487f359240d247e49/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_pour_articles_808%2Fdd63fd0accf19cdb5378009156d9a375",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-becomes-sole-owner-sirdavis-175245866.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-07-20",
-    "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
-    "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
-    "category": "Zendaya"
   },
   {
     "title": "Tahoe Nights",
