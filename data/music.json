@@ -1,5 +1,32 @@
 [
   {
+    "title": "Spider-Man and the Punisher\u2019s Staten Island Feud Becomes Brand New Day\u2019s Funniest Running Joke - IMDb",
+    "artist": "Spider-Man",
+    "source": "IMDb",
+    "time": "2026-08-01",
+    "image": "",
+    "spotify": "https://www.imdb.com/news/ni65953621/?ref_=ttnw_art_perm",
+    "category": "Movies"
+  },
+  {
+    "title": "As the deer pants for streams of water, so my soul pants for you, my God.",
+    "artist": "Psalm 42:1",
+    "source": "OurManna",
+    "time": "2026-08-01",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-01",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "petal",
     "artist": "Ariana Grande",
     "source": "Spotify",
@@ -9,48 +36,12 @@
     "category": "Music"
   },
   {
-    "title": "petal \ua564 \u3002\u02damusic video out now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/xcuk2MUJhcc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=xcuk2MUJhcc",
-    "category": "Music"
-  },
-  {
-    "title": "petal out now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/xtp6jtHnL_I/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=xtp6jtHnL_I",
-    "category": "Music"
-  },
-  {
     "title": "Zendaya and Tom Holland Swap Method Dressing for Off-Duty Couple Style - Vogue",
     "artist": "Zendaya",
     "source": "Vogue",
     "time": "2026-07-31",
     "image": "https://assets.vogue.com/photos/6a6ccf1774fcceb207af2cba/16:9/w_1280,c_limit/BLU_A129074903.jpg",
     "spotify": "https://www.vogue.com/article/zendaya-tom-holland-off-duty-couple-style",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Look of the Week: Tom Holland can hold his own on the red carpet, actually - CNN",
-    "artist": "Zendaya",
-    "source": "CNN",
-    "time": "2026-07-31",
-    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287924211.jpg?c=16x9&q=w_800,c_fill",
-    "spotify": "https://www.cnn.com/2026/07/31/style/tom-holland-zendaya-red-carpet-lotw",
-    "category": "Zendaya"
-  },
-  {
-    "title": "As Zendaya spins another \u2018Spider-Man\u2019 fashion story, has method dressing gone too far? - glossy.co",
-    "artist": "Zendaya",
-    "source": "glossy.co",
-    "time": "2026-07-31",
-    "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/07/Portrait-glossy-brand-l-0730.jpg",
-    "spotify": "https://www.glossy.co/podcasts/method-dressing-red-carpet-micaela-erlanger/",
     "category": "Zendaya"
   },
   {
@@ -72,30 +63,39 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya and Tom Holland embrace husband-wife style for their Spider-Man tour - vogueadria.com",
+    "title": "Look of the Week: Tom Holland can hold his own on the red carpet, actually - cnn.com",
     "artist": "Zendaya",
-    "source": "vogueadria.com",
+    "source": "cnn.com",
     "time": "2026-07-31",
-    "image": "",
-    "spotify": "https://vogueadria.com/zendaya-tom-holland-spider-man/",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2287924211.jpg?c=16x9&q=w_800,c_fill",
+    "spotify": "https://www.cnn.com/2026/07/31/style/tom-holland-zendaya-red-carpet-lotw",
     "category": "Zendaya"
   },
   {
-    "title": "Can the Gritty \u2018Spider-Man: Brand New Day\u2019 Save the Superhero Movie? - The New York Times",
+    "title": "As Zendaya spins another \u2018Spider-Man\u2019 fashion story, has method dressing gone too far? - glossy.co",
+    "artist": "Zendaya",
+    "source": "glossy.co",
+    "time": "2026-07-31",
+    "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/07/Portrait-glossy-brand-l-0730.jpg",
+    "spotify": "https://www.glossy.co/podcasts/method-dressing-red-carpet-micaela-erlanger/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 press tour: Zendaya\u2019s best fashion moments - Lifestyle.INQ",
+    "artist": "Zendaya",
+    "source": "Lifestyle.INQ",
+    "time": "2026-07-31",
+    "image": "",
+    "spotify": "https://lifestyle.inquirer.net/577749/spider-man-brand-new-day-press-tour-zendayas-best-fashion-moments/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Can the Gritty \u2018Spider-Man: Brand New Day\u2019 Save the Superhero Movie? - nytimes.com",
     "artist": "Spider-Man",
-    "source": "The New York Times",
+    "source": "nytimes.com",
     "time": "2026-07-31",
     "image": "",
     "spotify": "https://www.nytimes.com/2026/07/31/movies/spider-man-brand-new-day-movie.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man is already smashing box office records - A.V. Club",
-    "artist": "Spider-Man",
-    "source": "A.V. Club",
-    "time": "2026-07-31",
-    "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/28004528/Spider-Man-BND.jpg",
-    "spotify": "https://www.avclub.com/spider-man-brand-new-day-breaking-box-office-records-previews",
     "category": "Movies"
   },
   {
@@ -108,6 +108,15 @@
     "category": "Movies"
   },
   {
+    "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-07-31",
+    "image": "https://variety.com/wp-content/uploads/2026/07/P1047A04.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
+    "category": "Movies"
+  },
+  {
     "title": "Sadie Sink\u2019s Secret Role in \u2018Spider-Man: Brand New Day\u2019 Finally Revealed - The Hollywood Reporter",
     "artist": "Spider-Man",
     "source": "The Hollywood Reporter",
@@ -117,57 +126,30 @@
     "category": "Movies"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot - variety.com",
+    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
     "artist": "Spider-Man",
-    "source": "variety.com",
-    "time": "2026-07-31",
-    "image": "https://variety.com/wp-content/uploads/2026/07/P1047A04.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
-    "category": "Movies"
-  },
-  {
-    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - time.com",
-    "artist": "Spider-Man",
-    "source": "time.com",
+    "source": "Time Magazine",
     "time": "2026-07-31",
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
     "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
     "category": "Movies"
   },
   {
-    "title": "Lupita Nyong'o's Unforgettable Reaction to Her Beyonc\u00e9 Shoutout - Yahoo",
+    "title": "Beyonc\u00e9 Becomes Sole Owner Of SirDavis American Whisky - - Black Enterprise",
+    "artist": "Beyonce",
+    "source": "Black Enterprise",
+    "time": "2026-07-31",
+    "image": "https://blackenterprise-prod.b-cdn.net/wp-content/blogs.dir/1/files/2024/08/IMG_1540.jpeg",
+    "spotify": "https://www.blackenterprise.com/beyonce-becomes-sole-owner-sirdavis-whisky/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Blue Ivy Follows Beyonc\u00e9\u2019s Fashion Lead While at Lauryn Hill\u2019s Intimate Hamptons Show - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
-    "time": "2026-07-31",
-    "image": "https://s.yimg.com/lo/mysterio/api/1a89b1351bfbb46de6e6c9f11573f48b8f715e51c3b5395054ac0aba6b5f4a5b/lightyear_networkapi/resizefill_w720_h1280;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwho_what_wear_vertical_videos_555%2F0d91192fe766496db2fcb77b7ad0f7d4",
-    "spotify": "https://www.yahoo.com/lifestyle/videos/lupita-nyongos-unforgettable-reaction-her-150000607.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them.",
-    "artist": "1 John 4:16",
-    "source": "OurManna",
-    "time": "2026-07-31",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-07-31",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Blue Ivy Follows Beyonc\u00e9\u2019s Fashion Lead While at Lauryn Hill\u2019s Intimate Hamptons Show - Harper's BAZAAR",
-    "artist": "Beyonce",
-    "source": "Harper's BAZAAR",
     "time": "2026-07-30",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/6c6a6f92-cf66-4469-874c-69e025a0a376.jpg?crop=1xw:1.0xh;center,top&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73307203/beyonce-blue-ivy-outfits-family-outing-lauryn-hill-hamptons-show-photos/",
+    "image": "https://s.yimg.com/lo/mysterio/api/8f11aff3ff6e24a211a822e82c26e65a23320294ccb178e8b7c107eaf3d9e282/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F4ae56b9081a71b5a21e1f71c541bfdc6",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/blue-ivy-follows-beyonc-fashion-192138716.html",
     "category": "Beyonce News"
   },
   {
@@ -189,94 +171,22 @@
     "category": "Beyonce News"
   },
   {
-    "title": "July 28, 2026",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-28",
-    "image": "https://i.ytimg.com/vi/sOByupEha1g/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=sOByupEha1g",
-    "category": "Music"
-  },
-  {
-    "title": "Beyonc\u00e9 takes ownership of SirDavis American Whisky - The Spirits Business",
+    "title": "Beyonc\u00e9 Becomes Sole Owner Of SirDavis American Whisky - AfroTech",
     "artist": "Beyonce",
-    "source": "The Spirits Business",
-    "time": "2026-07-28",
-    "image": "https://www.thespiritsbusiness.com/content/uploads/2024/08/Sir-Davis-Beyonce.jpg",
-    "spotify": "https://www.thespiritsbusiness.com/2026/07/beyonce-takes-ownership-of-sirdavis-american-whisky/",
+    "source": "AfroTech",
+    "time": "2026-07-29",
+    "image": "https://cdn.afrotech.com/wp-content/uploads/2026/07/Untitled-1-11.jpg",
+    "spotify": "https://afrotech.com/beyonce-buys-stake-from-moet-hennessy",
     "category": "Beyonce News"
   },
   {
-    "title": "Oprah Winfrey Reveals the Gift She Got From Beyonc\u00e9 After Renaissance Concert - eonline.com",
+    "title": "Beyonc\u00e9 Rides Solo With American Whisky Brand Two Years After Launching - Yahoo",
     "artist": "Beyonce",
-    "source": "eonline.com",
-    "time": "2026-07-28",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260728/46b0a425-a71d-4d82-bf97-a16f586fb31d_1785253609.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "spotify": "https://www.eonline.com/news/1434418/oprah-winfrey-reveals-beyonce-gifted-her-a-hat-after-renaissance-tour",
+    "source": "Yahoo",
+    "time": "2026-07-29",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b0598cb666757a4f0572dec486c7fceb59f93518451c00a20709b570e11a2ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F0dc9d8ec5c256626da8d7777be2013a5",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-rides-solo-american-whisky-211000770.html",
     "category": "Beyonce News"
-  },
-  {
-    "title": "9 days till petal \ua564 \uff61\u02da preorder pavement marvel and all her friends now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-22",
-    "image": "https://i.ytimg.com/vi/T8RjtstuFcc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=T8RjtstuFcc",
-    "category": "Music"
-  },
-  {
-    "title": "petal picture disc \ua564 \u3002\u02da available exclusively on ariana\u2019s official online store now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-20",
-    "image": "https://i.ytimg.com/vi/bzhxjN4I780/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=bzhxjN4I780",
-    "category": "Music"
-  },
-  {
-    "title": "kiss me like you know this is goodbye",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-19",
-    "image": "https://i.ytimg.com/vi/Hv_EGKD6bPc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=Hv_EGKD6bPc",
-    "category": "Music"
-  },
-  {
-    "title": "\u2661",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-19",
-    "image": "https://i.ytimg.com/vi/e0GFjl00lb8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=e0GFjl00lb8",
-    "category": "Music"
-  },
-  {
-    "title": "\ua564 \uff61\u02da",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-19",
-    "image": "https://i.ytimg.com/vi/k4LkFi1DTfY/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=k4LkFi1DTfY",
-    "category": "Music"
-  },
-  {
-    "title": "\ua564 \uff61\u02da",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-19",
-    "image": "https://i.ytimg.com/vi/DZRgbfSt3qA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=DZRgbfSt3qA",
-    "category": "Music"
-  },
-  {
-    "title": "twenty days \ua564 \uff61\u02da presave and preorder petal, the album",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-11",
-    "image": "https://i.ytimg.com/vi/WqawUOR9Nt4/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=WqawUOR9Nt4",
-    "category": "Music"
   },
   {
     "title": "Tahoe Nights",
@@ -285,15 +195,6 @@
     "time": "2026-07-10",
     "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
     "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
-    "category": "Music"
-  },
-  {
-    "title": "Tahoe Nights",
-    "artist": "Rascal Flatts",
-    "source": "YouTube",
-    "time": "2026-07-09",
-    "image": "https://i.ytimg.com/vi/aHkeGMhSZXE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=aHkeGMhSZXE",
     "category": "Music"
   },
   {
