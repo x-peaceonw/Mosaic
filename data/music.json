@@ -1,14 +1,5 @@
 [
   {
-    "title": "'I can't believe I have a credit in the Spider-Man movie' - BBC",
-    "artist": "Spider-Man",
-    "source": "BBC",
-    "time": "2026-08-02",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0p2169y.jpg",
-    "spotify": "https://www.bbc.com/news/videos/c3w0nnpezq2o",
-    "category": "Movies"
-  },
-  {
     "title": "Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.",
     "artist": "John 7:38 ",
     "source": "OurManna",
@@ -36,9 +27,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Box Office: 'Spider-Man: Brand New Day' $168M+ U.S. Record Opening Day - Deadline",
+    "title": "Box Office: 'Spider-Man: Brand New Day' $168M+ U.S. Record Opening Day - deadline.com",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "deadline.com",
     "time": "2026-08-01",
     "image": "https://deadline.com/wp-content/uploads/2026/07/MCDSPMA_SP139.jpg?w=1024",
     "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
@@ -63,12 +54,102 @@
     "category": "Music"
   },
   {
-    "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
+    "title": "freak",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
     "time": "2026-07-31",
-    "image": "https://s.yimg.com/lo/mysterio/api/2078d6d53d6d33caf9d28d0e5e399b3709d6881136c355f7bf2575bb9174002e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumbnail-badge-top-left-2_6256.png",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-spider-man-brand-new-day-in-theaters-rent-supergirl-stream-the-devil-wears-prada-2-on-disney-133443678.html",
+    "image": "https://i.ytimg.com/vi/NGfs8VOE3NE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=NGfs8VOE3NE",
+    "category": "Music"
+  },
+  {
+    "title": "bad thing (bunny hop)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/w5eysjwoDKU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=w5eysjwoDKU",
+    "category": "Music"
+  },
+  {
+    "title": "like i do",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=_SPsjENFqbc",
+    "category": "Music"
+  },
+  {
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/fuBMrVffb84/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=fuBMrVffb84",
+    "category": "Music"
+  },
+  {
+    "title": "oh well",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/4YQ06rGPfOc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=4YQ06rGPfOc",
+    "category": "Music"
+  },
+  {
+    "title": "never get over me",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/tCwJ7xUv1hQ/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=tCwJ7xUv1hQ",
+    "category": "Music"
+  },
+  {
+    "title": "bad thing (bunny hop)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/xtKJAAJqrfA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=xtKJAAJqrfA",
+    "category": "Music"
+  },
+  {
+    "title": "nowhere, nobody",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/A0wYyF2vaZA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=A0wYyF2vaZA",
+    "category": "Music"
+  },
+  {
+    "title": "kiss me",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/bfszA_eFvnw/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=bfszA_eFvnw",
+    "category": "Music"
+  },
+  {
+    "title": "stay",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-07-31",
+    "image": "https://i.ytimg.com/vi/nOjzP-HHXG0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=nOjzP-HHXG0",
+    "category": "Music"
+  },
+  {
+    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
+    "artist": "Spider-Man",
+    "source": "Time Magazine",
+    "time": "2026-07-31",
+    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
+    "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
     "category": "Movies"
   },
   {
@@ -90,12 +171,21 @@
     "category": "Movies"
   },
   {
-    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
+    "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
     "artist": "Spider-Man",
-    "source": "Time Magazine",
+    "source": "Yahoo",
     "time": "2026-07-31",
-    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
-    "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
+    "image": "https://s.yimg.com/lo/mysterio/api/2078d6d53d6d33caf9d28d0e5e399b3709d6881136c355f7bf2575bb9174002e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumbnail-badge-top-left-2_6256.png",
+    "spotify": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-spider-man-brand-new-day-in-theaters-rent-supergirl-stream-the-devil-wears-prada-2-on-disney-133443678.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Comic Book References and Villains in \u2018Spider-Man: Brand New Day\u2019 - Marvel.com",
+    "artist": "Spider-Man",
+    "source": "Marvel.com",
+    "time": "2026-07-31",
+    "image": "",
+    "spotify": "https://www.marvel.com/articles/comics/spider-man-brand-new-day-comic-book-references-and-villains",
     "category": "Movies"
   },
   {
@@ -135,9 +225,9 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonce and Jay Z sway to Lauryn Hill acoustic set in the Hamptons - nydailynews.com",
+    "title": "Beyonce and Jay Z sway to Lauryn Hill acoustic set in the Hamptons - New York Daily News",
     "artist": "Beyonce",
-    "source": "nydailynews.com",
+    "source": "New York Daily News",
     "time": "2026-07-30",
     "image": "https://www.nydailynews.com/wp-content/uploads/2026/07/GettyImages-2274800228.jpg?w=4124&#038;h=2580",
     "spotify": "https://www.nydailynews.com/2026/07/30/beyonce-jay-z-lauryn-hill-hamptons/",
@@ -150,15 +240,6 @@
     "time": "2026-07-30",
     "image": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/07/AFF-USAShutterstock-2.jpg",
     "spotify": "https://graziamagazine.com/us/articles/beyonce-uses-this-coloring-strategy-for-her-blonde-and-the-reason-it-works-on-her-isnt-what-you-think-25497/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Becomes Sole Owner Of SirDavis American Whisky - AfroTech",
-    "artist": "Beyonce",
-    "source": "AfroTech",
-    "time": "2026-07-29",
-    "image": "https://cdn.afrotech.com/wp-content/uploads/2026/07/Untitled-1-11.jpg",
-    "spotify": "https://afrotech.com/beyonce-buys-stake-from-moet-hennessy",
     "category": "Beyonce News"
   },
   {
@@ -196,6 +277,24 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
     "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
     "category": "Music"
+  },
+  {
+    "title": "Tahoe Nights",
+    "artist": "Rascal Flatts",
+    "source": "YouTube",
+    "time": "2026-07-09",
+    "image": "https://i.ytimg.com/vi/aHkeGMhSZXE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=aHkeGMhSZXE",
+    "category": "Music"
+  },
+  {
+    "title": "\u2018I was there!\u2019 Writers remember legendary gigs by Beyonc\u00e9, Brian Wilson, Britney, Oasis, Daft Punk and more - The Guardian",
+    "artist": "Beyonce",
+    "source": "The Guardian",
+    "time": "2026-07-06",
+    "image": "https://i.guim.co.uk/img/media/c343f99455e93105e8d7a9f71d43453ee5bad81b/494_477_3717_2975/master/3717.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a98b8aa43772f00939919b54d3961695",
+    "spotify": "https://www.theguardian.com/music/2026/jul/06/legendary-gigs-beyonce-brian-wilson-britney-oasis-daft-punk-amy-winehouse-kanye-west",
+    "category": "Beyonce News"
   },
   {
     "title": "MORNING DEW (DONK)",
