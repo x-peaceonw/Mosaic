@@ -1,5 +1,23 @@
 [
   {
+    "title": "See Zendaya\u2019s Best Vintage Fashion Moments - People.com",
+    "artist": "Zendaya",
+    "source": "People.com",
+    "time": "2026-08-02",
+    "image": "",
+    "spotify": "https://people.com/zendaya-best-vintage-fashion-moments-12027630",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Did Jean Grey Restore MJ\u2019s Memories In Spider-Man: Brand New Day? - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-08-02",
+    "image": "https://s.yimg.com/lo/mysterio/api/1fe295c1c7715dfa9b602401270e9f6ef55d728dc1ca986d10591d71b6f3b04d/lightyear_networkapi/resizefill_w1024_h614;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2Fcb96a3d435a6c674a7ade226759fb724",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/did-jean-grey-restore-mj-121318375.html",
+    "category": "Movies"
+  },
+  {
     "title": "Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.",
     "artist": "John 7:38 ",
     "source": "OurManna",
@@ -27,9 +45,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Box Office: 'Spider-Man: Brand New Day' $168M+ U.S. Record Opening Day - deadline.com",
+    "title": "Box Office: 'Spider-Man: Brand New Day' $168M+ U.S. Record Opening Day - Deadline",
     "artist": "Spider-Man",
-    "source": "deadline.com",
+    "source": "Deadline",
     "time": "2026-08-01",
     "image": "https://deadline.com/wp-content/uploads/2026/07/MCDSPMA_SP139.jpg?w=1024",
     "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
@@ -162,30 +180,21 @@
     "category": "Movies"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-07-31",
-    "image": "https://variety.com/wp-content/uploads/2026/07/P1047A04.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
-    "category": "Movies"
-  },
-  {
-    "title": "New movies to watch this weekend: See 'Spider-Man: Brand New Day' in theaters, rent 'Supergirl,' stream 'The Devil Wears Prada 2' on Disney+ - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-07-31",
-    "image": "https://s.yimg.com/lo/mysterio/api/2078d6d53d6d33caf9d28d0e5e399b3709d6881136c355f7bf2575bb9174002e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumbnail-badge-top-left-2_6256.png",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-spider-man-brand-new-day-in-theaters-rent-supergirl-stream-the-devil-wears-prada-2-on-disney-133443678.html",
-    "category": "Movies"
-  },
-  {
     "title": "Comic Book References and Villains in \u2018Spider-Man: Brand New Day\u2019 - Marvel.com",
     "artist": "Spider-Man",
     "source": "Marvel.com",
     "time": "2026-07-31",
     "image": "",
     "spotify": "https://www.marvel.com/articles/comics/spider-man-brand-new-day-comic-book-references-and-villains",
+    "category": "Movies"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Leaks Online: Millions Watched Bootleg Before It Was Taken Down - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-07-31",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP128_62c0f1.jpg?crop=0px%2C193px%2C3000px%2C1688px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/",
     "category": "Movies"
   },
   {
@@ -241,15 +250,6 @@
     "image": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2026/07/AFF-USAShutterstock-2.jpg",
     "spotify": "https://graziamagazine.com/us/articles/beyonce-uses-this-coloring-strategy-for-her-blonde-and-the-reason-it-works-on-her-isnt-what-you-think-25497/",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Zendaya's spider-inspired look was very intentional: A breakdown of her highly theatrical method dressing - HOLA",
-    "artist": "Zendaya",
-    "source": "HOLA",
-    "time": "2026-07-28",
-    "image": "https://www.hola.com/us/horizon/landscape/d8c980682064-gettyimages-2287990719.jpg?im=Resize=(1200)",
-    "spotify": "https://www.hola.com/us/fashion/20260728915272/zendaya-spider-inspired-look-breakdown-method-dressing/",
-    "category": "Zendaya"
   },
   {
     "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
