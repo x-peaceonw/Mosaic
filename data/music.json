@@ -36,21 +36,21 @@
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day Would Be Perfect For Me If Not For One Sadie Sink-Related Problem - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-02",
-    "image": "https://s.yimg.com/lo/mysterio/api/8b3f46f1085fa54bce690dcbe0de9b5d490390b94ab978cf34dcf7b32ed8443e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F40ea3a99e4609690298ef2a2b0a2867e",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-perfect-150000393.html",
-    "category": "Movies"
-  },
-  {
     "title": "We rank every Marvel movie, including 'Spider-Man: Brand New Day' - USA Today",
     "artist": "Spider-Man",
     "source": "USA Today",
     "time": "2026-08-02",
     "image": "",
     "spotify": "https://www.usatoday.com/story/entertainment/movies/2026/08/02/marvel-movie-rankings/91120711007/",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Would Be Perfect For Me If Not For One Sadie Sink-Related Problem - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-08-02",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b3f46f1085fa54bce690dcbe0de9b5d490390b94ab978cf34dcf7b32ed8443e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F40ea3a99e4609690298ef2a2b0a2867e",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-perfect-150000393.html",
     "category": "Movies"
   },
   {
@@ -72,18 +72,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya Plays With Summer\u2019s Biggest Trends on a Rare Day Off With Tom Holland - Harper's BAZAAR",
-    "artist": "Zendaya",
-    "source": "Harper's BAZAAR",
-    "time": "2026-08-01",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/d0d16759-4870-4ff8-a326-610930197ef0.jpg?crop=1xw:0.333xh;0xw,0.134xh&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73323472/zendaya-day-off-style-bandana-maison-margiela-tabis-photos/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Video of two brothers Irish step dancing to Beyonc\u00e9's country hit 'Texas Hold 'Em' is pure delight - Upworthy",
+    "title": "Video of two brothers Irish step dancing to Beyonc\u00e9's country hit 'Texas Hold 'Em' is pure delight - upworthy.com",
     "artist": "Beyonce",
-    "source": "Upworthy",
+    "source": "upworthy.com",
     "time": "2026-08-01",
     "image": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/05/origin-175.jpg",
     "spotify": "https://www.upworthy.com/irish-brothers-step-dance-to-beyonce-video-ex1-2/",
@@ -198,9 +189,9 @@
     "category": "Movies"
   },
   {
-    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - time.com",
+    "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
     "artist": "Spider-Man",
-    "source": "time.com",
+    "source": "Time Magazine",
     "time": "2026-07-31",
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
     "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
@@ -270,12 +261,21 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
+    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - vogue.com",
     "artist": "Zendaya",
-    "source": "Vogue",
+    "source": "vogue.com",
     "time": "2026-07-20",
     "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
     "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Was Born to Dress Like a Goddess - Harper's BAZAAR",
+    "artist": "Zendaya",
+    "source": "Harper's BAZAAR",
+    "time": "2026-07-16",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/c2513010-45b8-4d30-a222-5ca89fae8a99.jpg?crop=1xw:0.889xh;0xw,0.044xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71851224/all-zendaya-the-odyssey-press-tour-looks-photos/",
     "category": "Zendaya"
   },
   {
