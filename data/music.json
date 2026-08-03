@@ -54,6 +54,15 @@
     "category": "Movies"
   },
   {
+    "title": "Tom Holland Says Spider-Man 5 Is 'Unclear,' Teases He Knows When Miles Morales Will Join the MCU - IGN",
+    "artist": "Spider-Man",
+    "source": "IGN",
+    "time": "2026-08-02",
+    "image": "https://assets-prd.ignimgs.com/2026/03/19/spider-man-brand-new-day-1773955154050.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+    "spotify": "https://www.ign.com/articles/tom-holland-says-spider-man-5-is-unclear-teases-he-knows-when-miles-morales-will-join-the-mcu",
+    "category": "Movies"
+  },
+  {
     "title": "We Love Beyonc\u00e9 Too, but Let\u2019s Talk About These 5 Underrated Female Artists From the Early 2000s - vice.com",
     "artist": "Beyonce",
     "source": "vice.com",
@@ -72,9 +81,18 @@
     "category": "Zendaya"
   },
   {
-    "title": "Video of two brothers Irish step dancing to Beyonc\u00e9's country hit 'Texas Hold 'Em' is pure delight - upworthy.com",
+    "title": "Opinion | In 'Spider-Man: Brand New Day,' great power comes with great loneliness. - MS NOW",
+    "artist": "Spider-Man",
+    "source": "MS NOW",
+    "time": "2026-08-01",
+    "image": "https://www.ms.now/wp-content/uploads/2026/07/260730-spiderman-brand-new-day-tom-holland-pi.webp?w=1200&h=630&crop=1",
+    "spotify": "https://www.ms.now/opinion/spider-man-brand-new-day-movie-heroism",
+    "category": "Movies"
+  },
+  {
+    "title": "Video of two brothers Irish step dancing to Beyonc\u00e9's country hit 'Texas Hold 'Em' is pure delight - Upworthy",
     "artist": "Beyonce",
-    "source": "upworthy.com",
+    "source": "Upworthy",
     "time": "2026-08-01",
     "image": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/05/origin-175.jpg",
     "spotify": "https://www.upworthy.com/irish-brothers-step-dance-to-beyonce-video-ex1-2/",
@@ -180,30 +198,12 @@
     "category": "Music"
   },
   {
-    "title": "Sadie Sink\u2019s Secret Role in \u2018Spider-Man: Brand New Day\u2019 Finally Revealed - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-07-31",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Sadie-Sink-Spider-Man-Brand-New-Day-getty-H-2026.png?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/sadie-sinks-spider-man-brand-new-day-role-revealed-1236654621/",
-    "category": "Movies"
-  },
-  {
     "title": "What Jean Grey's Debut in Spider-Man: Brand New Day Means for the Future of the X-Men in the MCU - Time Magazine",
     "artist": "Spider-Man",
     "source": "Time Magazine",
     "time": "2026-07-31",
     "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1984f18685bfc1a4/6a6a2319a3531f31f2bd79b9/Screenshot_2026-07-28_at_1.49.00_PM.png?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp&amp;crop=16:9",
     "spotify": "https://time.com/article/2026/07/29/spider-man-brand-new-day-jean-grey-x-men/",
-    "category": "Movies"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 post-credits scene explained - Entertainment Weekly",
-    "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
-    "time": "2026-07-31",
-    "image": "",
-    "spotify": "https://ew.com/spider-man-brand-new-day-post-credits-scene-explained-12031402",
     "category": "Movies"
   },
   {
@@ -256,14 +256,14 @@
     "artist": "Beyonce",
     "source": "The Spirits Business",
     "time": "2026-07-28",
-    "image": "https://www.thespiritsbusiness.com/content/uploads/2024/08/Sir-Davis-Beyonce.jpg",
+    "image": "",
     "spotify": "https://www.thespiritsbusiness.com/2026/07/beyonce-takes-ownership-of-sirdavis-american-whisky/",
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - vogue.com",
+    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
     "artist": "Zendaya",
-    "source": "vogue.com",
+    "source": "Vogue",
     "time": "2026-07-20",
     "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
     "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
