@@ -1,11 +1,38 @@
 [
   {
+    "title": "Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.",
+    "artist": "2 Corinthians 7:10",
+    "source": "OurManna",
+    "time": "2026-08-08",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-08",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter - AP News",
     "artist": "Zendaya",
     "source": "AP News",
     "time": "2026-08-07",
     "image": "https://dims.apnews.com/dims4/default/b2b1a8f/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F09%2Fd3a82c21fa115170742a2731e898%2Fe0809ba8bc56406aa996cd0787fd6917",
     "spotify": "https://apnews.com/article/matieres-fecales-fecal-matter-fashion-zendaya-81e69cc7e111c1d475c8b480919f5b97",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-08-07",
+    "image": "https://assets.vogue.com/photos/6a7610ce5342a3fdf3406a6a/16:9/w_1280,c_limit/BGUS_3654195_018.jpg",
+    "spotify": "https://www.vogue.com/article/tom-holland-zendaya-debut-matching-gold-wedding-bands",
     "category": "Zendaya"
   },
   {
@@ -36,30 +63,30 @@
     "category": "Zendaya"
   },
   {
-    "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter - Ottumwa Courier",
-    "artist": "Zendaya",
-    "source": "Ottumwa Courier",
-    "time": "2026-08-07",
-    "image": "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/e/7e/e7e44a04-bb1a-5f00-9b7b-b63ae96c87ad/6a75aeb0d15c6.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-    "spotify": "https://www.ottumwacourier.com/news/national_news/why-celebrities-from-zendaya-to-kylie-jenner-are-wearing-fecal-matter/article_48e59b73-ba5e-5363-93cf-4b3663914f37.html",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Box Office: 'One Night Only' Tops Previews, 'Spider-Man' Eyes $140 Million - Deadline",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Scores Biggest First Week in Box Office History - The Hollywood Reporter",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "The Hollywood Reporter",
     "time": "2026-08-07",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/monica-barbaro-callum-turner-one-night-only-1420x798-1.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-17598_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-biggest-first-week-1236668259/",
     "category": "Movies"
   },
   {
-    "title": "Watch This Spider-Man Is 'Deeper,' Say Sony's Rothman - Bloomberg.com",
+    "title": "Sadie Sink's 'Spider-Man' mystery is over. Her MCU story is just beginning. - Yahoo",
     "artist": "Spider-Man",
-    "source": "Bloomberg.com",
+    "source": "Yahoo",
+    "time": "2026-08-07",
+    "image": "https://s.yimg.com/lo/mysterio/api/21fe5660d565136d2752f7f96763d21c8138f9d30eb7a8025eedeb2d401ad55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-sadie-sink_4077.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/article/sadie-sinks-spider-man-secret-is-out--and-shell-play-a-key-role-in-the-mcus-future-222304748.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Sadie Sink Can Finally Talk About Her \u2018Spider-Man\u2019 Role\u2014And Her MCU Future - Gizmodo",
+    "artist": "Spider-Man",
+    "source": "Gizmodo",
     "time": "2026-08-07",
     "image": "",
-    "spotify": "https://www.bloomberg.com/news/videos/2026-08-07/this-spider-man-is-deeper-say-sony-s-rothman-video",
+    "spotify": "https://gizmodo.com/sadie-sink-can-finally-talk-about-her-spider-man-role-and-her-mcu-future-2000795935",
     "category": "Movies"
   },
   {
@@ -81,13 +108,13 @@
     "category": "Movies"
   },
   {
-    "title": "Sadie Sink's 'Spider-Man' mystery is over. Her MCU story is just beginning. - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
+    "title": "Jay-Z's New Verse on a Beyonc\u00e9 Outtake, Plus Karol G and More Songs You Need to Know This Week - Rolling Stone",
+    "artist": "Beyonce",
+    "source": "Rolling Stone",
     "time": "2026-08-07",
-    "image": "https://s.yimg.com/lo/mysterio/api/21fe5660d565136d2752f7f96763d21c8138f9d30eb7a8025eedeb2d401ad55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-sadie-sink_4077.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/sadie-sinks-spider-man-secret-is-out--and-shell-play-a-key-role-in-the-mcus-future-222304748.html",
-    "category": "Movies"
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-25.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-features/jay-z-beyonce-karol-g-ravyn-lenae-songs-you-need-to-know-1235603879/",
+    "category": "Beyonce News"
   },
   {
     "title": "The Listening: New Music From Beyonc\u00e9 & JAY-Z, Pooh Shiesty, T.I., Benny The Butcher and More - Okayplayer",
@@ -99,39 +126,21 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Jay-Z's New Verse on a Beyonc\u00e9 Outtake, Plus Karol G and More Songs You Need to Know This Week - Rolling Stone",
+    "title": "Shaboozey Says Beyonc\u00e9\u2019s Support Became a Real Friendship - Backstage Country",
     "artist": "Beyonce",
-    "source": "Rolling Stone",
-    "time": "2026-08-07",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-25.jpg?w=1600&#038;h=900&#038;crop=1",
-    "spotify": "https://www.rollingstone.com/music/music-features/jay-z-beyonce-karol-g-ravyn-lenae-songs-you-need-to-know-1235603879/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 & Jay-Z Reignite Their Chemistry on the \"Morning Dew (Donk) Remix)\" The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fash - The Hype Magazine",
-    "artist": "Beyonce",
-    "source": "The Hype Magazine",
-    "time": "2026-08-07",
-    "image": "https://www.thehypemagazine.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-204506-e1786063581596.jpg",
-    "spotify": "https://www.thehypemagazine.com/2026/08/06/beyonce-jay-z-reignite-their-chemistry-on-the-morning-dew-donk-remix/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit.",
-    "artist": "1 Corinthians 2:14",
-    "source": "OurManna",
+    "source": "Backstage Country",
     "time": "2026-08-07",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
+    "spotify": "https://backstagecountry.com/2026/08/07/shaboozey-says-beyonces-support-became-a-real-friendship/",
+    "category": "Beyonce News"
   },
   {
-    "title": "Currently featured on beyonce.com",
+    "title": "JA\u0178-Z Joins Beyonc\u00e9 To Give Us More \u2018MORNING DEW (DONK)\u2019 With A Remix Pack - SoulBounce",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "SoulBounce",
     "time": "2026-08-07",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "https://soulbounce.com/wp-content/uploads/2026/08/Beyonce-Morning-Dew-Donk-Remix-Cover-Hero.jpg",
+    "spotify": "https://soulbounce.com/2026/08/beyonce-morning-dew-donk-remix-pack/",
     "category": "Beyonce News"
   },
   {
@@ -144,21 +153,21 @@
     "category": "Music"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Pic To Cross Half Billion At Domestic Box Office - Deadline",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 escapes \u2018superhero fatigue\u2019 for a simple reason - The Washington Post",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "The Washington Post",
     "time": "2026-08-06",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP140.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-fastest-half-billion-record-1237028214/",
+    "image": "",
+    "spotify": "https://www.washingtonpost.com/opinions/2026/08/06/spider-man-brand-new-day-shows-superhero-movies-arent-dead/",
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 & JA\u0178-Z\u2019s \u2018Morning Dew (Donk)\u2019 Remix Sparks Tour Rumors - EBONY Magazine",
+    "title": "#TSRFashion: Go!\ud83d\udea6#JT was in her fashion bag wearing House of Harlot\u2019s iconic latex mini dress, a look also previously seen on #Beyonc\u00e9 in her \u2018Green Light\u2019 music video.\ud83d\udd25 \ud83d\udcf8:@phiawilson\u270d\ud83c\udffe:#TSRStaffJR - instagram.com",
     "artist": "Beyonce",
-    "source": "EBONY Magazine",
+    "source": "instagram.com",
     "time": "2026-08-06",
-    "image": "",
-    "spotify": "https://www.ebony.com/does-beyonce-morning-dew-donk-remix-signal-a-tour-with-jay-z/",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/764485845_18710395195006824_4278568158482113999_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=TicJsXIe9nkQ7kNvwF47tS9&amp;_nc_oc=Adq1ZoldWhQNhBBq15MPz2_PZF_ZJcA01huwefO5jYpZg_Snda5Z7HoDRrfq1Bdwf1Y&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=0DL07rqpepau7x3hAdLCpA&amp;_nc_ss=7e60f&amp;oh=00_AQFjUQmGWZWYrsCvI-KdPhPQ89zOE4luJCVMnZzlLukJRw&amp;oe=6A7C7864",
+    "spotify": "https://www.instagram.com/reel/Dbr8UPwOywe/",
     "category": "Beyonce News"
   },
   {
@@ -207,12 +216,12 @@
     "category": "Music"
   },
   {
-    "title": "Beyonc\u00e9 Drops \u2018Morning Dew (Donk)\u2019 Remix Pack Featuring Jay-Z - billboard.com",
+    "title": "Jay-Z Drops First New Verse in Years on Beyonc\u00e9\u2019s New \u2018Morning Dew (Donk)\u2019 Remix - Rolling Stone",
     "artist": "Beyonce",
-    "source": "billboard.com",
+    "source": "Rolling Stone",
     "time": "2026-08-05",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/06/beyonce-jay-z-screenshot-billboard-1800.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/rb-hip-hop/beyonce-morning-dew-donk-remix-pack-featuring-jay-z-1236309379/",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-20.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-news/beyonce-morning-dew-donk-remix-jay-z-1235603878/",
     "category": "Beyonce News"
   },
   {
@@ -243,22 +252,13 @@
     "category": "Sports"
   },
   {
-    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
+    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - ua.news",
     "artist": "Volleyball",
-    "source": "UA.NEWS",
+    "source": "ua.news",
     "time": "2026-08-04",
     "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
     "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
-  },
-  {
-    "title": "Even Beyonc\u00e9 finds working motherhood really, really hard - Motherly",
-    "artist": "Beyonce",
-    "source": "Motherly",
-    "time": "2026-08-04",
-    "image": "https://e4ukasriyd3.exactdn.com/wp-content/uploads/2021/10/origin-5443.jpg",
-    "spotify": "https://mother.ly/news/celebrity-news/even-beyonce-finds-working-motherhood-really-hard/",
-    "category": "Beyonce News"
   },
   {
     "title": "see you tonight, chicago ! \u2661",
@@ -342,12 +342,12 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
+    "title": "Zendaya Was Born to Dress Like a Goddess - harpersbazaar.com",
     "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-07-20",
-    "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
-    "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
+    "source": "harpersbazaar.com",
+    "time": "2026-07-16",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/c2513010-45b8-4d30-a222-5ca89fae8a99.jpg?crop=1xw:0.889xh;0xw,0.044xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71851224/all-zendaya-the-odyssey-press-tour-looks-photos/",
     "category": "Zendaya"
   },
   {
