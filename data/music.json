@@ -18,12 +18,21 @@
     "category": "Movies"
   },
   {
-    "title": "Ne-Yo and Akon relive R&B\u2019s glory days during raunchy, nostalgia filled KC show - Kansas City Star",
-    "artist": "Beyonce",
-    "source": "Kansas City Star",
+    "title": "How \u2018Spider-Man: Brand New Day\u2019s\u2019 Climactic Fight Scene Secretly Evokes Jean Grey\u2019s Phoenix - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
     "time": "2026-08-08",
-    "image": "",
-    "spotify": "https://www.kansascity.com/entertainment/kansas-city/article316810525.html",
+    "image": "https://variety.com/wp-content/uploads/2026/08/WEB1500_TRL_comp_SPI_v0037.1036.png?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/artisans/news/spider-man-brand-new-day-fight-scene-jean-grey-phoenix-1236830062/",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s Decade-Old Song Helps Her Reach A Chart Milestone - Forbes",
+    "artist": "Beyonce",
+    "source": "Forbes",
+    "time": "2026-08-08",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a773e49fc6eeb6de28aed46/0x0.jpg?format=jpg&amp;crop=3028,1703,x0,y73,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/08/beyoncs-decade-old-song-helps-her-reach-a-chart-milestone/",
     "category": "Beyonce News"
   },
   {
@@ -54,15 +63,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Tom Holland and Zendaya Debut Their Matching Gold Wedding Bands - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-08-07",
-    "image": "https://assets.vogue.com/photos/6a7610ce5342a3fdf3406a6a/16:9/w_1280,c_limit/BGUS_3654195_018.jpg",
-    "spotify": "https://www.vogue.com/article/tom-holland-zendaya-debut-matching-gold-wedding-bands",
-    "category": "Zendaya"
-  },
-  {
     "title": "Tom Holland\u2019s Wedding Ring Has One Key Thing in Common With Zendaya\u2019s - ELLE",
     "artist": "Zendaya",
     "source": "ELLE",
@@ -81,33 +81,6 @@
     "category": "Movies"
   },
   {
-    "title": "Sadie Sink really doesn't know where her Spider-Man character is going - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-07",
-    "image": "https://s.yimg.com/lo/mysterio/api/0c6030d20a51b691cab89ec15562fc1891ef94aa223489c64df63a86bf5db0b6/lightyear_networkapi/resizefill_w151_h151%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fav_club_632%2F004c7f4428669c1f5ae1c23d870c2cf2",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/sadie-sink-really-doesnt-know-195115446.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Sadie Sink Can Finally Talk About Her \u2018Spider-Man\u2019 Role\u2014And Her MCU Future - Gizmodo",
-    "artist": "Spider-Man",
-    "source": "Gizmodo",
-    "time": "2026-08-07",
-    "image": "",
-    "spotify": "https://gizmodo.com/sadie-sink-can-finally-talk-about-her-spider-man-role-and-her-mcu-future-2000795935",
-    "category": "Movies"
-  },
-  {
-    "title": "The Biggest Problem With Spider-Man: Brand New Day That Nobody Is Talking About - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-07",
-    "image": "https://s.yimg.com/lo/mysterio/api/1d2db54a4428f53eeade26f01eda1ff36434cfe2f1d0990248431dbeea875b19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_828%2F7d8e62cf29cb07ec8ee86803a74899f5",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/biggest-problem-spider-man-brand-144352412.html",
-    "category": "Movies"
-  },
-  {
     "title": "Ranking All 9 Live-Action SPIDER-MAN Films - Nerdist",
     "artist": "Spider-Man",
     "source": "Nerdist",
@@ -115,6 +88,15 @@
     "image": "",
     "spotify": "https://nerdist.com/article/ranking-all-9-live-action-spider-man-films/",
     "category": "Movies"
+  },
+  {
+    "title": "Staff Picks: Best Songs of the Week August 1st - 7th - consequence.net",
+    "artist": "Beyonce",
+    "source": "consequence.net",
+    "time": "2026-08-07",
+    "image": "https://consequence.net/wp-content/uploads/2026/08/songs-of-the-week-aug-7.jpg",
+    "spotify": "https://consequence.net/list/staff-picks-best-songs-of-the-week-august-1st-7th/",
+    "category": "Beyonce News"
   },
   {
     "title": "The Listening: New Music From Beyonc\u00e9 & JAY-Z, Pooh Shiesty, T.I., Benny The Butcher and More - Okayplayer",
@@ -133,6 +115,33 @@
     "image": "https://i.ytimg.com/vi/BPxKZS1PeWU/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=BPxKZS1PeWU",
     "category": "Music"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 escapes \u2018superhero fatigue\u2019 for a simple reason - The Washington Post",
+    "artist": "Spider-Man",
+    "source": "The Washington Post",
+    "time": "2026-08-06",
+    "image": "",
+    "spotify": "https://www.washingtonpost.com/opinions/2026/08/06/spider-man-brand-new-day-shows-superhero-movies-arent-dead/",
+    "category": "Movies"
+  },
+  {
+    "title": "Shaboozey Opens Up About His Lasting Bond with Beyonc\u00e9 After Cowboy Carter: \u2018A Really Good Friend\u2019 - people.com",
+    "artist": "Beyonce",
+    "source": "people.com",
+    "time": "2026-08-06",
+    "image": "",
+    "spotify": "https://people.com/shaboozey-talks-lasting-bond-really-good-friend-beyonce-after-cowboy-carter-12036074",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "#TSRFashion: Go!\ud83d\udea6#JT was in her fashion bag wearing House of Harlot\u2019s iconic latex mini dress, a look also previously seen on #Beyonc\u00e9 in her \u2018Green Light\u2019 music video.\ud83d\udd25 \ud83d\udcf8:@phiawilson\u270d\ud83c\udffe:#TSRStaffJR - instagram.com",
+    "artist": "Beyonce",
+    "source": "instagram.com",
+    "time": "2026-08-06",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/764485845_18710395195006824_4278568158482113999_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=TicJsXIe9nkQ7kNvwE8AK0x&amp;_nc_oc=AdpCCYaFCQ16qgonhp9mIweVkopYzV0MI5TRrx9bzZgkQe3DfW7h4i8oofM4mMvZagg&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=wkbV4pvu-r_eFOH13PK-qw&amp;_nc_ss=7e60f&amp;oh=00_AQEW5GCZKdh_bo3oVnch6881o6LgoKMCfQFAmZJxnWE50A&amp;oe=6A7D5964",
+    "spotify": "https://www.instagram.com/reel/Dbr8UPwOywe/",
+    "category": "Beyonce News"
   },
   {
     "title": "MORNING DEW (DONK MIX)",
@@ -180,21 +189,12 @@
     "category": "Music"
   },
   {
-    "title": "Beyonc\u00e9 Drops \u2018Morning Dew (Donk)\u2019 Remix Pack Featuring Jay-Z - billboard.com",
+    "title": "Jay-Z Drops First New Verse in Years on Beyonc\u00e9\u2019s New \u2018Morning Dew (Donk)\u2019 Remix - Rolling Stone",
     "artist": "Beyonce",
-    "source": "billboard.com",
+    "source": "Rolling Stone",
     "time": "2026-08-05",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/06/beyonce-jay-z-screenshot-billboard-1800.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/rb-hip-hop/beyonce-morning-dew-donk-remix-pack-featuring-jay-z-1236309379/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 takes full control of SirDavis whisky after buying out Mo\u00ebt Hennessy - The Drinks Business",
-    "artist": "Beyonce",
-    "source": "The Drinks Business",
-    "time": "2026-08-05",
-    "image": "https://www.thedrinksbusiness.com/content/uploads/2026/08/SirDavis_Credit-Left-MasonPoole_Credit-Right-Julian-Dakdouk-lr-1024x743-1.jpg",
-    "spotify": "https://www.thedrinksbusiness.com/2026/08/beyonce-takes-full-control-of-sirdavis-whisky-after-buying-out-moet-hennessy/",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-20.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-news/beyonce-morning-dew-donk-remix-jay-z-1235603878/",
     "category": "Beyonce News"
   },
   {
@@ -232,15 +232,6 @@
     "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
     "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
-  },
-  {
-    "title": "Even Beyonc\u00e9 finds working motherhood really, really hard - Motherly",
-    "artist": "Beyonce",
-    "source": "Motherly",
-    "time": "2026-08-04",
-    "image": "https://e4ukasriyd3.exactdn.com/wp-content/uploads/2021/10/origin-5443.jpg",
-    "spotify": "https://mother.ly/news/celebrity-news/even-beyonce-finds-working-motherhood-really-hard/",
-    "category": "Beyonce News"
   },
   {
     "title": "see you tonight, chicago ! \u2661",
@@ -297,6 +288,15 @@
     "category": "Music"
   },
   {
+    "title": "Sadie Sink\u2019s Role In \u2018Spider-Man: Brand New Day\u2019 Explained - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-07-31",
+    "image": "https://deadline.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day_d3dbdf-e1785546289906.jpg?w=1024",
+    "spotify": "https://deadline.com/feature/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1237014567/",
+    "category": "Movies"
+  },
+  {
     "title": "See Zendaya's Full Style Evolution - Who What Wear",
     "artist": "Zendaya",
     "source": "Who What Wear",
@@ -340,6 +340,15 @@
     "image": "https://i.ytimg.com/vi/bzhxjN4I780/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=bzhxjN4I780",
     "category": "Music"
+  },
+  {
+    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-07-20",
+    "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
+    "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
+    "category": "Zendaya"
   },
   {
     "title": "Tahoe Nights",
