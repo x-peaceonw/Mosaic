@@ -1,5 +1,23 @@
 [
   {
+    "title": "If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God.",
+    "artist": "1 John 4:15",
+    "source": "OurManna",
+    "time": "2026-08-09",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-09",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya's Best Red Carpet Looks, Ranked - The Zoe Report",
     "artist": "Zendaya",
     "source": "The Zoe Report",
@@ -18,40 +36,13 @@
     "category": "Movies"
   },
   {
-    "title": "How \u2018Spider-Man: Brand New Day\u2019s\u2019 Climactic Fight Scene Secretly Evokes Jean Grey\u2019s Phoenix - Variety",
+    "title": "Every Spider-Man Actor Ranked: From Nicholas Hammond to Tom Holland - JoBlo",
     "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-08-08",
-    "image": "https://variety.com/wp-content/uploads/2026/08/WEB1500_TRL_comp_SPI_v0037.1036.png?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/artisans/news/spider-man-brand-new-day-fight-scene-jean-grey-phoenix-1236830062/",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s Decade-Old Song Helps Her Reach A Chart Milestone - Forbes",
-    "artist": "Beyonce",
-    "source": "Forbes",
-    "time": "2026-08-08",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a773e49fc6eeb6de28aed46/0x0.jpg?format=jpg&amp;crop=3028,1703,x0,y73,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
-    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/08/beyoncs-decade-old-song-helps-her-reach-a-chart-milestone/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.",
-    "artist": "2 Corinthians 7:10",
-    "source": "OurManna",
+    "source": "JoBlo",
     "time": "2026-08-08",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-08",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
+    "spotify": "https://www.joblo.com/spider-man-actors-ranked-2/",
+    "category": "Movies"
   },
   {
     "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter - AP News",
@@ -72,15 +63,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Sadie Sink Finally Speaks About Her Top Secret \u2018Spider-Man\u2019 Character - Vanity Fair",
-    "artist": "Spider-Man",
-    "source": "Vanity Fair",
-    "time": "2026-08-07",
-    "image": "https://media.vanityfair.com/photos/6a74e7a8221c800ada3501fe/16:9/w_1280,c_limit/GettyImages-2287928448.jpg",
-    "spotify": "https://www.vanityfair.com/story/sadie-sink-x-men-jean-grey-spider-man",
-    "category": "Movies"
-  },
-  {
     "title": "Ranking All 9 Live-Action SPIDER-MAN Films - Nerdist",
     "artist": "Spider-Man",
     "source": "Nerdist",
@@ -88,6 +70,24 @@
     "image": "",
     "spotify": "https://nerdist.com/article/ranking-all-9-live-action-spider-man-films/",
     "category": "Movies"
+  },
+  {
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Encyclopedia Britannica",
+    "artist": "Volleyball",
+    "source": "Encyclopedia Britannica",
+    "time": "2026-08-07",
+    "image": "",
+    "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
+    "category": "Sports"
+  },
+  {
+    "title": "Jay-Z's New Verse on a Beyonc\u00e9 Outtake, Plus Karol G and More Songs You Need to Know This Week - Rolling Stone",
+    "artist": "Beyonce",
+    "source": "Rolling Stone",
+    "time": "2026-08-07",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-25.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-features/jay-z-beyonce-karol-g-ravyn-lenae-songs-you-need-to-know-1235603879/",
+    "category": "Beyonce News"
   },
   {
     "title": "Staff Picks: Best Songs of the Week August 1st - 7th - consequence.net",
@@ -126,9 +126,9 @@
     "category": "Movies"
   },
   {
-    "title": "Shaboozey Opens Up About His Lasting Bond with Beyonc\u00e9 After Cowboy Carter: \u2018A Really Good Friend\u2019 - people.com",
+    "title": "Shaboozey Opens Up About His Lasting Bond with Beyonc\u00e9 After Cowboy Carter: \u2018A Really Good Friend\u2019 - People.com",
     "artist": "Beyonce",
-    "source": "people.com",
+    "source": "People.com",
     "time": "2026-08-06",
     "image": "",
     "spotify": "https://people.com/shaboozey-talks-lasting-bond-really-good-friend-beyonce-after-cowboy-carter-12036074",
@@ -139,7 +139,7 @@
     "artist": "Beyonce",
     "source": "instagram.com",
     "time": "2026-08-06",
-    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/764485845_18710395195006824_4278568158482113999_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=TicJsXIe9nkQ7kNvwE8AK0x&amp;_nc_oc=AdpCCYaFCQ16qgonhp9mIweVkopYzV0MI5TRrx9bzZgkQe3DfW7h4i8oofM4mMvZagg&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=wkbV4pvu-r_eFOH13PK-qw&amp;_nc_ss=7e60f&amp;oh=00_AQEW5GCZKdh_bo3oVnch6881o6LgoKMCfQFAmZJxnWE50A&amp;oe=6A7D5964",
+    "image": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/764485845_18710395195006824_4278568158482113999_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=TicJsXIe9nkQ7kNvwFVDanM&amp;_nc_oc=AdoL9Mut7WpHoGq6gHeUPVmgg6VLMM59KbJ9q17GKMYYXuT4GB3gYDILN-YCxVju4Io&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=O5j7Wx9b3QA2A09uPCE95Q&amp;_nc_ss=7e60f&amp;oh=00_AQHu0L_NKLAU78sKDfNdTNnE1yOzwItXGTQVFQzDSAX5VQ&amp;oe=6A7DC9E4",
     "spotify": "https://www.instagram.com/reel/Dbr8UPwOywe/",
     "category": "Beyonce News"
   },
@@ -189,12 +189,21 @@
     "category": "Music"
   },
   {
-    "title": "Jay-Z Drops First New Verse in Years on Beyonc\u00e9\u2019s New \u2018Morning Dew (Donk)\u2019 Remix - Rolling Stone",
-    "artist": "Beyonce",
-    "source": "Rolling Stone",
+    "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks - CNBC",
+    "artist": "Spider-Man",
+    "source": "CNBC",
     "time": "2026-08-05",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-20.jpg?w=1600&#038;h=900&#038;crop=1",
-    "spotify": "https://www.rollingstone.com/music/music-news/beyonce-morning-dew-donk-remix-jay-z-1235603878/",
+    "image": "https://image.cnbcfm.com/api/v1/image/108344675-1785863877100-Movies.jpg?v=1785965722&amp;w=1920&amp;h=1080",
+    "spotify": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Kevin Hart Joins The Beyonc\u00e9 And Jay-Z As One Of The Highest-Grossinh Black Touring Acts In History - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-08-05",
+    "image": "https://s.yimg.com/lo/mysterio/api/dca1bdf23d4da4b06a44ba2de02334927841fdc5f349093c2b323e56e50ba96f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafrotech_articles_589%2Fc9274aa8bbfcebab1a074bda5f601921",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/kevin-hart-joins-beyonc-jay-165459774.html",
     "category": "Beyonce News"
   },
   {
@@ -243,6 +252,15 @@
     "category": "Music"
   },
   {
+    "title": "Every \u2018Spider-Man\u2019 Movie Ranked From Worst to Best - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-08-03",
+    "image": "https://variety.com/wp-content/uploads/2023/06/spider-man.png?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/lists/spider-man-movies-ranked-best-worst/",
+    "category": "Movies"
+  },
+  {
     "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
     "artist": "Volleyball",
     "source": "Volleyball World",
@@ -286,15 +304,6 @@
     "image": "https://i.ytimg.com/vi/xtp6jtHnL_I/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=xtp6jtHnL_I",
     "category": "Music"
-  },
-  {
-    "title": "Sadie Sink\u2019s Role In \u2018Spider-Man: Brand New Day\u2019 Explained - Deadline",
-    "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-07-31",
-    "image": "https://deadline.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day_d3dbdf-e1785546289906.jpg?w=1024",
-    "spotify": "https://deadline.com/feature/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1237014567/",
-    "category": "Movies"
   },
   {
     "title": "See Zendaya's Full Style Evolution - Who What Wear",
@@ -349,14 +358,5 @@
     "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
     "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
     "category": "Zendaya"
-  },
-  {
-    "title": "Tahoe Nights",
-    "artist": "Rascal Flatts",
-    "source": "Spotify",
-    "time": "2026-07-10",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fc16cd71a468a3bc97462c0c",
-    "spotify": "https://open.spotify.com/album/2Z4aDzK7tCJZX0b9mR6jEp",
-    "category": "Music"
   }
 ]
