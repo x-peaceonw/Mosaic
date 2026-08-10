@@ -1,5 +1,32 @@
 [
   {
+    "title": "Box-Office Weekend: That\u2019s Two for Spider-man - imdb.com",
+    "artist": "Spider-Man",
+    "source": "imdb.com",
+    "time": "2026-08-10",
+    "image": "",
+    "spotify": "https://www.imdb.com/news/ni65964956/?ref_=ttnw_art_perm",
+    "category": "Movies"
+  },
+  {
+    "title": "Everyone who does evil hates the light, and will not come into the light for fear that their deeds will be exposed. But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.",
+    "artist": "John 3:20-21",
+    "source": "OurManna",
+    "time": "2026-08-10",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-10",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya's Best Red Carpet Looks From Her Spider-Man: Brand New Day Press Tour - Vanity Fair",
     "artist": "Zendaya",
     "source": "Vanity Fair",
@@ -9,39 +36,30 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya and Tom Debut Their New Wedding Rings - whowhatwear.com",
+    "title": "Zendaya and Tom Debut Their New Wedding Rings - Who What Wear",
     "artist": "Zendaya",
-    "source": "whowhatwear.com",
+    "source": "Who What Wear",
     "time": "2026-08-09",
     "image": "https://cdn.mos.cms.futurecdn.net/XPBsV6uMoNMU6ZXsSKBiHV-1200-80.jpg",
     "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
     "category": "Zendaya"
   },
   {
-    "title": "The outfit that made Zendaya's jaw drop - BBC",
+    "title": "\"Fecal Matter\" mocked luxury fashion. Then luxury fashion bought it - Salon.com",
     "artist": "Zendaya",
-    "source": "BBC",
+    "source": "Salon.com",
     "time": "2026-08-09",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0p3kkh7.jpg",
-    "spotify": "https://www.bbc.com/news/videos/c70gnl589y6o",
+    "image": "https://www.salon.com/app/uploads/2026/08/GettyImages-2286145508.jpg",
+    "spotify": "https://www.salon.com/2026/08/09/fecal-matter-mocked-luxury-fashion-then-luxury-fashion-bought-it/",
     "category": "Zendaya"
   },
   {
-    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Flies to Third-Biggest Second Weekend of All Time With $145 Million - Variety",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Catches Third-Best U.S. 2nd Weekend With $145M \u2013 Sunday Box Office Update - Deadline",
     "artist": "Spider-Man",
-    "source": "Variety",
+    "source": "Deadline",
     "time": "2026-08-09",
-    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP145_caa72f.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
-    "category": "Movies"
-  },
-  {
-    "title": "What Phone Is Spider-Man Using In Brand New Day? - bgr.com",
-    "artist": "Spider-Man",
-    "source": "bgr.com",
-    "time": "2026-08-09",
-    "image": "https://www.bgr.com/img/gallery/what-phone-is-spider-man-using-in-brand-new-day/l-intro-1786113969.jpg",
-    "spotify": "https://www.bgr.com/2232416/what-phone-spider-man-using-samsung-galaxy-z-fold/",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP111.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
     "category": "Movies"
   },
   {
@@ -63,6 +81,24 @@
     "category": "Movies"
   },
   {
+    "title": "What Phone Is Spider-Man Using In Brand New Day? - bgr.com",
+    "artist": "Spider-Man",
+    "source": "bgr.com",
+    "time": "2026-08-09",
+    "image": "https://www.bgr.com/img/gallery/what-phone-is-spider-man-using-in-brand-new-day/l-intro-1786113969.jpg",
+    "spotify": "https://www.bgr.com/2232416/what-phone-spider-man-using-samsung-galaxy-z-fold/",
+    "category": "Movies"
+  },
+  {
+    "title": "Major Marvel staple cut from Spider-Man: Brand New Day without warning - Bam Smack Pow",
+    "artist": "Spider-Man",
+    "source": "Bam Smack Pow",
+    "time": "2026-08-09",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_164,y_34,w_1316,h_740/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/308/01kzkxwnzk73sybe5r3w.jpg",
+    "spotify": "https://bamsmackpow.com/major-marvel-mcu-staple-cut-spider-man-brand-new-day-the-hand-warning",
+    "category": "Movies"
+  },
+  {
     "title": "Our Songs of Summer playlist feat. Charli XCX, Beyonc\u00e9, Taylor Swift, the Rolling Stones, and Kurt Vile - Inquirer.com",
     "artist": "Beyonce",
     "source": "Inquirer.com",
@@ -70,33 +106,6 @@
     "image": "https://www.inquirer.com/resizer/v2/XEZOPBRPL2PR3WLL6HGOEWPT2Q.jpg?auth=8c0f895c4184c456c4a217cd5277beba0400f7e0051582f0120b8a0eb04bf45c&amp;width=760&amp;height=507&amp;smart=true",
     "spotify": "https://www.inquirer.com/entertainment/music/best-songs-summer-2026-beyonce-rolling-stones-taylor-swift-20260809.html",
     "category": "Beyonce News"
-  },
-  {
-    "title": "If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God.",
-    "artist": "1 John 4:15",
-    "source": "OurManna",
-    "time": "2026-08-09",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-09",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "11 Comics to Read After \u2018Spider-Man: Brand New Day\u2019 - TheWrap",
-    "artist": "Spider-Man",
-    "source": "TheWrap",
-    "time": "2026-08-08",
-    "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Untitled-design-2026-07-27T144706.846.jpg",
-    "spotify": "https://www.thewrap.com/creative-content/what-to-watch/spider-man-brand-new-day-comics-to-read-after/",
-    "category": "Movies"
   },
   {
     "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter - AP News",
@@ -108,15 +117,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Ranking All 9 Live-Action SPIDER-MAN Films - Nerdist",
-    "artist": "Spider-Man",
-    "source": "Nerdist",
-    "time": "2026-08-07",
-    "image": "",
-    "spotify": "https://nerdist.com/article/ranking-all-9-live-action-spider-man-films/",
-    "category": "Movies"
-  },
-  {
     "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Encyclopedia Britannica",
     "artist": "Volleyball",
     "source": "Encyclopedia Britannica",
@@ -126,21 +126,21 @@
     "category": "Sports"
   },
   {
-    "title": "Jay-Z's New Verse on a Beyonc\u00e9 Outtake, Plus Karol G and More Songs You Need to Know This Week - Rolling Stone",
+    "title": "Libero | Volleyball, Player, Meaning in Italian, Position, History, & Facts - Encyclopedia Britannica",
+    "artist": "Volleyball",
+    "source": "Encyclopedia Britannica",
+    "time": "2026-08-07",
+    "image": "",
+    "spotify": "https://www.britannica.com/sports/libero",
+    "category": "Sports"
+  },
+  {
+    "title": "Jay-Z's New Verse on a Beyonc\u00e9 Outtake, Plus Karol G and More Songs You Need to Know This Week - rollingstone.com",
     "artist": "Beyonce",
-    "source": "Rolling Stone",
+    "source": "rollingstone.com",
     "time": "2026-08-07",
     "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/JAYZ_Sacha-Lecca-25.jpg?w=1600&#038;h=900&#038;crop=1",
     "spotify": "https://www.rollingstone.com/music/music-features/jay-z-beyonce-karol-g-ravyn-lenae-songs-you-need-to-know-1235603879/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "The Listening: New Music From Beyonc\u00e9 & JAY-Z, Pooh Shiesty, T.I., Benny The Butcher and More - Okayplayer",
-    "artist": "Beyonce",
-    "source": "Okayplayer",
-    "time": "2026-08-07",
-    "image": "https://image.okayplayer.com/1437257.jpg?imageId=1437257&x=0&y=2.96&cropw=100&croph=63.55&panox=0&panoy=2.96&panow=100&panoh=63.55&width=1200&height=683",
-    "spotify": "https://www.okayplayer.com/the-listening-new-music-from-beyonce-jay-z-pooh-shiesty-ti-benny-the-butcher-and-more/1437203",
     "category": "Beyonce News"
   },
   {
@@ -153,13 +153,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "download petal a cappella versions \ua564 \uff61\u02da",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-06",
-    "image": "https://i.ytimg.com/vi/BPxKZS1PeWU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=BPxKZS1PeWU",
-    "category": "Music"
+    "title": "The Listening: New Music From Beyonc\u00e9 & JAY-Z, Pooh Shiesty, T.I., Benny The Butcher and More - Okayplayer",
+    "artist": "Beyonce",
+    "source": "Okayplayer",
+    "time": "2026-08-07",
+    "image": "https://image.okayplayer.com/1437257.jpg?imageId=1437257&x=0&y=2.96&cropw=100&croph=63.55&panox=0&panoy=2.96&panow=100&panoh=63.55&width=1200&height=683",
+    "spotify": "https://www.okayplayer.com/the-listening-new-music-from-beyonce-jay-z-pooh-shiesty-ti-benny-the-butcher-and-more/1437203",
+    "category": "Beyonce News"
   },
   {
     "title": "Shaboozey Opens Up About His Lasting Bond with Beyonc\u00e9 After Cowboy Carter: \u2018A Really Good Friend\u2019 - People.com",
@@ -207,15 +207,6 @@
     "category": "Music"
   },
   {
-    "title": "petal \ua564 \uff61\u02da hello, me again.. i love to sing some more on itunes now for 24 hours",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-05",
-    "image": "https://i.ytimg.com/vi/UtN2hria5AM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UtN2hria5AM",
-    "category": "Music"
-  },
-  {
     "title": "Jay-Z Hops on Beyonc\u00e9\u2019s \u201cMorning Dew (Donk)\u201d Remix - Pitchfork",
     "artist": "Beyonce",
     "source": "Pitchfork",
@@ -231,15 +222,6 @@
     "time": "2026-08-04",
     "image": "https://i.scdn.co/image/ab67616d0000b27347679d13ce36ec4fb1760c41",
     "spotify": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl",
-    "category": "Music"
-  },
-  {
-    "title": "petal \ua564 \uff61\u02da hello, i love to sing version available exclusively on itunes now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-04",
-    "image": "https://i.ytimg.com/vi/UvPR-9OkPQs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UvPR-9OkPQs",
     "category": "Music"
   },
   {
@@ -261,15 +243,6 @@
     "category": "Sports"
   },
   {
-    "title": "see you tonight, chicago ! \u2661",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-03",
-    "image": "https://i.ytimg.com/vi/YmffbbteTcg/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=YmffbbteTcg",
-    "category": "Music"
-  },
-  {
     "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
     "artist": "Volleyball",
     "source": "Volleyball World",
@@ -285,33 +258,6 @@
     "time": "2026-07-31",
     "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
     "spotify": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT",
-    "category": "Music"
-  },
-  {
-    "title": "petal \ua564 \u3002\u02damusic video out now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/xcuk2MUJhcc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=xcuk2MUJhcc",
-    "category": "Music"
-  },
-  {
-    "title": "petal out now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-31",
-    "image": "https://i.ytimg.com/vi/xtp6jtHnL_I/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=xtp6jtHnL_I",
-    "category": "Music"
-  },
-  {
-    "title": "July 28, 2026",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-28",
-    "image": "https://i.ytimg.com/vi/sOByupEha1g/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=sOByupEha1g",
     "category": "Music"
   },
   {
