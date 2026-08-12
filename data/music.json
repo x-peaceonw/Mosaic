@@ -1,5 +1,14 @@
 [
   {
+    "title": "Tom Holland and Zendaya's wedding ruined Vogue Williams' birthday plans - Yahoo Lifestyle Canada",
+    "artist": "Zendaya",
+    "source": "Yahoo Lifestyle Canada",
+    "time": "2026-08-12",
+    "image": "https://s.yimg.com/lo/mysterio/api/d4c1e2b04e164f6707a29e97e4733da87a74b026e8ea54241aa6523ae5a7037d/lightyear_networkapi/resizefill_w1000_h650%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_ca_591%2F99380c78b009f4df6abf3c7aeb7fbb91.jpg",
+    "spotify": "https://ca.style.yahoo.com/tom-holland-zendayas-wedding-ruined-100000117.html",
+    "category": "Zendaya"
+  },
+  {
     "title": "Rosario Dawson Says She's \"A Reject Of Spider-Man\" After 'Brand New Day' Cut 'Daredevil's Claire Temple Cameo - Deadline",
     "artist": "Spider-Man",
     "source": "Deadline",
@@ -7,6 +16,33 @@
     "image": "https://deadline.com/wp-content/uploads/2026/08/rosario-dawson-spider-man-brand-new-day.jpg?w=1024",
     "spotify": "https://deadline.com/2026/08/rosario-dawson-reject-spider-man-cut-daredevil-cameo-1236967045/",
     "category": "Movies"
+  },
+  {
+    "title": "Rosario Dawson Confirms Her Cameo Was Cut From \u2018Spider-Man: Brand New Day\u2019 - Rolling Stone",
+    "artist": "Spider-Man",
+    "source": "Rolling Stone",
+    "time": "2026-08-12",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/GettyImages-2281442019-1.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/tv-movies/tv-movie-news/rosario-dawson-spider-man-brand-new-day-cameo-cut-1235607303/",
+    "category": "Movies"
+  },
+  {
+    "title": "'You met Dimitar Berbatov at a Beyonc\u00e9 concert?!' - BBC",
+    "artist": "Beyonce",
+    "source": "BBC",
+    "time": "2026-08-12",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5b70/live/dd281490-9644-11f1-a7ab-8b30adf0800a.jpg",
+    "spotify": "https://www.bbc.com/sport/football/videos/cly9pw8kk87o",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s \u2018Alien Superstar\u2019 Legal Fight Could Rewrite the Rules for Clearing Music Samples - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-08-12",
+    "image": "https://s.yimg.com/lo/mysterio/api/666642ae270845ffb331d77fefc2a3fe5899c4ad6a89664cbfcc71b68af404f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fd52d4086ac67ba0127be955f3cf1de33.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-alien-superstar-legal-fight-124109821.html",
+    "category": "Beyonce News"
   },
   {
     "title": "How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, \"Your God reigns!\"",
@@ -27,18 +63,9 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Box Office: 'Spider-Man: Brand New Day' Weekend 3 Preview - Deadline",
+    "title": "'Spider-Man' director found his connection to the world at the movies - npr.org",
     "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-08-11",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP127.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-third-weekend-1237031204/",
-    "category": "Movies"
-  },
-  {
-    "title": "'Spider-Man' director found his connection to the world at the movies - NPR",
-    "artist": "Spider-Man",
-    "source": "NPR",
+    "source": "npr.org",
     "time": "2026-08-11",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1124+0+84/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fb2%2F9c9f1dfa4023a1c6f1d8b639ed9f%2Fsbnd-00719-r-1.jpg",
     "spotify": "https://www.npr.org/2026/08/11/nx-s1-5927424/spider-man-destin-daniel-cretton",
@@ -54,15 +81,6 @@
     "category": "Movies"
   },
   {
-    "title": "Rosario Dawson says she filmed cut \u2018Spider-Man: Brand New Day\u2019 scene - Entertainment Weekly",
-    "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
-    "time": "2026-08-11",
-    "image": "",
-    "spotify": "https://ew.com/rosario-dawson-cut-scene-spider-man-brand-new-day-12057274",
-    "category": "Movies"
-  },
-  {
     "title": "Chris Evans\u2019 Spider-Man Movie Is Suddenly a Streaming Hit Again - Yahoo",
     "artist": "Spider-Man",
     "source": "Yahoo",
@@ -70,6 +88,15 @@
     "image": "https://s.yimg.com/lo/mysterio/api/63342f4946e223b8704768187f82ee5fa44e0b3d7918c453ff233917ceacb7c2/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2Fc5edc0d546ea96aeb63ad636d331a260.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/articles/chris-evans-spider-man-movie-122500386.html",
     "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9 Buys Out LVMH for Control of SirDavis Whisky: Reports - Billboard",
+    "artist": "Beyonce",
+    "source": "Billboard",
+    "time": "2026-08-11",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/08/P10783DB-e1785772703344.jpg?w=1024",
+    "spotify": "https://www.billboard.com/pro/beyonce-buys-sirdavis-whisky-brand-controlling-stake/",
+    "category": "Beyonce News"
   },
   {
     "title": "Beyonc\u00e9 Knowles-Carter Buys LVMH\u2019s Stake In SirDavis Whiskey Brand - WWD",
@@ -81,48 +108,30 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 Dragged to Court Over Alleged Unauthorized Sample - TMZ",
-    "artist": "Beyonce",
-    "source": "TMZ",
-    "time": "2026-08-11",
-    "image": "https://imagez.tmz.com/image/b5/16by9/2026/08/11/b5551a2f816e4e82a6cebdf6ee84ab77_xl.jpg",
-    "spotify": "https://www.tmz.com/2026/08/10/beyonce-sued-over-music-sample/",
-    "category": "Beyonce News"
+    "title": "Weekend Box Office: Spider-Man: Brand New Day Continues Its Epic Run - editorial.rottentomatoes.com",
+    "artist": "Spider-Man",
+    "source": "editorial.rottentomatoes.com",
+    "time": "2026-08-10",
+    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO2-Rep.jpg?w=600",
+    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-2/",
+    "category": "Movies"
   },
   {
-    "title": "Ryan Beatty Talks Post-Beyonc\u00e9 Breakout and Sharing Love Songs With His Boyfriend: \u2018It\u2019s Awkward at First\u2019 - Billboard",
+    "title": "Beyonce buys out LVMH's stake in SirDavis whisky - reuters.com",
     "artist": "Beyonce",
-    "source": "Billboard",
-    "time": "2026-08-11",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/08/ryan-beatty-2026-press-2bentertainment-cr-michael-bailey-gates-1800-billboard.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/music-news/ryan-beatty-sweet-fortune-interview-1236312968/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonce buys out LVMH's stake in SirDavis whisky - Reuters",
-    "artist": "Beyonce",
-    "source": "Reuters",
+    "source": "reuters.com",
     "time": "2026-08-10",
     "image": "",
     "spotify": "https://www.reuters.com/business/retail-consumer/beyonce-buys-out-lvmhs-stake-sirdavis-whisky-2026-08-10/",
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 buys full control of her whiskey brand from LVMH - The Times",
+    "title": "Beyonc\u00e9 buys full control of her whiskey brand from LVMH - thetimes.com",
     "artist": "Beyonce",
-    "source": "The Times",
+    "source": "thetimes.com",
     "time": "2026-08-10",
     "image": "https://www.thetimes.com/imageserver/image/bf7a52bb-997a-4fea-b214-4fc783c6f2b5.jpg?strip=all&#038;format=webp&#038;crop=1440px%2C810px%2C0px%2C313px&#038;resize=1200",
     "spotify": "https://www.thetimes.com/business/companies-markets/article/beyonce-buys-full-control-of-her-whiskey-brand-from-lvmh-3cqjg0b68",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Something big just changed at Beyonc\u00e9\u2019s whiskey brand - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-08-10",
-    "image": "https://s.yimg.com/lo/mysterio/api/b577dcbc65cf6c1499463bd449556917602d3290637874d2bdea6e7a2a253f79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffastcompany_735%2F69511100418a83f71af8f31325c045a3.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/something-big-just-changed-beyonc-203000005.html",
     "category": "Beyonce News"
   },
   {
@@ -135,21 +144,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya and Tom Debut Their New Wedding Rings - Who What Wear",
+    "title": "Zendaya and Tom Debut Their New Wedding Rings - whowhatwear.com",
     "artist": "Zendaya",
-    "source": "Who What Wear",
+    "source": "whowhatwear.com",
     "time": "2026-08-09",
     "image": "https://cdn.mos.cms.futurecdn.net/XPBsV6uMoNMU6ZXsSKBiHV-1200-80.jpg",
     "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
-    "category": "Zendaya"
-  },
-  {
-    "title": "The outfit that made Zendaya's jaw drop - bbc.com",
-    "artist": "Zendaya",
-    "source": "bbc.com",
-    "time": "2026-08-09",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0p3kkh7.jpg",
-    "spotify": "https://www.bbc.com/news/videos/c70gnl589y6o",
     "category": "Zendaya"
   },
   {
