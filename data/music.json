@@ -36,15 +36,6 @@
     "category": "Movies"
   },
   {
-    "title": "\u2018Spider-Man 2\u2019 Is Still the Best \u2018Spider-Man\u2019 Movie - TheWrap",
-    "artist": "Spider-Man",
-    "source": "TheWrap",
-    "time": "2026-08-11",
-    "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Spider-Man-2.jpg",
-    "spotify": "https://www.thewrap.com/creative-content/movies/best-spider-man-movie-brand-new-day/",
-    "category": "Movies"
-  },
-  {
     "title": "'Spider-Man' director found his connection to the world at the movies - NPR",
     "artist": "Spider-Man",
     "source": "NPR",
@@ -63,21 +54,30 @@
     "category": "Movies"
   },
   {
+    "title": "Rosario Dawson says she filmed cut \u2018Spider-Man: Brand New Day\u2019 scene - Entertainment Weekly",
+    "artist": "Spider-Man",
+    "source": "Entertainment Weekly",
+    "time": "2026-08-11",
+    "image": "",
+    "spotify": "https://ew.com/rosario-dawson-cut-scene-spider-man-brand-new-day-12057274",
+    "category": "Movies"
+  },
+  {
+    "title": "Chris Evans\u2019 Spider-Man Movie Is Suddenly a Streaming Hit Again - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-08-11",
+    "image": "https://s.yimg.com/lo/mysterio/api/63342f4946e223b8704768187f82ee5fa44e0b3d7918c453ff233917ceacb7c2/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2Fc5edc0d546ea96aeb63ad636d331a260.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/chris-evans-spider-man-movie-122500386.html",
+    "category": "Movies"
+  },
+  {
     "title": "Beyonc\u00e9 Knowles-Carter Buys LVMH\u2019s Stake In SirDavis Whiskey Brand - WWD",
     "artist": "Beyonce",
     "source": "WWD",
     "time": "2026-08-11",
     "image": "https://wwd.com/wp-content/uploads/2024/08/2024_SIRDAVIS_01-e1724166457415.jpg?w=1000&#038;h=563&#038;crop=1",
     "spotify": "https://wwd.com/business-news/financial/beyonce-full-control-sirdavis-lvmh-stake-buyout-1239100675/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Buys Out LVMH for Control of SirDavis Whisky: Reports - Billboard",
-    "artist": "Beyonce",
-    "source": "Billboard",
-    "time": "2026-08-11",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/08/P10783DB-e1785772703344.jpg?w=1024",
-    "spotify": "https://www.billboard.com/pro/beyonce-buys-sirdavis-whisky-brand-controlling-stake/",
     "category": "Beyonce News"
   },
   {
@@ -90,13 +90,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Sadie Sink's 'Spider-Man' mystery is over. Her MCU story is just beginning. - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-10",
-    "image": "https://s.yimg.com/lo/mysterio/api/21fe5660d565136d2752f7f96763d21c8138f9d30eb7a8025eedeb2d401ad55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-sadie-sink_4077.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/sadie-sinks-spider-man-mystery-is-over-her-mcu-story-is-just-beginning-222304748.html",
-    "category": "Movies"
+    "title": "Ryan Beatty Talks Post-Beyonc\u00e9 Breakout and Sharing Love Songs With His Boyfriend: \u2018It\u2019s Awkward at First\u2019 - Billboard",
+    "artist": "Beyonce",
+    "source": "Billboard",
+    "time": "2026-08-11",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/08/ryan-beatty-2026-press-2bentertainment-cr-michael-bailey-gates-1800-billboard.jpg?w=1024",
+    "spotify": "https://www.billboard.com/music/music-news/ryan-beatty-sweet-fortune-interview-1236312968/",
+    "category": "Beyonce News"
   },
   {
     "title": "Beyonce buys out LVMH's stake in SirDavis whisky - Reuters",
@@ -144,9 +144,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "The outfit that made Zendaya's jaw drop - BBC",
+    "title": "The outfit that made Zendaya's jaw drop - bbc.com",
     "artist": "Zendaya",
-    "source": "BBC",
+    "source": "bbc.com",
     "time": "2026-08-09",
     "image": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0p3kkh7.jpg",
     "spotify": "https://www.bbc.com/news/videos/c70gnl589y6o",
@@ -243,9 +243,9 @@
     "category": "Music"
   },
   {
-    "title": "FIVB puts Russia back on world stage - insidethegames.biz",
+    "title": "FIVB puts Russia back on world stage - Inside The Games",
     "artist": "Volleyball",
-    "source": "insidethegames.biz",
+    "source": "Inside The Games",
     "time": "2026-08-04",
     "image": "",
     "spotify": "https://www.insidethegames.biz/articles/fivb-puts-russia-back-on-world-stage",
