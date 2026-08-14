@@ -1,5 +1,23 @@
 [
   {
+    "title": "Jesus looked at them and said, \"With man this is impossible, but with God all things are possible.\"",
+    "artist": "Matthew 19:26",
+    "source": "OurManna",
+    "time": "2026-08-14",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-14",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Besitos / Gave Myself 2 U",
     "artist": "Qendresa",
     "source": "Spotify",
@@ -36,21 +54,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya\u2019s Best Press Tour Looks for Spider-Man: Brand New Day - Prestige Online - Singapore",
-    "artist": "Zendaya",
-    "source": "Prestige Online - Singapore",
-    "time": "2026-08-13",
-    "image": "",
-    "spotify": "https://www.prestigeonline.com/hk/style/fashion/zendaya-best-press-tour-looks-spiderman-brand-new-day/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Hits $700 Million at Domestic Box Office, One of Seven Movies to Ever Reach the Milestone - Variety",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "Variety",
     "time": "2026-08-13",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/V1-0001_bnd_itlrA_t_4k_rec709_full.89513-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/",
+    "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/news/spider-man-brand-new-day-700-million-domestic-box-office-1236833812/",
     "category": "Movies"
   },
   {
@@ -63,24 +72,6 @@
     "category": "Movies"
   },
   {
-    "title": "'The Dark Knight' warned us about mass surveillance. In 'Spider-Man: Brand New Day,' it's a punchline. - Business Insider",
-    "artist": "Spider-Man",
-    "source": "Business Insider",
-    "time": "2026-08-13",
-    "image": "https://i.insider.com/6a7ce72fbd87410e364d1d61?width=1200&format=jpeg",
-    "spotify": "https://www.businessinsider.com/spider-man-facial-recognition-tech-ethical-debate-dark-knight-2026-8",
-    "category": "Movies"
-  },
-  {
-    "title": "A movie theater didn\u2019t get \u2018Spider-Man\u2019 posters. This employee drew his own - KCCI",
-    "artist": "Spider-Man",
-    "source": "KCCI",
-    "time": "2026-08-13",
-    "image": "https://kubrick.htvapps.com/htv-prod/images/689115a2-cc80-4900-96cf-a64366a792df.jpg?crop=0.957xw%3A1.00xh%3B0.00962xw%2C0&amp;resize=1200%3A*",
-    "spotify": "https://www.kcci.com/article/a-movie-theater-didnt-get-spider-man-posters-this-employee-drew-his-own/73425212",
-    "category": "Movies"
-  },
-  {
     "title": "Billion-streamers, Beyonc\u00e9 and heart-bruising beauty: Frank Ocean\u2019s 20 best songs \u2013 ranked! - The Guardian",
     "artist": "Beyonce",
     "source": "The Guardian",
@@ -90,30 +81,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 and the 'Parkwood Influence' on Chloe, Halle Bailey - USA Today",
+    "title": "Beyonc\u00e9 and the 'Parkwood Influence' on Chloe, Halle Bailey - usatoday.com",
     "artist": "Beyonce",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "time": "2026-08-13",
     "image": "",
     "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/13/beyonce-parkwood-chloe-halle-bailey/91217329007/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Do not boast about tomorrow, for you do not know what a day may bring.",
-    "artist": "Proverbs 27:1",
-    "source": "OurManna",
-    "time": "2026-08-13",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-13",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
     "category": "Beyonce News"
   },
   {
@@ -144,6 +117,15 @@
     "category": "Movies"
   },
   {
+    "title": "Rosario Dawson Says She's \"A Reject Of Spider-Man\" After 'Brand New Day' Cut 'Daredevil's Claire Temple Cameo - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-08-12",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/rosario-dawson-spider-man-brand-new-day.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/08/rosario-dawson-reject-spider-man-cut-daredevil-cameo-1236967045/",
+    "category": "Movies"
+  },
+  {
     "title": "Exclusive: Inside Hill House Home\u2019s Beyonc\u00e9-inspired Houston expansion and #girldinner - Houston Chronicle",
     "artist": "Beyonce",
     "source": "Houston Chronicle",
@@ -153,9 +135,18 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 Dragged to Court Over Alleged Unauthorized Sample - TMZ",
+    "title": "'Spider-Man' director found his connection to the world at the movies - NPR",
+    "artist": "Spider-Man",
+    "source": "NPR",
+    "time": "2026-08-11",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1124+0+84/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fb2%2F9c9f1dfa4023a1c6f1d8b639ed9f%2Fsbnd-00719-r-1.jpg",
+    "spotify": "https://www.npr.org/2026/08/11/nx-s1-5927424/spider-man-destin-daniel-cretton",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9 Dragged to Court Over Alleged Unauthorized Sample - tmz.com",
     "artist": "Beyonce",
-    "source": "TMZ",
+    "source": "tmz.com",
     "time": "2026-08-11",
     "image": "https://imagez.tmz.com/image/b5/16by9/2026/08/11/b5551a2f816e4e82a6cebdf6ee84ab77_xl.jpg",
     "spotify": "https://www.tmz.com/2026/08/10/beyonce-sued-over-music-sample/",
@@ -195,6 +186,15 @@
     "time": "2026-08-09",
     "image": "https://cdn.mos.cms.futurecdn.net/XPBsV6uMoNMU6ZXsSKBiHV-1200-80.jpg",
     "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya's Best Red Carpet Looks, Ranked - The Zoe Report",
+    "artist": "Zendaya",
+    "source": "The Zoe Report",
+    "time": "2026-08-08",
+    "image": "https://imgix.bustle.com/uploads/getty/2026/8/5/5b739ea8/london-england-february-15.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.482&amp;fp-y=0.1644",
+    "spotify": "https://www.thezoereport.com/culture/zendaya-best-red-carpet-looks",
     "category": "Zendaya"
   },
   {
