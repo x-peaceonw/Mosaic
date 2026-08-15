@@ -36,12 +36,21 @@
     "category": "Movies"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 villain Tramell Tillman reveals what was \u2018frustrating\u2019 about his role - Entertainment Weekly",
+    "title": "\u2018Spider-Man: Beyond the Spider-Verse\u2019 Trailer Drops Online, Christopher Miller Slams Leak - The Hollywood Reporter",
     "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
+    "source": "The Hollywood Reporter",
     "time": "2026-08-14",
-    "image": "",
-    "spotify": "https://ew.com/spider-man-brand-new-day-villain-tramell-tillman-on-frustrating-role-12059842",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/SMBTSV_CC_promo_still_Miles_POK_F-e1743474800639.jpg?w=1440&#038;h=810&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-trailer-leak-1236673739/",
+    "category": "Movies"
+  },
+  {
+    "title": "[UPDATE] Spider-Man: Beyond the Spider-Verse's Christopher Miller Says Leaked Footage Is 'Unfinished' and 'Not Fully Rendered' - sea.ign.com",
+    "artist": "Spider-Man",
+    "source": "sea.ign.com",
+    "time": "2026-08-14",
+    "image": "https://sm.ign.com/t/ign_ap/news/u/update-spi/update-spider-man-beyond-the-spider-verses-christopher-mille_xttv.1200.jpg",
+    "spotify": "https://sea.ign.com/spider-man-across-the-spider-verse-part-two/246871/spider-man-beyond-the-spider-verse-suffers-significant-leak-online-as-4-minutes-of-footage-hits-soci",
     "category": "Movies"
   },
   {
@@ -81,21 +90,21 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya\u2019s premiere outfits are a masterclass on thematic fashion - New University",
+    "title": "Zendaya\u2019s premiere outfits are a masterclass on thematic fashion - newuniversity.org",
     "artist": "Zendaya",
-    "source": "New University",
+    "source": "newuniversity.org",
     "time": "2026-08-13",
     "image": "",
     "spotify": "https://newuniversity.org/2026/08/12/zendayas-premiere-outfits-are-a-masterclass-on-thematic-fashion/",
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Fastest Movie To Cross $700M At U.S. Box Office - Deadline",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "The Hollywood Reporter",
     "time": "2026-08-13",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP140.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-700m-record-fastest-1237032881/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/V1-0001_bnd_itlrA_t_4k_rec709_full.89513-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/",
     "category": "Movies"
   },
   {
@@ -117,9 +126,9 @@
     "category": "Movies"
   },
   {
-    "title": "Billion-streamers, Beyonc\u00e9 and heart-bruising beauty: Frank Ocean\u2019s 20 best songs \u2013 ranked! - The Guardian",
+    "title": "Billion-streamers, Beyonc\u00e9 and heart-bruising beauty: Frank Ocean\u2019s 20 best songs \u2013 ranked! - theguardian.com",
     "artist": "Beyonce",
-    "source": "The Guardian",
+    "source": "theguardian.com",
     "time": "2026-08-13",
     "image": "https://i.guim.co.uk/img/media/ccaf573ec91528f898cc3f80f530a6d42f1ee0e8/0_661_3968_3174/master/3968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=761dbd3123aa193ae7530c3bafb5a1a4",
     "spotify": "https://www.theguardian.com/music/2026/aug/13/frank-ocean-20-best-songs-ranked",
@@ -162,15 +171,6 @@
     "category": "Music"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Writers Believe There\u2019s One Line Jean Grey Didn\u2019t Cross - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-12",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Erik-Sommers-Chris-McKenna-Main-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jean-grey-1236671583/",
-    "category": "Movies"
-  },
-  {
     "title": "Exclusive: Inside Hill House Home\u2019s Beyonc\u00e9-inspired Houston expansion and #girldinner - Houston Chronicle",
     "artist": "Beyonce",
     "source": "Houston Chronicle",
@@ -180,21 +180,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya\u2019s Best Red-Carpet Looks From Her \u2018Spider-Man: Brand New Day\u2019 Press Tour - Vanity Fair",
+    "title": "Zendaya\u2019s Best Red-Carpet Looks From Her \u2018Spider-Man: Brand New Day\u2019 Press Tour - vanityfair.com",
     "artist": "Zendaya",
-    "source": "Vanity Fair",
+    "source": "vanityfair.com",
     "time": "2026-08-09",
     "image": "https://media.vanityfair.com/photos/6a78cc68e8c57ed07dc4a8c3/16:9/w_1280,c_limit/2288266495",
     "spotify": "https://www.vanityfair.com/photos/zendaya-best-looks-spider-man-red-carpet",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya and Tom Debut Their New Wedding Rings - Who What Wear",
-    "artist": "Zendaya",
-    "source": "Who What Wear",
-    "time": "2026-08-09",
-    "image": "https://cdn.mos.cms.futurecdn.net/XPBsV6uMoNMU6ZXsSKBiHV-1200-80.jpg",
-    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-tom-holland-debut-new-wedding-rings-2026",
     "category": "Zendaya"
   },
   {
@@ -340,6 +331,15 @@
     "image": "https://i.ytimg.com/vi/xtp6jtHnL_I/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=xtp6jtHnL_I",
     "category": "Music"
+  },
+  {
+    "title": "See Zendaya's Full Style Evolution - Who What Wear",
+    "artist": "Zendaya",
+    "source": "Who What Wear",
+    "time": "2026-07-30",
+    "image": "https://cdn.mos.cms.futurecdn.net/Fk3aVzV3M8HENQxVkGRQab-1200-80.png",
+    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+    "category": "Zendaya"
   },
   {
     "title": "July 28, 2026",
