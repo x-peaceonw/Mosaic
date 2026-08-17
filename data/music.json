@@ -1,5 +1,41 @@
 [
   {
+    "title": "happy days \u2661 @CynthiaErivo",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-17",
+    "image": "https://i.ytimg.com/vi/uByNH-jx28A/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=uByNH-jx28A",
+    "category": "Music"
+  },
+  {
+    "title": "Zendaya Made an Oversized T-Shirt Look, Dare We Say, Trendy \u2014 Thanks to These 2 Celeb-Worn Basics - People.com",
+    "artist": "Zendaya",
+    "source": "People.com",
+    "time": "2026-08-17",
+    "image": "",
+    "spotify": "https://people.com/zendaya-oversized-t-shirt-straight-leg-jeans-blueprint-august-2026-12025827",
+    "category": "Zendaya"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 soars past $2bn at global box office; \u2018The Odyssey\u2019 boosted by China opening - Screen Daily",
+    "artist": "Spider-Man",
+    "source": "Screen Daily",
+    "time": "2026-08-17",
+    "image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/0/6/7/1485067_spidermanodyssey_854258.jpg",
+    "spotify": "https://www.screendaily.com/news/spider-man-brand-new-day-soars-past-2bn-at-global-box-office-the-odyssey-boosted-by-china-opening/5219436.article",
+    "category": "Movies"
+  },
+  {
+    "title": "Meet the man who spent $15K on Beyonc\u00e9 tickets - vox.com",
+    "artist": "Beyonce",
+    "source": "vox.com",
+    "time": "2026-08-17",
+    "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/GettyImages-1702865656_296570.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "spotify": "https://www.vox.com/culture/499304/beyonce-ticket-prices-diehard-fans",
+    "category": "Beyonce News"
+  },
+  {
     "title": "How great you are, Sovereign lord! There is no one like you, and there is no God but you, as we have heard with our own ears.",
     "artist": "2 Samuel 7:22",
     "source": "OurManna",
@@ -16,6 +52,78 @@
     "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
     "spotify": "https://beyonce.com",
     "category": "Beyonce News"
+  },
+  {
+    "title": "A Fan\u2019s Closet Saved Zendaya\u2019s \u201cThe Odyssey\u201d Look: The Untold Story Behind Her Rare Sophia Webster Gladiator Heels - Yahoo",
+    "artist": "Zendaya",
+    "source": "Yahoo",
+    "time": "2026-08-16",
+    "image": "https://s.yimg.com/lo/mysterio/api/91a7a7ed204b9a3a9a03fe0d8d3b411e1bdd99726d5dfe9e435ae9658df10b0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2F1f2ddd6e4c7cc437457d7e56671327ab.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/fan-closet-saved-zendaya-odyssey-154417957.html",
+    "category": "Zendaya"
+  },
+  {
+    "title": "'Spider-Man' becomes one of the only films ever to gross $2 billion - USA Today",
+    "artist": "Spider-Man",
+    "source": "USA Today",
+    "time": "2026-08-16",
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/movies/2026/08/16/spider-man-brand-new-day-box-office-2-billion/91328384007/",
+    "category": "Movies"
+  },
+  {
+    "title": "Box Office: 'Spider: Brand New Day' No. 1 $70M, $20M 'Paw Patrol' & 'End Of Oak Street' - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-08-16",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP148_c26a9e.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+    "category": "Movies"
+  },
+  {
+    "title": "Ariana Grande Joins Taylor Swift, Nicki Minaj And Beyonc\u00e9 - Forbes",
+    "artist": "Beyonce",
+    "source": "Forbes",
+    "time": "2026-08-16",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b8aedead8db00ac8df186/0x0.jpg?format=jpg&amp;crop=3006,1690,x0,y20,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/16/ariana-grande-joins-taylor-swift-nicki-minaj-and-beyonc/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Chrisean Rock Says She and Blueface Are 'Bigger' Than Jay-Z and Beyonc\u00e9 - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-08-16",
+    "image": "https://s.yimg.com/lo/mysterio/api/ed893dfc58eafd1cb1996c7fad4919b6605604cd8fac667196ff400a7e62c66a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fa5057ce76f25609c7c9273cb6103b3f1.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/chrisean-rock-says-she-blueface-000305697.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "\u2018Red-headed Beyonce\u2019: Isla\u2019s homecoming - The Daily Telegraph",
+    "artist": "Beyonce",
+    "source": "The Daily Telegraph",
+    "time": "2026-08-15",
+    "image": "",
+    "spotify": "https://www.dailytelegraph.com.au/entertainment/movies/redheaded-beyonce-isla-fishers-australian-homecoming/news-story/d928697009823677e309405b46bc4fb0",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "The Real Avengers Were The Friends We Made Along The Way - Substack",
+    "artist": "Spider-Man",
+    "source": "Substack",
+    "time": "2026-08-14",
+    "image": "",
+    "spotify": "https://vincemancini.substack.com/p/spider-man-brand-new-day-review",
+    "category": "Movies"
+  },
+  {
+    "title": "Here\u2019s a brutally honest ranking of all 11 Spider-Man movies, including Brand New Day - The Tab",
+    "artist": "Spider-Man",
+    "source": "The Tab",
+    "time": "2026-08-14",
+    "image": "https://cdn.filmshrine.com/uploads/2026/08/Suchis-The-Tab-masterpiece-67-1.png",
+    "spotify": "https://thetab.com/filmshrine/2026/08/14/heres-a-brutally-honest-ranking-of-all-11-spider-man-movies-including-brand-new-day/",
+    "category": "Movies"
   },
   {
     "title": "Besitos / Gave Myself 2 U",
@@ -45,6 +153,15 @@
     "category": "Music"
   },
   {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $700M at Domestic Box Office - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-08-13",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/V1-0001_bnd_itlrA_t_4k_rec709_full.89513-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-record-700-million-1236672909/",
+    "category": "Movies"
+  },
+  {
     "title": "\ua564 \u2026 screaming all day on set w barclays in a day and a half ...behind the scenes out now",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -52,6 +169,33 @@
     "image": "https://i.ytimg.com/vi/OglkPiDtZhk/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=OglkPiDtZhk",
     "category": "Music"
+  },
+  {
+    "title": "Beyonce buys out LVMH's stake in SirDavis whisky - reuters.com",
+    "artist": "Beyonce",
+    "source": "reuters.com",
+    "time": "2026-08-10",
+    "image": "",
+    "spotify": "https://www.reuters.com/business/retail-consumer/beyonce-buys-out-lvmhs-stake-sirdavis-whisky-2026-08-10/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Zendaya\u2019s Best Red-Carpet Looks From Her \u2018Spider-Man: Brand New Day\u2019 Press Tour - Vanity Fair",
+    "artist": "Zendaya",
+    "source": "Vanity Fair",
+    "time": "2026-08-09",
+    "image": "https://media.vanityfair.com/photos/6a78cc68e8c57ed07dc4a8c3/16:9/w_1280,c_limit/2288266495",
+    "spotify": "https://www.vanityfair.com/photos/zendaya-best-looks-spider-man-red-carpet",
+    "category": "Zendaya"
+  },
+  {
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Encyclopedia Britannica",
+    "artist": "Volleyball",
+    "source": "Encyclopedia Britannica",
+    "time": "2026-08-07",
+    "image": "",
+    "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
+    "category": "Sports"
   },
   {
     "title": "download petal a cappella versions \ua564 \uff61\u02da",
@@ -108,6 +252,15 @@
     "category": "Music"
   },
   {
+    "title": "Jay-Z Hops on Beyonc\u00e9\u2019s \u201cMorning Dew (Donk)\u201d Remix - Pitchfork",
+    "artist": "Beyonce",
+    "source": "Pitchfork",
+    "time": "2026-08-05",
+    "image": "https://media.pitchfork.com/photos/6a7335cdfa5af22e6769cb0f/16:9/w_1280,c_limit/beyonce-jay-z-morning-dew-donk-remix.jpg",
+    "spotify": "https://pitchfork.com/story/jay-z-hops-on-beyonces-morning-dew-donk-remix/",
+    "category": "Beyonce News"
+  },
+  {
     "title": "MORNING DEW (DONK) REMIX PACK",
     "artist": "Beyonce",
     "source": "Spotify",
@@ -126,6 +279,15 @@
     "category": "Music"
   },
   {
+    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
+    "artist": "Volleyball",
+    "source": "UA.NEWS",
+    "time": "2026-08-04",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
+    "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
+    "category": "Sports"
+  },
+  {
     "title": "see you tonight, chicago ! \u2661",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -133,6 +295,15 @@
     "image": "https://i.ytimg.com/vi/YmffbbteTcg/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=YmffbbteTcg",
     "category": "Music"
+  },
+  {
+    "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
+    "artist": "Volleyball",
+    "source": "Volleyball World",
+    "time": "2026-08-02",
+    "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
+    "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
+    "category": "Sports"
   },
   {
     "title": "petal \ua564 \uff61\u02da album out now",
@@ -171,13 +342,13 @@
     "category": "Music"
   },
   {
-    "title": "July 28, 2026",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-28",
-    "image": "https://i.ytimg.com/vi/sOByupEha1g/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=sOByupEha1g",
-    "category": "Music"
+    "title": "See Zendaya's Full Style Evolution - whowhatwear.com",
+    "artist": "Zendaya",
+    "source": "whowhatwear.com",
+    "time": "2026-07-30",
+    "image": "https://cdn.mos.cms.futurecdn.net/Fk3aVzV3M8HENQxVkGRQab-1200-80.png",
+    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+    "category": "Zendaya"
   },
   {
     "title": "the way you pull me in",
@@ -187,5 +358,23 @@
     "image": "https://i.ytimg.com/vi/Goppi6JGzQU/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=Goppi6JGzQU",
     "category": "Music"
+  },
+  {
+    "title": "Zendaya Never Flops on the Red Carpet, These Are Her 20 Most Iconic Looks Yet - instyle.com",
+    "artist": "Zendaya",
+    "source": "instyle.com",
+    "time": "2026-07-25",
+    "image": "",
+    "spotify": "https://www.instyle.com/zendaya-best-outfits-of-all-time-11984329",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-07-20",
+    "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
+    "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
+    "category": "Zendaya"
   }
 ]
