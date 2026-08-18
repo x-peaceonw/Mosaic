@@ -1,5 +1,32 @@
 [
   {
+    "title": "What Do You Fuckin&#39;Want",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
+    "category": "Music"
+  },
+  {
+    "title": "The Way I Am",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
+    "category": "Music"
+  },
+  {
+    "title": "Quiero Bailar (Radio Mix)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/eA83P3rOvD8/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=eA83P3rOvD8",
+    "category": "Music"
+  },
+  {
     "title": "Quiero Bailar (Radio Mix)",
     "artist": "Solange",
     "source": "YouTube",
@@ -27,6 +54,15 @@
     "category": "Music"
   },
   {
+    "title": "La Colegiala (Club Mix 2015)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/T9kp6FLpAqs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=T9kp6FLpAqs",
+    "category": "Music"
+  },
+  {
     "title": "evening spell work \u22b9.\u02da\ud83e\ude9e\ud83d\udd6f\ufe0f\u2661 @r.e.m.beauty",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -45,22 +81,31 @@
     "category": "Zendaya"
   },
   {
-    "title": "Law Roach says he\u2019s over the grudges, but Zendaya still won\u2019t wear brands that rejected her - thegrio.com",
+    "title": "Law Roach uses these 3 words to describe Zendaya's wedding dress - USA Today",
     "artist": "Zendaya",
-    "source": "thegrio.com",
+    "source": "USA Today",
+    "time": "2026-08-18",
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/style/2026/08/17/law-roach-zendaya-wedding-dress-comments/91338938007/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Why celebrities from Zendaya to Kylie Jenner are wearing Fecal Matter - Baltimore Sun",
+    "artist": "Zendaya",
+    "source": "Baltimore Sun",
+    "time": "2026-08-18",
+    "image": "https://www.baltimoresun.com/wp-content/uploads/2026/08/Fashion_-_Mati232res_F233cales_15622-1.jpg?w=3000&#038;h=2000",
+    "spotify": "https://www.baltimoresun.com/2026/08/18/why-celebrities-from-zendaya-to-kylie-jenner-are-wearing-fecal-matter/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Law Roach says he\u2019s over the grudges, but Zendaya still won\u2019t wear brands that rejected her - TheGrio",
+    "artist": "Zendaya",
+    "source": "TheGrio",
     "time": "2026-08-18",
     "image": "https://thegrio.com/wp-content/uploads/2026/04/GettyImages-2151801855-scaled-e1775062601426.jpg",
     "spotify": "https://thegrio.com/2026/08/18/law-roach-zendaya-designers-rejected-her/",
     "category": "Zendaya"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Second-Fastest To Cross $2B WW \u2013 Global Top 10 Box Office Update - Deadline",
-    "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-08-18",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP129.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/",
-    "category": "Movies"
   },
   {
     "title": "'Spider-Man' Windfall: Tom Holland to Make Over $100 Million for \u2018Brand New Day\u2019 | Exclusive - TheWrap",
@@ -72,21 +117,39 @@
     "category": "Movies"
   },
   {
-    "title": "What Spider-Man gets right \u2014 and wrong \u2014 about turning off superpowers - sciencenews.org",
+    "title": "Spider-Man: Tom Holland\u2019s Salary for Brand New Day MCU Movie Is Absolutely Massive - Yahoo",
     "artist": "Spider-Man",
-    "source": "sciencenews.org",
+    "source": "Yahoo",
+    "time": "2026-08-18",
+    "image": "https://s.yimg.com/lo/mysterio/api/6ebf607596a85dd31dc029053e823e357fb075801d8bf13ebfccc08ed5f85407/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F6056d5ef035c4b06d2ad9734496f71b8.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-tom-holland-salary-154151341.html",
+    "category": "Movies"
+  },
+  {
+    "title": "What Spider-Man gets right \u2014 and wrong \u2014 about turning off superpowers - Science News",
+    "artist": "Spider-Man",
+    "source": "Science News",
     "time": "2026-08-18",
     "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081726_TS_spiderman_main.jpg",
     "spotify": "https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna",
     "category": "Movies"
   },
   {
-    "title": "\"Spider-Man\" Scrapped Villain & Salary Talk - Dark Horizons",
+    "title": "\"Spider-Man\" Scrapped Villain & Salary Talk - darkhorizons.com",
     "artist": "Spider-Man",
-    "source": "Dark Horizons",
+    "source": "darkhorizons.com",
     "time": "2026-08-18",
     "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-scrapped-villain-salary-talk.jpg",
     "spotify": "https://www.darkhorizons.com/spider-man-scrapped-villain-salary-talk/",
+    "category": "Movies"
+  },
+  {
+    "title": "MCU Spider-Man Star Officially Breaks Silence on Being Excluded From $2 Billion Sequel [Exclusive] - Collider",
+    "artist": "Spider-Man",
+    "source": "Collider",
+    "time": "2026-08-18",
+    "image": "",
+    "spotify": "https://collider.com/spider-man-brand-new-day-angourie-rice-explains-betty-brant-absence/",
     "category": "Movies"
   },
   {
@@ -112,7 +175,7 @@
     "artist": "Beyonce",
     "source": "instagram.com",
     "time": "2026-08-18",
-    "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=E3CD_FoT7acQ7kNvwGXuJLo&amp;_nc_oc=AdpSP39T9MZlS3SVinJfcKudMYazBOlaJ7Epze7c2fzgrIVh0DSglwTgsuxClmQHdRU&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=olckUAPlvk_EMU3cVA6jFw&amp;_nc_ss=7e60f&amp;oh=00_AQFrl5DGJwNIngYAx13pbLHWx3PEvbNb8TwRL4RICMtYnw&amp;oe=6A8A4937",
+    "image": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=E3CD_FoT7acQ7kNvwGJMsrl&amp;_nc_oc=AdqqV6zWWCaEtBZCRzsg9clFdC31DLuFicx_LJTsLMxFk5Xvb8cMOd6vJwZEr68P7Gg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_gid=oCXYoQhGP0XYLHEUj0ivtw&amp;_nc_ss=7e60f&amp;oh=00_AQFVRQwlUzh4ySIQBYuizF0aeO-S49Y2qrHOBhZn4P5HhA&amp;oe=6A8A8177",
     "spotify": "https://www.instagram.com/p/DcJocCEjjSN/",
     "category": "Beyonce News"
   },
@@ -153,30 +216,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Law Roach uses these 3 words to describe Zendaya's wedding dress - USA Today",
-    "artist": "Zendaya",
-    "source": "USA Today",
-    "time": "2026-08-17",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/style/2026/08/17/law-roach-zendaya-wedding-dress-comments/91338938007/",
-    "category": "Zendaya"
-  },
-  {
     "title": "Before Spider-Man, Tom Holland Starred In A Thriller With A DC Extended Universe Actor - IMDb",
     "artist": "Spider-Man",
     "source": "IMDb",
     "time": "2026-08-17",
     "image": "",
     "spotify": "https://www.imdb.com/news/ni65975506/?ref_=nwc_art_perm",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man: Brand New Day Nearly Featured a Different Identity-Swapping Villain Before Sony's Kraven the Hunter Got in the Way - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-17",
-    "image": "https://s.yimg.com/lo/mysterio/api/f532f6a81bb1af36a6e997cf5622209fa8b369add4cb0b3a640257bb25f648cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fign_articles_326%2Fd2971bdbddf77afd860358ee4b226f25.png",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-nearly-204150961.html",
     "category": "Movies"
   },
   {
@@ -189,21 +234,21 @@
     "category": "Beyonce News"
   },
   {
+    "title": "His Business Is a \u2018Love Letter\u2019 to His Late Mother. It Sold Out and Hit $500K in Sales After Beyonc\u00e9\u2019s Mom Gave It a Boost. - Yahoo Finance",
+    "artist": "Beyonce",
+    "source": "Yahoo Finance",
+    "time": "2026-08-17",
+    "image": "https://s.yimg.com/lo/mysterio/api/8B6A59FEFB46D9B8946BF022EC8F8D4166A514F7DB154B96E85C472D2401D372/subgraphmysterio/resizefill_w1200_h765;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fentrepreneur_869%2F4125fe53d5494b843fef7c3d8b9e4da1.png",
+    "spotify": "https://finance.yahoo.com/small-business/articles/business-love-letter-mother-sold-153622915.html",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Quote of the day by Beyonce: 'I am not naturally the thinnest woman. And I have struggled with diets...' A - The Economic Times",
     "artist": "Beyonce",
     "source": "The Economic Times",
     "time": "2026-08-17",
     "image": "",
     "spotify": "https://m.economictimes.com/magazines/panache/quote-of-the-day-by-beyonce-i-am-not-naturally-the-thinnest-woman-and-i-have-struggled-with-diets-american-singer-songwriters-inspirational-message-on-body-image-and-self-acceptance/articleshow/133290845.cms",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Ariana Grande Joins Taylor Swift, Nicki Minaj And Beyonc\u00e9 - Forbes",
-    "artist": "Beyonce",
-    "source": "Forbes",
-    "time": "2026-08-16",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b8aedead8db00ac8df186/0x0.jpg?format=jpg&amp;crop=3006,1690,x0,y20,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
-    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/16/ariana-grande-joins-taylor-swift-nicki-minaj-and-beyonc/",
     "category": "Beyonce News"
   },
   {
@@ -324,9 +369,9 @@
     "category": "Music"
   },
   {
-    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
+    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - ua.news",
     "artist": "Volleyball",
-    "source": "UA.NEWS",
+    "source": "ua.news",
     "time": "2026-08-04",
     "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
     "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
@@ -384,15 +429,6 @@
     "time": "2026-07-30",
     "image": "https://cdn.mos.cms.futurecdn.net/Fk3aVzV3M8HENQxVkGRQab-1200-80.png",
     "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-07-20",
-    "image": "https://assets.vogue.com/photos/6a5e45121e9d2263397da99f/16:9/w_1280,c_limit/Vogue_ZendayaOdyssey_Collage%20(1).jpg",
-    "spotify": "https://www.vogue.com/article/zendayas-red-carpet-fashion-will-always-be-as-epic-as-the-odyssey",
     "category": "Zendaya"
   }
 ]
