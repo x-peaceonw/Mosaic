@@ -1,5 +1,50 @@
 [
   {
+    "title": "La Colegiala (2015)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/2TSz8B3oGEw/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=2TSz8B3oGEw",
+    "category": "Music"
+  },
+  {
+    "title": "La Colegiala (Club Edit Mix 2015)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/qOCyNOAGqiA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=qOCyNOAGqiA",
+    "category": "Music"
+  },
+  {
+    "title": "Georgina Rodriguez Wore Beyonc\u00e9\u2019s Met Gala Diamonds to Her Wedding - The Cut",
+    "artist": "Beyonce",
+    "source": "The Cut",
+    "time": "2026-08-18",
+    "image": "https://pyxis.nymag.com/v1/imgs/6e0/0d9/8eee448cec950866d760d00cd816e677ad-GettyImages-2276442523.1x.rsocial.w1200.jpg",
+    "spotify": "https://www.thecut.com/article/georgina-rodriguez-wore-beyonce-met-gala-necklace.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Many are the plans in a person\u2019s heart, but it is the Lord\u2019s purpose that prevails.",
+    "artist": "Proverbs 19:21",
+    "source": "OurManna",
+    "time": "2026-08-18",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-18",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "happy days \u2661 @CynthiaErivo",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -9,21 +54,12 @@
     "category": "Music"
   },
   {
-    "title": "Law Roach Doubles Down on Keeping Zendaya\u2019s Wedding Dress a Secret by Describing It in Just 3 Words - People.com",
+    "title": "Zendaya\u2019s Outfits Have Law Roach \u2018Holding Grudges\u2019 As \u2018Petty\u2019 Fashion Boycott Lives On - Yahoo News Canada",
     "artist": "Zendaya",
-    "source": "People.com",
+    "source": "Yahoo News Canada",
     "time": "2026-08-17",
-    "image": "",
-    "spotify": "https://people.com/law-roach-describes-zendayas-wedding-dress-three-words-12061270",
-    "category": "Zendaya"
-  },
-  {
-    "title": "How a Black Shoe Collector Helped Get Zendaya a Rare Pair of Gladiator Heels for Press Stop - The Root",
-    "artist": "Zendaya",
-    "source": "The Root",
-    "time": "2026-08-17",
-    "image": "",
-    "spotify": "https://www.theroot.com/how-a-black-shoe-collector-helped-get-zendaya-a-rare-pa-2000121384",
+    "image": "https://s.yimg.com/lo/mysterio/api/d85ccaae9769f4a3a675f292348f6f3ea600658cd01c66fb74bd24e69b4e7456/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F864ceb9f5e7a95c54c950a01ba742100.jpg",
+    "spotify": "https://ca.news.yahoo.com/zendaya-outfits-law-roach-holding-212000583.html",
     "category": "Zendaya"
   },
   {
@@ -36,48 +72,57 @@
     "category": "Zendaya"
   },
   {
-    "title": "Walker Scobell Says X-Men Battling Tobey Maguire\u2019s Spider-Man Is \u2018the Coolest Thing\u2019 He\u2019s Heard About Avengers Doomsday - IMDb",
-    "artist": "Spider-Man",
-    "source": "IMDb",
+    "title": "Law Roach uses these 3 words to describe Zendaya's wedding dress - USA Today",
+    "artist": "Zendaya",
+    "source": "USA Today",
     "time": "2026-08-17",
     "image": "",
-    "spotify": "https://www.imdb.com/news/ni65975947/?ref_=nmnw_art_perm",
-    "category": "Movies"
+    "spotify": "https://www.usatoday.com/story/entertainment/style/2026/08/17/law-roach-zendaya-wedding-dress-comments/91338938007/",
+    "category": "Zendaya"
   },
   {
-    "title": "Movie Review | Spider-Man: Brand New Day - ColoradoBoulevard.net",
-    "artist": "Spider-Man",
-    "source": "ColoradoBoulevard.net",
+    "title": "Law Roach Drops a Cheeky Hint About Zendaya\u2019s Wedding Dress - instyle.com",
+    "artist": "Zendaya",
+    "source": "instyle.com",
     "time": "2026-08-17",
-    "image": "https://coloradoboulevard.b-cdn.net/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Colorado-Boulevard-Newspaper.jpg",
-    "spotify": "https://www.coloradoboulevard.net/movie-review-spider-man-brand-new-day/",
-    "category": "Movies"
+    "image": "",
+    "spotify": "https://www.instyle.com/law-roach-shares-3-word-hint-zendaya-wedding-dress-12061812",
+    "category": "Zendaya"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 crosses $2B at global box office - Anadolu Ajans\u0131",
-    "artist": "Spider-Man",
-    "source": "Anadolu Ajans\u0131",
+    "title": "How a Black Shoe Collector Helped Get Zendaya a Rare Pair of Gladiator Heels for Press Stop - The Root",
+    "artist": "Zendaya",
+    "source": "The Root",
     "time": "2026-08-17",
-    "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/17/thumbs_b_c_ea5a2f6890ded50e44e68d69cd1da4b6.jpg",
-    "spotify": "https://www.aa.com.tr/en/world/-spider-man-brand-new-day-crosses-2b-at-global-box-office/4029483",
-    "category": "Movies"
+    "image": "",
+    "spotify": "https://www.theroot.com/how-a-black-shoe-collector-helped-get-zendaya-a-rare-pa-2000121384",
+    "category": "Zendaya"
   },
   {
-    "title": "With 'Spider-Man: Brand New Day' a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Read more below. - facebook.com",
-    "artist": "Spider-Man",
-    "source": "facebook.com",
-    "time": "2026-08-17",
-    "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/776324133_1065026436015097_4691855254622054422_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=kx-gh6bP5TgQ7kNvwGd4CxN&amp;_nc_oc=Ado9VrwrUxBEqI5SRPJmp7gdR_YPxJWpgDLTVQVjHh2DlZWF_iF9-PwLiK37T9DBQIQ&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=ThF4b9BANWRwXHRKZL6gCA&amp;_nc_ss=7e20f&amp;oh=00_AQF5zLYnWGB1JIkmEfcXr8B8QKD8SHdlUPlabiBnMhPN6g&amp;oe=6A894951",
-    "spotify": "https://www.facebook.com/deadline/posts/with-spider-man-brand-new-day-a-super-box-office-success-tom-holland-and-zendaya/1412280330772303/",
-    "category": "Movies"
-  },
-  {
-    "title": "Sadie Sink's 'Spider-Man' mystery is over. Her MCU story is just beginning. - Yahoo",
+    "title": "Spider-Man 4 Writers Confirm MCU Movie Almost Featured Unexpected Villain Before Jean Grey - Yahoo",
     "artist": "Spider-Man",
     "source": "Yahoo",
     "time": "2026-08-17",
-    "image": "https://s.yimg.com/lo/mysterio/api/21fe5660d565136d2752f7f96763d21c8138f9d30eb7a8025eedeb2d401ad55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-sadie-sink_4077.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/article/sadie-sinks-spider-man-mystery-is-over-her-mcu-story-is-just-beginning-222304748.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/aa2b241ab15cc766db287e22b804246cd573c58a63c354c18e84bcef2a18d254/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F929e50cb353598880f9acaf510ee92d4.png",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-4-writers-confirm-202252608.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Walking Dead star Jon Bernthal makes box office history with his latest movie - Undead Walking",
+    "artist": "Spider-Man",
+    "source": "Undead Walking",
+    "time": "2026-08-17",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_132,y_73,w_1868,h_1050/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/318/01m0870rv2ay7gjbqj3q.jpg",
+    "spotify": "https://undeadwalking.com/walking-dead-star-jon-bernthal-spider-man-brand-new-day-box-office-history-2-billion",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Almost Featured Chameleon as Its Villain Before Kraven the Hunter - IGN",
+    "artist": "Spider-Man",
+    "source": "IGN",
+    "time": "2026-08-17",
+    "image": "https://assets-prd.ignimgs.com/2026/06/17/spiderthumb-1781723266727.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+    "spotify": "https://www.ign.com/articles/spider-man-brand-new-day-nearly-featured-a-different-identity-swapping-villain-before-sonys-kraven-the-hunter-got-in-the-way",
     "category": "Movies"
   },
   {
@@ -96,33 +141,6 @@
     "time": "2026-08-17",
     "image": "",
     "spotify": "https://m.economictimes.com/magazines/panache/quote-of-the-day-by-beyonce-i-am-not-naturally-the-thinnest-woman-and-i-have-struggled-with-diets-american-singer-songwriters-inspirational-message-on-body-image-and-self-acceptance/articleshow/133290845.cms",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s Mom Helped Business Hit $500K in Sales: Samir Grey - entrepreneur.com",
-    "artist": "Beyonce",
-    "source": "entrepreneur.com",
-    "time": "2026-08-17",
-    "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/Kahh03-3-1-1.png?resize=819,1024",
-    "spotify": "https://www.entrepreneur.com/building-a-business/beyonces-mom-gave-his-business-a-boost-it-hit-500k-in-sales-samir-grey",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "How great you are, Sovereign lord! There is no one like you, and there is no God but you, as we have heard with our own ears.",
-    "artist": "2 Samuel 7:22",
-    "source": "OurManna",
-    "time": "2026-08-17",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-17",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
     "category": "Beyonce News"
   },
   {
@@ -153,6 +171,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "'Spider-Man: Brand New Day' Production Designer Interview - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-08-15",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/IMG_2670.jpeg?w=800",
+    "spotify": "https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/",
+    "category": "Movies"
+  },
+  {
     "title": "\u2018Red-headed Beyonce\u2019: Isla\u2019s homecoming - The Daily Telegraph",
     "artist": "Beyonce",
     "source": "The Daily Telegraph",
@@ -160,6 +187,15 @@
     "image": "",
     "spotify": "https://www.dailytelegraph.com.au/entertainment/movies/redheaded-beyonce-isla-fishers-australian-homecoming/news-story/d928697009823677e309405b46bc4fb0",
     "category": "Beyonce News"
+  },
+  {
+    "title": "\u2018Spider-Man: Beyond the Spider-Verse\u2019 Trailer Drops Online, Christopher Miller Slams Leak - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-08-14",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/SMBTSV_CC_promo_still_Miles_POK_F-e1743474800639.jpg?w=1440&#038;h=810&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-trailer-leak-1236673739/",
+    "category": "Movies"
   },
   {
     "title": "Besitos / Gave Myself 2 U",
@@ -198,22 +234,22 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya\u2019s Best Red-Carpet Looks From Her \u2018Spider-Man: Brand New Day\u2019 Press Tour - Vanity Fair",
-    "artist": "Zendaya",
-    "source": "Vanity Fair",
-    "time": "2026-08-09",
-    "image": "https://media.vanityfair.com/photos/6a78cc68e8c57ed07dc4a8c3/16:9/w_1280,c_limit/2288266495",
-    "spotify": "https://www.vanityfair.com/photos/zendaya-best-looks-spider-man-red-carpet",
-    "category": "Zendaya"
-  },
-  {
-    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - britannica.com",
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Encyclopedia Britannica",
     "artist": "Volleyball",
-    "source": "britannica.com",
+    "source": "Encyclopedia Britannica",
     "time": "2026-08-07",
     "image": "",
     "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
     "category": "Sports"
+  },
+  {
+    "title": "download petal a cappella versions \ua564 \uff61\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-06",
+    "image": "https://i.ytimg.com/vi/BPxKZS1PeWU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BPxKZS1PeWU",
+    "category": "Music"
   },
   {
     "title": "MORNING DEW (DONK MIX)",
@@ -270,6 +306,15 @@
     "category": "Music"
   },
   {
+    "title": "petal \ua564 \uff61\u02da hello, i love to sing version available exclusively on itunes now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-04",
+    "image": "https://i.ytimg.com/vi/UvPR-9OkPQs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UvPR-9OkPQs",
+    "category": "Music"
+  },
+  {
     "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
     "artist": "Volleyball",
     "source": "UA.NEWS",
@@ -297,6 +342,15 @@
     "category": "Sports"
   },
   {
+    "title": "petal \ua564 \uff61\u02da album out now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-01",
+    "image": "https://i.ytimg.com/vi/iRlxK90v0-A/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=iRlxK90v0-A",
+    "category": "Music"
+  },
+  {
     "title": "petal",
     "artist": "Ariana Grande",
     "source": "Spotify",
@@ -322,24 +376,6 @@
     "image": "https://i.ytimg.com/vi/xtp6jtHnL_I/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=xtp6jtHnL_I",
     "category": "Music"
-  },
-  {
-    "title": "July 28, 2026",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-07-28",
-    "image": "https://i.ytimg.com/vi/sOByupEha1g/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=sOByupEha1g",
-    "category": "Music"
-  },
-  {
-    "title": "Zendaya Never Flops on the Red Carpet, These Are Her 20 Most Iconic Looks Yet - instyle.com",
-    "artist": "Zendaya",
-    "source": "instyle.com",
-    "time": "2026-07-25",
-    "image": "",
-    "spotify": "https://www.instyle.com/zendaya-best-outfits-of-all-time-11984329",
-    "category": "Zendaya"
   },
   {
     "title": "Zendaya\u2019s Red Carpet Fashion Will Always Be as Epic as \u2018The Odyssey\u2019 - Vogue",
