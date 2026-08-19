@@ -18,69 +18,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "What Do You Fuckin&#39;Want",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
-    "category": "Music"
-  },
-  {
-    "title": "The Way I Am",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/eA83P3rOvD8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=eA83P3rOvD8",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
-    "category": "Music"
-  },
-  {
-    "title": "La Colegiala (2015)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/2TSz8B3oGEw/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=2TSz8B3oGEw",
-    "category": "Music"
-  },
-  {
-    "title": "La Colegiala (Club Edit Mix 2015)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/qOCyNOAGqiA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=qOCyNOAGqiA",
-    "category": "Music"
-  },
-  {
-    "title": "La Colegiala (Club Mix 2015)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/T9kp6FLpAqs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=T9kp6FLpAqs",
-    "category": "Music"
-  },
-  {
     "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - BuzzFeed",
     "artist": "Zendaya",
     "source": "BuzzFeed",
@@ -90,12 +27,21 @@
     "category": "Zendaya"
   },
   {
-    "title": "Law Roach uses 3 words to describe Zendaya's wedding dress - usatoday.com",
+    "title": "Law Roach uses 3 words to describe Zendaya's wedding dress - USA Today",
     "artist": "Zendaya",
-    "source": "usatoday.com",
+    "source": "USA Today",
     "time": "2026-08-18",
     "image": "",
     "spotify": "https://www.usatoday.com/story/entertainment/style/2026/08/17/law-roach-zendaya-wedding-dress-comments/91338938007/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Law Roach Reveals the 5 Designers Zendaya Will Never Wear on the Red Carpet - cosmopolitan.com",
+    "artist": "Zendaya",
+    "source": "cosmopolitan.com",
+    "time": "2026-08-18",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/4b308d82-7f17-4852-aa18-01ff3c575048.jpeg?crop=1xw:0.333xh;0xw,0.058xh&amp;resize=1200:*",
+    "spotify": "https://www.cosmopolitan.com/entertainment/celebs/a73462785/5-designers-zendaya-will-never-wear/",
     "category": "Zendaya"
   },
   {
@@ -108,24 +54,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Law Roach Reveals the 5 Designers Zendaya Will Never Wear on the Red Carpet - Cosmopolitan",
-    "artist": "Zendaya",
-    "source": "Cosmopolitan",
-    "time": "2026-08-18",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/4b308d82-7f17-4852-aa18-01ff3c575048.jpeg?crop=1xw:0.333xh;0xw,0.058xh&amp;resize=1200:*",
-    "spotify": "https://www.cosmopolitan.com/entertainment/celebs/a73462785/5-designers-zendaya-will-never-wear/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Law Roach says he\u2019s over the grudges, but Zendaya still won\u2019t wear brands that rejected her - TheGrio",
-    "artist": "Zendaya",
-    "source": "TheGrio",
-    "time": "2026-08-18",
-    "image": "https://thegrio.com/wp-content/uploads/2026/04/GettyImages-2151801855-scaled-e1775062601426.jpg",
-    "spotify": "https://thegrio.com/2026/08/18/law-roach-zendaya-designers-rejected-her/",
-    "category": "Zendaya"
-  },
-  {
     "title": "'Spider-Man' Windfall: Tom Holland to Make Over $100 Million for \u2018Brand New Day\u2019 | Exclusive - TheWrap",
     "artist": "Spider-Man",
     "source": "TheWrap",
@@ -135,21 +63,12 @@
     "category": "Movies"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Fastest To Cross $800M At Domestic Box Office - Deadline",
+    "title": "What Spider-Man gets right \u2014 and wrong \u2014 about turning off superpowers - Science News",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "Science News",
     "time": "2026-08-18",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/MCDSPMA_SP132.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/spider-man-brand-new-day-800m-record-1237044492/",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man: Tom Holland\u2019s Salary for Brand New Day MCU Movie Is Absolutely Massive - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-08-18",
-    "image": "https://s.yimg.com/lo/mysterio/api/6ebf607596a85dd31dc029053e823e357fb075801d8bf13ebfccc08ed5f85407/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F6056d5ef035c4b06d2ad9734496f71b8.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-tom-holland-salary-154151341.html",
+    "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081726_TS_spiderman_main.jpg",
+    "spotify": "https://www.sciencenews.org/article/spider-man-superpower-inhibitor-rna",
     "category": "Movies"
   },
   {
@@ -171,6 +90,15 @@
     "category": "Movies"
   },
   {
+    "title": "#TSRBeauty: #Lizzo was mugged down while #Beyonc\u00e9 was peeping on her screen in the background. Mug for mug.\ud83d\ude0d\ud83d\ude2e\u200d\ud83d\udca8 \ud83d\udcf8:@gettyimages(SWIPE) \u270d\ud83c\udffe:#TSRStaffJR - instagram.com",
+    "artist": "Beyonce",
+    "source": "instagram.com",
+    "time": "2026-08-18",
+    "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=E3CD_FoT7acQ7kNvwFDh_dS&amp;_nc_oc=AdqgRevCAozmT4VV0L3QMAT9RyWOLKnxyb4Y4PHduhA1x6A_WPKXh7MIgbC9ZS9ouuU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=5rH1roHpGHTdyiwGC3xxww&amp;_nc_ss=7e60f&amp;oh=00_AQEqwbVLDJrcz9sLW_rKmq6d2sy2QcYsFm_CCoOep0PJLA&amp;oe=6A8AF1F7",
+    "spotify": "https://www.instagram.com/p/DcJocCEjjSN/",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Georgina Rodriguez Wore Beyonc\u00e9\u2019s Met Gala Diamonds to Her Wedding - thecut.com",
     "artist": "Beyonce",
     "source": "thecut.com",
@@ -180,12 +108,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "#TSRBeauty: #Lizzo was mugged down while #Beyonc\u00e9 was peeping on her screen in the background. Mug for mug.\ud83d\ude0d\ud83d\ude2e\u200d\ud83d\udca8 \ud83d\udcf8:@gettyimages(SWIPE) \u270d\ud83c\udffe:#TSRStaffJR - instagram.com",
+    "title": "2001 Video Shows Young Beyonc\u00e9 on Phone with Michael Jack... - x.com",
     "artist": "Beyonce",
-    "source": "instagram.com",
+    "source": "x.com",
     "time": "2026-08-18",
-    "image": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=E3CD_FoT7acQ7kNvwHv8H9U&amp;_nc_oc=AdrYHbU7CqV-84ibqBE-rE81tjS6dePimuUI9UD-Al2ljoQULyVnHzt0GazPKXcG2RI&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.cdninstagram.com&amp;_nc_gid=uituk6yVMfdHj3Npe0-AEg&amp;_nc_ss=7e60f&amp;oh=00_AQEmG-cXX94Y5ZdSM07uyYJnfeKUdWNr4ICK8W7M6EAN5Q&amp;oe=6A8AF1F7",
-    "spotify": "https://www.instagram.com/p/DcJocCEjjSN/",
+    "image": "https://pbs.twimg.com/media/HP74r1IW4AA3TND.jpg?name=orig",
+    "spotify": "https://x.com/i/trending/2089722967127367715",
     "category": "Beyonce News"
   },
   {
@@ -196,6 +124,15 @@
     "image": "",
     "spotify": "https://people.com/law-roach-outgrown-pettiness-wont-dress-zendaya-designers-who-rejected-her-12061624",
     "category": "Zendaya"
+  },
+  {
+    "title": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - editorial.rottentomatoes.com",
+    "artist": "Spider-Man",
+    "source": "editorial.rottentomatoes.com",
+    "time": "2026-08-17",
+    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO3-Rep.jpg?w=600",
+    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-3/",
+    "category": "Movies"
   },
   {
     "title": "Before Spider-Man, Tom Holland Starred In A Thriller With A DC Extended Universe Actor - IMDb",
@@ -225,20 +162,11 @@
     "category": "Beyonce News"
   },
   {
-    "title": "His Business Is a \u2018Love Letter\u2019 to His Late Mother. It Sold Out and Hit $500K in Sales After Beyonc\u00e9\u2019s Mom Gave It a Boost. - Yahoo Finance",
+    "title": "Ariana Grande Joins Taylor Swift, Nicki Minaj And Beyonc\u00e9 - Forbes",
     "artist": "Beyonce",
-    "source": "Yahoo Finance",
-    "time": "2026-08-17",
-    "image": "https://s.yimg.com/lo/mysterio/api/8B6A59FEFB46D9B8946BF022EC8F8D4166A514F7DB154B96E85C472D2401D372/subgraphmysterio/resizefill_w1200_h765;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fentrepreneur_869%2F4125fe53d5494b843fef7c3d8b9e4da1.png",
-    "spotify": "https://finance.yahoo.com/small-business/articles/business-love-letter-mother-sold-153622915.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Ariana Grande Joins Taylor Swift, Nicki Minaj And Beyonc\u00e9 - forbes.com",
-    "artist": "Beyonce",
-    "source": "forbes.com",
+    "source": "Forbes",
     "time": "2026-08-16",
-    "image": "",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b8aedead8db00ac8df186/0x0.jpg?format=jpg&amp;crop=3006,1690,x0,y20,safe&amp;height=900&amp;width=1600&amp;fit=bounds",
     "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/16/ariana-grande-joins-taylor-swift-nicki-minaj-and-beyonc/",
     "category": "Beyonce News"
   },
@@ -340,5 +268,14 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
     "spotify": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT",
     "category": "Music"
+  },
+  {
+    "title": "See Zendaya's Full Style Evolution - Who What Wear",
+    "artist": "Zendaya",
+    "source": "Who What Wear",
+    "time": "2026-07-30",
+    "image": "https://cdn.mos.cms.futurecdn.net/Fk3aVzV3M8HENQxVkGRQab-1200-80.png",
+    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-fashion-retrospective",
+    "category": "Zendaya"
   }
 ]
