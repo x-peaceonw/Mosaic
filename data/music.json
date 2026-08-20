@@ -9,15 +9,6 @@
     "category": "Movies"
   },
   {
-    "title": "Star\u2019s whopping 9-figure salary for new film - News.com.au",
-    "artist": "Spider-Man",
-    "source": "News.com.au",
-    "time": "2026-08-20",
-    "image": "",
-    "spotify": "https://www.news.com.au/entertainment/movies/tom-holland-set-for-staggering-spiderman-backend-bonus-as-film-surpasses-28-billion-at-box-office/news-story/d2c63fe2856d3fba096696037e977001",
-    "category": "Movies"
-  },
-  {
     "title": "The Lord will guide you always; he will satisfy your needs in a sun-scorched land and will strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail.",
     "artist": "Isaiah 58:11",
     "source": "OurManna",
@@ -45,12 +36,21 @@
     "category": "Zendaya"
   },
   {
-    "title": "Spider-Man: Brand New Day Cut Clever Daredevil Easter Egg Out of MCU Movie - Yahoo",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $800M at Domestic Box Office - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-08-19",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-27223_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man Concept Art Reveals Key Detail of Sony\u2019s Canceled Sinister Six Movie - Yahoo",
     "artist": "Spider-Man",
     "source": "Yahoo",
     "time": "2026-08-19",
-    "image": "https://s.yimg.com/lo/mysterio/api/e3da6c50fb407a8374e3bbe9c9e0596156d7e87c17a4d5a708d6225b0eafcd47/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F7a4e8ea545d2fea78286885046e0c05f.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-cut-195321877.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/4773ad5cf5f7643512ef319a064ba07c57a09653884195db47e956525f657888/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2Fe35f5337fc23aa6016eaf7efff512604.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-concept-art-reveals-213419870.html",
     "category": "Movies"
   },
   {
@@ -63,18 +63,81 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - buzzfeed.com",
+    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
+    "artist": "Coldplay",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
+    "category": "Music"
+  },
+  {
+    "title": "What Do You Fuckin&#39;Want",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
+    "category": "Music"
+  },
+  {
+    "title": "The Way I Am",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
+    "category": "Music"
+  },
+  {
+    "title": "Quiero Bailar (Radio Mix)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/eA83P3rOvD8/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=eA83P3rOvD8",
+    "category": "Music"
+  },
+  {
+    "title": "Quiero Bailar (Radio Mix)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
+    "category": "Music"
+  },
+  {
+    "title": "petal (official behind the scenes pt. 2)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
+    "category": "Music"
+  },
+  {
+    "title": "evening spell work \u22b9.\u02da\ud83e\ude9e\ud83d\udd6f\ufe0f\u2661 @r.e.m.beauty",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/jLcUPsaDKDI/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=jLcUPsaDKDI",
+    "category": "Music"
+  },
+  {
+    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - BuzzFeed",
     "artist": "Zendaya",
-    "source": "buzzfeed.com",
+    "source": "BuzzFeed",
     "time": "2026-08-18",
     "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/18/10/thumb/FjBhYE9dq.jpg?crop=1250:654;0,29%26downsize=1250:*",
     "spotify": "https://www.buzzfeed.com/leylamohammed/law-roach-update-designer-brands-snubbed-zendaya",
     "category": "Zendaya"
   },
   {
-    "title": "'Spider-Man' Windfall: Tom Holland to Make Over $100 Million for \u2018Brand New Day\u2019 | Exclusive - thewrap.com",
+    "title": "'Spider-Man' Windfall: Tom Holland to Make Over $100 Million for \u2018Brand New Day\u2019 | Exclusive - TheWrap",
     "artist": "Spider-Man",
-    "source": "thewrap.com",
+    "source": "TheWrap",
     "time": "2026-08-18",
     "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081026-Spiderman.gif?width=1024&height=576&fit=bounds",
     "spotify": "https://www.thewrap.com/creative-content/movies/tom-holland-spider-man-brand-new-day-salary-box-office-bonus/",
@@ -85,7 +148,7 @@
     "artist": "Beyonce",
     "source": "instagram.com",
     "time": "2026-08-18",
-    "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Hu5J-RFMR3sQ7kNvwE8xZb6&amp;_nc_oc=Adr35TM7FbpfZd-9oW5f2VsU0GltV76MaVQdAR6RtmebQiGyb2OVJRxp3EPJa6cYpHo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=K1y0ty8VJXNwRE_IZqQMig&amp;_nc_ss=7e60f&amp;oh=00_AQHV7-ws7bqo3VYs-KW3sp4Ms-0727C7aauexC1ilDl4uQ&amp;oe=6A8C4377",
+    "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&amp;_nc_ohc=Hu5J-RFMR3sQ7kNvwEK3OTl&amp;_nc_oc=AdrLyQ2PK9MQKPg2fKeJQIG44QWtLB-ogJSPOONzqkwocO1y813RjtZZmGBEG7Qr1QA&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=-fPMkv3pt7nIjBJZrmZ7Fw&amp;_nc_ss=7e60f&amp;oh=00_AQGRKXf5US4VqYZsjiohqoWLTrCAaqhVu6RtoJSqpQBa9Q&amp;oe=6A8C7BB7",
     "spotify": "https://www.instagram.com/p/DcJocCEjjSN/",
     "category": "Beyonce News"
   },
@@ -108,30 +171,39 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Law Roach Says He\u2019s \u2018Outgrown\u2019 Pettiness but Still Won\u2019t Dress Zendaya in Designers Who Rejected Her During Her Early Career - people.com",
+    "title": "happy days \u2661 @CynthiaErivo",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-17",
+    "image": "https://i.ytimg.com/vi/uByNH-jx28A/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=uByNH-jx28A",
+    "category": "Music"
+  },
+  {
+    "title": "Law Roach Says He\u2019s \u2018Outgrown\u2019 Pettiness but Still Won\u2019t Dress Zendaya in Designers Who Rejected Her During Her Early Career - People.com",
     "artist": "Zendaya",
-    "source": "people.com",
+    "source": "People.com",
     "time": "2026-08-17",
     "image": "",
     "spotify": "https://people.com/law-roach-outgrown-pettiness-wont-dress-zendaya-designers-who-rejected-her-12061624",
     "category": "Zendaya"
   },
   {
-    "title": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - Rotten Tomatoes",
+    "title": "2 Lingering Spider-Man: Brand New Day Questions I Really Hope Get Answered Before The Next Movie - Cinemablend",
     "artist": "Spider-Man",
-    "source": "Rotten Tomatoes",
+    "source": "Cinemablend",
     "time": "2026-08-17",
-    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO3-Rep.jpg?w=600",
-    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-3/",
+    "image": "https://cdn.mos.cms.futurecdn.net/4vie43XZLrjhZStiq3BApP-2000-80.jpg",
+    "spotify": "https://www.cinemablend.com/movies/2-lingering-spider-man-brand-new-day-questions-hopefully-answered-before-next-movie",
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day Almost Featured Chameleon as Its Villain Before Kraven the Hunter - IGN",
+    "title": "Before Spider-Man, Tom Holland Starred In A Thriller With A DC Extended Universe Actor - IMDb",
     "artist": "Spider-Man",
-    "source": "IGN",
+    "source": "IMDb",
     "time": "2026-08-17",
-    "image": "https://assets-prd.ignimgs.com/2026/06/17/spiderthumb-1781723266727.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-    "spotify": "https://www.ign.com/articles/spider-man-brand-new-day-nearly-featured-a-different-identity-swapping-villain-before-sonys-kraven-the-hunter-got-in-the-way",
+    "image": "",
+    "spotify": "https://www.imdb.com/news/ni65975506/?ref_=nwc_art_perm",
     "category": "Movies"
   },
   {
@@ -171,6 +243,24 @@
     "category": "Music"
   },
   {
+    "title": "never get over me \u2661 \uff61\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-13",
+    "image": "https://i.ytimg.com/vi/UimT67Mjsxo/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UimT67Mjsxo",
+    "category": "Music"
+  },
+  {
+    "title": "\ua564 \u2026 screaming all day on set w barclays in a day and a half ...behind the scenes out now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-12",
+    "image": "https://i.ytimg.com/vi/OglkPiDtZhk/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=OglkPiDtZhk",
+    "category": "Music"
+  },
+  {
     "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Encyclopedia Britannica",
     "artist": "Volleyball",
     "source": "Encyclopedia Britannica",
@@ -178,6 +268,15 @@
     "image": "",
     "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
     "category": "Sports"
+  },
+  {
+    "title": "download petal a cappella versions \ua564 \uff61\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-06",
+    "image": "https://i.ytimg.com/vi/BPxKZS1PeWU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BPxKZS1PeWU",
+    "category": "Music"
   },
   {
     "title": "MORNING DEW (DONK MIX)",
@@ -216,12 +315,30 @@
     "category": "Music"
   },
   {
+    "title": "petal \ua564 \uff61\u02da hello, me again.. i love to sing some more on itunes now for 24 hours",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/UtN2hria5AM/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UtN2hria5AM",
+    "category": "Music"
+  },
+  {
     "title": "MORNING DEW (DONK) REMIX PACK",
     "artist": "Beyonce",
     "source": "Spotify",
     "time": "2026-08-04",
     "image": "https://i.scdn.co/image/ab67616d0000b27347679d13ce36ec4fb1760c41",
     "spotify": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl",
+    "category": "Music"
+  },
+  {
+    "title": "petal \ua564 \uff61\u02da hello, i love to sing version available exclusively on itunes now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-04",
+    "image": "https://i.ytimg.com/vi/UvPR-9OkPQs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UvPR-9OkPQs",
     "category": "Music"
   },
   {
@@ -234,6 +351,15 @@
     "category": "Sports"
   },
   {
+    "title": "see you tonight, chicago ! \u2661",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-03",
+    "image": "https://i.ytimg.com/vi/YmffbbteTcg/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=YmffbbteTcg",
+    "category": "Music"
+  },
+  {
     "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
     "artist": "Volleyball",
     "source": "Volleyball World",
@@ -241,6 +367,15 @@
     "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
     "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
     "category": "Sports"
+  },
+  {
+    "title": "petal \ua564 \uff61\u02da album out now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-01",
+    "image": "https://i.ytimg.com/vi/iRlxK90v0-A/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=iRlxK90v0-A",
+    "category": "Music"
   },
   {
     "title": "petal",
