@@ -36,12 +36,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Insidious: Out of the Further\u2019 Hunts Down $3M in Box Office Previews - The Hollywood Reporter",
+    "title": "Amid \u2018Spider-Man\u2019 and \u2018The Odyssey\u2019 Leaks, Hollywood\u2019s Battle Against Piracy Enters a Whole New Era - Variety",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "Variety",
     "time": "2026-08-21",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/HOOKTURN_2025_09_19_Narelle_Portanier_004419-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/insidious-out-of-the-further-box-office-previews-spider-man-1236678303/",
+    "image": "https://variety.com/wp-content/uploads/2026/08/Piracy-Illustration-Placeholder.jpg?crop=0px%2C69px%2C1920px%2C1080px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/features/movie-piracy-spider-man-odyssy-leak-online-1236837027/",
     "category": "Movies"
   },
   {
@@ -52,24 +52,6 @@
     "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
     "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
     "category": "Movies"
-  },
-  {
-    "title": "Amid \u2018Spider-Man\u2019 and \u2018The Odyssey\u2019 Leaks, Hollywood\u2019s Battle Against Piracy Enters a Whole New Era - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-08-21",
-    "image": "https://variety.com/wp-content/uploads/2026/08/Piracy-Illustration-Placeholder.jpg?crop=0px%2C69px%2C1920px%2C1080px&#038;resize=1000%2C563",
-    "spotify": "https://variety.com/2026/film/features/movie-piracy-spider-man-odyssy-leak-online-1236837027/",
-    "category": "Movies"
-  },
-  {
-    "title": "\u201cBINGO MUSIC FOR CLOWNS\u201d: Diamanda Gal\u00e1s on Beyonc\u00e9 Doing Country, Real Roots, and Revenge - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-08-21",
-    "image": "https://s.yimg.com/lo/mysterio/api/336f185af691bdefec08ceafe36786300e2d36f81aa666b0f68ef93c37a94f09/lightyear_networkapi/resizefill_w1024_h681%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2Ff2950511f07da9f0cb3b1161aa5e431b.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/bingo-music-clowns-diamanda-gal-113000629.html",
-    "category": "Beyonce News"
   },
   {
     "title": "AT THE MOVIES: Tom Holland delivers a mature performance in Spider-Man: Brand New Day - Monadnock Ledger-Transcript",
@@ -90,15 +72,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya turns 30 \u2013 here are her best fashion moments - Yahoo Life UK",
-    "artist": "Zendaya",
-    "source": "Yahoo Life UK",
-    "time": "2026-08-19",
-    "image": "https://s.yimg.com/lo/mysterio/api/99199058d901fbb162a4b2837d98634489984e4d2a10fbf472dd5ad4632de3ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpa_lifestyle_482%2Fbcd12ddef6d93f0592bca0e1d6c1cef7.jpg",
-    "spotify": "https://uk.style.yahoo.com/zendaya-turns-30-her-best-070052493.html",
-    "category": "Zendaya"
-  },
-  {
     "title": "Woodbury Commons Mystery: Was Beyonc\u00e9 Shopping in Orange County? - hudsonvalleycountry.com",
     "artist": "Beyonce",
     "source": "hudsonvalleycountry.com",
@@ -115,6 +88,15 @@
     "image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/WW33PPDYRNFAVKUFC5F4B3LAQU.JPG?auth=3ab86867eb39c61192be08844db8a4ac541274317f58799ece197a4f17775e3a&amp;width=1200&amp;height=600&amp;smart=true",
     "spotify": "https://www.alaskasnewssource.com/2026/08/19/dogs-beyonc-songs-us-house-candidates-look-primary-night-alaska/",
     "category": "Beyonce News"
+  },
+  {
+    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
+    "artist": "Coldplay",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
+    "category": "Music"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -171,9 +153,9 @@
     "category": "Music"
   },
   {
-    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - BuzzFeed",
+    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - buzzfeed.com",
     "artist": "Zendaya",
-    "source": "BuzzFeed",
+    "source": "buzzfeed.com",
     "time": "2026-08-18",
     "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/18/10/thumb/FjBhYE9dq.jpg?crop=1250:654;0,29%26downsize=1250:*",
     "spotify": "https://www.buzzfeed.com/leylamohammed/law-roach-update-designer-brands-snubbed-zendaya",
@@ -189,12 +171,30 @@
     "category": "Movies"
   },
   {
+    "title": "Review: \u2018Spider-Man: Brand New Day\u2019 swings to the top of Tom Holland\u2019s solo Marvel movies - The Daily Tar Heel",
+    "artist": "Spider-Man",
+    "source": "The Daily Tar Heel",
+    "time": "2026-08-18",
+    "image": "",
+    "spotify": "https://dailytarheel.com/478999/lifestyle/review-spider-man-brand-new-day-swings-to-the-top-of-tom-hollands-solo-marvel-movies/",
+    "category": "Movies"
+  },
+  {
     "title": "#TSRBeauty: #Lizzo was mugged down while #Beyonc\u00e9 was peeping on her screen in the background. Mug for mug.\ud83d\ude0d\ud83d\ude2e\u200d\ud83d\udca8 \ud83d\udcf8:@gettyimages(SWIPE) \u270d\ud83c\udffe:#TSRStaffJR - instagram.com",
     "artist": "Beyonce",
     "source": "instagram.com",
     "time": "2026-08-18",
-    "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Hu5J-RFMR3sQ7kNvwHUmFxj&amp;_nc_oc=AdpfFy_0TixQMEv5gRMZV_6BQ9TjvDHMeLLImHJIDl6703qD5hDYn_yQ7gdAQx7me8Y&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=NeyO60q9Hlmz9jEcBuSJRg&amp;_nc_ss=7e60f&amp;oh=00_AQE45_PudDewG1MChaPDnJFn7gJUz2drTbVyNFQNixsOTA&amp;oe=6A8EE677",
+    "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/778074199_18714536575006824_5205802183574786184_n.jpg?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=yKJKxkiLsrsQ7kNvwHv56-X&amp;_nc_oc=Adoy-pVCjrG8eDvm_qIahZCo0FoOnl3H4PahDL1cVefA9kJ_kiCwJfCVc9WI3HKmgyc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.cdninstagram.com&amp;_nc_gid=3uF-YaPp4Kv1HJwO4GQnzw&amp;_nc_ss=7e60f&amp;oh=00_AQE2l46yoD-HaAEuw1leg6OHt_xoSszR-LY3VY_voXDdXw&amp;oe=6A8F1EB7",
     "spotify": "https://www.instagram.com/p/DcJocCEjjSN/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9 Trends After Old Clip Shows Her Sitting on Man\u2019s Lap - The Rickey Smiley Morning Show",
+    "artist": "Beyonce",
+    "source": "The Rickey Smiley Morning Show",
+    "time": "2026-08-18",
+    "image": "https://rickeysmileymorningshow.com/wp-content/uploads/sites/56/2026/08/17870580280283-edited.jpg?quality=80&strip=all&w=813&crop=0,0,100,457px",
+    "spotify": "https://rickeysmileymorningshow.com/3940594/beyonce-trends-after-old-clip-shows-her-sitting-on-mans-lap/",
     "category": "Beyonce News"
   },
   {
@@ -231,6 +231,15 @@
     "time": "2026-08-13",
     "image": "https://i.scdn.co/image/ab67616d0000b273208cb22fecc7034aeb103c7b",
     "spotify": "https://open.spotify.com/album/7Au0iRd9Z4AQqGPiUEt1Uv",
+    "category": "Music"
+  },
+  {
+    "title": "Qendresa - Besitos (Official Music Video)",
+    "artist": "Qendresa",
+    "source": "YouTube",
+    "time": "2026-08-13",
+    "image": "https://i.ytimg.com/vi/-ml4_UkMgm4/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=-ml4_UkMgm4",
     "category": "Music"
   },
   {
