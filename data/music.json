@@ -9,12 +9,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Spider Man Box Office: Brand New Day Leads Over Insidious 6 - Variety",
+    "title": "Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening - Deadline",
     "artist": "Spider-Man",
-    "source": "Variety",
+    "source": "Deadline",
     "time": "2026-08-23",
-    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP142.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg?w=1000",
+    "spotify": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
     "category": "Movies"
   },
   {
@@ -27,6 +27,24 @@
     "category": "Movies"
   },
   {
+    "title": "Where was Spider-Man: Brand New Day filmed? \u2013 with interactive map - The Worldwide Guide To Movie Locations",
+    "artist": "Spider-Man",
+    "source": "The Worldwide Guide To Movie Locations",
+    "time": "2026-08-23",
+    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
+    "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
+    "category": "Movies"
+  },
+  {
+    "title": "Weekend Box Office: SPIDER-MAN Takes a Fourth Spin at the Top - Boxoffice Pro",
+    "artist": "Spider-Man",
+    "source": "Boxoffice Pro",
+    "time": "2026-08-23",
+    "image": "",
+    "spotify": "https://www.boxofficepro.com/weekend-box-office-spider-man-takes-a-fourth-spin-at-the-top/",
+    "category": "Movies"
+  },
+  {
     "title": "Second Take: The MCU keeps Spider-Man's name, suit and villains. But where's Peter Parker? - Daily Bruin",
     "artist": "Spider-Man",
     "source": "Daily Bruin",
@@ -36,11 +54,20 @@
     "category": "Movies"
   },
   {
+    "title": "\u2018Spider-Man\u2019 tops box office in fourth weekend; \u2018The Odyssey\u2019 becomes Nolan\u2019s highest-grossing film - News4JAX",
+    "artist": "Spider-Man",
+    "source": "News4JAX",
+    "time": "2026-08-23",
+    "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3BQVBQQDQFE2NKDE67Q7JYZRCA.jpg?_a=DATAg1kSZAA0",
+    "spotify": "https://www.news4jax.com/entertainment/2026/08/23/spider-man-tops-box-office-in-fourth-weekend-the-odyssey-becomes-nolans-highest-grossing-film/",
+    "category": "Movies"
+  },
+  {
     "title": "Beyonc\u00e9\u2019s New Single Brings Her To Career Milestones On Multiple Charts - Forbes",
     "artist": "Beyonce",
     "source": "Forbes",
     "time": "2026-08-23",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/6a89fb97a04b0752c1edad50/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+    "image": "",
     "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/23/beyoncs-new-single-brings-her-to-career-milestones-on-multiple-charts/",
     "category": "Beyonce News"
   },
@@ -72,33 +99,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Where was Spider-Man: Brand New Day filmed? \u2013 with interactive map - The Worldwide Guide To Movie Locations",
-    "artist": "Spider-Man",
-    "source": "The Worldwide Guide To Movie Locations",
-    "time": "2026-08-22",
-    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
-    "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
-    "category": "Movies"
-  },
-  {
-    "title": "\u201cBINGO MUSIC FOR CLOWNS\u201d: Diamanda Gal\u00e1s on Beyonc\u00e9 Doing Country, Real Roots, and Revenge - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-08-21",
-    "image": "https://s.yimg.com/lo/mysterio/api/336f185af691bdefec08ceafe36786300e2d36f81aa666b0f68ef93c37a94f09/lightyear_networkapi/resizefill_w1024_h681%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2Ff2950511f07da9f0cb3b1161aa5e431b.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/bingo-music-clowns-diamanda-gal-113000629.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "AT THE MOVIES: Tom Holland delivers a mature performance in Spider-Man: Brand New Day - Monadnock Ledger-Transcript",
-    "artist": "Spider-Man",
-    "source": "Monadnock Ledger-Transcript",
-    "time": "2026-08-20",
-    "image": "https://i0.wp.com/ledgertranscript.com/wp-content/uploads/2026/06/Alex-Murray_c_Molly-Ferrill.jpg?fit=1525%2C2188&ssl=1",
-    "spotify": "https://ledgertranscript.com/2026/08/20/tom-holland-spiderman-brand-new-day/",
-    "category": "Movies"
-  },
-  {
     "title": "How Beyonce inspired the \u2018Love Island\u2019 slo-mo walk - CNN",
     "artist": "Beyonce",
     "source": "CNN",
@@ -106,15 +106,6 @@
     "image": "https://media.cnn.com/api/v1/images/stellar/prod/cue00003-ariana-madix-vertical-2-me-2-fonted.jpg?c=16x9&q=w_800,c_fill",
     "spotify": "https://www.cnn.com/2026/08/20/entertainment/video/ariana-madix-love-island-walk-beyonce-orig-vrtc",
     "category": "Beyonce News"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $800M at Domestic Box Office - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-19",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-27223_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/",
-    "category": "Movies"
   },
   {
     "title": "Woodbury Commons Mystery: Was Beyonc\u00e9 Shopping in Orange County? - hudsonvalleycountry.com",
@@ -205,6 +196,15 @@
     "image": "",
     "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
     "category": "Sports"
+  },
+  {
+    "title": "Shaboozey Opens Up About His Lasting Bond with Beyonc\u00e9 After Cowboy Carter: \u2018A Really Good Friend\u2019 - People.com",
+    "artist": "Beyonce",
+    "source": "People.com",
+    "time": "2026-08-06",
+    "image": "",
+    "spotify": "https://people.com/shaboozey-talks-lasting-bond-really-good-friend-beyonce-after-cowboy-carter-12036074",
+    "category": "Beyonce News"
   },
   {
     "title": "MORNING DEW (DONK MIX)",
