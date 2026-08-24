@@ -1,5 +1,23 @@
 [
   {
+    "title": "Truly my soul finds rest in God; my salvation comes from him.",
+    "artist": "Psalm 62:1",
+    "source": "OurManna",
+    "time": "2026-08-24",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-24",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya\u2019s 2026 summer: marriage, Spider-Man and a $4 billion career - Northeast Times",
     "artist": "Zendaya",
     "source": "Northeast Times",
@@ -9,12 +27,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening - Deadline",
+    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Triumphs Again in Fourth Weekend With $39 Million, \u2018Insidious 6\u2019 Launches to $25 Million - Variety",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "Variety",
     "time": "2026-08-23",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg?w=1000",
-    "spotify": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP142.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
     "category": "Movies"
   },
   {
@@ -36,30 +54,30 @@
     "category": "Movies"
   },
   {
-    "title": "Weekend Box Office: SPIDER-MAN Takes a Fourth Spin at the Top - Boxoffice Pro",
+    "title": "Box Office: 'Spider-Man: Brand New Day' $39M, 'Insidious 6' $25M+ Opening - Deadline",
     "artist": "Spider-Man",
-    "source": "Boxoffice Pro",
+    "source": "Deadline",
+    "time": "2026-08-23",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-Spider-Man-Brand-New-Day.jpg?w=1000",
+    "spotify": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
+    "category": "Movies"
+  },
+  {
+    "title": "\u2018Spider-Man' tops box office again as \u2018The Odyssey' makes history for Nolan - NBC New York",
+    "artist": "Spider-Man",
+    "source": "NBC New York",
+    "time": "2026-08-23",
+    "image": "https://media.nbcnewyork.com/2026/08/260823-spiderman-getty.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+    "spotify": "https://www.nbcnewyork.com/entertainment/entertainment-news/spider-man-box-office-fourth-weekend-the-odyssey-history/6539474/",
+    "category": "Movies"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 to oust \u2018Titanic\u2019 from top 5 highest-grossing films at global box office - Entertainment Weekly",
+    "artist": "Spider-Man",
+    "source": "Entertainment Weekly",
     "time": "2026-08-23",
     "image": "",
-    "spotify": "https://www.boxofficepro.com/weekend-box-office-spider-man-takes-a-fourth-spin-at-the-top/",
-    "category": "Movies"
-  },
-  {
-    "title": "Second Take: The MCU keeps Spider-Man's name, suit and villains. But where's Peter Parker? - Daily Bruin",
-    "artist": "Spider-Man",
-    "source": "Daily Bruin",
-    "time": "2026-08-23",
-    "image": "https://wp.dailybruin.com/images/2026/08/EditedTASM50forDB.png",
-    "spotify": "https://dailybruin.com/2026/08/22/second-take-the-mcu-keeps-spider-mans-name-suit-and-villains-but-wheres-peter-parker",
-    "category": "Movies"
-  },
-  {
-    "title": "\u2018Spider-Man\u2019 tops box office in fourth weekend; \u2018The Odyssey\u2019 becomes Nolan\u2019s highest-grossing film - News4JAX",
-    "artist": "Spider-Man",
-    "source": "News4JAX",
-    "time": "2026-08-23",
-    "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3BQVBQQDQFE2NKDE67Q7JYZRCA.jpg?_a=DATAg1kSZAA0",
-    "spotify": "https://www.news4jax.com/entertainment/2026/08/23/spider-man-tops-box-office-in-fourth-weekend-the-odyssey-becomes-nolans-highest-grossing-film/",
+    "spotify": "https://ew.com/spider-man-brand-new-day-poised-to-unseat-titanic-in-all-time-highest-grossing-films-in-global-box-office-history-12066024",
     "category": "Movies"
   },
   {
@@ -67,35 +85,8 @@
     "artist": "Beyonce",
     "source": "Forbes",
     "time": "2026-08-23",
-    "image": "",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/6a89fb97a04b0752c1edad50/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
     "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/08/23/beyoncs-new-single-brings-her-to-career-milestones-on-multiple-charts/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "If You Loved \u201cThe Odyssey,\u201d Here Are 5 Movies To Watch Next | NileFM | EGYPT'S#1 FOR HIT MUSIC - NileFM",
-    "artist": "Beyonce",
-    "source": "NileFM",
-    "time": "2026-08-23",
-    "image": "https://api.nilefm.com/uploads/articles/1782043717-Beyonce.jpg",
-    "spotify": "https://nilefm.com/undefined/article/13802/beyonc%C3%A9-and-jay-z-the-legacy-behind-their-most-iconic-collaborations",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.",
-    "artist": "Galatians 5:13",
-    "source": "OurManna",
-    "time": "2026-08-23",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-23",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
     "category": "Beyonce News"
   },
   {
@@ -252,6 +243,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Beyonc\u00e9, Jay-Z Clap Back at Trolls Who \u201cHate\u201d Them in First Collab in 7 Years - E! News",
+    "artist": "Beyonce",
+    "source": "E! News",
+    "time": "2026-08-05",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260805/d911c26e-cc48-45de-9d4d-43ebb091a8f7_1785948009.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "spotify": "https://www.eonline.com/news/1434701/beyonce-jay-z-slam-internet-trolls-in-first-music-collab-in-7-years",
+    "category": "Beyonce News"
+  },
+  {
     "title": "MORNING DEW (DONK) REMIX PACK",
     "artist": "Beyonce",
     "source": "Spotify",
@@ -277,15 +277,6 @@
     "image": "",
     "spotify": "https://people.com/zendaya-best-vintage-fashion-moments-12027630",
     "category": "Zendaya"
-  },
-  {
-    "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
-    "artist": "Volleyball",
-    "source": "Volleyball World",
-    "time": "2026-08-02",
-    "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
-    "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
-    "category": "Sports"
   },
   {
     "title": "petal",
