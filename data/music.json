@@ -1,23 +1,5 @@
 [
   {
-    "title": "Weekend Box Office: Spider-Man: Brand New Day Continues to Climb - Rotten Tomatoes",
-    "artist": "Spider-Man",
-    "source": "Rotten Tomatoes",
-    "time": "2026-08-24",
-    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO4-Rep.jpg?w=600",
-    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-4/",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man: Brand New Day was No. 1 at global weekend B.O. with $109M, 'Insidious 6' opened to $60M WW, 'Obsession' Clears Half Billion. Read more below. - facebook.com",
-    "artist": "Spider-Man",
-    "source": "facebook.com",
-    "time": "2026-08-24",
-    "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/784961589_1236227085302061_6020360138250209380_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=1iJmIwXGTQYQ7kNvwFSuO59&amp;_nc_oc=Adoqth1jIkHhuCZS_XJmOhqD5b4cOIA0VFWe0A6I9r-Q9dxr2XlV-Zp261zkwaqqpyk&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=N4fKLTr4nnwA69tgYLqjiA&amp;_nc_ss=7e20f&amp;oh=00_AQEzGyd-X66kfTdqm629SzXGV0EIzPRJq-NOB_x5rXgOwQ&amp;oe=6A91CCFE",
-    "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-was-no-1-at-global-weekend-bo-with-109m-insidious-6-ope/1417530526913950/",
-    "category": "Movies"
-  },
-  {
     "title": "Truly my soul finds rest in God; my salvation comes from him.",
     "artist": "Psalm 62:1",
     "source": "OurManna",
@@ -45,12 +27,21 @@
     "category": "Zendaya"
   },
   {
-    "title": "Marvel officially recasts Spider-Man character ahead of MCU return - IMDb",
+    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Triumphs Again in Fourth Weekend With $39 Million, \u2018Insidious 6\u2019 Launches to $25 Million - Variety",
     "artist": "Spider-Man",
-    "source": "IMDb",
+    "source": "Variety",
+    "time": "2026-08-23",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP142.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
+    "category": "Movies"
+  },
+  {
+    "title": "Daaaaaaaamn, People Love Watching Spider-Man Movies - Gizmodo",
+    "artist": "Spider-Man",
+    "source": "Gizmodo",
     "time": "2026-08-23",
     "image": "",
-    "spotify": "https://www.imdb.com/news/ni65984448/?ref_=ttnw_art_perm",
+    "spotify": "https://gizmodo.com/daaaaaaaamn-people-love-watching-spider-man-movies-2000801957",
     "category": "Movies"
   },
   {
@@ -81,6 +72,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Zendaya Was Just Spotted Wearing These Viral $75 Sunglasses - E! News",
+    "artist": "Zendaya",
+    "source": "E! News",
+    "time": "2026-08-21",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260820/13f3455b-aa48-4675-8a11-7c7c30a31b67_1787263664.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "spotify": "https://www.eonline.com/news/1435259/zendaya-london-street-style-s75-le-specs-honey-pot-sunglasses",
+    "category": "Zendaya"
+  },
+  {
     "title": "How Beyonce inspired the \u2018Love Island\u2019 slo-mo walk - CNN",
     "artist": "Beyonce",
     "source": "CNN",
@@ -90,11 +90,20 @@
     "category": "Beyonce News"
   },
   {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Fastest Movie to Hit $800M at Domestic Box Office - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-08-19",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-27223_r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/",
+    "category": "Movies"
+  },
+  {
     "title": "Woodbury Commons Mystery: Was Beyonc\u00e9 Shopping in Orange County? - hudsonvalleycountry.com",
     "artist": "Beyonce",
     "source": "hudsonvalleycountry.com",
     "time": "2026-08-19",
-    "image": "",
+    "image": "https://townsquare.media/site/706/files/2026/08/attachment-woodbury.jpg?w=1200&format=natural",
     "spotify": "https://hudsonvalleycountry.com/beyonce-shopping-at-woodbury-commons/",
     "category": "Beyonce News"
   },
@@ -144,21 +153,21 @@
     "category": "Music"
   },
   {
-    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - buzzfeed.com",
+    "title": "Law Roach's Update On Designer Brands That Snubbed Zendaya - BuzzFeed",
     "artist": "Zendaya",
-    "source": "buzzfeed.com",
+    "source": "BuzzFeed",
     "time": "2026-08-18",
     "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/18/10/thumb/FjBhYE9dq.jpg?crop=1250:654;0,29%26downsize=1250:*",
     "spotify": "https://www.buzzfeed.com/leylamohammed/law-roach-update-designer-brands-snubbed-zendaya",
     "category": "Zendaya"
   },
   {
-    "title": "Weekend Box Office: Spider-Man: Brand New Day Crosses $2 Billion Worldwide - Rotten Tomatoes",
+    "title": "\u2018Spider-Man\u2019 Brand New Day Has A Jean Grey Problem - Erik Kain | Substack",
     "artist": "Spider-Man",
-    "source": "Rotten Tomatoes",
-    "time": "2026-08-17",
-    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO3-Rep.jpg?w=600",
-    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-3/",
+    "source": "Erik Kain | Substack",
+    "time": "2026-08-18",
+    "image": "",
+    "spotify": "https://diabolical.substack.com/p/spider-man-brand-new-day-has-a-jean",
     "category": "Movies"
   },
   {
@@ -270,13 +279,13 @@
     "category": "Sports"
   },
   {
-    "title": "See Zendaya\u2019s Best Vintage Fashion Moments - People.com",
-    "artist": "Zendaya",
-    "source": "People.com",
+    "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
+    "artist": "Volleyball",
+    "source": "Volleyball World",
     "time": "2026-08-02",
-    "image": "",
-    "spotify": "https://people.com/zendaya-best-vintage-fashion-moments-12027630",
-    "category": "Zendaya"
+    "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
+    "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
+    "category": "Sports"
   },
   {
     "title": "petal",
