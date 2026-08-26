@@ -1,29 +1,20 @@
 [
   {
-    "title": "Dolly Parton Is Mourned by Beyonc\u00e9, Reba McEntire and More - The New York Times",
-    "artist": "Beyonce",
-    "source": "The New York Times",
+    "title": "'Spider-Man: Brand New Day' has become the second highest grossing movie ever at the domestic box office, defeating 'Avengers: Endgame' Read more below. - facebook.com",
+    "artist": "Spider-Man",
+    "source": "facebook.com",
     "time": "2026-08-26",
-    "image": "",
-    "spotify": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-celebrity-reaction.html",
-    "category": "Beyonce News"
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/784075886_1390723306346425_2517186329085974133_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=oJpWIqte70UQ7kNvwHP_4Ix&amp;_nc_oc=AdrBvVew5J1JwKUjvo2cZ5LOyh7blECMeQMdKHnntUjLAEeboHVUHMBSHkWOHqHCl6I&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=fyoJzNZdXAUXX6H4D-s4HQ&amp;_nc_ss=7e20f&amp;oh=00_AQFBcl6BbSDc_p5uczehqiY0ZbJxS3Hg_Y_i_TfiXtvavA&amp;oe=6A944C6D",
+    "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-has-become-the-second-highest-grossing-movie-ever-at-th/1419146266752376/",
+    "category": "Movies"
   },
   {
-    "title": "'You were the barometer. The North Star': Beyonc\u00e9 pays tribute to Dolly Parton - Houston Chronicle",
+    "title": "\u2018You were the barometer\u2019 | Beyonc\u00e9 shares emotional tribute to Dolly Parton after her death - KHOU",
     "artist": "Beyonce",
-    "source": "Houston Chronicle",
+    "source": "KHOU",
     "time": "2026-08-26",
     "image": "",
-    "spotify": "https://www.houstonchronicle.com/entertainment/music/article/beyonce-dolly-parton-tribute-death-jolene-cowboy-22403733.php",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 honors Dolly Parton after her death: \u2018You are truly one of one\u2019 - CW39 Houston",
-    "artist": "Beyonce",
-    "source": "CW39 Houston",
-    "time": "2026-08-26",
-    "image": "",
-    "spotify": "https://cw39.com/news/local/beyonce-tribute-dolly-parton/",
+    "spotify": "https://www.khou.com/article/news/local/beyonce-tribute-dolly-parton/285-ee5fb3ab-60fe-41ef-bf9e-c528d4861b7d",
     "category": "Beyonce News"
   },
   {
@@ -33,6 +24,15 @@
     "time": "2026-08-26",
     "image": "https://www.billboard.com/wp-content/uploads/2026/08/P115X4H0-e1787701246162.jpg?w=1024",
     "spotify": "https://www.billboard.com/music/music-news/beyonce-dolly-parton-tribute-1236324600/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "'You were the barometer. The North Star': Beyonc\u00e9 pays tribute to Dolly Parton - Houston Chronicle",
+    "artist": "Beyonce",
+    "source": "Houston Chronicle",
+    "time": "2026-08-26",
+    "image": "",
+    "spotify": "https://www.houstonchronicle.com/entertainment/music/article/beyonce-dolly-parton-tribute-death-jolene-cowboy-22403733.php",
     "category": "Beyonce News"
   },
   {
@@ -52,15 +52,6 @@
     "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
     "spotify": "https://beyonce.com",
     "category": "Beyonce News"
-  },
-  {
-    "title": "\u2026\u2026. like i do \ua564 \uff61\u02da",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-25",
-    "image": "https://i.ytimg.com/vi/7O_KDpUw7PA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=7O_KDpUw7PA",
-    "category": "Music"
   },
   {
     "title": "The Web She Weaves: Zendaya\u2019s Ten-Year Spider-Man Style Evolution - Red Carpet Fashion Awards",
@@ -99,6 +90,15 @@
     "category": "Movies"
   },
   {
+    "title": "Dolly Parton Is Mourned by Beyonc\u00e9, Reba McEntire and More - The New York Times",
+    "artist": "Beyonce",
+    "source": "The New York Times",
+    "time": "2026-08-25",
+    "image": "",
+    "spotify": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-celebrity-reaction.html",
+    "category": "Beyonce News"
+  },
+  {
     "title": "What Dolly Parton really thought about Beyonc\u00e9\u2019s cover of her classic song \u2018Jolene - Diario AS",
     "artist": "Beyonce",
     "source": "Diario AS",
@@ -126,11 +126,20 @@
     "category": "Movies"
   },
   {
+    "title": "Tom Holland\u2019s \u2018Spider-Man: Brand New Day\u2019 Payday Is Seriously Wild - PureWow",
+    "artist": "Spider-Man",
+    "source": "PureWow",
+    "time": "2026-08-24",
+    "image": "https://assets.purewow.com/wp-content/uploads/2026/08/Tom-Holland-Spider-Man-Pay-1174x630.jpg",
+    "spotify": "https://www.purewow.com/news/tom-holland-spider-man-pay",
+    "category": "Movies"
+  },
+  {
     "title": "Where was Spider-Man: Brand New Day filmed? \u2013 with interactive map - The Worldwide Guide To Movie Locations",
     "artist": "Spider-Man",
     "source": "The Worldwide Guide To Movie Locations",
     "time": "2026-08-24",
-    "image": "",
+    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
     "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
     "category": "Movies"
   },
@@ -144,120 +153,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 to oust \u2018Titanic\u2019 from top 5 highest-grossing films at global box office - Entertainment Weekly",
-    "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
-    "time": "2026-08-23",
-    "image": "",
-    "spotify": "https://ew.com/spider-man-brand-new-day-poised-to-unseat-titanic-in-all-time-highest-grossing-films-in-global-box-office-history-12066024",
-    "category": "Movies"
-  },
-  {
-    "title": "Why Do We Love Spider-Man So Much? - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-08-22",
-    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP141.jpg?w=1000&#038;h=562&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/",
-    "category": "Movies"
-  },
-  {
-    "title": "What Do You Fuckin&#39;Want",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
-    "category": "Music"
-  },
-  {
-    "title": "The Way I Am",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/eA83P3rOvD8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=eA83P3rOvD8",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
-    "category": "Music"
-  },
-  {
-    "title": "petal (official behind the scenes pt. 2)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
-    "category": "Music"
-  },
-  {
-    "title": "evening spell work \u22b9.\u02da\ud83e\ude9e\ud83d\udd6f\ufe0f\u2661 @r.e.m.beauty",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/jLcUPsaDKDI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=jLcUPsaDKDI",
-    "category": "Music"
-  },
-  {
-    "title": "happy days \u2661 @CynthiaErivo",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-17",
-    "image": "https://i.ytimg.com/vi/uByNH-jx28A/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=uByNH-jx28A",
-    "category": "Music"
-  },
-  {
     "title": "Besitos / Gave Myself 2 U",
     "artist": "Qendresa",
     "source": "Spotify",
     "time": "2026-08-13",
     "image": "https://i.scdn.co/image/ab67616d0000b273208cb22fecc7034aeb103c7b",
     "spotify": "https://open.spotify.com/album/7Au0iRd9Z4AQqGPiUEt1Uv",
-    "category": "Music"
-  },
-  {
-    "title": "Qendresa - Besitos (Official Music Video)",
-    "artist": "Qendresa",
-    "source": "YouTube",
-    "time": "2026-08-13",
-    "image": "https://i.ytimg.com/vi/-ml4_UkMgm4/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=-ml4_UkMgm4",
-    "category": "Music"
-  },
-  {
-    "title": "never get over me \u2661 \uff61\u02da",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-13",
-    "image": "https://i.ytimg.com/vi/UimT67Mjsxo/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UimT67Mjsxo",
-    "category": "Music"
-  },
-  {
-    "title": "\ua564 \u2026 screaming all day on set w barclays in a day and a half ...behind the scenes out now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-12",
-    "image": "https://i.ytimg.com/vi/OglkPiDtZhk/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=OglkPiDtZhk",
     "category": "Music"
   },
   {
@@ -270,21 +171,30 @@
     "category": "Sports"
   },
   {
-    "title": "download petal a cappella versions \ua564 \uff61\u02da",
-    "artist": "Ariana Grande",
+    "title": "MORNING DEW (DONK MIX)",
+    "artist": "Beyonce",
     "source": "YouTube",
-    "time": "2026-08-06",
-    "image": "https://i.ytimg.com/vi/BPxKZS1PeWU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=BPxKZS1PeWU",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/BeIxyQiuaA0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BeIxyQiuaA0",
     "category": "Music"
   },
   {
-    "title": "petal \ua564 \uff61\u02da hello, me again.. i love to sing some more on itunes now for 24 hours",
-    "artist": "Ariana Grande",
+    "title": "MORNING DEW (DONK) REMIX (EXPLICIT)",
+    "artist": "Beyonce",
     "source": "YouTube",
     "time": "2026-08-05",
-    "image": "https://i.ytimg.com/vi/UtN2hria5AM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UtN2hria5AM",
+    "image": "https://i.ytimg.com/vi/3eoZrQ6XZBQ/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=3eoZrQ6XZBQ",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) ACOUSTIC 4:44",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/wgld5uIgjDU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=wgld5uIgjDU",
     "category": "Music"
   },
   {
@@ -294,15 +204,6 @@
     "time": "2026-08-04",
     "image": "https://i.scdn.co/image/ab67616d0000b27347679d13ce36ec4fb1760c41",
     "spotify": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl",
-    "category": "Music"
-  },
-  {
-    "title": "petal \ua564 \uff61\u02da hello, i love to sing version available exclusively on itunes now",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-04",
-    "image": "https://i.ytimg.com/vi/UvPR-9OkPQs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UvPR-9OkPQs",
     "category": "Music"
   },
   {
@@ -322,15 +223,6 @@
     "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
     "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
-  },
-  {
-    "title": "see you tonight, chicago ! \u2661",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-03",
-    "image": "https://i.ytimg.com/vi/YmffbbteTcg/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=YmffbbteTcg",
-    "category": "Music"
   },
   {
     "title": "See Zendaya\u2019s Best Vintage Fashion Moments - People.com",
