@@ -1,5 +1,14 @@
 [
   {
+    "title": "Spider-Man: Brand New Day - DMovies",
+    "artist": "Spider-Man",
+    "source": "DMovies",
+    "time": "2026-08-29",
+    "image": "https://dmovies.org/wp-content/uploads/2026/08/SpiderManBrandNewDay1-800450.jpg",
+    "spotify": "https://dmovies.org/2026/08/29/spider-man-brand-new-day/",
+    "category": "Movies"
+  },
+  {
     "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
     "artist": "Spider-Man",
     "source": "Variety",
@@ -9,13 +18,22 @@
     "category": "Movies"
   },
   {
-    "title": "Fans Are 'Disturbed' By Resurfaced Video Showing Beyonc\u00e9 Being Told To Sit On Producer's Lap During Phone Call With Michael Jackson: 'This Is Wild' - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
+    "title": "Shailene Woodley Recalls Her \u201cDream\u201d Role as Mary Jane Being Cut From \u2018The Amazing Spider-Man 2\u2019 - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
     "time": "2026-08-29",
-    "image": "https://s.yimg.com/lo/mysterio/api/d12c1a716e2a4da98dcc5d22bd62e67fef17cda307338b1e6903bb780f9b0c2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F17b2d25698f7b9b393869a0f98c22c15.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/fans-disturbed-resurfaced-video-showing-083004076.html",
-    "category": "Beyonce News"
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/Shailene-Woodley-AFM-Hotlist-2025.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/shailene-woodley-recalls-mary-jane-cut-amazing-spider-man-2-1236684920/",
+    "category": "Movies"
+  },
+  {
+    "title": "Shailene Woodley reveals why her dream 'Spider-Man' role was cut - USA Today",
+    "artist": "Spider-Man",
+    "source": "USA Today",
+    "time": "2026-08-29",
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/29/shailene-woodley-mary-jane-spider-man-scenes-cut/91528996007/",
+    "category": "Movies"
   },
   {
     "title": "\u201cI am the Alpha and the Omega,\u201d says the Lord God, \u201cwho is, and who was, and who is to come, the Almighty.\u201d",
@@ -36,15 +54,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Still in More Theaters Than Any Other Movie 5 Weekends Later - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-28",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-08830_JM_rv2-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-theaters-box-office-1236684381/",
-    "category": "Movies"
-  },
-  {
     "title": "Kevin Feige Admits the Ending of 2026's Spider-Man: Brand New Day Movie Was Actually Heavily Influenced By MCU Fans - The Direct",
     "artist": "Spider-Man",
     "source": "The Direct",
@@ -63,39 +72,12 @@
     "category": "Movies"
   },
   {
-    "title": "Movie Theater Employee Draws His Own Spider-Man: Brand New Day Poster After Official One Never Arrives - People.com",
-    "artist": "Spider-Man",
-    "source": "People.com",
-    "time": "2026-08-28",
-    "image": "",
-    "spotify": "https://people.com/movie-theater-employee-goes-viral-after-drawing-own-spider-man-poster-12059373",
-    "category": "Movies"
-  },
-  {
-    "title": "Shailene Woodley Recalls Getting Cut From \u2018The Amazing Spider-Man 2\u2019: \u201cThat Was A Fun Phone Call\u201d - Deadline",
-    "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-08-28",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/P107OLM4-e1787956226582.jpg?w=686",
-    "spotify": "https://deadline.com/2026/08/shailene-woodley-recalls-getting-cut-amazing-spider-man-2-1237062407/",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - USA Today",
+    "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - Yahoo",
     "artist": "Beyonce",
-    "source": "USA Today",
+    "source": "Yahoo",
     "time": "2026-08-28",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/28/beyonce-birthday-bday-new-songs/91494781007/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Details Expansive, 27-Track 20th Anniversary 'B'Day' Deluxe LP - Billboard",
-    "artist": "Beyonce",
-    "source": "Billboard",
-    "time": "2026-08-27",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/08/P10608AN-e1787829809254.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/rb-hip-hop/beyonce-20th-anniversary-bday-deluxe-edition-track-list-1236326199/",
+    "image": "https://s.yimg.com/lo/mysterio/api/7233d36ed3090b3e8f19fb79ba42cb5e9b70670070b4eee62fd358c410f4a67a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fbfd0df1ffabbddc4dc67ba57d2a050c0.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-unveils-bday-deluxe-album-142700904.html",
     "category": "Beyonce News"
   },
   {
@@ -108,12 +90,21 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 Reveals Details of B\u2019Day 20th Anniversary Deluxe Edition - Yahoo",
+    "title": "'I Want to Be the Prima of Pop One Day': Ad\u00e9la Talks Upcoming Debut, Worshipping Beyonc\u00e9 - Rolling Stone",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "Rolling Stone",
+    "time": "2026-08-27",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/adela-song-shuffle-lolla.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-news/adela-song-shuffle-1235614691/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9 Reveals Details of B\u2019Day 20th Anniversary Deluxe Edition - Pitchfork",
+    "artist": "Beyonce",
+    "source": "Pitchfork",
     "time": "2026-08-26",
-    "image": "https://s.yimg.com/lo/mysterio/api/213fa66a47e1f9f39e7f2cdfc1396f6291aa7abc7658f922780a37379c734b1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchfork_606%2Fdab6bb2d20f349f8bf1f1e5ccbb51993.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-reveals-details-b-day-212057617.html",
+    "image": "https://media.pitchfork.com/photos/6a8f46dcfd911dfdd9e79cc4/16:9/w_1280,c_limit/beyonce%20bday%20.jpeg",
+    "spotify": "https://pitchfork.com/story/beyonce-reveals-details-of-20th-anniversary-deluxe-edition-of-bday/",
     "category": "Beyonce News"
   },
   {
@@ -123,6 +114,15 @@
     "time": "2026-08-26",
     "image": "https://www.vibe.com/wp-content/uploads/2026/08/beyonce-dolly-parton-cowboy-carter-e1787779065352.webp?w=1024",
     "spotify": "https://www.vibe.com/news/entertainment/beyonce-dolly-parton-tribute-cowboy-carter-1235184219/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9 Announces $1 Million Donation for Earthquake Relief Efforts in Colombia - Variety",
+    "artist": "Beyonce",
+    "source": "Variety",
+    "time": "2026-08-26",
+    "image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2181103134.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/music/news/beyonce-1-million-donation-earthquake-relief-colombia-1236844484/",
     "category": "Beyonce News"
   },
   {
