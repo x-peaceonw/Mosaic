@@ -27,15 +27,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Spider-Man: Brand New Day - DMovies",
-    "artist": "Spider-Man",
-    "source": "DMovies",
-    "time": "2026-08-29",
-    "image": "https://dmovies.org/wp-content/uploads/2026/08/SpiderManBrandNewDay1-800450.jpg",
-    "spotify": "https://dmovies.org/2026/08/29/spider-man-brand-new-day/",
-    "category": "Movies"
-  },
-  {
     "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
     "artist": "Spider-Man",
     "source": "Variety",
@@ -45,21 +36,21 @@
     "category": "Movies"
   },
   {
-    "title": "Shailene Woodley Recalls Her \u201cDream\u201d Role as Mary Jane Being Cut From \u2018The Amazing Spider-Man 2\u2019 - The Hollywood Reporter",
+    "title": "Tom Holland's 'Spider-Man: Brand New Day' overtakes James Cameron's 'Titanic' to become fourth highest-gr - The Times of India",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-29",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/Shailene-Woodley-AFM-Hotlist-2025.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/shailene-woodley-recalls-mary-jane-cut-amazing-spider-man-2-1236684920/",
+    "source": "The Times of India",
+    "time": "2026-08-28",
+    "image": "https://static.toiimg.com/thumb/msid-133601740,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/tom-hollands-spider-man-brand-new-day-overtakes-james-camerons-titanic-to-become-fourth-highest-grossing-film-of-all-time/articleshow/133601712.cms",
     "category": "Movies"
   },
   {
-    "title": "All 4 MCU Projects Set Up By Spider-Man: Brand New Day, And One Isn\u2019t Confirmed - ComicBook.com",
+    "title": "Shailene Woodley Recalls Getting Cut From \u2018The Amazing Spider-Man 2\u2019: \u201cThat Was A Fun Phone Call\u201d - Deadline",
     "artist": "Spider-Man",
-    "source": "ComicBook.com",
+    "source": "Deadline",
     "time": "2026-08-28",
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/07/Spider-Man-Brand-New-Day-Comic-Con-Screenings.jpg?resize=2000,1127",
-    "spotify": "https://comicbook.com/movies/list/all-4-mcu-projects-set-up-by-spider-man-brand-new-day-and-one-isnt-confirmed/",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/P107OLM4-e1787956226582.jpg?w=686",
+    "spotify": "https://deadline.com/2026/08/shailene-woodley-recalls-getting-cut-amazing-spider-man-2-1237062407/",
     "category": "Movies"
   },
   {
@@ -189,6 +180,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "'Spider-Man' Windfall: Tom Holland to Make Over $100 Million for \u2018Brand New Day\u2019 | Exclusive - TheWrap",
+    "artist": "Spider-Man",
+    "source": "TheWrap",
+    "time": "2026-08-18",
+    "image": "https://www.thewrap.com/wp-content/uploads/2026/08/081026-Spiderman.gif?width=1024&height=576&fit=bounds",
+    "spotify": "https://www.thewrap.com/creative-content/movies/tom-holland-spider-man-brand-new-day-salary-box-office-bonus/",
+    "category": "Movies"
+  },
+  {
     "title": "Besitos / Gave Myself 2 U",
     "artist": "Qendresa",
     "source": "Spotify",
@@ -277,5 +277,14 @@
     "image": "",
     "spotify": "https://people.com/zendaya-best-vintage-fashion-moments-12027630",
     "category": "Zendaya"
+  },
+  {
+    "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
+    "artist": "Volleyball",
+    "source": "Volleyball World",
+    "time": "2026-08-02",
+    "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
+    "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
+    "category": "Sports"
   }
 ]
