@@ -1,17 +1,26 @@
 [
   {
-    "title": "Movie star and style icon: Zendaya turns 30 - dw.com",
+    "title": "Movie star and style icon: Zendaya turns 30 - DW.com",
     "artist": "Zendaya",
-    "source": "dw.com",
+    "source": "DW.com",
     "time": "2026-08-31",
     "image": "",
     "spotify": "https://www.dw.com/en/movie-star-and-style-icon-zendaya-turns-30/g-78488062",
     "category": "Zendaya"
   },
   {
-    "title": "Revisit Zendaya's chic red carpet style as 'Spider-Man' star turns 30 - usatoday.com",
+    "title": "Zendaya at 30: how a Disney child star became Hollywood\u2019s most powerful brand - Ynetnews",
     "artist": "Zendaya",
-    "source": "usatoday.com",
+    "source": "Ynetnews",
+    "time": "2026-08-31",
+    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/09/ryyw61H2Zg/ryyw61H2Zg_0_128_2214_1246_0_large.jpg",
+    "spotify": "https://www.ynetnews.com/culture/article/rkyeufqozl",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Revisit Zendaya's chic red carpet style as 'Spider-Man' star turns 30 - USA Today",
+    "artist": "Zendaya",
+    "source": "USA Today",
     "time": "2026-08-31",
     "image": "",
     "spotify": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/08/31/zendaya-red-carpet-photo/91528894007/",
@@ -27,21 +36,93 @@
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 and Eminem Pay Tribute to Dolly Parton With Heartfelt Posts - Yahoo",
-    "artist": "Beyonce",
+    "title": "Weekend Box Office: Spider-Man: Brand New Day Reaches New Heights - Rotten Tomatoes",
+    "artist": "Spider-Man",
+    "source": "Rotten Tomatoes",
+    "time": "2026-08-31",
+    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/08/Spider-Man_Brand_New_Day_BO5.jpg?w=600",
+    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-5/",
+    "category": "Movies"
+  },
+  {
+    "title": "Shailene Woodley was shocked \u2018Spider-Man 2\u2019 role got cut: \u2018That was a fun phone call\u2019 - Page Six",
+    "artist": "Spider-Man",
+    "source": "Page Six",
+    "time": "2026-08-31",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/139108757.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "spotify": "https://pagesix.com/2026/08/31/entertainment/shailene-woodley-was-shocked-spider-man-2-role-got-cut-that-was-a-fun-phone-call/",
+    "category": "Movies"
+  },
+  {
+    "title": "Marvel Has Big Spider-Man Plans for Disney+ Streaming this September - Yahoo",
+    "artist": "Spider-Man",
     "source": "Yahoo",
     "time": "2026-08-31",
-    "image": "https://s.yimg.com/lo/mysterio/api/10516b265f045419b628153c6c54df48abb1e46adebc15a96d3be490ef7b934a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F0b86cdec2790824bffa739b7bfde0eec.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-eminem-pay-tribute-dolly-003729345.html",
+    "image": "",
+    "spotify": "https://www.yahoo.com/entertainment/tv/articles/marvel-big-spider-man-plans-182212880.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Tom Holland Becomes Third-Highest-Grossing Actor of All Time as \u2018Spider-Man\u2019 Blows Past $2 Billion - Complex",
+    "artist": "Spider-Man",
+    "source": "Complex",
+    "time": "2026-08-31",
+    "image": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/fniah0cks2pdykwalj3z",
+    "spotify": "https://www.complex.com/pop-culture/a/jaelaniturnerwilliams/tom-holland-third-highest-grossing-actor-spider-man-brand",
+    "category": "Movies"
+  },
+  {
+    "title": "Shailene Woodley Reflects on Cut Mary Jane Role in The Amazing Spider-Man 2 - IGN",
+    "artist": "Spider-Man",
+    "source": "IGN",
+    "time": "2026-08-31",
+    "image": "https://assets-prd.ignimgs.com/2026/08/31/shailene-woodley-paradise-1280-1788196068902.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+    "spotify": "https://www.ign.com/articles/shailene-woodley-mary-jane-amazing-spider-man-2",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9's BeyGood foundation donates $200k for Indiana flood relief - USA Today",
+    "artist": "Beyonce",
+    "source": "USA Today",
+    "time": "2026-08-31",
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/31/beyonce-indiana-flood-relief-donation/91550856007/",
     "category": "Beyonce News"
   },
   {
-    "title": "\u2018Like Beyonce\u2019: How \u2018Rockstar\u2019 Pope Leo XIV is energising Catholic youth - The Independent",
+    "title": "Beyonc\u00e9's BeyGOOD Foundation donates $200,000 to Indiana flood relief efforts - Yahoo",
     "artist": "Beyonce",
-    "source": "The Independent",
+    "source": "Yahoo",
     "time": "2026-08-31",
-    "image": "https://static.independent.co.uk/2026/08/17/16/2287064316..?trim=0,392,803,813&width=1200&height=800&crop=1200:800",
-    "spotify": "https://www.independent.co.uk/news/world/europe/pope-leo-catholic-church-young-b3034413.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/dde92e41799c6ac2e9b5d20a1aac0ee8665a59ea9b56ef6a2b25c1d3c6f838a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwthr_tegna_articles_444%2Ffa92b84b696832b8e4129df330a49582.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-beygood-foundation-donates-200-185608170.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s BeyGOOD pledges $200K to Indiana flood relief after deadly storms - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-08-31",
+    "image": "https://s.yimg.com/lo/mysterio/api/69b1e10798c0e0da46c142faa485fb6be7f076b9287f13ca5ec175764f6b8be2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F23aa2e3dcf0dc54cf157ee332052cec5.jpg",
+    "spotify": "https://www.yahoo.com/news/weather-news/articles/beyonc-beygood-pledges-200k-indiana-195000425.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9's foundation donates $200K to support storm relief efforts in Indiana - NBC 5 Chicago",
+    "artist": "Beyonce",
+    "source": "NBC 5 Chicago",
+    "time": "2026-08-31",
+    "image": "https://media.nbcchicago.com/2025/04/efe_b00b44dcf66bc94482fbec8f6777b98eef89e8daw.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+    "spotify": "https://www.nbcchicago.com/news/local/beyonces-foundation-donates-200k-to-support-storm-relief-efforts-in-indiana/3983037/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "BeyGOOD, Beyonc\u00e9\u2019s foundation, is donating $200K to support Indiana flood relief efforts - Fox 59",
+    "artist": "Beyonce",
+    "source": "Fox 59",
+    "time": "2026-08-31",
+    "image": "",
+    "spotify": "https://fox59.com/news/beygood-beyonces-foundation-is-donating-200k-to-support-indiana-flood-relief-efforts/",
     "category": "Beyonce News"
   },
   {
@@ -54,24 +135,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Shailene Woodley reveals why she was cut from dream 'Spider-Man' role - usatoday.com",
-    "artist": "Spider-Man",
-    "source": "usatoday.com",
-    "time": "2026-08-30",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/29/shailene-woodley-mary-jane-spider-man-scenes-cut/91528996007/",
-    "category": "Movies"
-  },
-  {
-    "title": "Box Office: 'Spider-Man' No. 1, 'Coyote Vs. Acme' $12M+, 'Dog Stars' Tanks - Deadline",
-    "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-08-30",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Coyote-vs-Acme-The-Dog-Stars.jpg?w=1000",
-    "spotify": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
-    "category": "Movies"
-  },
-  {
     "title": "Victoria Mon\u00e9t Shows Off Natural Hair Growth After Using C\u00e9cred - MadameNoire",
     "artist": "Beyonce",
     "source": "MadameNoire",
@@ -79,78 +142,6 @@
     "image": "https://madamenoire.com/wp-content/uploads/sites/9/2026/08/17881205903246-e1788120648365.jpg?quality=80&strip=all&w=1024&crop=0,0,100,546px",
     "spotify": "https://madamenoire.com/1688245/victoria-monet-natural-hair-growth-beyonce-cecred/",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-08-29",
-    "image": "https://variety.com/wp-content/uploads/2026/08/Shailene-Woodley.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/",
-    "category": "Movies"
-  },
-  {
-    "title": "Shailene Woodley Explains Why She Was Cut From 'Amazing Spider-Man 2': 'That Was a Fun Phone Call' - TheWrap",
-    "artist": "Spider-Man",
-    "source": "TheWrap",
-    "time": "2026-08-29",
-    "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-28T223425.902.jpg",
-    "spotify": "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2/",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s Zodiac Sign Explains One Of Her Most Famous Traits - Yahoo News UK",
-    "artist": "Beyonce",
-    "source": "Yahoo News UK",
-    "time": "2026-08-29",
-    "image": "https://s.yimg.com/lo/mysterio/api/bc7851228713f7164c49374c2a0e6b905962d2b6aa144501f9af0e7247b85d16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7060a61c42d2d44b76c5dfa994b492ad.jpg",
-    "spotify": "https://uk.news.yahoo.com/beyonc-zodiac-sign-explains-one-163000921.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - usatoday.com",
-    "artist": "Beyonce",
-    "source": "usatoday.com",
-    "time": "2026-08-28",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/28/beyonce-birthday-bday-new-songs/91494781007/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Is Taking Us Back To The \u2018B\u2019Day\u2019 Era For Its 20th Anniversary - essence.com",
-    "artist": "Beyonce",
-    "source": "essence.com",
-    "time": "2026-08-28",
-    "image": "",
-    "spotify": "https://www.essence.com/entertainment/beyonce-bday-20th-anniversary-deluxe-edition/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Korea loses all three sets to Thailand in women's volleyball continental championship quarterfinals - Korea JoongAng Daily",
-    "artist": "Volleyball",
-    "source": "Korea JoongAng Daily",
-    "time": "2026-08-27",
-    "image": "https://image.koreajoongangdaily.com/12848662.jpg?imageId=12848662&x=0&y=0.83&cropw=100&croph=71.67&panox=0&panoy=0.83&panow=100&panoh=71.67&width=1200&height=683",
-    "spotify": "https://www.koreajoongangdaily.com/sports/korea-loses-all-three-sets-to-thailand-in-womens-volleyball-continental-championship-quarterfinals/12848654",
-    "category": "Sports"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' Becomes No. 2 U.S. Box Office, Beats 'Avengers: Endgame' - Deadline",
-    "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-08-25",
-    "image": "https://deadline.com/wp-content/uploads/2026/08/spider-man-Avengers-endgame.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/08/spider-man-brand-new-day-avengers-endgame-box-office-1237049775/",
-    "category": "Movies"
-  },
-  {
-    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
-    "artist": "Coldplay",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
-    "category": "Music"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -168,15 +159,6 @@
     "time": "2026-08-18",
     "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/eA83P3rOvD8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=eA83P3rOvD8",
     "category": "Music"
   },
   {
@@ -216,40 +198,13 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya's Best Red Carpet Looks, Ranked - The Zoe Report",
-    "artist": "Zendaya",
-    "source": "The Zoe Report",
-    "time": "2026-08-08",
-    "image": "https://imgix.bustle.com/uploads/getty/2026/8/5/5b739ea8/london-england-february-15.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.482&amp;fp-y=0.1644",
-    "spotify": "https://www.thezoereport.com/culture/zendaya-best-red-carpet-looks",
-    "category": "Zendaya"
-  },
-  {
-    "title": "MORNING DEW (DONK MIX)",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-08-05",
-    "image": "https://i.ytimg.com/vi/BeIxyQiuaA0/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=BeIxyQiuaA0",
-    "category": "Music"
-  },
-  {
-    "title": "MORNING DEW (DONK) REMIX (EXPLICIT)",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-08-05",
-    "image": "https://i.ytimg.com/vi/3eoZrQ6XZBQ/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=3eoZrQ6XZBQ",
-    "category": "Music"
-  },
-  {
-    "title": "MORNING DEW (DONK) ACOUSTIC 4:44",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-08-05",
-    "image": "https://i.ytimg.com/vi/wgld5uIgjDU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=wgld5uIgjDU",
-    "category": "Music"
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
+    "artist": "Volleyball",
+    "source": "Britannica",
+    "time": "2026-08-07",
+    "image": "",
+    "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
+    "category": "Sports"
   },
   {
     "title": "MORNING DEW (DONK) REMIX PACK",
@@ -267,6 +222,15 @@
     "time": "2026-08-04",
     "image": "",
     "spotify": "https://www.insidethegames.biz/articles/fivb-puts-russia-back-on-world-stage",
+    "category": "Sports"
+  },
+  {
+    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
+    "artist": "Volleyball",
+    "source": "UA.NEWS",
+    "time": "2026-08-04",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
+    "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
   },
   {
