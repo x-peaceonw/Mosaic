@@ -1,11 +1,47 @@
 [
   {
+    "title": "Movie star and style icon: Zendaya turns 30 - dw.com",
+    "artist": "Zendaya",
+    "source": "dw.com",
+    "time": "2026-08-31",
+    "image": "",
+    "spotify": "https://www.dw.com/en/movie-star-and-style-icon-zendaya-turns-30/g-78488062",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Revisit Zendaya's chic red carpet style as 'Spider-Man' star turns 30 - usatoday.com",
+    "artist": "Zendaya",
+    "source": "usatoday.com",
+    "time": "2026-08-31",
+    "image": "",
+    "spotify": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/08/31/zendaya-red-carpet-photo/91528894007/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Bootleg \u2018Spider-Man\u2019 swings into Russian cinemas despite Hollywood boycott - NBC News",
+    "artist": "Spider-Man",
+    "source": "NBC News",
+    "time": "2026-08-31",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-spiderman-russia-ch-1246-85708b.jpg",
+    "spotify": "https://www.nbcnews.com/world/russia/spider-man-movie-swings-bootleg-russia-cinema-hollywood-boycott-rcna594541",
+    "category": "Movies"
+  },
+  {
     "title": "Beyonc\u00e9 and Eminem Pay Tribute to Dolly Parton With Heartfelt Posts - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
     "time": "2026-08-31",
     "image": "https://s.yimg.com/lo/mysterio/api/10516b265f045419b628153c6c54df48abb1e46adebc15a96d3be490ef7b934a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F0b86cdec2790824bffa739b7bfde0eec.jpg",
     "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-eminem-pay-tribute-dolly-003729345.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "\u2018Like Beyonce\u2019: How \u2018Rockstar\u2019 Pope Leo XIV is energising Catholic youth - The Independent",
+    "artist": "Beyonce",
+    "source": "The Independent",
+    "time": "2026-08-31",
+    "image": "https://static.independent.co.uk/2026/08/17/16/2287064316..?trim=0,392,803,813&width=1200&height=800&crop=1200:800",
+    "spotify": "https://www.independent.co.uk/news/world/europe/pope-leo-catholic-church-young-b3034413.html",
     "category": "Beyonce News"
   },
   {
@@ -18,13 +54,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya's Chic London Street Style Look Includes These $75 Sunglasses - E! News",
-    "artist": "Zendaya",
-    "source": "E! News",
+    "title": "Shailene Woodley reveals why she was cut from dream 'Spider-Man' role - usatoday.com",
+    "artist": "Spider-Man",
+    "source": "usatoday.com",
     "time": "2026-08-30",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260820/13f3455b-aa48-4675-8a11-7c7c30a31b67_1787263664.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "spotify": "https://www.eonline.com/news/1435259/zendaya-london-street-style-s75-le-specs-honey-pot-sunglasses",
-    "category": "Zendaya"
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/29/shailene-woodley-mary-jane-spider-man-scenes-cut/91528996007/",
+    "category": "Movies"
   },
   {
     "title": "Box Office: 'Spider-Man' No. 1, 'Coyote Vs. Acme' $12M+, 'Dog Stars' Tanks - Deadline",
@@ -36,39 +72,30 @@
     "category": "Movies"
   },
   {
-    "title": "Shailene Woodley reveals why she was cut from dream 'Spider-Man' role - USA Today",
-    "artist": "Spider-Man",
-    "source": "USA Today",
+    "title": "Victoria Mon\u00e9t Shows Off Natural Hair Growth After Using C\u00e9cred - MadameNoire",
+    "artist": "Beyonce",
+    "source": "MadameNoire",
     "time": "2026-08-30",
-    "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/29/shailene-woodley-mary-jane-spider-man-scenes-cut/91528996007/",
-    "category": "Movies"
+    "image": "https://madamenoire.com/wp-content/uploads/sites/9/2026/08/17881205903246-e1788120648365.jpg?quality=80&strip=all&w=1024&crop=0,0,100,546px",
+    "spotify": "https://madamenoire.com/1688245/victoria-monet-natural-hair-growth-beyonce-cecred/",
+    "category": "Beyonce News"
   },
   {
-    "title": "Shailene Woodley Remembers Almost Being in \u2018Amazing Spider-Man 2\u2019 - Gizmodo",
-    "artist": "Spider-Man",
-    "source": "Gizmodo",
-    "time": "2026-08-30",
-    "image": "",
-    "spotify": "https://gizmodo.com/shailene-woodley-remembers-almost-being-in-amazing-spider-man-2-2000804738",
-    "category": "Movies"
-  },
-  {
-    "title": "\u2018Coyote vs. Acme\u2019 Snags No. 2 With $15.4M as \u2018Spider-Man\u2019 Nears \u2018Avatar 2\u2019; \u2018Dog Stars\u2019 Put to Sleep - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-30",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/MCDCOVS_EC012.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-box-office-spider-man-titanic-dog-stars-1236685104/",
-    "category": "Movies"
-  },
-  {
-    "title": "Box Office: 'The Dog Stars' Struggling With Just $3 Million on Friday - Variety",
+    "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
     "artist": "Spider-Man",
     "source": "Variety",
     "time": "2026-08-29",
-    "image": "https://variety.com/wp-content/uploads/2026/08/dog-stars.jpg?crop=0px%2C596px%2C7728px%2C4347px&#038;resize=1000%2C563",
-    "spotify": "https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/",
+    "image": "https://variety.com/wp-content/uploads/2026/08/Shailene-Woodley.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/",
+    "category": "Movies"
+  },
+  {
+    "title": "Shailene Woodley Explains Why She Was Cut From 'Amazing Spider-Man 2': 'That Was a Fun Phone Call' - TheWrap",
+    "artist": "Spider-Man",
+    "source": "TheWrap",
+    "time": "2026-08-29",
+    "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-2026-08-28T223425.902.jpg",
+    "spotify": "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2/",
     "category": "Movies"
   },
   {
@@ -81,9 +108,9 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - USA Today",
+    "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - usatoday.com",
     "artist": "Beyonce",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "time": "2026-08-28",
     "image": "",
     "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/28/beyonce-birthday-bday-new-songs/91494781007/",
@@ -99,40 +126,31 @@
     "category": "Beyonce News"
   },
   {
-    "title": "How Dolly Parton\u2019s Music Gave Whitney Houston & Beyonc\u00e9 Milestone Chart Moments - Billboard",
-    "artist": "Beyonce",
-    "source": "Billboard",
+    "title": "Korea loses all three sets to Thailand in women's volleyball continental championship quarterfinals - Korea JoongAng Daily",
+    "artist": "Volleyball",
+    "source": "Korea JoongAng Daily",
     "time": "2026-08-27",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-12.34.34-PM-1.png?w=1024",
-    "spotify": "https://www.billboard.com/music/chart-beat/dolly-parton-whitney-houston-beyonce-chart-1236326426/",
-    "category": "Beyonce News"
+    "image": "https://image.koreajoongangdaily.com/12848662.jpg?imageId=12848662&x=0&y=0.83&cropw=100&croph=71.67&panox=0&panoy=0.83&panow=100&panoh=71.67&width=1200&height=683",
+    "spotify": "https://www.koreajoongangdaily.com/sports/korea-loses-all-three-sets-to-thailand-in-womens-volleyball-continental-championship-quarterfinals/12848654",
+    "category": "Sports"
   },
   {
-    "title": "Beyonc\u00e9 Announces $1 Million Donation for Earthquake Relief Efforts in Colombia - Variety",
-    "artist": "Beyonce",
-    "source": "Variety",
-    "time": "2026-08-26",
-    "image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2181103134.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/music/news/beyonce-1-million-donation-earthquake-relief-colombia-1236844484/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "The Web She Weaves: Zendaya\u2019s Ten-Year Spider-Man Style Evolution - Red Carpet Fashion Awards",
-    "artist": "Zendaya",
-    "source": "Red Carpet Fashion Awards",
-    "time": "2026-08-25",
-    "image": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/08/zendaya-2016-2026.jpg",
-    "spotify": "https://www.redcarpet-fashionawards.com/2026/08/25/the-web-she-weaves-zendayas-ten-year-spider-man-style-evolution/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Box Office Set to Sink \u2018Titanic\u2019 From All-Time Top 5 - The Hollywood Reporter",
+    "title": "'Spider-Man: Brand New Day' Becomes No. 2 U.S. Box Office, Beats 'Avengers: Endgame' - Deadline",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-24",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/12/Titanic-Everett-H-2023.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-titanic-all-time-1236679792/",
+    "source": "Deadline",
+    "time": "2026-08-25",
+    "image": "https://deadline.com/wp-content/uploads/2026/08/spider-man-Avengers-endgame.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/08/spider-man-brand-new-day-avengers-endgame-box-office-1237049775/",
     "category": "Movies"
+  },
+  {
+    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
+    "artist": "Coldplay",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
+    "category": "Music"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -207,15 +225,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
-    "artist": "Volleyball",
-    "source": "Britannica",
-    "time": "2026-08-07",
-    "image": "",
-    "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
-    "category": "Sports"
-  },
-  {
     "title": "MORNING DEW (DONK MIX)",
     "artist": "Beyonce",
     "source": "YouTube",
@@ -258,15 +267,6 @@
     "time": "2026-08-04",
     "image": "",
     "spotify": "https://www.insidethegames.biz/articles/fivb-puts-russia-back-on-world-stage",
-    "category": "Sports"
-  },
-  {
-    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
-    "artist": "Volleyball",
-    "source": "UA.NEWS",
-    "time": "2026-08-04",
-    "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
-    "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
   },
   {
