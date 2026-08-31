@@ -1,12 +1,30 @@
 [
   {
-    "title": "Weekend Box Office: SPIDER-MAN Hits the Jackpot Again With Fifth Consecutive Top Finish - Boxoffice Pro",
-    "artist": "Spider-Man",
-    "source": "Boxoffice Pro",
+    "title": "Beyonc\u00e9 and Eminem Pay Tribute to Dolly Parton With Heartfelt Posts - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-08-31",
+    "image": "https://s.yimg.com/lo/mysterio/api/10516b265f045419b628153c6c54df48abb1e46adebc15a96d3be490ef7b934a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F0b86cdec2790824bffa739b7bfde0eec.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-eminem-pay-tribute-dolly-003729345.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-08-31",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Zendaya's Chic London Street Style Look Includes These $75 Sunglasses - E! News",
+    "artist": "Zendaya",
+    "source": "E! News",
     "time": "2026-08-30",
-    "image": "",
-    "spotify": "https://www.boxofficepro.com/weekend-box-office-spider-man-hits-the-jackpot-again-with-fifth-consecutive-top-finish/",
-    "category": "Movies"
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260820/13f3455b-aa48-4675-8a11-7c7c30a31b67_1787263664.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "spotify": "https://www.eonline.com/news/1435259/zendaya-london-street-style-s75-le-specs-honey-pot-sunglasses",
+    "category": "Zendaya"
   },
   {
     "title": "Box Office: 'Spider-Man' No. 1, 'Coyote Vs. Acme' $12M+, 'Dog Stars' Tanks - Deadline",
@@ -27,6 +45,15 @@
     "category": "Movies"
   },
   {
+    "title": "Shailene Woodley Remembers Almost Being in \u2018Amazing Spider-Man 2\u2019 - Gizmodo",
+    "artist": "Spider-Man",
+    "source": "Gizmodo",
+    "time": "2026-08-30",
+    "image": "",
+    "spotify": "https://gizmodo.com/shailene-woodley-remembers-almost-being-in-amazing-spider-man-2-2000804738",
+    "category": "Movies"
+  },
+  {
     "title": "\u2018Coyote vs. Acme\u2019 Snags No. 2 With $15.4M as \u2018Spider-Man\u2019 Nears \u2018Avatar 2\u2019; \u2018Dog Stars\u2019 Put to Sleep - The Hollywood Reporter",
     "artist": "Spider-Man",
     "source": "The Hollywood Reporter",
@@ -36,30 +63,12 @@
     "category": "Movies"
   },
   {
-    "title": "The Lord is far from the wicked, but he hears the prayer of the righteous.",
-    "artist": "Proverbs 15:29",
-    "source": "OurManna",
-    "time": "2026-08-30",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-08-30",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
+    "title": "Box Office: 'The Dog Stars' Struggling With Just $3 Million on Friday - Variety",
     "artist": "Spider-Man",
     "source": "Variety",
     "time": "2026-08-29",
-    "image": "https://variety.com/wp-content/uploads/2026/08/Shailene-Woodley.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/",
+    "image": "https://variety.com/wp-content/uploads/2026/08/dog-stars.jpg?crop=0px%2C596px%2C7728px%2C4347px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/",
     "category": "Movies"
   },
   {
@@ -70,15 +79,6 @@
     "image": "https://s.yimg.com/lo/mysterio/api/bc7851228713f7164c49374c2a0e6b905962d2b6aa144501f9af0e7247b85d16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7060a61c42d2d44b76c5dfa994b492ad.jpg",
     "spotify": "https://uk.news.yahoo.com/beyonc-zodiac-sign-explains-one-163000921.html",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Movie Theater Employee Draws His Own Spider-Man: Brand New Day Poster After Official One Never Arrives - People.com",
-    "artist": "Spider-Man",
-    "source": "People.com",
-    "time": "2026-08-28",
-    "image": "",
-    "spotify": "https://people.com/movie-theater-employee-goes-viral-after-drawing-own-spider-man-poster-12059373",
-    "category": "Movies"
   },
   {
     "title": "Beyonc\u00e9 unveils 'B'Day' deluxe album tracklist featuring new music - USA Today",
@@ -108,21 +108,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "'I Want to Be the Prima of Pop One Day': Ad\u00e9la Talks Upcoming Debut, Worshipping Beyonc\u00e9 - Rolling Stone",
+    "title": "Beyonc\u00e9 Announces $1 Million Donation for Earthquake Relief Efforts in Colombia - Variety",
     "artist": "Beyonce",
-    "source": "Rolling Stone",
-    "time": "2026-08-27",
-    "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/adela-song-shuffle-lolla.jpg?w=1600&#038;h=900&#038;crop=1",
-    "spotify": "https://www.rollingstone.com/music/music-news/adela-song-shuffle-1235614691/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "13 Times Iconic Black Entertainers Shared the Spotlight With Dolly Parton - The Root",
-    "artist": "Beyonce",
-    "source": "The Root",
-    "time": "2026-08-27",
-    "image": "",
-    "spotify": "https://www.theroot.com/13-times-iconic-black-entertainers-shared-the-spotlight-2000123348",
+    "source": "Variety",
+    "time": "2026-08-26",
+    "image": "https://variety.com/wp-content/uploads/2025/12/GettyImages-2181103134.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/music/news/beyonce-1-million-donation-earthquake-relief-colombia-1236844484/",
     "category": "Beyonce News"
   },
   {
@@ -135,22 +126,13 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya and Law Roach, Mary-Kate and Ashley Olsen, Emmanuel and Brigitte Macron\u2014The Best-Dressed Duos of 2026 - Vanity Fair",
-    "artist": "Zendaya",
-    "source": "Vanity Fair",
-    "time": "2026-08-25",
-    "image": "https://media.vanityfair.com/photos/6a8755e95a388278089d9918/16:9/w_1280,c_limit/longform-still-2.png",
-    "spotify": "https://www.vanityfair.com/photos/best-dressed-2026-duos",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
-    "artist": "Coldplay",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
-    "category": "Music"
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Box Office Set to Sink \u2018Titanic\u2019 From All-Time Top 5 - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-08-24",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/12/Titanic-Everett-H-2023.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-titanic-all-time-1236679792/",
+    "category": "Movies"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -216,6 +198,15 @@
     "category": "Music"
   },
   {
+    "title": "Zendaya's Best Red Carpet Looks, Ranked - The Zoe Report",
+    "artist": "Zendaya",
+    "source": "The Zoe Report",
+    "time": "2026-08-08",
+    "image": "https://imgix.bustle.com/uploads/getty/2026/8/5/5b739ea8/london-england-february-15.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=focalpoint&amp;fm=jpg&amp;fp-x=0.482&amp;fp-y=0.1644",
+    "spotify": "https://www.thezoereport.com/culture/zendaya-best-red-carpet-looks",
+    "category": "Zendaya"
+  },
+  {
     "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
     "artist": "Volleyball",
     "source": "Britannica",
@@ -231,6 +222,24 @@
     "time": "2026-08-05",
     "image": "https://i.ytimg.com/vi/BeIxyQiuaA0/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=BeIxyQiuaA0",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) REMIX (EXPLICIT)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/3eoZrQ6XZBQ/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=3eoZrQ6XZBQ",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) ACOUSTIC 4:44",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/wgld5uIgjDU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=wgld5uIgjDU",
     "category": "Music"
   },
   {
@@ -261,12 +270,12 @@
     "category": "Sports"
   },
   {
-    "title": "See Zendaya\u2019s Best Vintage Fashion Moments - People.com",
-    "artist": "Zendaya",
-    "source": "People.com",
+    "title": "VNL 2026 - FIVB Men's & Women's Volleyball Nations League - Volleyball World",
+    "artist": "Volleyball",
+    "source": "Volleyball World",
     "time": "2026-08-02",
-    "image": "",
-    "spotify": "https://people.com/zendaya-best-vintage-fashion-moments-12027630",
-    "category": "Zendaya"
+    "image": "https://images.volleyballworld.com/image/upload/assets/app-icons/VNL%202023/vnl-2023-app-icon-800-630px.png",
+    "spotify": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league",
+    "category": "Sports"
   }
 ]
