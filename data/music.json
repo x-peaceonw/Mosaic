@@ -1,14 +1,5 @@
 [
   {
-    "title": "Happy 30th birthday Zendaya! See her style evolution over the years - USA Today",
-    "artist": "Zendaya",
-    "source": "USA Today",
-    "time": "2026-09-01",
-    "image": "",
-    "spotify": "https://www.usatoday.com/videos/entertainment/celebrities/2026/09/01/zendaya-style-career-evolution-video/91340870007/",
-    "category": "Zendaya"
-  },
-  {
     "title": "Zendaya\u2019s Standout Shoes in 2026: Experimental Looks and Classic Pumps Take the Stage [PHOTOS] - WWD",
     "artist": "Zendaya",
     "source": "WWD",
@@ -18,22 +9,76 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya@30: Her 30 Iconic Fashion Moments - Rediff",
+    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
     "artist": "Zendaya",
-    "source": "Rediff",
+    "source": "British Vogue",
     "time": "2026-09-01",
-    "image": "https://im.rediff.com/1200-630/movies/2026/sep/01fashion-favourite31.jpg",
-    "spotify": "https://www.rediff.com/movies/special/zendaya30-her-30-iconic-fashion-moments/20260901.htm",
+    "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
+    "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
     "category": "Zendaya"
   },
   {
-    "title": "Andrew Garfield says he still believes in a gay Spider-Man: \u2018Anyone can be in that suit\u2019 - Entertainment Weekly",
+    "title": "Zendaya's Most Iconic Beauty Moments - essence.com",
+    "artist": "Zendaya",
+    "source": "essence.com",
+    "time": "2026-09-01",
+    "image": "",
+    "spotify": "https://www.essence.com/beauty/zendaya-best-beauty-moments/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Happy 30th birthday Zendaya! See her style evolution over the years - azcentral.com and The Arizona Republic",
+    "artist": "Zendaya",
+    "source": "azcentral.com and The Arizona Republic",
+    "time": "2026-09-01",
+    "image": "",
+    "spotify": "https://www.azcentral.com/videos/entertainment/celebrities/2026/09/01/zendaya-style-career-evolution-video/91340870007/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Is Having a Red Carpet Run for the Ages This Year \u2014 These Are Her Shoes That Stole the Spotlight - WWD",
+    "artist": "Zendaya",
+    "source": "WWD",
+    "time": "2026-09-01",
+    "image": "https://wwd.com/wp-content/uploads/2026/08/Zendaya-15.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://wwd.com/footwear-news/shoe-trends/zendaya-standout-shoes-2026-louboutin-1239175570/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Every \u2018Spider-Man\u2019 Movie Villain, Ranked - The Hollywood Reporter",
     "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
+    "source": "The Hollywood Reporter",
+    "time": "2026-09-01",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/02/sm1_greengoblinmask_9-embed.jpg?w=928&#038;h=484&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/lists/spider-man-movie-villains-ranked/",
+    "category": "Movies"
+  },
+  {
+    "title": "Andrew Garfield says he still believes in a gay Spider-Man: \u2018Anyone can be in that suit\u2019 - ew.com",
+    "artist": "Spider-Man",
+    "source": "ew.com",
     "time": "2026-09-01",
     "image": "",
     "spotify": "https://ew.com/andrew-garfield-supports-gay-spider-man-12074854",
     "category": "Movies"
+  },
+  {
+    "title": "Will Beyonce, Rihanna sing with Jay-Z in London? Tickets are barely $100 - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-01",
+    "image": "https://s.yimg.com/lo/mysterio/api/0c7e675a7c8eb5ad26df1076ff362a71395299d015031e58ecb9d5160cc441db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_affiliate_609%2F36b20b85ed9c5463792c244bde2375db.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonce-rihanna-sing-jay-z-190121865.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s BeyGOOD Foundation Donates $200,000 to Indiana Flood Relief - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-01",
+    "image": "https://s.yimg.com/lo/mysterio/api/c999fe43f5ca3356cb8c1cdef8583588a6e109dc1e2cbc5f9587efbee81afa7b/lightyear_networkapi/resizefill_w819_h1024%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2Ffec609cd228b35ae398353ba888f0764.jpg",
+    "spotify": "https://www.yahoo.com/news/weather-news/articles/beyonc-beygood-foundation-donates-200-164429930.html",
+    "category": "Beyonce News"
   },
   {
     "title": "This L.A. mall was dead longer than it was alive. Then Taylor Swift and Beyonce discovered it - Los Angeles Times",
@@ -72,24 +117,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Movie star and style icon: Zendaya turns 30 - DW.com",
-    "artist": "Zendaya",
-    "source": "DW.com",
-    "time": "2026-08-31",
-    "image": "",
-    "spotify": "https://www.dw.com/en/movie-star-and-style-icon-zendaya-turns-30/g-78488062",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya at 30: how a Disney child star became Hollywood\u2019s most powerful brand - Ynetnews",
-    "artist": "Zendaya",
-    "source": "Ynetnews",
-    "time": "2026-08-31",
-    "image": "",
-    "spotify": "https://www.ynetnews.com/culture/article/rkyeufqozl",
-    "category": "Zendaya"
-  },
-  {
     "title": "Bootleg \u2018Spider-Man\u2019 swings into Russian cinemas despite Hollywood boycott - NBC News",
     "artist": "Spider-Man",
     "source": "NBC News",
@@ -108,21 +135,12 @@
     "category": "Movies"
   },
   {
-    "title": "Shailene Woodley Learned Her \u2018Amazing Spider-Man 2\u2019 Role Was Cut a Year After Filming - People.com",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Poised To Cross $900 Million At Domestic Box Office - Forbes",
     "artist": "Spider-Man",
-    "source": "People.com",
+    "source": "Forbes",
     "time": "2026-08-31",
     "image": "",
-    "spotify": "https://people.com/shailene-woodley-learned-her-amazing-spider-man-2-role-was-cut-year-after-filming-12074267",
-    "category": "Movies"
-  },
-  {
-    "title": "Shailene Woodley was shocked \u2018Spider-Man 2\u2019 role got cut: \u2018That was a fun phone call\u2019 - Page Six",
-    "artist": "Spider-Man",
-    "source": "Page Six",
-    "time": "2026-08-31",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/139108757.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "spotify": "https://pagesix.com/2026/08/31/entertainment/shailene-woodley-was-shocked-spider-man-2-role-got-cut-that-was-a-fun-phone-call/",
+    "spotify": "https://www.forbes.com/sites/timlammers/2026/08/31/spider-man-brand-new-day-poised-to-cross-900-million-at-domestic-box-office/",
     "category": "Movies"
   },
   {
@@ -135,22 +153,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 and Eminem Pay Tribute to Dolly Parton With Heartfelt Posts - yahoo.com",
-    "artist": "Beyonce",
-    "source": "yahoo.com",
-    "time": "2026-08-31",
-    "image": "https://s.yimg.com/lo/mysterio/api/10516b265f045419b628153c6c54df48abb1e46adebc15a96d3be490ef7b934a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F0b86cdec2790824bffa739b7bfde0eec.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-eminem-pay-tribute-dolly-003729345.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9's BeyGood foundation donates $200k for Indiana flood relief - USA Today",
-    "artist": "Beyonce",
-    "source": "USA Today",
-    "time": "2026-08-31",
+    "title": "Spider-Man: Brand New Day to Become Highest Grossing Film of All Time - Awards Daily",
+    "artist": "Spider-Man",
+    "source": "Awards Daily",
+    "time": "2026-08-30",
     "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/08/31/beyonce-indiana-flood-relief-donation/91550856007/",
-    "category": "Beyonce News"
+    "spotify": "https://www.awardsdaily.com/2026/08/30/spider-man-brand-new-day-to-become-highest-grossing-film-of-all-time/",
+    "category": "Movies"
   },
   {
     "title": "Victoria Mon\u00e9t Shows Off Natural Hair Growth After Using C\u00e9cred - MadameNoire",
@@ -162,13 +171,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Shailene Woodley Recalls Her \u201cDream\u201d Role as Mary Jane Being Cut From \u2018The Amazing Spider-Man 2\u2019 - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-08-29",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/Shailene-Woodley-AFM-Hotlist-2025.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/shailene-woodley-recalls-mary-jane-cut-amazing-spider-man-2-1236684920/",
-    "category": "Movies"
+    "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
+    "artist": "Coldplay",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HxxQpTaT7Ro/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HxxQpTaT7Ro",
+    "category": "Music"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -234,6 +243,33 @@
     "category": "Sports"
   },
   {
+    "title": "MORNING DEW (DONK MIX)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/BeIxyQiuaA0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BeIxyQiuaA0",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) REMIX (EXPLICIT)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/3eoZrQ6XZBQ/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=3eoZrQ6XZBQ",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) ACOUSTIC 4:44",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-05",
+    "image": "https://i.ytimg.com/vi/wgld5uIgjDU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=wgld5uIgjDU",
+    "category": "Music"
+  },
+  {
     "title": "MORNING DEW (DONK) REMIX PACK",
     "artist": "Beyonce",
     "source": "Spotify",
@@ -249,6 +285,15 @@
     "time": "2026-08-04",
     "image": "",
     "spotify": "https://www.insidethegames.biz/articles/fivb-puts-russia-back-on-world-stage",
+    "category": "Sports"
+  },
+  {
+    "title": "The International Volleyball Federation Reinstates Russia to the Nations League - UA.NEWS",
+    "artist": "Volleyball",
+    "source": "UA.NEWS",
+    "time": "2026-08-04",
+    "image": "https://cdn-cabinet.ua.news/uploads/images/172d28d8069ac04bca111d23da49c414.webp",
+    "spotify": "https://ua.news/en/sport/mizhnarodna-federatsiia-voleibolu-povertaie-rosiiu-do-ligi-natsii",
     "category": "Sports"
   }
 ]
