@@ -4,14 +4,41 @@
     "artist": "Beyonce",
     "source": "Spotify",
     "time": "2026-09-04",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fd18ead080a22905d68e7d3d",
+    "image": "https://i.scdn.co/image/ab67616d0000b273763bc0c56de7193b893cb1aa",
     "spotify": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW",
     "category": "Music"
   },
   {
-    "title": "Happy 45th Birthday, Beyonc\u00e9! See the Singer\u2019s Sweetest Moments with Kids Blue Ivy, Rumi and Sir - people.com",
+    "title": "Box Office: 'Spider-Man: Brand New Day' 2nd Film to Cross $900M U.S. - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-09-04",
+    "image": "https://deadline.com/wp-content/uploads/2026/09/Spider-Man-Brand-New-Day-and-By-Any-Means-.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-record-by-any-means-1237068219/",
+    "category": "Movies"
+  },
+  {
+    "title": "Andrew Garfield Hasn\u2019t Seen New Spider-Man and Odyssey Yet, But Will Message Tom Holland When He Does: \u2018I Don\u2019t Want to Be Disingenuous\u2019 - People.com",
+    "artist": "Spider-Man",
+    "source": "People.com",
+    "time": "2026-09-04",
+    "image": "",
+    "spotify": "https://people.com/andrew-garfield-says-hell-reach-out-to-tom-holland-after-he-sees-the-odyssey-spider-man-12108117",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9 celebrates birthday with remastered 20th Anniversary Edition of B\u2019DAY that includes a song featuring Selena - click2houston.com",
     "artist": "Beyonce",
-    "source": "people.com",
+    "source": "click2houston.com",
+    "time": "2026-09-04",
+    "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/LFN2CULGPJAVLMW2SEXT6H7AWU.jpg",
+    "spotify": "https://www.click2houston.com/news/local/2026/09/04/beyonce-celebrates-birthday-with-remastered-20th-anniversary-edition-of-bday-that-includes-a-song-featuring-selena/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Happy 45th Birthday, Beyonc\u00e9! See the Singer\u2019s Sweetest Moments with Kids Blue Ivy, Rumi and Sir - People.com",
+    "artist": "Beyonce",
+    "source": "People.com",
     "time": "2026-09-04",
     "image": "",
     "spotify": "https://people.com/beyonce-cutest-photos-with-kids-blue-ivy-rumi-and-sir-12107355",
@@ -27,21 +54,30 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Quote Of The Day By Beyonc\u00e9: 'I'm At A Point Where I No Longer Need To Compete With...' - Yahoo",
+    "title": "Miley, Beyonc\u00e9, Ad\u00e9la and All the Songs You Need to Know This Week - Rolling Stone",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "Rolling Stone",
     "time": "2026-09-04",
-    "image": "https://s.yimg.com/lo/mysterio/api/2f65a65cddd81274eb78d56952976410f404db70235a78bc5e07c0eea0ba50c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwomen_302%2Ff652b4a306512d05174b5088ad6e7d57.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/quote-day-beyonc-im-point-095500764.html",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/miley-cyrus-syntk.jpg?w=1600&#038;h=900&#038;crop=1",
+    "spotify": "https://www.rollingstone.com/music/music-features/miley-cyrus-beyonce-adela-songs-you-need-to-know-1235620578/",
     "category": "Beyonce News"
   },
   {
-    "title": "Horoscopes September 4, 2026: Beyonce, happiness is finding your bliss - The Mercury News",
+    "title": "From BLACKPINK\u2019s LISA & JISOO to Miley, Beyonc\u00e9 & More, Which New Music Release Is Your Favorite? Vote! - Yahoo",
     "artist": "Beyonce",
-    "source": "The Mercury News",
+    "source": "Yahoo",
     "time": "2026-09-04",
-    "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/GettyImages-2181093710.jpg?w=3672&#038;h=2492",
-    "spotify": "https://www.mercurynews.com/2026/09/04/horoscopes-september-4-2026-beyonce-happiness-is-finding-your-bliss/",
+    "image": "https://s.yimg.com/lo/mysterio/api/9c239f21ea0a25f72707cab097859fe2090bd3a57ab86a0be51c35f8868ca89e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F38778322c89a20514140341ed23d21cf.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/blackpink-lisa-jisoo-miley-beyonc-161102032.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9's Beauty & Style Evolution - essence.com",
+    "artist": "Beyonce",
+    "source": "essence.com",
+    "time": "2026-09-04",
+    "image": "",
+    "spotify": "https://www.essence.com/beauty/beyonce-beauty-style-evolution/",
     "category": "Beyonce News"
   },
   {
@@ -153,15 +189,6 @@
     "category": "Music"
   },
   {
-    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Yahoo Sports",
-    "artist": "Zendaya",
-    "source": "Yahoo Sports",
-    "time": "2026-09-03",
-    "image": "https://s.yimg.com/lo/mysterio/api/5fd7b64ea645c66ce6a6730c1fbd7c9715ea823be4281663e41b786c7bff1a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_us_340%2Fe9be3a9ffd7834ec694aa7c142ab0950.png",
-    "spotify": "https://sports.yahoo.com/articles/naomi-osaka-channels-zendayas-challengers-222232137.html",
-    "category": "Zendaya"
-  },
-  {
     "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Marie Claire",
     "artist": "Zendaya",
     "source": "Marie Claire",
@@ -171,22 +198,22 @@
     "category": "Zendaya"
   },
   {
-    "title": "Straight Off the Runway: What Zendaya & Law Roach Can Teach Us About Dressing for the Moment - Gaye Magazine",
+    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Yahoo Sports",
     "artist": "Zendaya",
-    "source": "Gaye Magazine",
+    "source": "Yahoo Sports",
     "time": "2026-09-03",
-    "image": "https://www.gayemagazine.com/wp-content/uploads/2026/09/law-and-sendaya-.jpg",
-    "spotify": "https://www.gayemagazine.com/straight-off-the-runway-what-zendaya-law-roach-can-teach-us-about-dressing-for-the-moment/",
+    "image": "https://s.yimg.com/lo/mysterio/api/5fd7b64ea645c66ce6a6730c1fbd7c9715ea823be4281663e41b786c7bff1a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_us_340%2Fe9be3a9ffd7834ec694aa7c142ab0950.png",
+    "spotify": "https://sports.yahoo.com/articles/naomi-osaka-channels-zendayas-challengers-222232137.html",
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Is Officially the 3rd Highest-Grossing Movie Ever in America - Collider",
-    "artist": "Spider-Man",
-    "source": "Collider",
+    "title": "Hollywood star Zendaya turns 30 - DW.com",
+    "artist": "Zendaya",
+    "source": "DW.com",
     "time": "2026-09-03",
     "image": "",
-    "spotify": "https://collider.com/spider-man-brand-new-day-third-highest-grossing-movie-domestic-box-office-history-893-million/",
-    "category": "Movies"
+    "spotify": "https://www.dw.com/en/hollywood-star-zendaya-turns-30/g-78488062",
+    "category": "Zendaya"
   },
   {
     "title": "Andrew Garfield Hasn\u2019t Seen \u2018Spider-Man: Brand New Day\u2019 Yet and Insists He\u2019s Not in \u2018Avengers: Doomsday\u2019 - Variety",
@@ -207,45 +234,27 @@
     "category": "Movies"
   },
   {
-    "title": "Is Andrew Garfield Lying About Being in a Marvel Movie Again? - Pajiba",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Is Officially the 3rd Highest-Grossing Movie Ever in America - Collider",
     "artist": "Spider-Man",
-    "source": "Pajiba",
+    "source": "Collider",
     "time": "2026-09-03",
     "image": "",
-    "spotify": "https://www.pajiba.com/news/is-andrew-garfield-lying-about-being-in-a-marvel-movie-again.php",
+    "spotify": "https://collider.com/spider-man-brand-new-day-third-highest-grossing-movie-domestic-box-office-history-893-million/",
     "category": "Movies"
   },
   {
-    "title": "BEYONC\u00c9 MARKS HER BIRTHDAY WITH THE RELEASE OF A REMASTERED DELUXE \"B'DAY\" ALBUM HER COMING-OF-AGE MASTERPIECE IS AMPLIFIED WITH UPGRADED VISUALS, SURPRISE NEW TRACKS, AND SPANISH LANGUAGE SONGS, I - PR Newswire",
-    "artist": "Beyonce",
-    "source": "PR Newswire",
-    "time": "2026-09-03",
-    "image": "https://mmx.prnewswire.com/media/MS1981586/BEYONCE.jpg?id=OA2929632&p=facebook",
-    "spotify": "https://www.prnewswire.com/news-releases/beyonce-marks-her-birthday-with-the-release-of-a-remastered-deluxe-bday-album-her-coming-of-age-masterpiece-is-amplified-with-upgraded-visuals-surprise-new-tracks-and-spanish-language-songs-including-collaborations-with-malu-302869555.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Every \u2018Spider-Man\u2019 Movie Villain, Ranked - The Hollywood Reporter",
+    "title": "Every \u2018Spider-Man\u2019 Movie Villain, Ranked - hollywoodreporter.com",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "hollywoodreporter.com",
     "time": "2026-09-02",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/MCDSPMA_SP150-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
     "spotify": "https://www.hollywoodreporter.com/lists/spider-man-movie-villains-ranked/",
     "category": "Movies"
   },
   {
-    "title": "'Spider-Man: Brand New Day's Official Home Release Date Revealed - MovieWeb",
-    "artist": "Spider-Man",
-    "source": "MovieWeb",
-    "time": "2026-09-02",
-    "image": "",
-    "spotify": "https://movieweb.com/spider-man-brand-new-day-home-blu-ray-release/",
-    "category": "Movies"
-  },
-  {
-    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - vogue.co.uk",
+    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
     "artist": "Zendaya",
-    "source": "vogue.co.uk",
+    "source": "British Vogue",
     "time": "2026-09-01",
     "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
     "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
@@ -259,15 +268,6 @@
     "image": "https://wwd.com/wp-content/uploads/2026/08/Zendaya-14.jpg?w=1000&#038;h=563&#038;crop=1",
     "spotify": "https://wwd.com/footwear-news/shoe-trends/gallery/zendaya-best-shoe-moments-2026-1239174167/",
     "category": "Zendaya"
-  },
-  {
-    "title": "This L.A. mall was dead longer than it was alive. Then Taylor Swift and Beyonc\u00e9 discovered it - Los Angeles Times",
-    "artist": "Beyonce",
-    "source": "Los Angeles Times",
-    "time": "2026-09-01",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/6533b7c/2147483647/strip/true/crop/7280x3822+0+531/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F49%2Fc268f9bf42038ee9afbb5bc4ec4f%2F1567714-me-demolition-hawthorne-plaza-gem-003.jpg",
-    "spotify": "https://www.latimes.com/california/story/2026-09-01/this-la-mall-was-dead-longer-than-it-was-alive-then-taylor-swift-beyonce-discovered-it",
-    "category": "Beyonce News"
   },
   {
     "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
