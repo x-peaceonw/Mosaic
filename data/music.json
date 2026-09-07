@@ -1,11 +1,29 @@
 [
   {
-    "title": "Fury as billionaire sells $1300 empty box - News.com.au",
-    "artist": "Beyonce",
-    "source": "News.com.au",
+    "title": "\u2018The Odyssey\u2019 overtakes \u2018Spider-Man: Brand New Day\u2019 at the global box office 8 weeks after release - Entertainment Weekly",
+    "artist": "Spider-Man",
+    "source": "Entertainment Weekly",
     "time": "2026-09-07",
     "image": "",
-    "spotify": "https://www.news.com.au/entertainment/music/billionaire-beyonce-slammed-for-selling-fans-1300-empty-box/news-story/1e5dedc0c259f7798e376b3ec88d8d3a",
+    "spotify": "https://ew.com/the-odyssey-overtakes-spider-man-brand-new-day-at-global-box-office-12110013",
+    "category": "Movies"
+  },
+  {
+    "title": "Tom Holland & Zendaya\u2019s \u2018Spider-Man\u2019 Swings to $2.4 BILLION Worldwide - thatgrapejuice.net",
+    "artist": "Spider-Man",
+    "source": "thatgrapejuice.net",
+    "time": "2026-09-07",
+    "image": "https://thatgrapejuice.net/wp-content/uploads/2026/09/spider-man-brand-new-day-zendaya-tom-tgj.webp",
+    "spotify": "https://thatgrapejuice.net/entertainment/2026/09/tom-holland-zendayas-spider-man-swings-to-2-4-billion-worldwide/?utm_source=rss&utm_medium=rss&utm_campaign=tom-holland-zendayas-spider-man-swings-to-2-4-billion-worldwide",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9 makes $2 million gift to Studio Museum in Harlem on her birthday - ABC7 Eyewitness News",
+    "artist": "Beyonce",
+    "source": "ABC7 Eyewitness News",
+    "time": "2026-09-07",
+    "image": "https://cdn.abcotvs.com/dip/images/19800605_090626-beyonce.jpg?w=1600",
+    "spotify": "https://abc7ny.com/post/beyonc-makes-2-million-gift-studio-museum-harlem-birthday/19800595/",
     "category": "Beyonce News"
   },
   {
@@ -27,6 +45,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 in Sixth Weekend, Nears \u2018Avengers: Endgame\u2019 All-Time Domestic Record - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-09-06",
+    "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/",
+    "category": "Movies"
+  },
+  {
     "title": "Box Office: 'Spider-Man' Labor Day Pushing Summer To $4.76B All-Time Record - Deadline",
     "artist": "Spider-Man",
     "source": "Deadline",
@@ -36,75 +63,39 @@
     "category": "Movies"
   },
   {
-    "title": "Every Spider-Man Home Trilogy Movie, Ranked - collider.com",
+    "title": "Where was Spider-Man: Brand New Day filmed? \u2013 with interactive map - The Worldwide Guide To Movie Locations",
     "artist": "Spider-Man",
-    "source": "collider.com",
+    "source": "The Worldwide Guide To Movie Locations",
     "time": "2026-09-06",
-    "image": "",
-    "spotify": "https://collider.com/spider-man-home-trilogy-movies-ranked/",
+    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
+    "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
     "category": "Movies"
   },
   {
-    "title": "Box Office Global: 'Odyssey' No. 1 Over 'Spider-Man'; 'Brand New Day' $2.4B - Deadline",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Is Fastest Film to Cross $900 Million at Domestic Box Office - Variety",
     "artist": "Spider-Man",
-    "source": "Deadline",
-    "time": "2026-09-06",
-    "image": "https://deadline.com/wp-content/uploads/2026/09/The-Odyssey-Spider-Man-Brand-New-Day.jpg?w=1000",
-    "spotify": "https://deadline.com/2026/09/box-office-global-odyssey-beats-spider-man-brand-new-day-1237069465/",
-    "category": "Movies"
-  },
-  {
-    "title": "Kevin Feige addresses Marvel's decision to recast Spider-Man: 'It was a risk' - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-06",
-    "image": "https://s.yimg.com/lo/mysterio/api/dde8aad2f0a8b6c11512f0dd03300e1118df68f35e8fc4123cf9ede4b78fb7d1/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbam_smack_pow_articles_921%2F021c39ae5c3fb0735db16cc6f1d1c7b6.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/kevin-feige-addresses-marvels-decision-024403158.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 Drops a $1,000 USD Empty Vinyl Crate, and Some Fans Are Calling It Highway Robbery - Hypebeast",
-    "artist": "Beyonce",
-    "source": "Hypebeast",
-    "time": "2026-09-06",
-    "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F09&#x25;2F05&#x25;2Fbeyonce-drops-1000-usd-empty-vinyl-crate-some-fans-call-it-highway-robbery-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max",
-    "spotify": "https://hypebeast.com/2026/9/beyonce-drops-1000-usd-empty-vinyl-crate-some-fans-call-it-highway-robbery",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Topping Box Office for Sixth Weekend in a Row - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "Variety",
     "time": "2026-09-05",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/MCDSPMA_SP146-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/",
+    "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP138-e1785154645459.jpg?crop=0px%2C0px%2C1955px%2C1100px&#038;resize=1000%2C563",
+    "spotify": "https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-900-million-1236849789/",
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 drops anniversary \u2018B\u2019Day\u2019 album on her birthday, featuring Selena - The Washington Post",
+    "title": "Jay-Z Wishes Beyonc\u00e9 a Happy 45th Birthday with Fireworks and a Singalong at London Concert - people.com",
     "artist": "Beyonce",
-    "source": "The Washington Post",
+    "source": "people.com",
     "time": "2026-09-05",
     "image": "",
-    "spotify": "https://www.washingtonpost.com/entertainment/music/2026/09/04/beyonc-drops-anniversary-bday-album-her-birthday-featuring-selena/",
+    "spotify": "https://people.com/jay-z-wishes-beyonce-a-happy-45th-birthday-with-fireworks-and-a-singalong-at-london-concert-12108777",
     "category": "Beyonce News"
   },
   {
-    "title": "Jay-Z Kicks Off London Shows With Beyonc\u00e9 Birthday Tribute, Fugees Reunion - Billboard",
+    "title": "5 things to know about Beyonce's 'B'Day' anniversary album featuring Selena and more - ABC News - Breaking News, Latest News and Videos",
     "artist": "Beyonce",
-    "source": "Billboard",
+    "source": "ABC News - Breaking News, Latest News and Videos",
     "time": "2026-09-05",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/05/71310546-e1777848963422.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/rb-hip-hop/jay-z-london-shows-beyonce-birthday-tribute-fugees-reunion-1236334897/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Billionaire Beyonce's 'disgusting display of greed' slammed as she sells $1k empty box - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-09-05",
-    "image": "https://s.yimg.com/lo/mysterio/api/62785402b25740421d12dc6f547775ca6efafd6b26633599d2ef38549278c89f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F66c054aa42220362cc66d48577c2978c.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/billionaire-beyonces-disgusting-display-greed-090525879.html",
+    "image": "https://i.abcnewsfe.com/a/3089734f-cf3f-4d20-b498-bb3417d572af/BEYONCEBDAY-PARKWOOD-AB-260904_1788560809996_hpMain_16x9.jpg?w=1600",
+    "spotify": "https://abcnews.com/GMA/Culture/5-things-beyonces-bday-anniversary-album-featuring-selena/story?id=136215051",
     "category": "Beyonce News"
   },
   {
@@ -117,21 +108,30 @@
     "category": "Music"
   },
   {
-    "title": "\u2018The Odyssey\u2019 Crosses $1 Billion Worldwide, \u2018Spider-Man: Brand New Day\u2019 Becomes Second Movie to Make $900 Million in North America Alone - People.com",
-    "artist": "Spider-Man",
-    "source": "People.com",
-    "time": "2026-09-04",
-    "image": "",
-    "spotify": "https://people.com/the-odyssey-tops-1-billion-overseas-as-spider-man-hits-900-million-domestic-12108618",
-    "category": "Movies"
-  },
-  {
     "title": "From BLACKPINK\u2019s LISA & JISOO to Miley, Beyonc\u00e9 & More, Which New Music Release Is Your Favorite? Vote! - Billboard",
     "artist": "Beyonce",
     "source": "Billboard",
     "time": "2026-09-04",
     "image": "https://www.billboard.com/wp-content/uploads/2026/09/LISA-press-Yeyoung-Choi-billboard-1800-e1788535625951.jpg?w=1024",
     "spotify": "https://www.billboard.com/music/music-news/best-new-music-week-poll-blackpink-lisa-miley-cyrus-beyonce-1236334375/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "45 Throwback Photos of a Young Beyonc\u00e9 on Her 45th Birthday - Vogue",
+    "artist": "Beyonce",
+    "source": "Vogue",
+    "time": "2026-09-04",
+    "image": "https://assets.vogue.com/photos/6a9acd7c8d204c502f1c4aa3/16:9/w_1280,c_limit/KW_VOGUEUK_BEYONCE_GettyImages-86112972.jpg",
+    "spotify": "https://www.vogue.com/slideshow/45-throwback-photos-of-a-young-beyonce",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Tina Knowles shares sweet message to Beyonc\u00e9 on her 45th birthday - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-04",
+    "image": "https://s.yimg.com/lo/mysterio/api/a4cb70e7c0434d498f47a846962b3354a4a813aafee0bc9381451c02ee0dbe3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb58a857088210ee60df64570de990bce.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/tina-knowles-shares-sweet-message-161925802.html",
     "category": "Beyonce News"
   },
   {
@@ -243,9 +243,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
+    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - vogue.co.uk",
     "artist": "Zendaya",
-    "source": "British Vogue",
+    "source": "vogue.co.uk",
     "time": "2026-09-01",
     "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
     "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
