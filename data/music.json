@@ -1,11 +1,65 @@
 [
   {
+    "title": "Spider-Man sinks Titanic: Inside the highest-grossing movies ever - SMH.com.au",
+    "artist": "Spider-Man",
+    "source": "SMH.com.au",
+    "time": "2026-09-08",
+    "image": "",
+    "spotify": "https://www.smh.com.au/culture/movies/spider-man-sunk-titanic-inside-the-highest-grossing-movies-ever-20260907-p60v0e.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Meghan Markle\u2019s Beyonce Friendship Hits a Brutal Snag After Latest Snub \u2014 Source - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-08",
+    "image": "https://s.yimg.com/lo/mysterio/api/46ce3fecc5b6ddadabf19961a099c33aec6d474344e983d2bb23053d0e802d4a/lightyear_networkapi/resizefill_w1080_h1920%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealitytea_videos_283%2Fe8a7f7346be8ebf0f349c6acd1c61bd2.png",
+    "spotify": "https://www.yahoo.com/news/videos/meghan-markle-beyonce-friendship-hits-030309893.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Taylor Swift, Beyonc\u00e9 and Madonna's Biggest Concert Mishaps Over the Years - Yahoo Lifestyle Canada",
+    "artist": "Beyonce",
+    "source": "Yahoo Lifestyle Canada",
+    "time": "2026-09-08",
+    "image": "https://s.yimg.com/lo/mysterio/api/0cdb59995bb16177e460a4354bd6add408435fde89f63a99964ce457e90d54d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fradar_online_557%2F18bf7cbbc617ca6d79c9ecdb04968362.jpg",
+    "spotify": "https://ca.style.yahoo.com/taylor-swift-beyonc-madonnas-biggest-013000698.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "In his heart a man plans his course, but the LORD determines his steps.",
+    "artist": "Proverbs 16:9",
+    "source": "OurManna",
+    "time": "2026-09-08",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-08",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Box Office: 'Spider-Man', Universal Push Summer To $4.76B All-Time Record - Deadline",
     "artist": "Spider-Man",
     "source": "Deadline",
     "time": "2026-09-07",
     "image": "https://deadline.com/wp-content/uploads/2026/09/MCDSPMA_SP130-e1788626096465.jpg?w=1024",
     "spotify": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/",
+    "category": "Movies"
+  },
+  {
+    "title": "The Amazing Spider-Man 3 Gets a Promising Avengers: Secret Wars Update, But There\u2019s a Catch - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-09-07",
+    "image": "https://s.yimg.com/lo/mysterio/api/5352472030673a2f4113bddb49cda6596c76e72d24f7d8fd8807ec3180da5a1e/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2Fc0be20b72b26b51a181c4deeeac593d1.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/amazing-spider-man-3-gets-204428088.html",
     "category": "Movies"
   },
   {
@@ -27,67 +81,31 @@
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 makes $2 million gift to Studio Museum in Harlem on her birthday - ABC7 New York",
+    "title": "Beyonc\u00e9 Gives $2M to Studio Museum in Harlem\u2014and Other Art World Matters - news.artnet.com",
     "artist": "Beyonce",
-    "source": "ABC7 New York",
-    "time": "2026-09-07",
-    "image": "https://cdn.abcotvs.com/dip/images/19800605_090626-beyonce.jpg?w=1600",
-    "spotify": "https://abc7ny.com/post/beyonc-makes-2-million-gift-studio-museum-harlem-birthday/19800595/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "The LORD is a refuge for the oppressed, a stronghold in times of trouble.",
-    "artist": "Psalm 9:9",
-    "source": "OurManna",
+    "source": "news.artnet.com",
     "time": "2026-09-07",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-09-07",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "spotify": "https://news.artnet.com/artnet-bulletin/beyonce-studio-museum-sept-7-2807291",
     "category": "Beyonce News"
   },
   {
-    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 in Sixth Weekend, Nears \u2018Avengers: Endgame\u2019 All-Time Domestic Record - variety.com",
+    "title": "A big B\u2019Day gift: Beyonc\u00e9 gives $2m to the Studio Museum in Harlem - The Art Newspaper",
+    "artist": "Beyonce",
+    "source": "The Art Newspaper",
+    "time": "2026-09-07",
+    "image": "https://cdn.sanity.io/images/cxgd3urn/production/01964460ff657b7d5ba5f058f90799fc45cdc02e-2000x1325.jpg?rect=0,63,2000,1200&amp;w=1200&amp;h=720&amp;q=85&amp;fit=crop&amp;auto=format",
+    "spotify": "https://www.theartnewspaper.com/2026/09/07/a-big-bday-gift-beyonce-gives-2m-to-the-studio-museum-in-harlem",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 in Sixth Weekend, Nears \u2018Avengers: Endgame\u2019 All-Time Domestic Record - Variety",
     "artist": "Spider-Man",
-    "source": "variety.com",
+    "source": "Variety",
     "time": "2026-09-06",
     "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
     "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/",
     "category": "Movies"
-  },
-  {
-    "title": "Kevin Feige addresses Marvel's decision to recast Spider-Man: 'It was a risk' - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-06",
-    "image": "https://s.yimg.com/lo/mysterio/api/dde8aad2f0a8b6c11512f0dd03300e1118df68f35e8fc4123cf9ede4b78fb7d1/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbam_smack_pow_articles_921%2F021c39ae5c3fb0735db16cc6f1d1c7b6.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/kevin-feige-addresses-marvels-decision-024403158.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Every Spider-Man Home Trilogy Movie, Ranked - Collider",
-    "artist": "Spider-Man",
-    "source": "Collider",
-    "time": "2026-09-06",
-    "image": "",
-    "spotify": "https://collider.com/spider-man-home-trilogy-movies-ranked/",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 Drops a $1,000 USD Empty Vinyl Crate, and Some Fans Are Calling It Highway Robbery - Hypebeast",
-    "artist": "Beyonce",
-    "source": "Hypebeast",
-    "time": "2026-09-06",
-    "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F09&#x25;2F05&#x25;2Fbeyonce-drops-1000-usd-empty-vinyl-crate-some-fans-call-it-highway-robbery-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max",
-    "spotify": "https://hypebeast.com/2026/9/beyonce-drops-1000-usd-empty-vinyl-crate-some-fans-call-it-highway-robbery",
-    "category": "Beyonce News"
   },
   {
     "title": "\u2018B\u2019Day\u2019 at 20: Behind the Album That Helped Beyonc\u00e9 Define Her Career - Rolling Stone",
@@ -99,12 +117,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Jay-Z Wishes Beyonc\u00e9 a Happy 45th Birthday with Fireworks and a Singalong at London Concert - people.com",
+    "title": "Jay-Z Kicks Off London Shows With Beyonc\u00e9 Birthday Tribute, Fugees Reunion - billboard.com",
     "artist": "Beyonce",
-    "source": "people.com",
+    "source": "billboard.com",
     "time": "2026-09-05",
-    "image": "",
-    "spotify": "https://people.com/jay-z-wishes-beyonce-a-happy-45th-birthday-with-fireworks-and-a-singalong-at-london-concert-12108777",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/05/71310546-e1777848963422.jpg?w=1024",
+    "spotify": "https://www.billboard.com/music/rb-hip-hop/jay-z-london-shows-beyonce-birthday-tribute-fugees-reunion-1236334897/",
     "category": "Beyonce News"
   },
   {
@@ -117,111 +135,12 @@
     "category": "Music"
   },
   {
-    "title": "Beyonc\u00e9's New $1,000 Wooden Vinyl Box Comes With No Music \u2014 and Fans Are Losing Their Minds - Complex",
+    "title": "Beyonc\u00e9 - CUERPO (TUMBAO) (ft. Maluma) - Official Lyric Video",
     "artist": "Beyonce",
-    "source": "Complex",
+    "source": "YouTube",
     "time": "2026-09-04",
-    "image": "https://images.complex.com/complex/image/upload/c_crop,h_2140,w_3331,x_0,y_167/g_auto:aoi_1271_741_666_428,ar_1.91,c_fill,q_auto,h_630/sanity-new/ovebotqyjvdoo8lkkjxa",
-    "spotify": "https://www.complex.com/music/a/markelibert/beyonce-bey-keeper-collectors-box-bday-anniversary",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "From BLACKPINK\u2019s LISA & JISOO to Miley, Beyonc\u00e9 & More, Which New Music Release Is Your Favorite? Vote! - billboard.com",
-    "artist": "Beyonce",
-    "source": "billboard.com",
-    "time": "2026-09-04",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/09/LISA-press-Yeyoung-Choi-billboard-1800-e1788535625951.jpg?w=1024",
-    "spotify": "https://www.billboard.com/music/music-news/best-new-music-week-poll-blackpink-lisa-miley-cyrus-beyonce-1236334375/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "FREAKUM DRESS",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/koI8EFjYWyU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=koI8EFjYWyU",
-    "category": "Music"
-  },
-  {
-    "title": "CAN I WATCH YOU",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/k0msRkf1eRE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=k0msRkf1eRE",
-    "category": "Music"
-  },
-  {
-    "title": "LOST YO MIND",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/xXs9mMJOk7E/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=xXs9mMJOk7E",
-    "category": "Music"
-  },
-  {
-    "title": "MY FIRST TIME",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/zmwIE6A9eQs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=zmwIE6A9eQs",
-    "category": "Music"
-  },
-  {
-    "title": "BEAUTIFUL LIAR (BELLO EMBUSTERO)",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/s6Y3pA3WcIM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=s6Y3pA3WcIM",
-    "category": "Music"
-  },
-  {
-    "title": "GREEN LIGHT",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/FwSVsGJaBsc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=FwSVsGJaBsc",
-    "category": "Music"
-  },
-  {
-    "title": "CHECK ON IT",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/ZlaOlU1o-bQ/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=ZlaOlU1o-bQ",
-    "category": "Music"
-  },
-  {
-    "title": "IRREPLACEABLE (IRREEMPLAZABLE) (NORTE\u00d1A REMIX)",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/6gqPPV1Bo68/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=6gqPPV1Bo68",
-    "category": "Music"
-  },
-  {
-    "title": "SUGA MAMA",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/VHEqZvQd5L8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=VHEqZvQd5L8",
-    "category": "Music"
-  },
-  {
-    "title": "GET ME BODIED",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-09-03",
-    "image": "https://i.ytimg.com/vi/kR-f1BIBTNw/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=kR-f1BIBTNw",
+    "image": "https://i.ytimg.com/vi/h8R01mqUjBw/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=h8R01mqUjBw",
     "category": "Music"
   },
   {
@@ -234,9 +153,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Yahoo Sports",
+    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - sports.yahoo.com",
     "artist": "Zendaya",
-    "source": "Yahoo Sports",
+    "source": "sports.yahoo.com",
     "time": "2026-09-03",
     "image": "https://s.yimg.com/lo/mysterio/api/5fd7b64ea645c66ce6a6730c1fbd7c9715ea823be4281663e41b786c7bff1a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_us_340%2Fe9be3a9ffd7834ec694aa7c142ab0950.png",
     "spotify": "https://sports.yahoo.com/articles/naomi-osaka-channels-zendayas-challengers-222232137.html",
@@ -375,6 +294,24 @@
     "time": "2026-08-12",
     "image": "https://i.ytimg.com/vi/OglkPiDtZhk/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=OglkPiDtZhk",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) REMIX FEATURING JA\u0178-Z (EXPLICIT)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-10",
+    "image": "https://i.ytimg.com/vi/xDs8UT3kJ8Y/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=xDs8UT3kJ8Y",
+    "category": "Music"
+  },
+  {
+    "title": "MORNING DEW (DONK) REMIX FEATURING JA\u0178-Z (CLEAN)",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-08-10",
+    "image": "https://i.ytimg.com/vi/yzGIng4bKs0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=yzGIng4bKs0",
     "category": "Music"
   }
 ]
