@@ -1,12 +1,21 @@
 [
   {
-    "title": "Beyonc\u00e9 Releases New Version of \"Irreplaceable\" Featuring Selena - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 and \u2018The Odyssey\u2019 boost 2026 domestic box office to best-ever summer - Entertainment Weekly",
+    "artist": "Spider-Man",
+    "source": "Entertainment Weekly",
     "time": "2026-09-09",
-    "image": "https://s.yimg.com/lo/mysterio/api/3bfc14259666d80db20958f3e2e069086729ba5c5d85ef350b5b09c3d440c366/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F8d64018115b2181c3afe5e160de94eae.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonce-releases-version-irreplaceable-featuring-035529458.html",
-    "category": "Beyonce News"
+    "image": "",
+    "spotify": "https://ew.com/spider-man-and-the-odyssey-boost-2026-summer-box-office-to-best-on-record-12112051",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day's Streaming Release On Netflix Will Be The Final MCU Spidey Movie As Part Of Sony's Original Pay 1 Window Mega-Deal - The Direct",
+    "artist": "Spider-Man",
+    "source": "The Direct",
+    "time": "2026-09-09",
+    "image": "https://images.thedirect.com/media/article_full/spider-man-brand-new-day-netflix.jpg",
+    "spotify": "https://thedirect.com/article/spider-man-brand-new-day-streaming-release-netflix-sony-mcu-deal",
+    "category": "Movies"
   },
   {
     "title": "Your word is a lamp to my feet and a light for my path.",
@@ -36,30 +45,12 @@
     "category": "Music"
   },
   {
-    "title": "Weekend Box Office: Spider-Man: Brand New Day Reigns Over Labor Day - Rotten Tomatoes",
-    "artist": "Spider-Man",
-    "source": "Rotten Tomatoes",
-    "time": "2026-09-08",
-    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Spider-Man_Brand_New_Day_BO6-Rep.jpg?w=600",
-    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-6/",
-    "category": "Movies"
-  },
-  {
     "title": "Spider-Man: Brand New Day Is So Phenomenally Successful Because 'It's About a Lonely Guy,' Sony Boss Says - IGN",
     "artist": "Spider-Man",
     "source": "IGN",
     "time": "2026-09-08",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/spider-man-brand-new-day-is-so-phenomenally-successful-because-its-about-a-lonely-guy-sony-boss-says",
-    "category": "Movies"
-  },
-  {
-    "title": "Sony executive says Spider-Man: Brand New Day was such a success because it's \"not so much a superhero film, but a 'super-person' film\" - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-08",
-    "image": "https://s.yimg.com/lo/mysterio/api/3820c4fa01d88eb16ecdf16a43b0463d23bd407ade5ecc0217516b26b20b76f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2Febcfd00e9f9f18ad8f45307536d38742.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/sony-executive-says-spider-man-100048889.html",
     "category": "Movies"
   },
   {
@@ -72,12 +63,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "\u2018The Odyssey\u2019 overtakes \u2018Spider-Man: Brand New Day\u2019 at the global box office 8 weeks after release - Entertainment Weekly",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 makes it 6 weeks in a row at No. 1 as Hollywood wraps a banner summer - NBC News",
     "artist": "Spider-Man",
-    "source": "Entertainment Weekly",
+    "source": "NBC News",
     "time": "2026-09-07",
-    "image": "",
-    "spotify": "https://ew.com/the-odyssey-overtakes-spider-man-brand-new-day-at-global-box-office-12110013",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260816-spiderman-brand-new-day-vl-126p-3f431d.jpg",
+    "spotify": "https://www.nbcnews.com/news/us-news/spider-man-brand-new-day-makes-6-weeks-row-no-1-hollywood-wraps-banner-rcna596438",
     "category": "Movies"
   },
   {
@@ -99,6 +90,15 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Beyonc\u00e9 makes $2 million gift to Studio Museum in Harlem on her birthday - ABC7 New York",
+    "artist": "Beyonce",
+    "source": "ABC7 New York",
+    "time": "2026-09-07",
+    "image": "https://cdn.abcotvs.com/dip/images/19800605_090626-beyonce.jpg?w=1600",
+    "spotify": "https://abc7ny.com/post/beyonc-makes-2-million-gift-studio-museum-harlem-birthday/19800595/",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Kevin Feige addresses Marvel's decision to recast Spider-Man: 'It was a risk' - IMDb",
     "artist": "Spider-Man",
     "source": "IMDb",
@@ -108,18 +108,18 @@
     "category": "Movies"
   },
   {
-    "title": "Box Office Global: 'Odyssey' No. 1 Over 'Spider-Man'; 'Brand New Day' $2.4B - deadline.com",
+    "title": "Box Office Global: 'Odyssey' No. 1 Over 'Spider-Man'; 'Brand New Day' $2.4B - Deadline",
     "artist": "Spider-Man",
-    "source": "deadline.com",
+    "source": "Deadline",
     "time": "2026-09-06",
     "image": "https://deadline.com/wp-content/uploads/2026/09/The-Odyssey-Spider-Man-Brand-New-Day.jpg?w=1000",
     "spotify": "https://deadline.com/2026/09/box-office-global-odyssey-beats-spider-man-brand-new-day-1237069465/",
     "category": "Movies"
   },
   {
-    "title": "\u2018B\u2019Day\u2019 at 20: Behind the Album That Helped Beyonc\u00e9 Define Her Career - Rolling Stone",
+    "title": "\u2018B\u2019Day\u2019 at 20: Behind the Album That Helped Beyonc\u00e9 Define Her Career - rollingstone.com",
     "artist": "Beyonce",
-    "source": "Rolling Stone",
+    "source": "rollingstone.com",
     "time": "2026-09-06",
     "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/beyonce-bday-release.jpg?w=1600&#038;h=900&#038;crop=1",
     "spotify": "https://www.rollingstone.com/music/music-features/beyonce-bday-20-anniversary-legacy-1235622160/",
@@ -240,15 +240,6 @@
     "time": "2026-09-03",
     "image": "https://cdn.mos.cms.futurecdn.net/dJPZ8pAckW9UDUZPiTVNci-1920-80.png",
     "spotify": "https://www.marieclaire.com/fashion/celebrity-style/naomi-osaka-2026-us-open-thom-browne-outfit/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Yahoo Sports",
-    "artist": "Zendaya",
-    "source": "Yahoo Sports",
-    "time": "2026-09-03",
-    "image": "https://s.yimg.com/lo/mysterio/api/5fd7b64ea645c66ce6a6730c1fbd7c9715ea823be4281663e41b786c7bff1a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_us_340%2Fe9be3a9ffd7834ec694aa7c142ab0950.png",
-    "spotify": "https://sports.yahoo.com/articles/naomi-osaka-channels-zendayas-challengers-222232137.html",
     "category": "Zendaya"
   },
   {
