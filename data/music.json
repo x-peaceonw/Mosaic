@@ -1,12 +1,48 @@
 [
   {
-    "title": "Zendaya's 'Celebrity Creative' Era Is Changing How Hollywood and Fashion Work Together - Fashion Times UK",
-    "artist": "Zendaya",
-    "source": "Fashion Times UK",
+    "title": "Beyonc\u00e9 Releases New Version of \"Irreplaceable\" Featuring Selena - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-09",
+    "image": "https://s.yimg.com/lo/mysterio/api/3bfc14259666d80db20958f3e2e069086729ba5c5d85ef350b5b09c3d440c366/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F8d64018115b2181c3afe5e160de94eae.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonce-releases-version-irreplaceable-featuring-035529458.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Your word is a lamp to my feet and a light for my path.",
+    "artist": "Psalm 119:105",
+    "source": "OurManna",
+    "time": "2026-09-09",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-09",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
     "time": "2026-09-08",
-    "image": "https://d.fashiontimes.co.uk/en/full/1780974/zendayas-evolving-role-creative-force.png",
-    "spotify": "https://www.fashiontimes.co.uk/zendaya-redefines-celebrity-fashion-partnerships-1763658",
-    "category": "Zendaya"
+    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
+    "category": "Music"
+  },
+  {
+    "title": "Weekend Box Office: Spider-Man: Brand New Day Reigns Over Labor Day - Rotten Tomatoes",
+    "artist": "Spider-Man",
+    "source": "Rotten Tomatoes",
+    "time": "2026-09-08",
+    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Spider-Man_Brand_New_Day_BO6-Rep.jpg?w=600",
+    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-spider-man-brand-new-day-week-6/",
+    "category": "Movies"
   },
   {
     "title": "Spider-Man: Brand New Day Is So Phenomenally Successful Because 'It's About a Lonely Guy,' Sony Boss Says - IGN",
@@ -36,24 +72,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "In his heart a man plans his course, but the LORD determines his steps.",
-    "artist": "Proverbs 16:9",
-    "source": "OurManna",
-    "time": "2026-09-08",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-09-08",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
     "title": "\u2018The Odyssey\u2019 overtakes \u2018Spider-Man: Brand New Day\u2019 at the global box office 8 weeks after release - Entertainment Weekly",
     "artist": "Spider-Man",
     "source": "Entertainment Weekly",
@@ -72,15 +90,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9\u2019s Nostalgic Hair Transformation Is a Nod to Her Look From 20 Years Ago - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-09-07",
-    "image": "https://s.yimg.com/lo/mysterio/api/f459c69c800bef01413e3bea80fba11861cd9a87444933f3e6469b442903f598/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fdab6f1f22d5412290173440e93705beb.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-nostalgic-hair-transformation-nod-144429805.html",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Beyonc\u00e9 Gives $2M to Studio Museum in Harlem\u2014and Other Art World Matters - Artnet News",
     "artist": "Beyonce",
     "source": "Artnet News",
@@ -88,15 +97,6 @@
     "image": "",
     "spotify": "https://news.artnet.com/artnet-bulletin/beyonce-studio-museum-sept-7-2807291",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 in Sixth Weekend, Nears \u2018Avengers: Endgame\u2019 All-Time Domestic Record - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-09-06",
-    "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/",
-    "category": "Movies"
   },
   {
     "title": "Kevin Feige addresses Marvel's decision to recast Spider-Man: 'It was a risk' - IMDb",
@@ -108,9 +108,9 @@
     "category": "Movies"
   },
   {
-    "title": "Box Office Global: 'Odyssey' No. 1 Over 'Spider-Man'; 'Brand New Day' $2.4B - Deadline",
+    "title": "Box Office Global: 'Odyssey' No. 1 Over 'Spider-Man'; 'Brand New Day' $2.4B - deadline.com",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "deadline.com",
     "time": "2026-09-06",
     "image": "https://deadline.com/wp-content/uploads/2026/09/The-Odyssey-Spider-Man-Brand-New-Day.jpg?w=1000",
     "spotify": "https://deadline.com/2026/09/box-office-global-odyssey-beats-spider-man-brand-new-day-1237069465/",
@@ -243,6 +243,24 @@
     "category": "Zendaya"
   },
   {
+    "title": "Naomi Osaka Channels Zendaya's 'Challengers' Style in Thom Browne at the US Open - Yahoo Sports",
+    "artist": "Zendaya",
+    "source": "Yahoo Sports",
+    "time": "2026-09-03",
+    "image": "https://s.yimg.com/lo/mysterio/api/5fd7b64ea645c66ce6a6730c1fbd7c9715ea823be4281663e41b786c7bff1a7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_us_340%2Fe9be3a9ffd7834ec694aa7c142ab0950.png",
+    "spotify": "https://sports.yahoo.com/articles/naomi-osaka-channels-zendayas-challengers-222232137.html",
+    "category": "Zendaya"
+  },
+  {
+    "title": "freak \ua564 \u3002\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-09-01",
+    "image": "https://i.ytimg.com/vi/hD1WVUBNZVg/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=hD1WVUBNZVg",
+    "category": "Music"
+  },
+  {
     "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
     "artist": "Zendaya",
     "source": "British Vogue",
@@ -259,6 +277,24 @@
     "image": "https://wwd.com/wp-content/uploads/2026/08/Zendaya-14.jpg?w=1000&#038;h=563&#038;crop=1",
     "spotify": "https://wwd.com/footwear-news/shoe-trends/gallery/zendaya-best-shoe-moments-2026-1239174167/",
     "category": "Zendaya"
+  },
+  {
+    "title": "\u2661 \u221e",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-26",
+    "image": "https://i.ytimg.com/vi/Jk5DFI_SP18/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=Jk5DFI_SP18",
+    "category": "Music"
+  },
+  {
+    "title": "\u2026\u2026. like i do \ua564 \uff61\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-25",
+    "image": "https://i.ytimg.com/vi/7O_KDpUw7PA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=7O_KDpUw7PA",
+    "category": "Music"
   },
   {
     "title": "Every Teardrop Is A Waterfall (Coldplay Vs. Swedish House Mafia)",
@@ -297,6 +333,33 @@
     "category": "Music"
   },
   {
+    "title": "petal (official behind the scenes pt. 2)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
+    "category": "Music"
+  },
+  {
+    "title": "evening spell work \u22b9.\u02da\ud83e\ude9e\ud83d\udd6f\ufe0f\u2661 @r.e.m.beauty",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/jLcUPsaDKDI/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=jLcUPsaDKDI",
+    "category": "Music"
+  },
+  {
+    "title": "happy days \u2661 @CynthiaErivo",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-17",
+    "image": "https://i.ytimg.com/vi/uByNH-jx28A/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=uByNH-jx28A",
+    "category": "Music"
+  },
+  {
     "title": "Besitos / Gave Myself 2 U",
     "artist": "Qendresa",
     "source": "Spotify",
@@ -312,6 +375,24 @@
     "time": "2026-08-13",
     "image": "https://i.ytimg.com/vi/-ml4_UkMgm4/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=-ml4_UkMgm4",
+    "category": "Music"
+  },
+  {
+    "title": "never get over me \u2661 \uff61\u02da",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-13",
+    "image": "https://i.ytimg.com/vi/UimT67Mjsxo/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UimT67Mjsxo",
+    "category": "Music"
+  },
+  {
+    "title": "\ua564 \u2026 screaming all day on set w barclays in a day and a half ...behind the scenes out now",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-12",
+    "image": "https://i.ytimg.com/vi/OglkPiDtZhk/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=OglkPiDtZhk",
     "category": "Music"
   }
 ]
