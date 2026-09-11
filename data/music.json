@@ -1,12 +1,30 @@
 [
   {
-    "title": "Zendaya\u2019s Sunglasses Will Be at Fashion Week, Shop 12 Pairs Just Like It - eonline.com",
+    "title": "Zendaya\u2019s Sunglasses Will Be at Fashion Week, Shop 12 Pairs Just Like It - E! News",
     "artist": "Zendaya",
-    "source": "eonline.com",
+    "source": "E! News",
     "time": "2026-09-11",
     "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260911/3a527c3f-26d6-4e81-844e-5779a62abb83_1789145305.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
     "spotify": "https://www.eonline.com/news/1435965/zendayas-sunglasses-will-be-at-fashion-week-12-pairs-just-like-it",
     "category": "Zendaya"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Will Become The Biggest Movie In U.S. Box Office History This Weekend - ComicBookMovie.com",
+    "artist": "Spider-Man",
+    "source": "ComicBookMovie.com",
+    "time": "2026-09-11",
+    "image": "https://comicbookmovie.com/images/articles/banners/spider-man-brand-new-day-will-become-the-biggest-movie-in-us-box-office-history-this-weekend-ab229840.jpg",
+    "spotify": "https://comicbookmovie.com/spider_man/spider_man-brand-new-day/spider-man-brand-new-day-will-become-the-biggest-movie-in-us-box-office-history-this-weekend-a229840",
+    "category": "Movies"
+  },
+  {
+    "title": "What Superhero Movie Would Spider-Man Love? Tom Holland Has A Great Answer - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-09-11",
+    "image": "https://s.yimg.com/lo/mysterio/api/38255f8083ffbbd2af77a5033687fc8492a894000bfe37c277e7a69f4dbcb871/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F21bd2b71b98ab17a90e72f0a51d61404.png",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/superhero-movie-spider-man-love-220100372.html",
+    "category": "Movies"
   },
   {
     "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office - The Hollywood Reporter",
@@ -27,12 +45,12 @@
     "category": "Movies"
   },
   {
-    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - Creative Bloq",
+    "title": "Beyonc\u00e9 snubs Meghan at London birthday bash: Insider - NewsNation",
     "artist": "Beyonce",
-    "source": "Creative Bloq",
+    "source": "NewsNation",
     "time": "2026-09-11",
-    "image": "https://cdn.mos.cms.futurecdn.net/Yn3QYxtq2wMBGd86eUgtoa-1920-80.jpg",
-    "spotify": "https://www.creativebloq.com/entertainment/fans-think-beyonces-usd1000-empty-wooden-box-is-a-sign",
+    "image": "",
+    "spotify": "https://www.newsnationnow.com/entertainment-news/beyonce-meghan-london-birthday-snub-royals/",
     "category": "Beyonce News"
   },
   {
@@ -51,6 +69,15 @@
     "time": "2026-09-11",
     "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
     "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - Creative Bloq",
+    "artist": "Beyonce",
+    "source": "Creative Bloq",
+    "time": "2026-09-11",
+    "image": "https://cdn.mos.cms.futurecdn.net/Yn3QYxtq2wMBGd86eUgtoa-1920-80.jpg",
+    "spotify": "https://www.creativebloq.com/entertainment/fans-think-beyonces-usd1000-empty-wooden-box-is-a-sign",
     "category": "Beyonce News"
   },
   {
@@ -81,24 +108,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Spider-Man 5 gets unexpected release date update after Marvel's Brand New Day - Bam Smack Pow",
-    "artist": "Spider-Man",
-    "source": "Bam Smack Pow",
-    "time": "2026-09-10",
-    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_277,y_85,w_1558,h_876/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/308/01m26vmmh924t7qrg27w.jpg",
-    "spotify": "https://bamsmackpow.com/spider-man-5-release-date-update-marvel-mcu-brand-new-day-success",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 snubs Meghan at London birthday bash: Insider - NewsNation",
-    "artist": "Beyonce",
-    "source": "NewsNation",
-    "time": "2026-09-10",
-    "image": "",
-    "spotify": "https://www.newsnationnow.com/entertainment-news/beyonce-meghan-london-birthday-snub-royals/",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - Pitchfork",
     "artist": "Beyonce",
     "source": "Pitchfork",
@@ -126,21 +135,12 @@
     "category": "Movies"
   },
   {
-    "title": "Despite Spider-Man: Brand New Day breaking box office records, Sony boss says he doesn't know when Spider-Man 5 will release: \"We don\u2019t have a date for it yet\" - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-09",
-    "image": "https://s.yimg.com/lo/mysterio/api/a2f483a773587a951157bf49a0e130c671a2504100dfcc113f7636e18cbbceba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2Ff1d54d1d1828c1939480fe87a7ae123a.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/despite-spider-man-brand-day-163504212.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 celebrates 45th birthday in daring micro mini and nostalgic hair transformation - HOLA",
+    "title": "BTS, Beyonc\u00e9, George Strait & More: The Highest Grossing Artists at Each NFL Stadium - Billboard",
     "artist": "Beyonce",
-    "source": "HOLA",
+    "source": "Billboard",
     "time": "2026-09-09",
-    "image": "https://www.hola.com/us/horizon/landscape/1200/540c38015253-spnbeycsc26090808.jpg",
-    "spotify": "https://www.hola.com/us/celebrities/20260909922579/beyonce-celebrates-45th-birthday-daring-micro-mini/",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/04/bts-tampa-concert-2-2026-billboard-1800.png?w=1024",
+    "spotify": "https://www.billboard.com/lists/nfl-stadiums-highest-grossing-acts/",
     "category": "Beyonce News"
   },
   {
