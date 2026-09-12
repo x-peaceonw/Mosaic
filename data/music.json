@@ -207,15 +207,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "A long time ago",
-    "artist": "Olivia Dean",
-    "source": "YouTube",
-    "time": "2026-09-10",
-    "image": "https://i.ytimg.com/vi/Gbpy-8lettU/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=Gbpy-8lettU",
-    "category": "Music"
-  },
-  {
     "title": "A Look Back At Zendaya's Best NYFW Moments - thezoereport.com",
     "artist": "Zendaya",
     "source": "thezoereport.com",
@@ -270,21 +261,21 @@
     "category": "Movies"
   },
   {
+    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-09-08",
+    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
+    "category": "Music"
+  },
+  {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
     "artist": "Beyonce",
     "source": "Spotify",
     "time": "2026-09-04",
     "image": "https://i.scdn.co/image/ab67616d0000b273763bc0c56de7193b893cb1aa",
     "spotify": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW",
-    "category": "Music"
-  },
-  {
-    "title": "#bfdi morning \ud83c\udf1e\ud83c\udf1e",
-    "artist": "Olivia Dean",
-    "source": "YouTube",
-    "time": "2026-09-04",
-    "image": "https://i.ytimg.com/vi/2oaZ6G2Rv2w/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=2oaZ6G2Rv2w",
     "category": "Music"
   },
   {
@@ -378,24 +369,6 @@
     "category": "Music"
   },
   {
-    "title": "#rip I miss my dog",
-    "artist": "Olivia Dean",
-    "source": "YouTube",
-    "time": "2026-08-29",
-    "image": "https://i.ytimg.com/vi/zUk6ALLTUnk/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=zUk6ALLTUnk",
-    "category": "Music"
-  },
-  {
-    "title": "#dance that way",
-    "artist": "Olivia Dean",
-    "source": "YouTube",
-    "time": "2026-08-21",
-    "image": "https://i.ytimg.com/vi/oHGnpvSH5Os/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=oHGnpvSH5Os",
-    "category": "Music"
-  },
-  {
     "title": "What Do You Fuckin&#39;Want",
     "artist": "Solange",
     "source": "YouTube",
@@ -423,12 +396,12 @@
     "category": "Music"
   },
   {
-    "title": "BEL-AIR",
-    "artist": "Olivia Dean",
+    "title": "petal (official behind the scenes pt. 2)",
+    "artist": "Ariana Grande",
     "source": "YouTube",
-    "time": "2026-08-16",
-    "image": "https://i.ytimg.com/vi/UFkzQ97kMh4/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=UFkzQ97kMh4",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
     "category": "Music"
   }
 ]
