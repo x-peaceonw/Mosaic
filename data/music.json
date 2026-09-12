@@ -1,5 +1,14 @@
 [
   {
+    "title": "Zendaya Red Carpet & Style - younghollywood.com",
+    "artist": "Zendaya",
+    "source": "younghollywood.com",
+    "time": "2026-09-12",
+    "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1786559150725-z7b8o3.jpg?width=1200&amp;height=675&amp;resize=cover&amp;quality=85&amp;format=webp",
+    "spotify": "https://younghollywood.com/talent/zendaya/red-carpet-and-style",
+    "category": "Zendaya"
+  },
+  {
     "title": "Do not be wise in your own eyes; fear the LORD and shun evil. This will bring health to your body and nourishment to your bones.",
     "artist": "Proverbs 3:7-8",
     "source": "OurManna",
@@ -27,6 +36,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-09-11",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/rev-1-PM2-TP-067_High_Res_JPEG-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/",
+    "category": "Movies"
+  },
+  {
     "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
     "artist": "Spider-Man",
     "source": "IGN",
@@ -45,22 +63,13 @@
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day Will Become The Biggest Movie In U.S. Box Office History This Weekend - ComicBookMovie.com",
-    "artist": "Spider-Man",
-    "source": "ComicBookMovie.com",
+    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - Creative Bloq",
+    "artist": "Beyonce",
+    "source": "Creative Bloq",
     "time": "2026-09-11",
-    "image": "https://comicbookmovie.com/images/articles/banners/spider-man-brand-new-day-will-become-the-biggest-movie-in-us-box-office-history-this-weekend-ab229840.jpg",
-    "spotify": "https://comicbookmovie.com/spider_man/spider_man-brand-new-day/spider-man-brand-new-day-will-become-the-biggest-movie-in-us-box-office-history-this-weekend-a229840",
-    "category": "Movies"
-  },
-  {
-    "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-09-11",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/rev-1-PM2-TP-067_High_Res_JPEG-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/",
-    "category": "Movies"
+    "image": "https://cdn.mos.cms.futurecdn.net/Yn3QYxtq2wMBGd86eUgtoa-1920-80.jpg",
+    "spotify": "https://www.creativebloq.com/entertainment/fans-think-beyonces-usd1000-empty-wooden-box-is-a-sign",
+    "category": "Beyonce News"
   },
   {
     "title": "Beyonc\u00e9 snubs Meghan at London birthday bash: Insider - NewsNation",
@@ -81,21 +90,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - nola.com",
+    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
     "artist": "Beyonce",
-    "source": "nola.com",
+    "source": "NOLA.com",
     "time": "2026-09-11",
     "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
     "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - Creative Bloq",
-    "artist": "Beyonce",
-    "source": "Creative Bloq",
-    "time": "2026-09-11",
-    "image": "https://cdn.mos.cms.futurecdn.net/Yn3QYxtq2wMBGd86eUgtoa-1920-80.jpg",
-    "spotify": "https://www.creativebloq.com/entertainment/fans-think-beyonces-usd1000-empty-wooden-box-is-a-sign",
     "category": "Beyonce News"
   },
   {
@@ -108,9 +108,27 @@
     "category": "Zendaya"
   },
   {
-    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - pitchfork.com",
+    "title": "'Hawaii Five-O' Movie In Works From 'Spider-Man' Director Destin Daniel Cretton - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-09-10",
+    "image": "https://deadline.com/wp-content/uploads/2026/09/Jack-Lord-in-Hawaii-Five-0-Destin-Daniel-Cretton.jpg?w=1024",
+    "spotify": "https://deadline.com/2026/09/hawaii-five-o-movie-destin-daniel-cretton-spider-man-1237073354/",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' to become highest-grossing movie in US box office history; Tom Holland starre - The Times of India",
+    "artist": "Spider-Man",
+    "source": "The Times of India",
+    "time": "2026-09-10",
+    "image": "https://static.toiimg.com/thumb/msid-134034956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - Pitchfork",
     "artist": "Beyonce",
-    "source": "pitchfork.com",
+    "source": "Pitchfork",
     "time": "2026-09-10",
     "image": "https://media.pitchfork.com/photos/6aa1a9ed01cfe7470fe4dc9d/16:9/w_1280,c_limit/Beyonce%CC%81%20-%20B&#x27;Day%2020th%20anniversary%20album%20art.jpg",
     "spotify": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/",
@@ -126,22 +144,22 @@
     "category": "Movies"
   },
   {
-    "title": "Sony Pictures Entertainment CEO on Success of 'Spider-Man: Brand New Day' - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
+    "title": "BTS, Beyonc\u00e9, George Strait & More: The Highest Grossing Artists at Each NFL Stadium - Billboard",
+    "artist": "Beyonce",
+    "source": "Billboard",
     "time": "2026-09-09",
-    "image": "https://variety.com/wp-content/uploads/2024/03/Ravi-Ahuja.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/sony-pictures-ceo-spider-man-brand-new-day-emotional-people-crying-1236855666/",
-    "category": "Movies"
+    "image": "https://www.billboard.com/wp-content/uploads/2026/04/bts-tampa-concert-2-2026-billboard-1800.png?w=1024",
+    "spotify": "https://www.billboard.com/lists/nfl-stadiums-highest-grossing-acts/",
+    "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 celebrates 45th birthday in daring micro mini and nostalgic hair transformation - HOLA",
-    "artist": "Beyonce",
-    "source": "HOLA",
-    "time": "2026-09-09",
-    "image": "https://www.hola.com/us/horizon/landscape/1200/540c38015253-spnbeycsc26090808.jpg",
-    "spotify": "https://www.hola.com/us/celebrities/20260909922579/beyonce-celebrates-45th-birthday-daring-micro-mini/",
-    "category": "Beyonce News"
+    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-09-08",
+    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
+    "category": "Music"
   },
   {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
@@ -252,15 +270,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya\u2019s Standout Shoes in 2026: Experimental Looks and Classic Pumps Take the Stage [PHOTOS] - WWD",
-    "artist": "Zendaya",
-    "source": "WWD",
-    "time": "2026-09-01",
-    "image": "https://wwd.com/wp-content/uploads/2026/08/Zendaya-14.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://wwd.com/footwear-news/shoe-trends/gallery/zendaya-best-shoe-moments-2026-1239174167/",
-    "category": "Zendaya"
-  },
-  {
     "title": "What Do You Fuckin&#39;Want",
     "artist": "Solange",
     "source": "YouTube",
@@ -288,12 +297,12 @@
     "category": "Music"
   },
   {
-    "title": "Qendresa - Besitos (Official Music Video)",
-    "artist": "Qendresa",
+    "title": "petal (official behind the scenes pt. 2)",
+    "artist": "Ariana Grande",
     "source": "YouTube",
-    "time": "2026-08-13",
-    "image": "https://i.ytimg.com/vi/-ml4_UkMgm4/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=-ml4_UkMgm4",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
     "category": "Music"
   }
 ]
