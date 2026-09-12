@@ -14,8 +14,8 @@ SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
 
-ARTISTS = ["SZA", "Beyonce", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae","Ariana Grande"]
-TICKET_ARTISTS = ["Beyonce", "Coldplay","Ariana Grande"]
+ARTISTS = ["SZA", "Beyonce","Jhene Aiko", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae","Ariana Grande"]
+TICKET_ARTISTS = ["Beyonce", "Coldplay","Jhene Aiko", "Tori Kelly"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
