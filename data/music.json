@@ -1,12 +1,39 @@
 [
   {
-    "title": "Zendaya Red Carpet & Style - younghollywood.com",
+    "title": "Zendaya Red Carpet & Style - Young Hollywood",
     "artist": "Zendaya",
-    "source": "younghollywood.com",
+    "source": "Young Hollywood",
     "time": "2026-09-12",
     "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1786559150725-z7b8o3.jpg?width=1200&amp;height=675&amp;resize=cover&amp;quality=85&amp;format=webp",
     "spotify": "https://younghollywood.com/talent/zendaya/red-carpet-and-style",
     "category": "Zendaya"
+  },
+  {
+    "title": "\u2018Practical Magic 2\u2019 Leads Box Office as \u2018Spider-Man\u2019 Eyes All-Time Domestic Record - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
+    "time": "2026-09-12",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+    "category": "Movies"
+  },
+  {
+    "title": "Star snaps of the week: Ana de Armas, Beyonc\u00e9, Alix Earle, Camila Mendes and more - Page Six",
+    "artist": "Beyonce",
+    "source": "Page Six",
+    "time": "2026-09-12",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/Snaps-0910.jpg?quality=90&#038;strip=all&#038;w=1200",
+    "spotify": "https://pagesix.com/2026/09/12/photos/star-snaps-of-the-week-ana-de-armas-beyonce-alix-earle-camila-mendes-and-more/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "From Buffett to Beyonc\u00e9: What Celebrities Have Said About Inheritance - Kiplinger",
+    "artist": "Beyonce",
+    "source": "Kiplinger",
+    "time": "2026-09-12",
+    "image": "https://cdn.mos.cms.futurecdn.net/hA4NsWUKgtAQ2KmpkBJXfF-1024-80.jpg",
+    "spotify": "https://www.kiplinger.com/retirement/inheritance/celebrities-have-said-about-inheritance",
+    "category": "Beyonce News"
   },
   {
     "title": "Do not be wise in your own eyes; fear the LORD and shun evil. This will bring health to your body and nourishment to your bones.",
@@ -72,66 +99,48 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 snubs Meghan at London birthday bash: Insider - NewsNation",
-    "artist": "Beyonce",
-    "source": "NewsNation",
-    "time": "2026-09-11",
-    "image": "",
-    "spotify": "https://www.newsnationnow.com/entertainment-news/beyonce-meghan-london-birthday-snub-royals/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Ne-Yo says he doesn\u2019t want Beyonc\u00e9 or Jay-Z level fame: \u2018I don\u2019t think I want that\u2019 - Yahoo",
+    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
     "time": "2026-09-11",
-    "image": "https://s.yimg.com/lo/mysterio/api/162ebcd9bdc0818fb758f9983993b22ebe1853396784b13368f4741dabbd965d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F5b4f1e7361ca26559eb72bb1be39a8d6.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/ne-yo-says-doesn-t-165000843.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/73c4ab83a14bdd7f41b8991cb815ade29eace2a1442526a60b02b63ff45134a9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fc31dfe6ebf61854ede914b7ea3f9b739.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-122513778.html",
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
-    "artist": "Beyonce",
-    "source": "NOLA.com",
-    "time": "2026-09-11",
-    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
-    "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "A Look Back At Zendaya's Best NYFW Moments - thezoereport.com",
+    "title": "A Look Back At Zendaya's Best NYFW Moments - The Zoe Report",
     "artist": "Zendaya",
-    "source": "thezoereport.com",
+    "source": "The Zoe Report",
     "time": "2026-09-10",
     "image": "https://imgix.bustle.com/uploads/getty/2026/9/9/3568d84c/new-york-ny-february.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg",
     "spotify": "https://www.thezoereport.com/culture/zendaya-nyfw-front-row-outfits",
     "category": "Zendaya"
   },
   {
-    "title": "'Hawaii Five-O' Movie In Works From 'Spider-Man' Director Destin Daniel Cretton - Deadline",
+    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - Yahoo",
     "artist": "Spider-Man",
-    "source": "Deadline",
+    "source": "Yahoo",
     "time": "2026-09-10",
-    "image": "https://deadline.com/wp-content/uploads/2026/09/Jack-Lord-in-Hawaii-Five-0-Destin-Daniel-Cretton.jpg?w=1024",
-    "spotify": "https://deadline.com/2026/09/hawaii-five-o-movie-destin-daniel-cretton-spider-man-1237073354/",
+    "image": "https://s.yimg.com/lo/mysterio/api/11c8eab8ce979a5d0c5faa6db6eef90a13f0471d54d8542908db94c2f96d73ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2Fa1b411b46a1c3004ce7c6e617b4a495c.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-come-160943613.html",
     "category": "Movies"
   },
   {
-    "title": "'Spider-Man: Brand New Day' to become highest-grossing movie in US box office history; Tom Holland starre - The Times of India",
-    "artist": "Spider-Man",
-    "source": "The Times of India",
-    "time": "2026-09-10",
-    "image": "https://static.toiimg.com/thumb/msid-134034956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - Pitchfork",
+    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - pitchfork.com",
     "artist": "Beyonce",
-    "source": "Pitchfork",
+    "source": "pitchfork.com",
     "time": "2026-09-10",
     "image": "https://media.pitchfork.com/photos/6aa1a9ed01cfe7470fe4dc9d/16:9/w_1280,c_limit/Beyonce%CC%81%20-%20B&#x27;Day%2020th%20anniversary%20album%20art.jpg",
     "spotify": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Inside Beyonc\u00e9\u2019s \u201cB\u2019Day\u201d-Inspired Hair Transformation - Vogue",
+    "artist": "Beyonce",
+    "source": "Vogue",
+    "time": "2026-09-10",
+    "image": "https://assets.vogue.com/photos/6aa27fd48dca79fea53926b8/16:9/w_1280,c_limit/SnapInsta.to_795462846_18103671821354609_9115761490985740175_n.jpg",
+    "spotify": "https://www.vogue.com/article/beyonce-bday-hair-transformation",
     "category": "Beyonce News"
   },
   {
@@ -142,15 +151,6 @@
     "image": "https://s.yimg.com/lo/mysterio/api/a2f483a773587a951157bf49a0e130c671a2504100dfcc113f7636e18cbbceba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2Ff1d54d1d1828c1939480fe87a7ae123a.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/articles/despite-spider-man-brand-day-163504212.html",
     "category": "Movies"
-  },
-  {
-    "title": "BTS, Beyonc\u00e9, George Strait & More: The Highest Grossing Artists at Each NFL Stadium - Billboard",
-    "artist": "Beyonce",
-    "source": "Billboard",
-    "time": "2026-09-09",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/04/bts-tampa-concert-2-2026-billboard-1800.png?w=1024",
-    "spotify": "https://www.billboard.com/lists/nfl-stadiums-highest-grossing-acts/",
-    "category": "Beyonce News"
   },
   {
     "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
