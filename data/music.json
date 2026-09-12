@@ -1,21 +1,30 @@
 [
   {
-    "title": "Zendaya Red Carpet & Style - Young Hollywood",
+    "title": "Zendaya Ditches Her Signature Hair for a Dramatic, Short Pixie Cut - instyle.com",
     "artist": "Zendaya",
-    "source": "Young Hollywood",
+    "source": "instyle.com",
+    "time": "2026-09-12",
+    "image": "",
+    "spotify": "https://www.instyle.com/zendaya-ditches-signature-hair-dramatic-short-pixie-cut-12117777",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Red Carpet & Style - younghollywood.com",
+    "artist": "Zendaya",
+    "source": "younghollywood.com",
     "time": "2026-09-12",
     "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1786559150725-z7b8o3.jpg?width=1200&amp;height=675&amp;resize=cover&amp;quality=85&amp;format=webp",
     "spotify": "https://younghollywood.com/talent/zendaya/red-carpet-and-style",
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Practical Magic 2\u2019 Leads Box Office as \u2018Spider-Man\u2019 Eyes All-Time Domestic Record - The Hollywood Reporter",
-    "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "title": "Beyonc\u00e9 Celebrates Her Birthday in Roberto Cavalli - yahoo.com",
+    "artist": "Beyonce",
+    "source": "yahoo.com",
     "time": "2026-09-12",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
-    "category": "Movies"
+    "image": "https://s.yimg.com/lo/mysterio/api/caef6b29aa16bd7f53710b55d80f9c235bba2ed09020e64f32596e73443289da/lightyear_networkapi/resizefill_w590_h1024%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F3a143a9469415c6c7269344674915bd8.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-celebrates-her-birthday-roberto-184723497.html",
+    "category": "Beyonce News"
   },
   {
     "title": "Star snaps of the week: Ana de Armas, Beyonc\u00e9, Alix Earle, Camila Mendes and more - Page Six",
@@ -24,15 +33,6 @@
     "time": "2026-09-12",
     "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/Snaps-0910.jpg?quality=90&#038;strip=all&#038;w=1200",
     "spotify": "https://pagesix.com/2026/09/12/photos/star-snaps-of-the-week-ana-de-armas-beyonce-alix-earle-camila-mendes-and-more/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "From Buffett to Beyonc\u00e9: What Celebrities Have Said About Inheritance - Kiplinger",
-    "artist": "Beyonce",
-    "source": "Kiplinger",
-    "time": "2026-09-12",
-    "image": "https://cdn.mos.cms.futurecdn.net/hA4NsWUKgtAQ2KmpkBJXfF-1024-80.jpg",
-    "spotify": "https://www.kiplinger.com/retirement/inheritance/celebrities-have-said-about-inheritance",
     "category": "Beyonce News"
   },
   {
@@ -52,6 +52,105 @@
     "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
     "spotify": "https://beyonce.com",
     "category": "Beyonce News"
+  },
+  {
+    "title": "Westside Whimsy",
+    "artist": "Jhene Aiko",
+    "source": "Spotify",
+    "time": "2026-09-11",
+    "image": "https://i.scdn.co/image/ab67616d0000b27349bd89da3bd906d2f8406875",
+    "spotify": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK",
+    "category": "Music"
+  },
+  {
+    "title": "So Good",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/lxZwrMhL6Nc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=lxZwrMhL6Nc",
+    "category": "Music"
+  },
+  {
+    "title": "Ceiling (Freestyle)",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/ElLfgE0aQ-M/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=ElLfgE0aQ-M",
+    "category": "Music"
+  },
+  {
+    "title": "Like, Whatever",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/tz2vmh_eHS8/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=tz2vmh_eHS8",
+    "category": "Music"
+  },
+  {
+    "title": "Neighbors",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/BXI5k5lXY8k/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BXI5k5lXY8k",
+    "category": "Music"
+  },
+  {
+    "title": "Ghost",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/0YMt6raThNE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=0YMt6raThNE",
+    "category": "Music"
+  },
+  {
+    "title": "Don&#39;t Be That Guy",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/FWsyqkxR8LA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=FWsyqkxR8LA",
+    "category": "Music"
+  },
+  {
+    "title": "Wild Cat(s)",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/E3C_A_jkBpM/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=E3C_A_jkBpM",
+    "category": "Music"
+  },
+  {
+    "title": "Nami\u2019s Haiku",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/8pmN11ohx2k/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=8pmN11ohx2k",
+    "category": "Music"
+  },
+  {
+    "title": "You",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/WATLkVy9yDY/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=WATLkVy9yDY",
+    "category": "Music"
+  },
+  {
+    "title": "Ceiling (Freestyle)",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/vPmYT8RJNLM/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=vPmYT8RJNLM",
+    "category": "Music"
   },
   {
     "title": "Zendaya\u2019s Sunglasses Will Be at Fashion Week, Shop 12 Pairs Just Like It - E! News",
@@ -99,36 +198,45 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
+    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "NOLA.com",
     "time": "2026-09-11",
-    "image": "https://s.yimg.com/lo/mysterio/api/73c4ab83a14bdd7f41b8991cb815ade29eace2a1442526a60b02b63ff45134a9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fc31dfe6ebf61854ede914b7ea3f9b739.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-122513778.html",
+    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
+    "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
     "category": "Beyonce News"
   },
   {
-    "title": "A Look Back At Zendaya's Best NYFW Moments - The Zoe Report",
+    "title": "A long time ago",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-09-10",
+    "image": "https://i.ytimg.com/vi/Gbpy-8lettU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=Gbpy-8lettU",
+    "category": "Music"
+  },
+  {
+    "title": "A Look Back At Zendaya's Best NYFW Moments - thezoereport.com",
     "artist": "Zendaya",
-    "source": "The Zoe Report",
+    "source": "thezoereport.com",
     "time": "2026-09-10",
     "image": "https://imgix.bustle.com/uploads/getty/2026/9/9/3568d84c/new-york-ny-february.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg",
     "spotify": "https://www.thezoereport.com/culture/zendaya-nyfw-front-row-outfits",
     "category": "Zendaya"
   },
   {
-    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - Yahoo",
+    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - yahoo.com",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "yahoo.com",
     "time": "2026-09-10",
     "image": "https://s.yimg.com/lo/mysterio/api/11c8eab8ce979a5d0c5faa6db6eef90a13f0471d54d8542908db94c2f96d73ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2Fa1b411b46a1c3004ce7c6e617b4a495c.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-come-160943613.html",
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - pitchfork.com",
+    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - Pitchfork",
     "artist": "Beyonce",
-    "source": "pitchfork.com",
+    "source": "Pitchfork",
     "time": "2026-09-10",
     "image": "https://media.pitchfork.com/photos/6aa1a9ed01cfe7470fe4dc9d/16:9/w_1280,c_limit/Beyonce%CC%81%20-%20B&#x27;Day%2020th%20anniversary%20album%20art.jpg",
     "spotify": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/",
@@ -144,22 +252,22 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Despite Spider-Man: Brand New Day breaking box office records, Sony boss says he doesn't know when Spider-Man 5 will release: \"We don\u2019t have a date for it yet\" - Yahoo",
+    "title": "Spider-Man 5 Gets Major Release Date Update, But MCU Fans Still Have Questions - yahoo.com",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "yahoo.com",
     "time": "2026-09-09",
-    "image": "https://s.yimg.com/lo/mysterio/api/a2f483a773587a951157bf49a0e130c671a2504100dfcc113f7636e18cbbceba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2Ff1d54d1d1828c1939480fe87a7ae123a.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/despite-spider-man-brand-day-163504212.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/090e4e606d1fe38bc5841132ee015bcc3bbd790181627c26633743ba68361a65/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F0d177c7281405769120711c00158b8da.png",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-5-gets-major-172745991.html",
     "category": "Movies"
   },
   {
-    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-09-08",
-    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
-    "category": "Music"
+    "title": "Sony Pictures Entertainment CEO on Success of 'Spider-Man: Brand New Day' - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-09-09",
+    "image": "https://variety.com/wp-content/uploads/2024/03/Ravi-Ahuja.jpg?w=1000&#038;h=563&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/news/sony-pictures-ceo-spider-man-brand-new-day-emotional-people-crying-1236855666/",
+    "category": "Movies"
   },
   {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
@@ -168,6 +276,15 @@
     "time": "2026-09-04",
     "image": "https://i.scdn.co/image/ab67616d0000b273763bc0c56de7193b893cb1aa",
     "spotify": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW",
+    "category": "Music"
+  },
+  {
+    "title": "#bfdi morning \ud83c\udf1e\ud83c\udf1e",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-09-04",
+    "image": "https://i.ytimg.com/vi/2oaZ6G2Rv2w/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=2oaZ6G2Rv2w",
     "category": "Music"
   },
   {
@@ -261,13 +378,22 @@
     "category": "Music"
   },
   {
-    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
-    "artist": "Zendaya",
-    "source": "British Vogue",
-    "time": "2026-09-01",
-    "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
-    "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
-    "category": "Zendaya"
+    "title": "#rip I miss my dog",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-08-29",
+    "image": "https://i.ytimg.com/vi/zUk6ALLTUnk/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=zUk6ALLTUnk",
+    "category": "Music"
+  },
+  {
+    "title": "#dance that way",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-08-21",
+    "image": "https://i.ytimg.com/vi/oHGnpvSH5Os/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=oHGnpvSH5Os",
+    "category": "Music"
   },
   {
     "title": "What Do You Fuckin&#39;Want",
@@ -297,12 +423,12 @@
     "category": "Music"
   },
   {
-    "title": "petal (official behind the scenes pt. 2)",
-    "artist": "Ariana Grande",
+    "title": "BEL-AIR",
+    "artist": "Olivia Dean",
     "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
+    "time": "2026-08-16",
+    "image": "https://i.ytimg.com/vi/UFkzQ97kMh4/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=UFkzQ97kMh4",
     "category": "Music"
   }
 ]
