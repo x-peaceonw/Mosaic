@@ -1,5 +1,32 @@
 [
   {
+    "title": "Zendaya Makes a Dramatic Return to the Pixie Cut - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
+    "time": "2026-09-13",
+    "image": "https://assets.vogue.com/photos/6a8895d3e57c0cda3a3b5cdd/16:9/w_1280,c_limit/2284958780",
+    "spotify": "https://www.vogue.com/article/zendaya-makes-a-dramatic-return-to-the-pixie-cut",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya debuts a new 'power pixie' haircut, the perfect style for adding volume to fine hair - Cosmopolitan",
+    "artist": "Zendaya",
+    "source": "Cosmopolitan",
+    "time": "2026-09-13",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/5cdd1254-6df9-4506-a1a3-b2bd9f48cd4e.jpg?crop=1.00xw:0.725xh;0,0.118xh&amp;resize=1200:*",
+    "spotify": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a73705915/zendaya-pixie-haircut-2026/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "\"Spider-Man,\" \"Odyssey\" Set New Box-Office Records - Dark Horizons",
+    "artist": "Spider-Man",
+    "source": "Dark Horizons",
+    "time": "2026-09-13",
+    "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-still-breaking-box-office-records.jpg",
+    "spotify": "https://www.darkhorizons.com/spider-man-odyssey-set-new-box-office-records/",
+    "category": "Movies"
+  },
+  {
     "title": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
     "artist": "Matthew 6:34",
     "source": "OurManna",
@@ -33,15 +60,6 @@
     "time": "2026-09-12",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
     "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
-    "category": "Movies"
-  },
-  {
-    "title": "\"Spider-Man,\" \"Odyssey\" Set New Box-Office Records - Dark Horizons",
-    "artist": "Spider-Man",
-    "source": "Dark Horizons",
-    "time": "2026-09-12",
-    "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-still-breaking-box-office-records.jpg",
-    "spotify": "https://www.darkhorizons.com/spider-man-odyssey-set-new-box-office-records/",
     "category": "Movies"
   },
   {
@@ -180,9 +198,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - ign.com",
+    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
     "artist": "Spider-Man",
-    "source": "ign.com",
+    "source": "IGN",
     "time": "2026-09-11",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
@@ -198,9 +216,9 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
+    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - yahoo.com",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "yahoo.com",
     "time": "2026-09-11",
     "image": "https://s.yimg.com/lo/mysterio/api/73c4ab83a14bdd7f41b8991cb815ade29eace2a1442526a60b02b63ff45134a9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fc31dfe6ebf61854ede914b7ea3f9b739.jpg",
     "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-122513778.html",
@@ -216,9 +234,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - Yahoo",
+    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - yahoo.com",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "yahoo.com",
     "time": "2026-09-10",
     "image": "https://s.yimg.com/lo/mysterio/api/11c8eab8ce979a5d0c5faa6db6eef90a13f0471d54d8542908db94c2f96d73ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2Fa1b411b46a1c3004ce7c6e617b4a495c.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-come-160943613.html",
@@ -351,12 +369,30 @@
     "category": "Music"
   },
   {
-    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
-    "artist": "Zendaya",
-    "source": "British Vogue",
-    "time": "2026-09-01",
-    "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
-    "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
-    "category": "Zendaya"
+    "title": "What Do You Fuckin&#39;Want",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
+    "category": "Music"
+  },
+  {
+    "title": "The Way I Am",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
+    "category": "Music"
+  },
+  {
+    "title": "Quiero Bailar (Radio Mix)",
+    "artist": "Solange",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
+    "category": "Music"
   }
 ]
