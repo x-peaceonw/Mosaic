@@ -1,17 +1,26 @@
 [
   {
-    "title": "Zendaya Makes a Dramatic Return to the Pixie Cut - Vogue",
+    "title": "Zendaya Makes a Dramatic Return to the Pixie Cut - vogue.com",
     "artist": "Zendaya",
-    "source": "Vogue",
+    "source": "vogue.com",
     "time": "2026-09-13",
     "image": "https://assets.vogue.com/photos/6a8895d3e57c0cda3a3b5cdd/16:9/w_1280,c_limit/2284958780",
     "spotify": "https://www.vogue.com/article/zendaya-makes-a-dramatic-return-to-the-pixie-cut",
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya debuts a new 'power pixie' haircut, the perfect style for adding volume to fine hair - Cosmopolitan",
+    "title": "Zendaya (With Her New Pixie Cut!) Reunites With \u201cEuphoria\u201d Co-Stars for Dinner - harpersbazaar.com",
     "artist": "Zendaya",
-    "source": "Cosmopolitan",
+    "source": "harpersbazaar.com",
+    "time": "2026-09-13",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/9e69838c-7de7-47c8-ad4f-cc312da22671.jpeg?crop=0.819xw:0.593xh;0.068xw,0.026xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73707250/zendaya-hunter-schafer-alexa-demie-euphoria-reunion-photos/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya debuts a new 'power pixie' haircut, the perfect style for adding volume to fine hair - cosmopolitan.com",
+    "artist": "Zendaya",
+    "source": "cosmopolitan.com",
     "time": "2026-09-13",
     "image": "https://hips.hearstapps.com/hmg-prod/images/5cdd1254-6df9-4506-a1a3-b2bd9f48cd4e.jpg?crop=1.00xw:0.725xh;0,0.118xh&amp;resize=1200:*",
     "spotify": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a73705915/zendaya-pixie-haircut-2026/",
@@ -25,6 +34,15 @@
     "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-still-breaking-box-office-records.jpg",
     "spotify": "https://www.darkhorizons.com/spider-man-odyssey-set-new-box-office-records/",
     "category": "Movies"
+  },
+  {
+    "title": "Millie Bobby Brown's Favorite Dance Move Is Inspired by Beyonc\u00e9 - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-13",
+    "image": "https://s.yimg.com/lo/mysterio/api/7021cf82e3d365b41c7ebf2bd2949d1f264aa17e6ccf8e240850988e839d0733/lightyear_networkapi/resizefill_w720_h1280%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_vertical_videos_214%2F66f6374df077a206c6ececedd26c7c26.jpg",
+    "spotify": "https://www.yahoo.com/lifestyle/videos/millie-bobby-browns-favorite-dance-170000893.html",
+    "category": "Beyonce News"
   },
   {
     "title": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
@@ -54,9 +72,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Practical Magic 2\u2019 Leads Box Office as \u2018Spider-Man\u2019 Eyes All-Time Domestic Record - The Hollywood Reporter",
+    "title": "\u2018Practical Magic 2\u2019 Summons $30M to End Spider-Man\u2019s Streak at No. 1 - hollywoodreporter.com",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "hollywoodreporter.com",
     "time": "2026-09-12",
     "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
     "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
@@ -189,21 +207,30 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya\u2019s Sunglasses Will Be at Fashion Week, Shop 12 Pairs Just Like It - E! News",
-    "artist": "Zendaya",
-    "source": "E! News",
-    "time": "2026-09-11",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260911/3a527c3f-26d6-4e81-844e-5779a62abb83_1789145305.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "spotify": "https://www.eonline.com/news/1435965/zendayas-sunglasses-will-be-at-fashion-week-12-pairs-just-like-it",
-    "category": "Zendaya"
-  },
-  {
     "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
     "artist": "Spider-Man",
     "source": "IGN",
     "time": "2026-09-11",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
+    "category": "Movies"
+  },
+  {
+    "title": "What Superhero Movie Would Spider-Man Love? Tom Holland Has A Great Answer - Cinemablend",
+    "artist": "Spider-Man",
+    "source": "Cinemablend",
+    "time": "2026-09-11",
+    "image": "https://cdn.mos.cms.futurecdn.net/mYXnW3S8UwufokKvSTpcje-2000-80.png",
+    "spotify": "https://www.cinemablend.com/movies/what-superhero-movie-would-spider-man-love-tom-holland-great-answer-dark-knight",
+    "category": "Movies"
+  },
+  {
+    "title": "Iconic Spider-Man Character Officially Joins the X-Men - Collider",
+    "artist": "Spider-Man",
+    "source": "Collider",
+    "time": "2026-09-11",
+    "image": "",
+    "spotify": "https://collider.com/black-cat-joining-x-men-marvel-comics/",
     "category": "Movies"
   },
   {
@@ -216,12 +243,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - yahoo.com",
+    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
     "artist": "Beyonce",
-    "source": "yahoo.com",
+    "source": "NOLA.com",
     "time": "2026-09-11",
-    "image": "https://s.yimg.com/lo/mysterio/api/73c4ab83a14bdd7f41b8991cb815ade29eace2a1442526a60b02b63ff45134a9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fc31dfe6ebf61854ede914b7ea3f9b739.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-122513778.html",
+    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
+    "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
     "category": "Beyonce News"
   },
   {
@@ -234,36 +261,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - yahoo.com",
-    "artist": "Spider-Man",
-    "source": "yahoo.com",
-    "time": "2026-09-10",
-    "image": "https://s.yimg.com/lo/mysterio/api/11c8eab8ce979a5d0c5faa6db6eef90a13f0471d54d8542908db94c2f96d73ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2Fa1b411b46a1c3004ce7c6e617b4a495c.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-come-160943613.html",
-    "category": "Movies"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' to become highest-grossing movie in US box office history; Tom Holland starre - The Times of India",
-    "artist": "Spider-Man",
-    "source": "The Times of India",
-    "time": "2026-09-10",
-    "image": "https://static.toiimg.com/thumb/msid-134034956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9: B\u2019DAY (20th ANNIVERSARY EDITION) Album Review - Pitchfork",
+    "title": "Inside Beyonc\u00e9\u2019s \u201cB\u2019Day\u201d-Inspired Hair Transformation - vogue.com",
     "artist": "Beyonce",
-    "source": "Pitchfork",
-    "time": "2026-09-10",
-    "image": "https://media.pitchfork.com/photos/6aa1a9ed01cfe7470fe4dc9d/16:9/w_1280,c_limit/Beyonce%CC%81%20-%20B&#x27;Day%2020th%20anniversary%20album%20art.jpg",
-    "spotify": "https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Inside Beyonc\u00e9\u2019s \u201cB\u2019Day\u201d-Inspired Hair Transformation - Vogue",
-    "artist": "Beyonce",
-    "source": "Vogue",
+    "source": "vogue.com",
     "time": "2026-09-10",
     "image": "https://assets.vogue.com/photos/6aa27fd48dca79fea53926b8/16:9/w_1280,c_limit/SnapInsta.to_795462846_18103671821354609_9115761490985740175_n.jpg",
     "spotify": "https://www.vogue.com/article/beyonce-bday-hair-transformation",
