@@ -1,5 +1,23 @@
 [
   {
+    "title": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+    "artist": "Matthew 6:34",
+    "source": "OurManna",
+    "time": "2026-09-13",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-13",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya Ditches Her Signature Hair for a Dramatic, Short Pixie Cut - instyle.com",
     "artist": "Zendaya",
     "source": "instyle.com",
@@ -9,22 +27,31 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya Red Carpet & Style - younghollywood.com",
-    "artist": "Zendaya",
-    "source": "younghollywood.com",
+    "title": "\u2018Practical Magic 2\u2019 Leads Box Office as \u2018Spider-Man\u2019 Eyes All-Time Domestic Record - The Hollywood Reporter",
+    "artist": "Spider-Man",
+    "source": "The Hollywood Reporter",
     "time": "2026-09-12",
-    "image": "https://aqqqzixeryfsazahbard.supabase.co/storage/v1/render/image/public/media/talent/1786559150725-z7b8o3.jpg?width=1200&amp;height=675&amp;resize=cover&amp;quality=85&amp;format=webp",
-    "spotify": "https://younghollywood.com/talent/zendaya/red-carpet-and-style",
-    "category": "Zendaya"
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+    "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 Celebrates Her Birthday in Roberto Cavalli - yahoo.com",
-    "artist": "Beyonce",
-    "source": "yahoo.com",
+    "title": "\"Spider-Man,\" \"Odyssey\" Set New Box-Office Records - Dark Horizons",
+    "artist": "Spider-Man",
+    "source": "Dark Horizons",
     "time": "2026-09-12",
-    "image": "https://s.yimg.com/lo/mysterio/api/caef6b29aa16bd7f53710b55d80f9c235bba2ed09020e64f32596e73443289da/lightyear_networkapi/resizefill_w590_h1024%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F3a143a9469415c6c7269344674915bd8.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-celebrates-her-birthday-roberto-184723497.html",
-    "category": "Beyonce News"
+    "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-still-breaking-box-office-records.jpg",
+    "spotify": "https://www.darkhorizons.com/spider-man-odyssey-set-new-box-office-records/",
+    "category": "Movies"
+  },
+  {
+    "title": "Mark Ruffalo Is Reuniting With His 'Spider-Man: Brand New Day' Co-Star For His Next Movie - And It's Led By An Avengers Actress - The Direct",
+    "artist": "Spider-Man",
+    "source": "The Direct",
+    "time": "2026-09-12",
+    "image": "https://images.thedirect.com/media/article_full/mark-ruffalo-spider-man.jpg",
+    "spotify": "https://thedirect.com/article/mark-ruffalo-spider-man-brand-new-day-movie-next-avengers",
+    "category": "Movies"
   },
   {
     "title": "Star snaps of the week: Ana de Armas, Beyonc\u00e9, Alix Earle, Camila Mendes and more - Page Six",
@@ -36,21 +63,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Do not be wise in your own eyes; fear the LORD and shun evil. This will bring health to your body and nourishment to your bones.",
-    "artist": "Proverbs 3:7-8",
-    "source": "OurManna",
+    "title": "Beyonc\u00e9 Celebrates Her Birthday in Roberto Cavalli - Red Carpet Fashion Awards",
+    "artist": "Beyonce",
+    "source": "Red Carpet Fashion Awards",
     "time": "2026-09-12",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-09-12",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "spotify": "https://www.redcarpet-fashionawards.com/2026/09/12/beyonce-celebrates-her-birthday-in-roberto-cavalli/",
     "category": "Beyonce News"
   },
   {
@@ -162,30 +180,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "\u2018Practical Magic 2\u2019 Aims to Make \u2018Spider-Man\u2019 Disappear From No. 1 at Box Office - The Hollywood Reporter",
+    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - ign.com",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
-    "time": "2026-09-11",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/rev-1-PM2-TP-067_High_Res_JPEG-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/",
-    "category": "Movies"
-  },
-  {
-    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
-    "artist": "Spider-Man",
-    "source": "IGN",
+    "source": "ign.com",
     "time": "2026-09-11",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
-    "category": "Movies"
-  },
-  {
-    "title": "'Spider-Man 5': Destin Daniel Cretton to return after 'Brand New Day' success; Tom Holland bags 10-movie - The Times of India",
-    "artist": "Spider-Man",
-    "source": "The Times of India",
-    "time": "2026-09-11",
-    "image": "https://static.toiimg.com/thumb/msid-134095849,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-5-destin-daniel-cretton-to-return-after-brand-new-day-success-tom-holland-bags-10-movie-deal/articleshow/134091647.cms",
     "category": "Movies"
   },
   {
@@ -198,30 +198,39 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
+    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
     "artist": "Beyonce",
-    "source": "NOLA.com",
+    "source": "Yahoo",
     "time": "2026-09-11",
-    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
-    "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/73c4ab83a14bdd7f41b8991cb815ade29eace2a1442526a60b02b63ff45134a9/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fc31dfe6ebf61854ede914b7ea3f9b739.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-122513778.html",
     "category": "Beyonce News"
   },
   {
-    "title": "A Look Back At Zendaya's Best NYFW Moments - thezoereport.com",
+    "title": "A Look Back At Zendaya's Best NYFW Moments - The Zoe Report",
     "artist": "Zendaya",
-    "source": "thezoereport.com",
+    "source": "The Zoe Report",
     "time": "2026-09-10",
     "image": "https://imgix.bustle.com/uploads/getty/2026/9/9/3568d84c/new-york-ny-february.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg",
     "spotify": "https://www.thezoereport.com/culture/zendaya-nyfw-front-row-outfits",
     "category": "Zendaya"
   },
   {
-    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - yahoo.com",
+    "title": "When will 'Spider-Man: Brand New Day' come out on streaming? - Yahoo",
     "artist": "Spider-Man",
-    "source": "yahoo.com",
+    "source": "Yahoo",
     "time": "2026-09-10",
     "image": "https://s.yimg.com/lo/mysterio/api/11c8eab8ce979a5d0c5faa6db6eef90a13f0471d54d8542908db94c2f96d73ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-bergen-record%2Fa1b411b46a1c3004ce7c6e617b4a495c.jpg",
     "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-come-160943613.html",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' to become highest-grossing movie in US box office history; Tom Holland starre - The Times of India",
+    "artist": "Spider-Man",
+    "source": "The Times of India",
+    "time": "2026-09-10",
+    "image": "https://static.toiimg.com/thumb/msid-134034956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
     "category": "Movies"
   },
   {
@@ -241,33 +250,6 @@
     "image": "https://assets.vogue.com/photos/6aa27fd48dca79fea53926b8/16:9/w_1280,c_limit/SnapInsta.to_795462846_18103671821354609_9115761490985740175_n.jpg",
     "spotify": "https://www.vogue.com/article/beyonce-bday-hair-transformation",
     "category": "Beyonce News"
-  },
-  {
-    "title": "Spider-Man 5 Gets Major Release Date Update, But MCU Fans Still Have Questions - yahoo.com",
-    "artist": "Spider-Man",
-    "source": "yahoo.com",
-    "time": "2026-09-09",
-    "image": "https://s.yimg.com/lo/mysterio/api/090e4e606d1fe38bc5841132ee015bcc3bbd790181627c26633743ba68361a65/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F0d177c7281405769120711c00158b8da.png",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/spider-man-5-gets-major-172745991.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Sony Pictures Entertainment CEO on Success of 'Spider-Man: Brand New Day' - Variety",
-    "artist": "Spider-Man",
-    "source": "Variety",
-    "time": "2026-09-09",
-    "image": "https://variety.com/wp-content/uploads/2024/03/Ravi-Ahuja.jpg?w=1000&#038;h=563&#038;crop=1",
-    "spotify": "https://variety.com/2026/film/news/sony-pictures-ceo-spider-man-brand-new-day-emotional-people-crying-1236855666/",
-    "category": "Movies"
-  },
-  {
-    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-09-08",
-    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
-    "category": "Music"
   },
   {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
@@ -369,39 +351,12 @@
     "category": "Music"
   },
   {
-    "title": "What Do You Fuckin&#39;Want",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
-    "category": "Music"
-  },
-  {
-    "title": "The Way I Am",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
-    "category": "Music"
-  },
-  {
-    "title": "petal (official behind the scenes pt. 2)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
-    "category": "Music"
+    "title": "30 Of Zendaya\u2019s Most Memorable Looks For Her 30th Birthday - British Vogue",
+    "artist": "Zendaya",
+    "source": "British Vogue",
+    "time": "2026-09-01",
+    "image": "https://media.vogue.co.uk/photos/6a9173f168138f6ccde2bd16/16:9/w_1280,c_limit/OA-280826-ZC-1.jpg",
+    "spotify": "https://www.vogue.co.uk/fashion/gallery/zendaya-best-red-carpet-moments",
+    "category": "Zendaya"
   }
 ]
