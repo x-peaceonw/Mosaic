@@ -1,19 +1,46 @@
 [
   {
-    "title": "Zendaya (With Her New Pixie Cut!) Reunites With \u201cEuphoria\u201d Co-Stars for Dinner - Harper's BAZAAR",
+    "title": "Zendaya, Jenna Ortega and More Best Dressed Stars Ever at the Emmys - E! News",
     "artist": "Zendaya",
-    "source": "Harper's BAZAAR",
-    "time": "2026-09-13",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/9e69838c-7de7-47c8-ad4f-cc312da22671.jpeg?crop=0.819xw:0.593xh;0.068xw,0.026xh&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73707250/zendaya-hunter-schafer-alexa-demie-euphoria-reunion-photos/",
+    "source": "E! News",
+    "time": "2026-09-14",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260910/d3fc7940-f02f-43e0-8a0f-2ae5a9ff7f9b_1789074053.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+    "spotify": "https://www.eonline.com/news/1435944/emmys-zendaya-jenna-ortega-more-best-dressed-stars-ever",
     "category": "Zendaya"
+  },
+  {
+    "title": "Jay-Z, Beyonc\u00e9 and more stars attend premiere of 'Jay-Z in 8' series - usatoday.com",
+    "artist": "Beyonce",
+    "source": "usatoday.com",
+    "time": "2026-09-14",
+    "image": "",
+    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/09/13/jay-z-beyonce-premiere-hbo-series/91715816007/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "God who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+    "artist": "Philippians 1:6",
+    "source": "OurManna",
+    "time": "2026-09-14",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-14",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
   },
   {
     "title": "Zendaya Just Made the Case for a Fluffy Pixie Cut\u2014and 2 Other Fall Trends - ELLE",
     "artist": "Zendaya",
     "source": "ELLE",
     "time": "2026-09-13",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/aaea59d6-dcb3-4a28-a208-f014b3605981.jpg?crop=1xw:0.375xh;0xw,0.135xh&amp;resize=1200:*",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/aaea59d6-dcb3-4a28-a208-f014b3605981.jpg?crop=0.853xw:0.32xh;0xw,0.136xh&amp;resize=1200:*",
     "spotify": "https://www.elle.com/fashion/celebrity-style/a73707223/zendaya-fall-trends-prada-pixie-cut-news/",
     "category": "Zendaya"
   },
@@ -27,6 +54,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "Zendaya (With Her New Pixie Cut!) Reunites With \u201cEuphoria\u201d Co-Stars for Dinner - Harper's BAZAAR",
+    "artist": "Zendaya",
+    "source": "Harper's BAZAAR",
+    "time": "2026-09-13",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/9e69838c-7de7-47c8-ad4f-cc312da22671.jpeg?crop=0.819xw:0.593xh;0.068xw,0.026xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73707250/zendaya-hunter-schafer-alexa-demie-euphoria-reunion-photos/",
+    "category": "Zendaya"
+  },
+  {
     "title": "Zendaya debuts a new 'power pixie' haircut, the perfect style for adding volume to fine hair - Cosmopolitan",
     "artist": "Zendaya",
     "source": "Cosmopolitan",
@@ -36,13 +72,22 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya makes dramatic return to pixie cut at New York Fashion Week - The Express Tribune",
-    "artist": "Zendaya",
-    "source": "The Express Tribune",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Poised To Break Box Office All-Time Domestic Record - Forbes",
+    "artist": "Spider-Man",
+    "source": "Forbes",
     "time": "2026-09-13",
-    "image": "https://i.tribune.com.pk/media/images/10001644441789319227-0/10001644441789319227-0-640x480.webp",
-    "spotify": "https://tribune.com.pk/story/2629098/zendaya-makes-dramatic-return-to-pixie-cut-at-new-york-fashion-week",
-    "category": "Zendaya"
+    "image": "",
+    "spotify": "https://www.forbes.com/sites/zacharyfolk/2026/09/13/spider-man-brand-new-day-poised-to-break-box-office-all-time-domestic-record/",
+    "category": "Movies"
+  },
+  {
+    "title": "Practical Magic 2 Unseats Spider-Man at Top of the Box Office - Vulture",
+    "artist": "Spider-Man",
+    "source": "Vulture",
+    "time": "2026-09-13",
+    "image": "https://pyxis.nymag.com/v1/imgs/d5f/ece/c34d4d6f5ab1531b70858efeae243151f4-magic-2.1x.rsocial.w1200.jpg",
+    "spotify": "https://www.vulture.com/article/practical-magic-2-beats-spider-man-box-office.html",
+    "category": "Movies"
   },
   {
     "title": "Russell Crowe\u2019s Spider-Man Movie Finally Lands on Disney+ Today - Yahoo",
@@ -54,24 +99,6 @@
     "category": "Movies"
   },
   {
-    "title": "\"Spider-Man,\" \"Odyssey\" Set New Box-Office Records - darkhorizons.com",
-    "artist": "Spider-Man",
-    "source": "darkhorizons.com",
-    "time": "2026-09-13",
-    "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/08/spider-man-still-breaking-box-office-records.jpg",
-    "spotify": "https://www.darkhorizons.com/spider-man-odyssey-set-new-box-office-records/",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 Scores A New No. 1 Hit In America - Forbes",
-    "artist": "Beyonce",
-    "source": "Forbes",
-    "time": "2026-09-13",
-    "image": "",
-    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/13/beyonc-scores-a-new-no-1-hit-in-america/",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
@@ -81,21 +108,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-    "artist": "Matthew 6:34",
-    "source": "OurManna",
-    "time": "2026-09-13",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
+    "title": "Billboard 200: Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Stings With Top 10 Return - That Grape Juice.net",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "That Grape Juice.net",
     "time": "2026-09-13",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "https://thatgrapejuice.net/wp-content/uploads/2026/09/beyonce-bday-20th-anniversary-tgj.png",
+    "spotify": "https://thatgrapejuice.net/2026/09/billboard-200-beyonces-bday-stings-with-top-10-return/",
     "category": "Beyonce News"
   },
   {
@@ -150,6 +168,24 @@
     "time": "2026-09-11",
     "image": "https://i.scdn.co/image/ab67616d0000b27349bd89da3bd906d2f8406875",
     "spotify": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK",
+    "category": "Music"
+  },
+  {
+    "title": "Lullaby",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/c607SiKadT4/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=c607SiKadT4",
+    "category": "Music"
+  },
+  {
+    "title": "Unicorn",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/q-ocyt26Q0M/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=q-ocyt26Q0M",
     "category": "Music"
   },
   {
@@ -225,27 +261,9 @@
     "category": "Music"
   },
   {
-    "title": "You",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/WATLkVy9yDY/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=WATLkVy9yDY",
-    "category": "Music"
-  },
-  {
-    "title": "Ceiling (Freestyle)",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/vPmYT8RJNLM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=vPmYT8RJNLM",
-    "category": "Music"
-  },
-  {
-    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
+    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - ign.com",
     "artist": "Spider-Man",
-    "source": "IGN",
+    "source": "ign.com",
     "time": "2026-09-11",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
@@ -261,22 +279,13 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9, Taylor Swift and Elton John have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
-    "artist": "Beyonce",
-    "source": "NOLA.com",
-    "time": "2026-09-11",
-    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/36/a36f90fe-77b9-4c92-91fe-8a41989cb0cb/6aa32f5c1de0f.image.jpg?crop=981%2C515%2C358%2C276",
-    "spotify": "https://www.nola.com/news/business/any-old-iron-magazine-street-taylor-swift-beyonce/article_51d7ac18-ac1c-412b-98da-1dd8b4adff16.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' to become highest-grossing movie in US box office history; Tom Holland starre - The Times of India",
-    "artist": "Spider-Man",
-    "source": "The Times of India",
-    "time": "2026-09-10",
-    "image": "https://static.toiimg.com/thumb/msid-134034956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "spotify": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-to-become-highest-grossing-movie-in-us-box-office-history-tom-holland-starrer-to-become-first-film-to-earn-usd-1-billion-in-america/articleshow/134034563.cms",
-    "category": "Movies"
+    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-09-08",
+    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
+    "category": "Music"
   },
   {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
@@ -321,6 +330,15 @@
     "time": "2026-08-18",
     "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
+    "category": "Music"
+  },
+  {
+    "title": "petal (official behind the scenes pt. 2)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-08-18",
+    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
     "category": "Music"
   }
 ]
