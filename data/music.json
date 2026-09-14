@@ -1,5 +1,14 @@
 [
   {
+    "title": "Inside the Emmys\u2019 Fashion Evolution: Sarah Jessica Parker, Zendaya, Lisa & More - Yahoo",
+    "artist": "Zendaya",
+    "source": "Yahoo",
+    "time": "2026-09-14",
+    "image": "https://s.yimg.com/lo/mysterio/api/cd764a9a0f2db83c7c2e39d09d3a5580262a470d60c120dd09e5d05665f008c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe_news_video_696%2Ffe784f06359ec7f6a9225fe6f5028028.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/videos/inside-emmys-fashion-evolution-sarah-110000565.html",
+    "category": "Zendaya"
+  },
+  {
     "title": "Zendaya, Jenna Ortega and More Best Dressed Stars Ever at the Emmys - E! News",
     "artist": "Zendaya",
     "source": "E! News",
@@ -9,12 +18,39 @@
     "category": "Zendaya"
   },
   {
-    "title": "Jay-Z, Beyonc\u00e9 and more stars attend premiere of 'Jay-Z in 8' series - usatoday.com",
+    "title": "Weekend Box Office: Practical Magic 2 Dethrones Spider-Man: Brand New Day - Rotten Tomatoes",
+    "artist": "Spider-Man",
+    "source": "Rotten Tomatoes",
+    "time": "2026-09-14",
+    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Practical_Magic_2-BO1-Rep.jpg?w=600",
+    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-practical-magic-week-1/",
+    "category": "Movies"
+  },
+  {
+    "title": "Wake Up NOLA: Beyonc\u00e9 and Taylor Swift have worn his designs. Now he's opened on Magazine Street. - NOLA.com",
     "artist": "Beyonce",
-    "source": "usatoday.com",
+    "source": "NOLA.com",
+    "time": "2026-09-14",
+    "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/6/81/681c19f9-98c0-55f7-898c-52479ef60722/6aa7f0c239e24.preview.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+    "spotify": "https://www.nola.com/multimedia/wake-up-nola-beyonc-and-taylor-swift-have-worn-his-designs-now-hes-opened-on/video_681c19f9-98c0-55f7-898c-52479ef60722.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Jay-Z, Beyonc\u00e9 and more stars attend premiere of 'Jay-Z in 8' series - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-14",
+    "image": "https://s.yimg.com/lo/mysterio/api/3585afc918f9591e5674dc75e35d64c55e7aa28e8782e0cffb459760a2bf8e80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F442a06fb1d7c99b1a6674aa6944f1c9d.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/jay-z-beyonc-more-stars-015310030.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Taylor Swift, Beyonc\u00e9 wore milk mustaches thanks to this Delaware man - Delawareonline.com",
+    "artist": "Beyonce",
+    "source": "Delawareonline.com",
     "time": "2026-09-14",
     "image": "",
-    "spotify": "https://www.usatoday.com/story/entertainment/music/2026/09/13/jay-z-beyonce-premiere-hbo-series/91715816007/",
+    "spotify": "https://www.delawareonline.com/story/entertainment/2026/09/14/taylor-swift-beyonce-wore-milk-mustaches-thanks-to-bernie-hogya-delaware/91655587007/",
     "category": "Beyonce News"
   },
   {
@@ -54,21 +90,12 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya (With Her New Pixie Cut!) Reunites With \u201cEuphoria\u201d Co-Stars for Dinner - Harper's BAZAAR",
+    "title": "Zendaya Reunites With 'Euphoria' Co-Stars for Dinner - Harper's BAZAAR",
     "artist": "Zendaya",
     "source": "Harper's BAZAAR",
     "time": "2026-09-13",
     "image": "https://hips.hearstapps.com/hmg-prod/images/9e69838c-7de7-47c8-ad4f-cc312da22671.jpeg?crop=0.819xw:0.593xh;0.068xw,0.026xh&amp;resize=1200:*",
     "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73707250/zendaya-hunter-schafer-alexa-demie-euphoria-reunion-photos/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya debuts a new 'power pixie' haircut, the perfect style for adding volume to fine hair - Cosmopolitan",
-    "artist": "Zendaya",
-    "source": "Cosmopolitan",
-    "time": "2026-09-13",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/5cdd1254-6df9-4506-a1a3-b2bd9f48cd4e.jpg?crop=1.00xw:0.725xh;0,0.118xh&amp;resize=1200:*",
-    "spotify": "https://www.cosmopolitan.com/uk/beauty-hair/celebrity-hair-makeup/a73705915/zendaya-pixie-haircut-2026/",
     "category": "Zendaya"
   },
   {
@@ -81,39 +108,21 @@
     "category": "Movies"
   },
   {
-    "title": "Practical Magic 2 Unseats Spider-Man at Top of the Box Office - Vulture",
+    "title": "\u2018Practical Magic 2\u2019 bests \u2018Spider-Man\u2019 and \u2018The Odyssey\u2019 at the box office, but fails to conjure profit - Entertainment Weekly",
     "artist": "Spider-Man",
-    "source": "Vulture",
+    "source": "Entertainment Weekly",
     "time": "2026-09-13",
-    "image": "https://pyxis.nymag.com/v1/imgs/d5f/ece/c34d4d6f5ab1531b70858efeae243151f4-magic-2.1x.rsocial.w1200.jpg",
-    "spotify": "https://www.vulture.com/article/practical-magic-2-beats-spider-man-box-office.html",
+    "image": "",
+    "spotify": "https://ew.com/practical-magic-2-bests-spider-man-the-odyssey-at-box-office-12119824",
     "category": "Movies"
   },
   {
-    "title": "Russell Crowe\u2019s Spider-Man Movie Finally Lands on Disney+ Today - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-13",
-    "image": "https://s.yimg.com/lo/mysterio/api/28e69931bf3a2af2cc871fddf403297e7d0dcf535a8624c31989da5fec5c6e0c/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsuperherohype_979%2F1af1ec1bc6eeb80131b2296f695b57a6.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/movies/articles/russell-crowe-spider-man-movie-150000431.html",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonce\u2019s Daughters Blue Ivy & Rumi Soak up Paris Before Dad Jay-Z\u2019s Show - Yahoo",
+    "title": "Beyonc\u00e9 Scores A New No. 1 Hit In America - Forbes",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "Forbes",
     "time": "2026-09-13",
-    "image": "https://s.yimg.com/lo/mysterio/api/79c4a6611cf06055a260ceab681f9e5d8f5c8a86ba70e5b9885a0c66ea7726d4/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Fe8a0cebdd89a2c84e196fe0599da9ddd.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-daughters-blue-ivy-rumi-140538556.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Billboard 200: Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Stings With Top 10 Return - That Grape Juice.net",
-    "artist": "Beyonce",
-    "source": "That Grape Juice.net",
-    "time": "2026-09-13",
-    "image": "https://thatgrapejuice.net/wp-content/uploads/2026/09/beyonce-bday-20th-anniversary-tgj.png",
-    "spotify": "https://thatgrapejuice.net/2026/09/billboard-200-beyonces-bday-stings-with-top-10-return/",
+    "image": "",
+    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/13/beyonc-scores-a-new-no-1-hit-in-america/",
     "category": "Beyonce News"
   },
   {
@@ -150,15 +159,6 @@
     "time": "2026-09-12",
     "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/Snaps-0910.jpg?quality=90&#038;strip=all&#038;w=1200",
     "spotify": "https://pagesix.com/2026/09/12/photos/star-snaps-of-the-week-ana-de-armas-beyonce-alix-earle-camila-mendes-and-more/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 Celebrates Her Birthday in Roberto Cavalli - Red Carpet Fashion Awards",
-    "artist": "Beyonce",
-    "source": "Red Carpet Fashion Awards",
-    "time": "2026-09-12",
-    "image": "",
-    "spotify": "https://www.redcarpet-fashionawards.com/2026/09/12/beyonce-celebrates-her-birthday-in-roberto-cavalli/",
     "category": "Beyonce News"
   },
   {
@@ -261,18 +261,18 @@
     "category": "Music"
   },
   {
-    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - ign.com",
+    "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is - IGN",
     "artist": "Spider-Man",
-    "source": "ign.com",
+    "source": "IGN",
     "time": "2026-09-11",
     "image": "https://assets-prd.ignimgs.com/2026/08/03/peter-spidey-deck-blogroll-1785792270027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
     "spotify": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
     "category": "Movies"
   },
   {
-    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - creativebloq.com",
+    "title": "Fans think Beyonc\u00e9\u2019s $1000 empty wooden box is a sign - Creative Bloq",
     "artist": "Beyonce",
-    "source": "creativebloq.com",
+    "source": "Creative Bloq",
     "time": "2026-09-11",
     "image": "https://cdn.mos.cms.futurecdn.net/Yn3QYxtq2wMBGd86eUgtoa-1920-80.jpg",
     "spotify": "https://www.creativebloq.com/entertainment/fans-think-beyonces-usd1000-empty-wooden-box-is-a-sign",
