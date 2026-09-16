@@ -1,5 +1,32 @@
 [
   {
+    "title": "Iconic Bob Mackie Fashions Worn by Musicians, From Cher & Elton John to Beyonc\u00e9 & Sabrina Carpenter: Photos - Billboard",
+    "artist": "Beyonce",
+    "source": "Billboard",
+    "time": "2026-09-16",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/09/cher-bob-mackie-looks-billboard-1800.jpg?w=1024",
+    "spotify": "https://www.billboard.com/photos/bob-mackie-fashions-musicians-cher-beyonce-photos-1236341036/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "The world and its desires pass away, but the man who does the will of God lives forever.",
+    "artist": "1 John 2:17",
+    "source": "OurManna",
+    "time": "2026-09-16",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-16",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya's Most Unforgettable 2026 Red Carpet Looks, From 'The Drama' to 'Spider-Man: Brand New Day' - Complex",
     "artist": "Zendaya",
     "source": "Complex",
@@ -18,18 +45,18 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya and Tom Holland Bring Their Couple Style to the 2026 Emmys - vogue.com",
+    "title": "Halle Berry reacts to inspiring Zendaya\u2019s Emmy 2026 red carpet look - Page Six",
     "artist": "Zendaya",
-    "source": "vogue.com",
+    "source": "Page Six",
     "time": "2026-09-15",
-    "image": "https://assets.vogue.com/photos/6aa8a33214f9c5a1f3ddeb64/16:9/w_1280,c_limit/2295313630.jpeg",
-    "spotify": "https://www.vogue.com/article/zendaya-tom-holland-couple-style-emmys-2026-09-14",
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141231414.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "spotify": "https://pagesix.com/2026/09/15/style/halle-berry-reacts-to-inspiring-zendayas-emmy-2026-red-carpet-look/",
     "category": "Zendaya"
   },
   {
-    "title": "All the looks from the 2026 Emmys red carpet - latimes.com",
+    "title": "All the looks from the 2026 Emmys red carpet - Los Angeles Times",
     "artist": "Zendaya",
-    "source": "latimes.com",
+    "source": "Los Angeles Times",
     "time": "2026-09-15",
     "image": "https://ca-times.brightspotcdn.com/dims4/default/9c03a45/2147483647/strip/true/crop/5004x2627+0+355/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fda%2F2ea57f58449c9e113ff4a806155f%2F1568297-et-2026-emmy-red-carpet-cmh-3630.jpg",
     "spotify": "https://www.latimes.com/entertainment-arts/awards/story/2026-09-14/emmys-2026-red-carpet-photos-fashion-best-dressed",
@@ -45,85 +72,58 @@
     "category": "Zendaya"
   },
   {
-    "title": "Halle Berry reacts to inspiring Zendaya\u2019s Emmy 2026 red carpet look - Page Six",
-    "artist": "Zendaya",
-    "source": "Page Six",
-    "time": "2026-09-15",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141231414.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "spotify": "https://pagesix.com/2026/09/15/style/halle-berry-reacts-to-inspiring-zendayas-emmy-2026-red-carpet-look/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Don\u2019t Miss: Chris Evans\u2019 Spider-Man Movie Is About To Leave Streaming - yahoo.com",
+    "title": "The MCU's post-Doomsday X-Men should take notes from Marvel's Wolverine, just like Brand New Day did with Spider-Man - Yahoo",
     "artist": "Spider-Man",
-    "source": "yahoo.com",
+    "source": "Yahoo",
     "time": "2026-09-15",
-    "image": "https://s.yimg.com/lo/mysterio/api/027db37fbfe3c25a3c16439bc04aab1e60712c5263e0e050e828c8276575b5c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_videos_248%2Fce8894bcf257571464ceb310e53e29ca.png",
-    "spotify": "https://www.yahoo.com/news/videos/don-t-miss-chris-evans-183411832.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8a8043f5cc46502cba9f06faac16cf66f97105386561b47635aad4b30b1ad399/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgamesradar_237%2F10903b5601031bac698f2aaab4ae4b3d.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/movies/articles/mcus-post-doomsday-x-men-130626481.html",
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9\u2019s C\u00e9cred Is Entering Its Next Chapter - vogue.com",
+    "title": "Beyonc\u00e9\u2019s C\u00e9cred Is Entering Its Next Chapter - Vogue",
     "artist": "Beyonce",
-    "source": "vogue.com",
+    "source": "Vogue",
     "time": "2026-09-15",
     "image": "https://assets.vogue.com/photos/6aa7e9fcc0995109725c5c76/16:9/w_1280,c_limit/-social-link.jpg",
     "spotify": "https://www.vogue.com/article/beyonces-cecred-is-entering-its-next-chapter",
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - yahoo.com",
+    "title": "Beyonc\u00e9\u2019s 20-Year-Old Album Is Back At No. 1 - Currently.com",
     "artist": "Beyonce",
-    "source": "yahoo.com",
+    "source": "Currently.com",
     "time": "2026-09-15",
-    "image": "https://s.yimg.com/lo/mysterio/api/42fcd6817932bf2c8ee031354fb4ceb3761c9dd97caf14040a9521eb339f43d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F2a619ba69fc80edb0833d3a9fbcf83fe.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-b-day-debuts-no-220720511.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/411b93fef683688ff9dbcc4e85031cccc13a7f7096c39ac16024a4bd79555605/lightyear_networkapi/resizefill_w958_h659%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F3356a7b87b6794c1cceffa7dcab6bfd0.jpg",
+    "spotify": "https://currently.att.yahoo.com/att/beyonc-20-old-album-back-121502637.html",
     "category": "Beyonce News"
   },
   {
-    "title": "Rap star Jay Z hails 'fearless' wife Beyonce - Yahoo Lifestyle Canada",
-    "artist": "Beyonce",
-    "source": "Yahoo Lifestyle Canada",
-    "time": "2026-09-15",
-    "image": "https://s.yimg.com/lo/mysterio/api/df459f8b046945911fbdd45ba287d2f822cc474f2ea559447639c73887569b42/lightyear_networkapi/resizefill_w1000_h650%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbang_showbiz_ca_591%2F9d51525c85a13f04cecdc46dedf3b984.jpg",
-    "spotify": "https://ca.style.yahoo.com/rap-star-jay-z-hails-220000373.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Ella Langley, Ad\u00e9la, Beyonc\u00e9 & More: Highlights of This Week\u2019s Billboard Charts - Billboard",
+    "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - Billboard",
     "artist": "Beyonce",
     "source": "Billboard",
     "time": "2026-09-15",
-    "image": "https://www.billboard.com/wp-content/uploads/2026/03/P104RV2C-e1774304530253.jpg?w=1024",
-    "spotify": "https://www.billboard.com/lists/ella-langley-beyonce-adela-chart-highlights-sept-19-2026/",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/06/P10XA4G-e1782771938306.jpg?w=1024",
+    "spotify": "https://www.billboard.com/music/chart-beat/beyonce-bday-number-1-rb-albums-chart-anniversary-deluxe-1236340981/",
     "category": "Beyonce News"
   },
   {
-    "title": "Delight yourself in the LORD and he will give you the desires of your heart.",
-    "artist": "Psalm 37:4",
-    "source": "OurManna",
-    "time": "2026-09-15",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
+    "title": "Jay-Z Explains Why Beyonc\u00e9 Is More \u2018Fearless\u2019 Than He Is & Says He Still Gets \u2018Nervous\u2019 for Blue Ivy - Billboard",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "Billboard",
     "time": "2026-09-15",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "https://www.billboard.com/wp-content/uploads/2026/09/P10TLZT-e1789488202412.jpg?w=1024",
+    "spotify": "https://www.billboard.com/music/music-news/jay-z-beyonce-fearless-feeling-nervous-blue-ivy-1236340561/",
     "category": "Beyonce News"
   },
   {
-    "title": "'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office - Polygon.com",
-    "artist": "Spider-Man",
-    "source": "Polygon.com",
+    "title": "Inside Zendaya\u2019s \u201cSexy and Sophisticated\u201d Glam for the 2026 Emmys - Vogue",
+    "artist": "Zendaya",
+    "source": "Vogue",
     "time": "2026-09-14",
-    "image": "",
-    "spotify": "https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/",
-    "category": "Movies"
+    "image": "https://assets.vogue.com/photos/6aa881a0e45c3ba8a977bd56/16:9/w_1280,c_limit/2295300612",
+    "spotify": "https://www.vogue.com/article/zendaya-2026-emmys-14-09-2026",
+    "category": "Zendaya"
   },
   {
     "title": "Weekend Box Office: Practical Magic 2 Dethrones Spider-Man: Brand New Day - Rotten Tomatoes",
@@ -132,6 +132,15 @@
     "time": "2026-09-14",
     "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Practical_Magic_2-BO1-Rep.jpg?w=600",
     "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-practical-magic-week-1/",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office - Polygon.com",
+    "artist": "Spider-Man",
+    "source": "Polygon.com",
+    "time": "2026-09-14",
+    "image": "",
+    "spotify": "https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/",
     "category": "Movies"
   },
   {
@@ -144,39 +153,30 @@
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 joins JAY-Z for star-studded premiere of his new HBO documentary series - TheGrio",
-    "artist": "Beyonce",
-    "source": "TheGrio",
-    "time": "2026-09-14",
-    "image": "https://thegrio.com/wp-content/uploads/2024/03/BeyonceJayZ.jpg",
-    "spotify": "https://thegrio.com/2026/09/14/jay-z-in-8-premiere-beyonce-hip-hop-stars/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Bob Mackie, iconic costume designer who dressed stars including Cher and Carol Burnett, dies at 87 - latimes.com",
-    "artist": "Beyonce",
-    "source": "latimes.com",
-    "time": "2026-09-14",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/327884f/2147483647/strip/true/crop/3815x2003+0+8/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F64%2F541a03574286ade0657aec93fa06%2F27th-costume-designers-guild-awards-21339.jpg",
-    "spotify": "https://www.latimes.com/entertainment-arts/story/2026-09-14/bob-mackie-dead-iconic-designer-who-dressed-cher-beyonce-was-87",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Russell Crowe's R-Rated Marvel Movie Officially Joins Spider-Man on Disney+ - Collider",
+    "title": "Russell Crowe's R-Rated Marvel Movie Officially Joins Spider-Man on Disney+ - collider.com",
     "artist": "Spider-Man",
-    "source": "Collider",
+    "source": "collider.com",
     "time": "2026-09-13",
     "image": "",
     "spotify": "https://collider.com/russell-crowe-kraven-the-hunter-streaming-disney-plus-september-2026/",
     "category": "Movies"
   },
   {
-    "title": "\u2018Practical Magic 2\u2019 Summons $30M to End Spider-Man\u2019s Streak at No. 1 - The Hollywood Reporter",
+    "title": "Billboard 200: Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Stings With Top 10 Return - That Grape Juice.net",
+    "artist": "Beyonce",
+    "source": "That Grape Juice.net",
+    "time": "2026-09-13",
+    "image": "https://thatgrapejuice.net/wp-content/uploads/2026/09/beyonce-bday-20th-anniversary-tgj.png",
+    "spotify": "https://thatgrapejuice.net/2026/09/billboard-200-beyonces-bday-stings-with-top-10-return/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Mark Ruffalo Is Reuniting With His 'Spider-Man: Brand New Day' Co-Star For His Next Movie - And It's Led By An Avengers Actress - The Direct",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "The Direct",
     "time": "2026-09-12",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/PM2-TP-010r-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+    "image": "https://images.thedirect.com/media/article_full/mark-ruffalo-spider-man.jpg",
+    "spotify": "https://thedirect.com/article/mark-ruffalo-spider-man-brand-new-day-movie-next-avengers",
     "category": "Movies"
   },
   {
@@ -279,15 +279,6 @@
     "category": "Music"
   },
   {
-    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-09-08",
-    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
-    "category": "Music"
-  },
-  {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
     "artist": "Beyonce",
     "source": "Spotify",
@@ -303,42 +294,6 @@
     "time": "2026-09-03",
     "image": "https://i.ytimg.com/vi/3P6IiSRgLhI/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=3P6IiSRgLhI",
-    "category": "Music"
-  },
-  {
-    "title": "What Do You Fuckin&#39;Want",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
-    "category": "Music"
-  },
-  {
-    "title": "The Way I Am",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
-    "category": "Music"
-  },
-  {
-    "title": "petal (official behind the scenes pt. 2)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
     "category": "Music"
   }
 ]
