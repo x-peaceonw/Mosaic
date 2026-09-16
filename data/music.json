@@ -1,5 +1,68 @@
 [
   {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Overtakes \u2018Star Wars: Force Awakens\u2019 as Highest-Grossing Movie of All Time at Domestic Box Office - Variety",
+    "artist": "Spider-Man",
+    "source": "Variety",
+    "time": "2026-09-16",
+    "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/box-office/spider-man-beats-star-wars-biggest-movie-domestic-box-office-1236836593/",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' has beaten 'Star Wars: Force Awakens' to become the top-grossing movie ever at the North American box office with $936.7 million. Read more below. - facebook.com",
+    "artist": "Spider-Man",
+    "source": "facebook.com",
+    "time": "2026-09-16",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/812645512_2258271408241766_3206394416184849203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Cq4k0bN8s00Q7kNvwE7BUMT&amp;_nc_oc=AdqFYw6-ooNSs5TFwDIRNKZejlwrG9oQTLsjC2d2ttgOJNOqwW5sQ6XvO20_aBH7dEk&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=khPUmslMSc55rZVd-RXwmw&amp;_nc_ss=7e20f&amp;oh=00_AQKYWO2Z3M3cDrHjO62GffE9EiA0jhN28sMOOr9c7VhAOw&amp;oe=6AB0D498",
+    "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-has-beaten-star-wars-force-awakens-to-become-the-top-gr/1437225528277783/",
+    "category": "Movies"
+  },
+  {
+    "title": "\u2018Spider-Man: Brand New Day\u2019 swings past \u2018Star Wars: The Force Awakens\u2019 as highest-grossing film at domestic box office - movin925.com",
+    "artist": "Spider-Man",
+    "source": "movin925.com",
+    "time": "2026-09-16",
+    "image": "",
+    "spotify": "https://www.movin925.com/spider-man-brand-new-day-swings-past-star-wars-the-force-awakens-as-highest-grossing-film-at-domestic-box-office/",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day Beats Star Wars: The Force Awakens As Biggest Domestic Movie Ever - Cosmic Book News",
+    "artist": "Spider-Man",
+    "source": "Cosmic Book News",
+    "time": "2026-09-16",
+    "image": "https://cosmicbook.news/wp-content/uploads/2026/09/spider-man-brand-new-day-box-office-beats-star-wars-the-force-awakens.webp",
+    "spotify": "https://cosmicbook.news/spider-man-brand-new-day-beats-force-awakens",
+    "category": "Movies"
+  },
+  {
+    "title": "Harry Shum Jr. defends decision to join \u201cDWTS \u201dcast \u2014 despite history as Beyonc\u00e9\u2019s backup dancer - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-16",
+    "image": "https://s.yimg.com/lo/mysterio/api/2d68568c770d8ed59388d806f22596863a650b51a581b6e86584927601017db5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F71da81acf184d2eb854bd2d8d0172c7b.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/harry-shum-jr-defends-decision-172836340.html",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9 Dethrones Michael Jackson At No. 1 - Forbes",
+    "artist": "Beyonce",
+    "source": "Forbes",
+    "time": "2026-09-16",
+    "image": "",
+    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/16/beyonc-dethrones-michael-jackson-at-no-1/",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s \u2018Cowboy Carter\u2019 Grammy Win Suddenly Looks Very Different - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-16",
+    "image": "https://s.yimg.com/lo/mysterio/api/ca11cd7aca9a14c5126508cecba19caf3cc63a898cd01d164ebf832a9f49d40c/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F0da835a4b23f4fa219a10ca019edfb75.png",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-cowboy-carter-grammy-win-163037663.html",
+    "category": "Beyonce News"
+  },
+  {
     "title": "The world and its desires pass away, but the man who does the will of God lives forever.",
     "artist": "1 John 2:17",
     "source": "OurManna",
@@ -27,15 +90,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Halle Berry reacts to inspiring Zendaya\u2019s Emmy 2026 red carpet look - Page Six",
-    "artist": "Zendaya",
-    "source": "Page Six",
-    "time": "2026-09-15",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141231414.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "spotify": "https://pagesix.com/2026/09/15/style/halle-berry-reacts-to-inspiring-zendayas-emmy-2026-red-carpet-look/",
-    "category": "Zendaya"
-  },
-  {
     "title": "Inside Zendaya\u2019s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut - The Hollywood Reporter",
     "artist": "Zendaya",
     "source": "The Hollywood Reporter",
@@ -54,6 +108,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "Where was Spider-Man: Brand New Day filmed? \u2013 with interactive map - The Worldwide Guide To Movie Locations",
+    "artist": "Spider-Man",
+    "source": "The Worldwide Guide To Movie Locations",
+    "time": "2026-09-15",
+    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
+    "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
+    "category": "Movies"
+  },
+  {
     "title": "Beyonc\u00e9\u2019s C\u00e9cred Is Entering Its Next Chapter - Vogue",
     "artist": "Beyonce",
     "source": "Vogue",
@@ -69,24 +132,6 @@
     "time": "2026-09-15",
     "image": "https://www.billboard.com/wp-content/uploads/2026/03/P104RV2C-e1774304530253.jpg?w=1024",
     "spotify": "https://www.billboard.com/lists/ella-langley-beyonce-adela-chart-highlights-sept-19-2026/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s 20-Year-Old Album Is Back At No. 1 - Currently.com",
-    "artist": "Beyonce",
-    "source": "Currently.com",
-    "time": "2026-09-15",
-    "image": "https://s.yimg.com/lo/mysterio/api/411b93fef683688ff9dbcc4e85031cccc13a7f7096c39ac16024a4bd79555605/lightyear_networkapi/resizefill_w958_h659%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F3356a7b87b6794c1cceffa7dcab6bfd0.jpg",
-    "spotify": "https://currently.att.yahoo.com/att/beyonc-20-old-album-back-121502637.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Jay-Z Explains Why He Thinks He and Beyonc\u00e9\u2019s 3 Kids Will Find His Docuseries \u2018Cringe\u2019 - People.com",
-    "artist": "Beyonce",
-    "source": "People.com",
-    "time": "2026-09-15",
-    "image": "",
-    "spotify": "https://people.com/jay-z-explains-why-he-thinks-his-kids-will-find-his-docuseries-cringe-12122159",
     "category": "Beyonce News"
   },
   {
@@ -108,22 +153,13 @@
     "category": "Zendaya"
   },
   {
-    "title": "Weekend Box Office: Practical Magic 2 Dethrones Spider-Man: Brand New Day - Rotten Tomatoes",
-    "artist": "Spider-Man",
-    "source": "Rotten Tomatoes",
+    "title": "Zendaya turns heads with pixie cut and plunging beaded gown on Emmys 2026 red carpet - Page Six",
+    "artist": "Zendaya",
+    "source": "Page Six",
     "time": "2026-09-14",
-    "image": "https://editorial.rottentomatoes.com/wp-content/uploads/2026/09/Practical_Magic_2-BO1-Rep.jpg?w=600",
-    "spotify": "https://editorial.rottentomatoes.com/article/weekend-box-office-practical-magic-week-1/",
-    "category": "Movies"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office - Polygon.com",
-    "artist": "Spider-Man",
-    "source": "Polygon.com",
-    "time": "2026-09-14",
-    "image": "",
-    "spotify": "https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/",
-    "category": "Movies"
+    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141131090.jpg?quality=75&#038;strip=all&#038;w=1200",
+    "spotify": "https://pagesix.com/2026/09/14/style/zendaya-turns-heads-in-pixie-cut-and-silver-beads-on-emmys-2026-red-carpet/",
+    "category": "Zendaya"
   },
   {
     "title": "Andrew Garfield Officially Needs 'Spider-Man' More Than Ever - MovieWeb",
@@ -142,42 +178,6 @@
     "image": "https://ca-times.brightspotcdn.com/dims4/default/327884f/2147483647/strip/true/crop/3815x2003+0+8/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F64%2F541a03574286ade0657aec93fa06%2F27th-costume-designers-guild-awards-21339.jpg",
     "spotify": "https://www.latimes.com/entertainment-arts/story/2026-09-14/bob-mackie-dead-iconic-designer-who-dressed-cher-beyonce-was-87",
     "category": "Beyonce News"
-  },
-  {
-    "title": "JAY-Z on Being Inspired by \u2018Fearless\u2019 Beyonc\u00e9 & Nerves for Blue Ivy (Exclusive) - extratv.com",
-    "artist": "Beyonce",
-    "source": "extratv.com",
-    "time": "2026-09-14",
-    "image": "https://extra-images.akamaized.net/image/ee/16by9/2015/09/11/ee588003250d561baa8e9de2e726b79a_xl.jpg",
-    "spotify": "https://extratv.com/2026/09/14/jay-z-on-being-inspired-by-fearless-beyonce-and-nerves-for-blue-ivy-exclusive/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Spider-Man: Brand New Day: Tom Holland Officially Beats Highest-Grossing Marvel Actor at the Box Office - IMDb",
-    "artist": "Spider-Man",
-    "source": "IMDb",
-    "time": "2026-09-13",
-    "image": "",
-    "spotify": "https://www.imdb.com/news/ni66014368/?ref_=ttnw_art_perm",
-    "category": "Movies"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Officially Crosses the Biggest Domestic Box Office Milestone Ever - Collider",
-    "artist": "Spider-Man",
-    "source": "Collider",
-    "time": "2026-09-13",
-    "image": "",
-    "spotify": "https://collider.com/spider-man-brand-new-day-overtakes-force-awakens-domestic-box-office-record/",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man 5 gets the development update we've all been waiting for - Bam Smack Pow",
-    "artist": "Spider-Man",
-    "source": "Bam Smack Pow",
-    "time": "2026-09-13",
-    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_356,y_41,w_900,h_506/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/308/01m2ccj648r76fak78e7.jpg",
-    "spotify": "https://bamsmackpow.com/spider-man-5-development-update-director-destin-daniel-cretton-waiting",
-    "category": "Movies"
   },
   {
     "title": "Westside Whimsy",
