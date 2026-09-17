@@ -1,21 +1,66 @@
 [
   {
-    "title": "Marvel has to stop treating mass surveillance like a superpower - The Daily Cardinal",
-    "artist": "Spider-Man",
-    "source": "The Daily Cardinal",
+    "title": "These 7 NYFW Looks Have Potential For Zendaya\u2019s 'Dune: Part Three' Wardrobe - The Zoe Report",
+    "artist": "Zendaya",
+    "source": "The Zoe Report",
     "time": "2026-09-17",
-    "image": "https://snworksceo.imgix.net/car/bb79416e-0b69-4bf3-ab5b-fad18b00d22d.sized-1000x1000.jpg?w=800&amp;h=600",
-    "spotify": "https://www.dailycardinal.com/article/2026/09/marvel-has-to-stop-treating-mass-surveillance-like-a-superpower",
+    "image": "https://imgix.bustle.com/uploads/image/2026/9/16/77251484/altuzarra-s27-look-44.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg",
+    "spotify": "https://www.thezoereport.com/fashion/zendaya-dune-part-three-nyfw-outfits",
+    "category": "Zendaya"
+  },
+  {
+    "title": "The One Thing Zendaya Always Does Before Leaving the House - Harper's BAZAAR",
+    "artist": "Zendaya",
+    "source": "Harper's BAZAAR",
+    "time": "2026-09-17",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/599a6ccb-15b3-4b13-8e23-9e71ab414878.jpg?crop=1xw:0.4xh;0xw,0.122xh&amp;resize=1200:*",
+    "spotify": "https://www.harpersbazaar.com/beauty/health/a73762062/zendaya-prada-perfume-interview-2026/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Halle Berry Gives Zendaya Major Love for Her Fashion Tribute - Yahoo",
+    "artist": "Zendaya",
+    "source": "Yahoo",
+    "time": "2026-09-17",
+    "image": "https://s.yimg.com/lo/mysterio/api/78295b1132d904def15c0976b2bb7102208688ff60ff4273f696a92c335457b6/lightyear_networkapi/resizefill_w800_h1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F41ff4930d149864d99e05022eb095712.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/videos/halle-berry-gives-zendaya-major-145058654.html",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Spider-Man takes the domestic box office crown - Deseret News",
+    "artist": "Spider-Man",
+    "source": "Deseret News",
+    "time": "2026-09-17",
+    "image": "https://www.deseret.com/resizer/v2/F5DSOTP3WVF33IXTE44RWOTSTU.jpg?focal=0%2C0&amp;auth=313ab9b18840a28e28fc56dbe481e8024c1925d4bd7fb16cf68a4ff40a0b5623&amp;width=630&amp;height=331",
+    "spotify": "https://www.deseret.com/entertainment/2026/09/17/spider-man-brand-new-day-now-highest-grossing-film-ever-in-us-domestically/",
     "category": "Movies"
   },
   {
-    "title": "BRAND NEW DAY Director Reportedly Returning for SPIDER-MAN 5 - Movieguide",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 becomes top-grossing film in domestic box office history - Washington Times",
     "artist": "Spider-Man",
-    "source": "Movieguide",
+    "source": "Washington Times",
     "time": "2026-09-17",
     "image": "",
-    "spotify": "https://www.movieguide.org/news-articles/brand-new-day-director-might-return-for-spider-man-5.html",
+    "spotify": "https://www.washingtontimes.com/news/2026/sep/17/spider-man-brand-new-day-becomes-top-grossing-film-domestic-box/",
     "category": "Movies"
+  },
+  {
+    "title": "\"Spider-Man\" becomes the highest-grossing film in U.S. history - AzerNews",
+    "artist": "Spider-Man",
+    "source": "AzerNews",
+    "time": "2026-09-17",
+    "image": "https://www.azernews.az/media/2026/09/17/image_-_2026-09-17t172132004.png",
+    "spotify": "https://www.azernews.az/region/264046.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Publishing Briefs: Rihanna & Beyonc\u00e9 Collaborator Fred Ball Signs With Reservoir - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-17",
+    "image": "https://s.yimg.com/lo/mysterio/api/ab9113efd49b7d9febc57096906b0c3762567725ada92fb797d37a39df2e7148/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F1612af813f4fba29adf13a489a59efe0.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/music/articles/publishing-briefs-rihanna-beyonc-collaborator-175136420.html",
+    "category": "Beyonce News"
   },
   {
     "title": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
@@ -34,6 +79,15 @@
     "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
     "spotify": "https://beyonce.com",
     "category": "Beyonce News"
+  },
+  {
+    "title": "Man I need",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-09-16",
+    "image": "https://i.ytimg.com/vi/ewvHmMiXD04/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=ewvHmMiXD04",
+    "category": "Music"
   },
   {
     "title": "Man I need",
@@ -67,17 +121,8 @@
     "artist": "Spider-Man",
     "source": "The Worldwide Guide To Movie Locations",
     "time": "2026-09-16",
-    "image": "",
+    "image": "http://www.movie-locations.com/movies/s/spider-man-brand-new-day-meta.jpg",
     "spotify": "https://movie-locations.com/movies/s/Spider-Man-Brand-New-Day.php",
-    "category": "Movies"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' has beaten 'Star Wars: Force Awakens' to become the top-grossing movie ever at the North American box office with $936.7 million. Read more below. - facebook.com",
-    "artist": "Spider-Man",
-    "source": "facebook.com",
-    "time": "2026-09-16",
-    "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.99422-6/812645512_2258271408241766_3206394416184849203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Cq4k0bN8s00Q7kNvwGTRo5k&amp;_nc_oc=Adoq0jRmYK7BrAHGiC9IqXPUs8xDVYujRNIPJjIIMgQX2ZiizCcQi6ajTIAqQzlY8YU&amp;_nc_zt=14&amp;_nc_ht=scontent-lhr11-1.xx&amp;_nc_gid=ubkuRO2q0ldc3KZKiSNa4Q&amp;_nc_ss=7e20f&amp;oh=00_AQLvMJSdO6GMPsGh-HYc28QA2D8JVmtYv8PADRicEnN7LA&amp;oe=6AB1B598",
-    "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-has-beaten-star-wars-force-awakens-to-become-the-top-gr/1437225528277783/",
     "category": "Movies"
   },
   {
@@ -90,21 +135,21 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Harry Shum Jr. defends role on \u201cDWTS\u201d \u2014 despite history as Beyonc\u00e9\u2019s backup dancer - Yahoo",
+    "title": "B\u2019DAY (20TH ANNIVERSARY DELUXE EDITION) - Plugged In",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "Plugged In",
     "time": "2026-09-16",
-    "image": "https://s.yimg.com/lo/mysterio/api/2d68568c770d8ed59388d806f22596863a650b51a581b6e86584927601017db5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F71da81acf184d2eb854bd2d8d0172c7b.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/harry-shum-jr-defends-decision-172836340.html",
+    "image": "https://www.pluggedin.com/wp-content/uploads/2026/09/movie-49.jpg",
+    "spotify": "https://www.pluggedin.com/album-reviews/beyonce-bday-20th-anniversary-deluxe-edition/",
     "category": "Beyonce News"
   },
   {
-    "title": "How Kamala Harris\u2019 campaign lied about Beyonce, Taylor Swift and Bad Bunny to attract and exploit crowds - New York Post",
+    "title": "Harry Shum Jr. defends spot on \u2018DWTS\u2019 cast despite past as Beyonc\u00e9\u2019s backup dancer - ew.com",
     "artist": "Beyonce",
-    "source": "New York Post",
+    "source": "ew.com",
     "time": "2026-09-16",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141368461.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "spotify": "https://nypost.com/2026/09/16/us-news/kamala-harris-campaign-lied-about-beyonce-and-taylor-swift/",
+    "image": "",
+    "spotify": "https://ew.com/harry-shum-jr-defends-spot-on-dwts-cast-despite-past-as-beyonce-backup-dancer-12124345",
     "category": "Beyonce News"
   },
   {
@@ -114,24 +159,6 @@
     "time": "2026-09-15",
     "image": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/p8hza4rdylqpl9bhucxp",
     "spotify": "https://www.complex.com/style/a/tracewilliamcowen/zendaya-red-carpet-press-style-2026",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Inside Zendaya\u2019s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut - The Hollywood Reporter",
-    "artist": "Zendaya",
-    "source": "The Hollywood Reporter",
-    "time": "2026-09-15",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Zendaya-and-Tom-Holland-2026-Emmy-Awards-H.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Tom Holland Snuck Into the Emmys to Support Zendaya - Harper's BAZAAR",
-    "artist": "Zendaya",
-    "source": "Harper's BAZAAR",
-    "time": "2026-09-15",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/e5821252-6df7-4cef-b251-82fe82cc858f.jpeg?crop=0.966xw:0.322xh;0xw,0.016xh&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73656557/zendaya-red-carpet-photos-emmys-2026/",
     "category": "Zendaya"
   },
   {
@@ -162,31 +189,13 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya Walks the Emmys 2026 Red Carpet in Euphoric Fashion - vanityfair.com",
+    "title": "Zendaya Walks the Emmys 2026 Red Carpet in Euphoric Fashion - Vanity Fair",
     "artist": "Zendaya",
-    "source": "vanityfair.com",
+    "source": "Vanity Fair",
     "time": "2026-09-14",
     "image": "https://media.vanityfair.com/photos/6aa886f1bd545b8e0bdbb6cb/16:9/w_1280,c_limit/VF%20Emmys%202026%20zendaya%20hero.jpg",
     "spotify": "https://www.vanityfair.com/story/zendaya-emmys-red-carpet-2026-09-14",
     "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya turns heads with pixie cut and plunging beaded gown on Emmys 2026 red carpet - Page Six",
-    "artist": "Zendaya",
-    "source": "Page Six",
-    "time": "2026-09-14",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141131090.jpg?quality=75&#038;strip=all&#038;w=1200",
-    "spotify": "https://pagesix.com/2026/09/14/style/zendaya-turns-heads-in-pixie-cut-and-silver-beads-on-emmys-2026-red-carpet/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Bob Mackie, iconic costume designer who dressed stars including Cher and Carol Burnett, dies at 87 - Los Angeles Times",
-    "artist": "Beyonce",
-    "source": "Los Angeles Times",
-    "time": "2026-09-14",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/327884f/2147483647/strip/true/crop/3815x2003+0+8/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F64%2F541a03574286ade0657aec93fa06%2F27th-costume-designers-guild-awards-21339.jpg",
-    "spotify": "https://www.latimes.com/entertainment-arts/story/2026-09-14/bob-mackie-dead-iconic-designer-who-dressed-cher-beyonce-was-87",
-    "category": "Beyonce News"
   },
   {
     "title": "Westside Whimsy",
