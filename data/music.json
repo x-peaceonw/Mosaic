@@ -1,11 +1,47 @@
 [
   {
-    "title": "stay  \ua564 \uff61\u02da \u2661 !",
-    "artist": "Ariana Grande",
+    "title": "BRAND NEW DAY Director Reportedly Returning for SPIDER-MAN 5 - Movieguide",
+    "artist": "Spider-Man",
+    "source": "Movieguide",
+    "time": "2026-09-17",
+    "image": "",
+    "spotify": "https://www.movieguide.org/news-articles/brand-new-day-director-might-return-for-spider-man-5.html",
+    "category": "Movies"
+  },
+  {
+    "title": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
+    "artist": "Matthew 5:6",
+    "source": "OurManna",
+    "time": "2026-09-17",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-17",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Man I need",
+    "artist": "Olivia Dean",
     "source": "YouTube",
     "time": "2026-09-16",
-    "image": "https://i.ytimg.com/vi/PucKRpKlFrA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=PucKRpKlFrA",
+    "image": "https://i.ytimg.com/vi/ewvHmMiXD04/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=ewvHmMiXD04",
+    "category": "Music"
+  },
+  {
+    "title": "Man I need",
+    "artist": "Olivia Dean",
+    "source": "YouTube",
+    "time": "2026-09-16",
+    "image": "https://i.ytimg.com/vi/ewvHmMiXD04/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=ewvHmMiXD04",
     "category": "Music"
   },
   {
@@ -18,9 +54,9 @@
     "category": "Movies"
   },
   {
-    "title": "Tom Holland Has to Do This Forever Now - vulture.com",
+    "title": "Tom Holland Has to Do This Forever Now - Vulture",
     "artist": "Spider-Man",
-    "source": "vulture.com",
+    "source": "Vulture",
     "time": "2026-09-16",
     "image": "https://pyxis.nymag.com/v1/imgs/745/982/1269eabe745361277ec10a4810db8b42c5-spiderman.1x.rsocial.w1200.jpg",
     "spotify": "https://www.vulture.com/article/tom-holland-has-to-do-this-forever-now.html",
@@ -40,53 +76,35 @@
     "artist": "Spider-Man",
     "source": "facebook.com",
     "time": "2026-09-16",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/812645512_2258271408241766_3206394416184849203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Cq4k0bN8s00Q7kNvwEuEiJj&amp;_nc_oc=AdqEGIJnb9ORzALaitS_-jRRb39U1w1TyU-jdsDcxZOUi0W3Yx9PGhaOECc56Lw9lys&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=J-eDf96RZomBzRrflo8ivA&amp;_nc_ss=7e20f&amp;oh=00_AQK_NQB8gyUHv0u_ANXg2ppmXveykWiknQn48ytSrYxTvA&amp;oe=6AB0D498",
+    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/812645512_2258271408241766_3206394416184849203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Cq4k0bN8s00Q7kNvwGkL0r9&amp;_nc_oc=AdqdQWwO-uqN-9_nxDNPKiYq7_PNtQzTBkTWjEKAkf0M_-eOJmCyyGMv0onexWPzyzM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=vUu1GBqBUIc96kM0s0CA5g&amp;_nc_ss=7e20f&amp;oh=00_AQIMNjrjHWxxO4MgfvTQIf2Kw81p6kI9dUEfVSLHRyGpKA&amp;oe=6AB14518",
     "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-has-beaten-star-wars-force-awakens-to-become-the-top-gr/1437225528277783/",
     "category": "Movies"
   },
   {
-    "title": "'Spider-Man 4\u2019 Swings Past \u2018Star Wars 7\u2019 At U.S. Box Office - The Outside Scoop | Scott Mendelson",
+    "title": "'Spider-Man: Brand New Day' Becomes Highest-Grossing Movie of All Time in U.S. & Canada - justjared.com",
     "artist": "Spider-Man",
-    "source": "The Outside Scoop | Scott Mendelson",
+    "source": "justjared.com",
     "time": "2026-09-16",
-    "image": "",
-    "spotify": "https://scottmendelson.substack.com/p/box-office-spider-man-brand-new-day-passes-star-wars-the-force-awakens",
+    "image": "https://www.justjared.com/wp-content/uploads/2026/08/spider-man-end-credits-update.jpg",
+    "spotify": "https://www.justjared.com/2026/09/16/spider-man-brand-new-day-becomes-highest-grossing-movie-of-all-time-in-u-s-canada/",
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day just thwipped past Star Wars to reach an all-time box office record - empireonline.com",
-    "artist": "Spider-Man",
-    "source": "empireonline.com",
-    "time": "2026-09-16",
-    "image": "https://images.bauerhosting.com/empire/2026/09/Brand-New-Day-No-1.jpg?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
-    "spotify": "https://www.empireonline.com/movies/news/spider-man-brand-new-day-is-officially-the-highest-grossing-movie-ever-at-the-us-box-office/",
-    "category": "Movies"
-  },
-  {
-    "title": "Harry Shum Jr. defends spot on \u2018DWTS\u2019 cast despite past as Beyonc\u00e9\u2019s backup dancer - Entertainment Weekly",
+    "title": "Beyonc\u00e9 Dethrones Michael Jackson At No. 1 - Forbes",
     "artist": "Beyonce",
-    "source": "Entertainment Weekly",
+    "source": "Forbes",
     "time": "2026-09-16",
     "image": "",
-    "spotify": "https://ew.com/harry-shum-jr-defends-spot-on-dwts-cast-despite-past-as-beyonce-backup-dancer-12124345",
+    "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/16/beyonc-dethrones-michael-jackson-at-no-1/",
     "category": "Beyonce News"
   },
   {
-    "title": "The world and its desires pass away, but the man who does the will of God lives forever.",
-    "artist": "1 John 2:17",
-    "source": "OurManna",
-    "time": "2026-09-16",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
+    "title": "Harry Shum Jr. defends role on \u201cDWTS\u201d \u2014 despite history as Beyonc\u00e9\u2019s backup dancer - Yahoo",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "Yahoo",
     "time": "2026-09-16",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "https://s.yimg.com/lo/mysterio/api/2d68568c770d8ed59388d806f22596863a650b51a581b6e86584927601017db5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F71da81acf184d2eb854bd2d8d0172c7b.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/harry-shum-jr-defends-decision-172836340.html",
     "category": "Beyonce News"
   },
   {
@@ -99,6 +117,15 @@
     "category": "Zendaya"
   },
   {
+    "title": "Inside Zendaya\u2019s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut - The Hollywood Reporter",
+    "artist": "Zendaya",
+    "source": "The Hollywood Reporter",
+    "time": "2026-09-15",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Zendaya-and-Tom-Holland-2026-Emmy-Awards-H.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/",
+    "category": "Zendaya"
+  },
+  {
     "title": "Tom Holland Snuck Into the Emmys to Support Zendaya - Harper's BAZAAR",
     "artist": "Zendaya",
     "source": "Harper's BAZAAR",
@@ -106,15 +133,6 @@
     "image": "https://hips.hearstapps.com/hmg-prod/images/e5821252-6df7-4cef-b251-82fe82cc858f.jpeg?crop=0.966xw:0.322xh;0xw,0.016xh&amp;resize=1200:*",
     "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73656557/zendaya-red-carpet-photos-emmys-2026/",
     "category": "Zendaya"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s C\u00e9cred Is Entering Its Next Chapter - Vogue",
-    "artist": "Beyonce",
-    "source": "Vogue",
-    "time": "2026-09-15",
-    "image": "https://assets.vogue.com/photos/6aa7e9fcc0995109725c5c76/16:9/w_1280,c_limit/-social-link.jpg",
-    "spotify": "https://www.vogue.com/article/beyonces-cecred-is-entering-its-next-chapter",
-    "category": "Beyonce News"
   },
   {
     "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - Billboard",
@@ -126,21 +144,21 @@
     "category": "Beyonce News"
   },
   {
+    "title": "Beyonc\u00e9\u2019s C\u00e9cred Is Entering Its Next Chapter - Vogue",
+    "artist": "Beyonce",
+    "source": "Vogue",
+    "time": "2026-09-15",
+    "image": "https://assets.vogue.com/photos/6aa7e9fcc0995109725c5c76/16:9/w_1280,c_limit/-social-link.jpg",
+    "spotify": "https://www.vogue.com/article/beyonces-cecred-is-entering-its-next-chapter",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Jay-Z Explains Why Beyonc\u00e9 Is More \u2018Fearless\u2019 Than He Is & Says He Still Gets \u2018Nervous\u2019 for Blue Ivy - Billboard",
     "artist": "Beyonce",
     "source": "Billboard",
     "time": "2026-09-15",
     "image": "https://www.billboard.com/wp-content/uploads/2026/09/P10TLZT-e1789488202412.jpg?w=1024",
     "spotify": "https://www.billboard.com/music/music-news/jay-z-beyonce-fearless-feeling-nervous-blue-ivy-1236340561/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9\u2019s 20-Year-Old Album Is Back At No. 1 - Currently.com",
-    "artist": "Beyonce",
-    "source": "Currently.com",
-    "time": "2026-09-15",
-    "image": "https://s.yimg.com/lo/mysterio/api/411b93fef683688ff9dbcc4e85031cccc13a7f7096c39ac16024a4bd79555605/lightyear_networkapi/resizefill_w958_h659%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F3356a7b87b6794c1cceffa7dcab6bfd0.jpg",
-    "spotify": "https://currently.att.yahoo.com/att/beyonc-20-old-album-back-121502637.html",
     "category": "Beyonce News"
   },
   {
@@ -168,15 +186,6 @@
     "time": "2026-09-14",
     "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/141131090.jpg?quality=75&#038;strip=all&#038;w=1200",
     "spotify": "https://pagesix.com/2026/09/14/style/zendaya-turns-heads-in-pixie-cut-and-silver-beads-on-emmys-2026-red-carpet/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya Is Breathtaking at Emmys 2026 in Plunging Naked Dress Dripping With Crystals - instyle.com",
-    "artist": "Zendaya",
-    "source": "instyle.com",
-    "time": "2026-09-14",
-    "image": "",
-    "spotify": "https://www.instyle.com/zendaya-emmys-2026-plunging-naked-dress-crystals-12070348",
     "category": "Zendaya"
   },
   {
@@ -288,15 +297,6 @@
     "category": "Music"
   },
   {
-    "title": "petal the complete live album \uff61\u02da \ua564  featuring all twelve tracks, available now on itunes",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-09-08",
-    "image": "https://i.ytimg.com/vi/AJudncOS5Zc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=AJudncOS5Zc",
-    "category": "Music"
-  },
-  {
     "title": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
     "artist": "Beyonce",
     "source": "Spotify",
@@ -312,42 +312,6 @@
     "time": "2026-09-03",
     "image": "https://i.ytimg.com/vi/3P6IiSRgLhI/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=3P6IiSRgLhI",
-    "category": "Music"
-  },
-  {
-    "title": "What Do You Fuckin&#39;Want",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/M6cTWBN8CPI/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=M6cTWBN8CPI",
-    "category": "Music"
-  },
-  {
-    "title": "The Way I Am",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/S-yUrlsxL2U/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=S-yUrlsxL2U",
-    "category": "Music"
-  },
-  {
-    "title": "Quiero Bailar (Radio Mix)",
-    "artist": "Solange",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/HBK-gZT7HYM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HBK-gZT7HYM",
-    "category": "Music"
-  },
-  {
-    "title": "petal (official behind the scenes pt. 2)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-08-18",
-    "image": "https://i.ytimg.com/vi/XhLxPJiBLrs/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=XhLxPJiBLrs",
     "category": "Music"
   }
 ]
