@@ -1,5 +1,50 @@
 [
   {
+    "title": "Every Normcore Man Needs an Alt Baddie - vogue.com",
+    "artist": "Zendaya",
+    "source": "vogue.com",
+    "time": "2026-09-18",
+    "image": "https://assets.vogue.com/photos/6aad810407aa1fa4e8cd55ae/16:9/w_1280,c_limit/BGUS_3688433_005.jpg",
+    "spotify": "https://www.vogue.com/article/zendaya-tom-holland-alt-normcore-2026-09-18",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya and FKA Twigs Agree: This Is the Coolest Boot Trend of Fall 2026 - whowhatwear.com",
+    "artist": "Zendaya",
+    "source": "whowhatwear.com",
+    "time": "2026-09-18",
+    "image": "https://cdn.mos.cms.futurecdn.net/3QnL55PvHzQQVQSXTWBGUW-1900-80.jpg",
+    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-favorite-fall-boot-trend",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Oozes '90s Nostalgia in Silver Jewelry, a Shoulder Bag, and 27-Year-Old Prada Boots - Marie Claire",
+    "artist": "Zendaya",
+    "source": "Marie Claire",
+    "time": "2026-09-18",
+    "image": "https://cdn.mos.cms.futurecdn.net/Ew4SUDWGQFs8vvFQniXDFo-1920-80.png",
+    "spotify": "https://www.marieclaire.com/fashion/celebrity-style/zendaya-tank-top-vintage-prada-boots-fall-2026/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot - slashfilm.com",
+    "artist": "Spider-Man",
+    "source": "slashfilm.com",
+    "time": "2026-09-18",
+    "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-visual-effect-almost-impossible-spot/l-intro-1789678719.jpg",
+    "spotify": "https://www.slashfilm.com/2261827/spider-man-brand-new-day-visual-effect-almost-impossible-spot/",
+    "category": "Movies"
+  },
+  {
+    "title": "From \u2018The Odyssey\u2019 to \u2018Spider-Man,\u2019 a Summer for Everyone - The Bulwark",
+    "artist": "Spider-Man",
+    "source": "The Bulwark",
+    "time": "2026-09-18",
+    "image": "https://substackcdn.com/image/fetch/$s_!OZj_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0a4a0ec-a9dd-4c7d-92e7-a38bbb97dcfd_1200x675.jpeg",
+    "spotify": "https://www.thebulwark.com/p/from-the-odyssey-to-spider-man-summer-movies",
+    "category": "Movies"
+  },
+  {
     "title": "Adann Alexxandar Movie Reviews: \u201cSpider-Man: A Brand New Day\u201d - Valdosta Daily Times",
     "artist": "Spider-Man",
     "source": "Valdosta Daily Times",
@@ -9,12 +54,30 @@
     "category": "Movies"
   },
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY Breaks 11-Year Box Office Record - Movieguide",
+    "artist": "Spider-Man",
+    "source": "Movieguide",
+    "time": "2026-09-18",
+    "image": "",
+    "spotify": "https://www.movieguide.org/news-articles/spider-man-brand-new-day-breaks-this-box-office-record.html",
+    "category": "Movies"
+  },
+  {
     "title": "Houston TV host brings rare Beyonc\u00e9 throwback to Jimmy Fallon - Chron",
     "artist": "Beyonce",
     "source": "Chron",
     "time": "2026-09-18",
     "image": "",
     "spotify": "https://www.chron.com/news/houston-texas/article/jimmy-fallon-beyonce-yearbook-houston-22438161.php",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonce and Jay-Z's eye-watering net worth as revealing HBO docuseries premieres - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
+    "time": "2026-09-18",
+    "image": "https://s.yimg.com/lo/mysterio/api/5ec645fb6d6564aceb0b49413541fbe2c1fab2e8a2d4cc6f468555008edfb6bb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fcf204243ecde5e952f52041744e91f21.jpg",
+    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/beyonce-jay-zs-eye-watering-193320668.html",
     "category": "Beyonce News"
   },
   {
@@ -45,9 +108,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Beyonc\u00e9 Surges To No. 1 With Another Smash - Forbes",
+    "title": "Beyonc\u00e9 Surges To No. 1 With Another Smash - forbes.com",
     "artist": "Beyonce",
-    "source": "Forbes",
+    "source": "forbes.com",
     "time": "2026-09-17",
     "image": "",
     "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/17/beyonc-surges-to-no-1-with-another-smash/",
@@ -63,30 +126,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "stay  \ua564 \uff61\u02da \u2661 !",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-09-16",
-    "image": "https://i.ytimg.com/vi/PucKRpKlFrA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=PucKRpKlFrA",
-    "category": "Music"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Hits No. 1 on All-Time Domestic Chart, Topping \u2018Force Awakens\u2019 - The Hollywood Reporter",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Overtakes \u2018Star Wars: Force Awakens\u2019 as Highest-Grossing Movie of All Time at Domestic Box Office - Variety",
     "artist": "Spider-Man",
-    "source": "The Hollywood Reporter",
+    "source": "Variety",
     "time": "2026-09-16",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/MCDSPMA_SP145.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/",
-    "category": "Movies"
-  },
-  {
-    "title": "Tom Holland Has to Do This Forever Now - Vulture",
-    "artist": "Spider-Man",
-    "source": "Vulture",
-    "time": "2026-09-16",
-    "image": "https://pyxis.nymag.com/v1/imgs/745/982/1269eabe745361277ec10a4810db8b42c5-spiderman.1x.rsocial.w1200.jpg",
-    "spotify": "https://www.vulture.com/article/tom-holland-has-to-do-this-forever-now.html",
+    "image": "https://variety.com/wp-content/uploads/2026/08/MCDSPMA_CO021_6c0074.jpg?w=1000&#038;h=562&#038;crop=1",
+    "spotify": "https://variety.com/2026/film/box-office/spider-man-beats-star-wars-biggest-movie-domestic-box-office-1236836593/",
     "category": "Movies"
   },
   {
@@ -99,48 +144,12 @@
     "category": "Movies"
   },
   {
-    "title": "'Spider-Man: Brand New Day' has beaten 'Star Wars: Force Awakens' to become the top-grossing movie ever at the North American box office with $936.7 million. Read more below. - facebook.com",
-    "artist": "Spider-Man",
-    "source": "facebook.com",
-    "time": "2026-09-16",
-    "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/812645512_2258271408241766_3206394416184849203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1024x576&amp;ctp=s1024x576&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=59Hu6Bj4qrUQ7kNvwHDUUXW&amp;_nc_oc=AdotG3ex1CsNh4JIXiy9v77V2bHj2my7jDgQQIVfB9zBB25fRAdiGRwZ0R67fR7mqB0&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=9UqchoMWSc3_y7KcIYYT8A&amp;_nc_ss=7e20f&amp;oh=00_AQIJTRRoLhV6XUgcTX49D8ij1x4rUHsmzZmr-840hafmPg&amp;oe=6AB37798",
-    "spotify": "https://www.facebook.com/deadline/posts/spider-man-brand-new-day-has-beaten-star-wars-force-awakens-to-become-the-top-gr/1437225528277783/",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man: Brand New Day Beats Star Wars: The Force Awakens As Biggest Domestic Movie Ever - Cosmic Book News",
-    "artist": "Spider-Man",
-    "source": "Cosmic Book News",
-    "time": "2026-09-16",
-    "image": "https://cosmicbook.news/wp-content/uploads/2026/09/spider-man-brand-new-day-box-office-beats-star-wars-the-force-awakens.webp",
-    "spotify": "https://cosmicbook.news/spider-man-brand-new-day-beats-force-awakens",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 Dethrones Michael Jackson At No. 1 - Yahoo",
+    "title": "Harry Shum Jr. defends spot on \u2018DWTS\u2019 cast despite past as Beyonc\u00e9\u2019s backup dancer - Entertainment Weekly",
     "artist": "Beyonce",
-    "source": "Yahoo",
+    "source": "Entertainment Weekly",
     "time": "2026-09-16",
-    "image": "https://s.yimg.com/lo/mysterio/api/979f2e5e006a536a4c20253f1a838d8d1459d71c006ff9994b64cd1ae00ed044/lightyear_networkapi/resizefill_w959_h719%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F7946dd3436d83c0b31044369b720a67c.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/music/articles/beyonc-dethrones-michael-jackson-no-150029726.html",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "B\u2019DAY (20TH ANNIVERSARY DELUXE EDITION) - Plugged In",
-    "artist": "Beyonce",
-    "source": "Plugged In",
-    "time": "2026-09-16",
-    "image": "https://www.pluggedin.com/wp-content/uploads/2026/09/movie-49.jpg",
-    "spotify": "https://www.pluggedin.com/album-reviews/beyonce-bday-20th-anniversary-deluxe-edition/",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Harry Shum Jr. defends role on \u201cDWTS\u201d \u2014 despite history as Beyonc\u00e9\u2019s backup dancer - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-09-16",
-    "image": "https://s.yimg.com/lo/mysterio/api/2d68568c770d8ed59388d806f22596863a650b51a581b6e86584927601017db5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F71da81acf184d2eb854bd2d8d0172c7b.jpg",
-    "spotify": "https://www.yahoo.com/entertainment/celebrity/articles/harry-shum-jr-defends-decision-172836340.html",
+    "image": "",
+    "spotify": "https://ew.com/harry-shum-jr-defends-spot-on-dwts-cast-despite-past-as-beyonce-backup-dancer-12124345",
     "category": "Beyonce News"
   },
   {
@@ -153,31 +162,13 @@
     "category": "Zendaya"
   },
   {
-    "title": "Inside Zendaya\u2019s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut - The Hollywood Reporter",
-    "artist": "Zendaya",
-    "source": "The Hollywood Reporter",
+    "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - Billboard",
+    "artist": "Beyonce",
+    "source": "Billboard",
     "time": "2026-09-15",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Zendaya-and-Tom-Holland-2026-Emmy-Awards-H.jpg?w=1296&#038;h=730&#038;crop=1",
-    "spotify": "https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Tom Holland Snuck Into the Emmys to Support Zendaya - Harper's BAZAAR",
-    "artist": "Zendaya",
-    "source": "Harper's BAZAAR",
-    "time": "2026-09-15",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/e5821252-6df7-4cef-b251-82fe82cc858f.jpeg?crop=0.966xw:0.322xh;0xw,0.016xh&amp;resize=1200:*",
-    "spotify": "https://www.harpersbazaar.com/celebrity/latest/a73656557/zendaya-red-carpet-photos-emmys-2026/",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Inside Zendaya\u2019s \u201cSexy and Sophisticated\u201d Glam for the 2026 Emmys - Vogue",
-    "artist": "Zendaya",
-    "source": "Vogue",
-    "time": "2026-09-14",
-    "image": "https://assets.vogue.com/photos/6aa881a0e45c3ba8a977bd56/16:9/w_1280,c_limit/2295300612",
-    "spotify": "https://www.vogue.com/article/zendaya-2026-emmys-14-09-2026",
-    "category": "Zendaya"
+    "image": "https://www.billboard.com/wp-content/uploads/2026/06/P10XA4G-e1782771938306.jpg?w=1024",
+    "spotify": "https://www.billboard.com/music/chart-beat/beyonce-bday-number-1-rb-albums-chart-anniversary-deluxe-1236340981/",
+    "category": "Beyonce News"
   },
   {
     "title": "Zendaya Walks the Emmys 2026 Red Carpet in Euphoric Fashion - Vanity Fair",
@@ -187,6 +178,15 @@
     "image": "https://media.vanityfair.com/photos/6aa886f1bd545b8e0bdbb6cb/16:9/w_1280,c_limit/VF%20Emmys%202026%20zendaya%20hero.jpg",
     "spotify": "https://www.vanityfair.com/story/zendaya-emmys-red-carpet-2026-09-14",
     "category": "Zendaya"
+  },
+  {
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
+    "artist": "Volleyball",
+    "source": "Britannica",
+    "time": "2026-09-14",
+    "image": "",
+    "spotify": "https://www.britannica.com/topic/Japanese-Womens-Volleyball-Team-The-Hardest-Part-The-1117772",
+    "category": "Sports"
   },
   {
     "title": "Westside Whimsy",
