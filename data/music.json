@@ -1,20 +1,29 @@
 [
   {
-    "title": "Every Normcore Man Needs an Alt Baddie - vogue.com",
+    "title": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+    "artist": "Psalm 34:18",
+    "source": "OurManna",
+    "time": "2026-09-19",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-19",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Every Normcore Man Needs an Alt Baddie - Vogue",
     "artist": "Zendaya",
-    "source": "vogue.com",
+    "source": "Vogue",
     "time": "2026-09-18",
     "image": "https://assets.vogue.com/photos/6aad810407aa1fa4e8cd55ae/16:9/w_1280,c_limit/BGUS_3688433_005.jpg",
     "spotify": "https://www.vogue.com/article/zendaya-tom-holland-alt-normcore-2026-09-18",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Zendaya and FKA Twigs Agree: This Is the Coolest Boot Trend of Fall 2026 - whowhatwear.com",
-    "artist": "Zendaya",
-    "source": "whowhatwear.com",
-    "time": "2026-09-18",
-    "image": "https://cdn.mos.cms.futurecdn.net/3QnL55PvHzQQVQSXTWBGUW-1900-80.jpg",
-    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-favorite-fall-boot-trend",
     "category": "Zendaya"
   },
   {
@@ -27,9 +36,18 @@
     "category": "Zendaya"
   },
   {
-    "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot - slashfilm.com",
+    "title": "Zendaya and FKA Twigs Agree: This Is the Coolest Boot Trend of Fall 2026 - Who What Wear",
+    "artist": "Zendaya",
+    "source": "Who What Wear",
+    "time": "2026-09-18",
+    "image": "https://cdn.mos.cms.futurecdn.net/3QnL55PvHzQQVQSXTWBGUW-1900-80.jpg",
+    "spotify": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-favorite-fall-boot-trend",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot - SlashFilm",
     "artist": "Spider-Man",
-    "source": "slashfilm.com",
+    "source": "SlashFilm",
     "time": "2026-09-18",
     "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-visual-effect-almost-impossible-spot/l-intro-1789678719.jpg",
     "spotify": "https://www.slashfilm.com/2261827/spider-man-brand-new-day-visual-effect-almost-impossible-spot/",
@@ -63,15 +81,6 @@
     "category": "Movies"
   },
   {
-    "title": "Houston TV host brings rare Beyonc\u00e9 throwback to Jimmy Fallon - Chron",
-    "artist": "Beyonce",
-    "source": "Chron",
-    "time": "2026-09-18",
-    "image": "",
-    "spotify": "https://www.chron.com/news/houston-texas/article/jimmy-fallon-beyonce-yearbook-houston-22438161.php",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Beyonce and Jay-Z's eye-watering net worth as revealing HBO docuseries premieres - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
@@ -81,36 +90,18 @@
     "category": "Beyonce News"
   },
   {
-    "title": "For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope.",
-    "artist": "Romans 15:4",
-    "source": "OurManna",
+    "title": "Houston TV host brings rare Beyonc\u00e9 throwback to Jimmy Fallon - Chron",
+    "artist": "Beyonce",
+    "source": "Chron",
     "time": "2026-09-18",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-09-18",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "spotify": "https://www.chron.com/news/houston-texas/article/jimmy-fallon-beyonce-yearbook-houston-22438161.php",
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya Should Wear These NYFW Spring 2027 Looks For Her Dune: Part Three Press Tour - The Zoe Report",
-    "artist": "Zendaya",
-    "source": "The Zoe Report",
-    "time": "2026-09-17",
-    "image": "https://imgix.bustle.com/uploads/image/2026/9/16/77251484/altuzarra-s27-look-44.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg",
-    "spotify": "https://www.thezoereport.com/fashion/zendaya-dune-part-three-nyfw-outfits",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Beyonc\u00e9 Surges To No. 1 With Another Smash - forbes.com",
+    "title": "Beyonc\u00e9 Surges To No. 1 With Another Smash - Forbes",
     "artist": "Beyonce",
-    "source": "forbes.com",
+    "source": "Forbes",
     "time": "2026-09-17",
     "image": "",
     "spotify": "https://www.forbes.com/sites/hughmcintyre/2026/09/17/beyonc-surges-to-no-1-with-another-smash/",
@@ -124,6 +115,15 @@
     "image": "https://static.toiimg.com/thumb/msid-134311569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "spotify": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2020-beyonc-revealed-having-over-80000-bees-at-home-and-hives-on-her-roof-heres-how-the-american-singer-got-into-the-hobby-of-beekeeping-and-harvesting-honey/articleshow/134311079.cms",
     "category": "Beyonce News"
+  },
+  {
+    "title": "stay  \ua564 \uff61\u02da \u2661 !",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-09-16",
+    "image": "https://i.ytimg.com/vi/PucKRpKlFrA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=PucKRpKlFrA",
+    "category": "Music"
   },
   {
     "title": "\u2018Spider-Man: Brand New Day\u2019 Overtakes \u2018Star Wars: Force Awakens\u2019 as Highest-Grossing Movie of All Time at Domestic Box Office - Variety",
@@ -153,18 +153,27 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Zendaya's Most Unforgettable 2026 Red Carpet Looks, From 'The Drama' to 'Spider-Man: Brand New Day' - Complex",
+    "title": "Zendaya's Most Unforgettable 2026 Red Carpet Looks, From 'The Drama' to 'Spider-Man: Brand New Day' - complex.com",
     "artist": "Zendaya",
-    "source": "Complex",
+    "source": "complex.com",
     "time": "2026-09-15",
     "image": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/p8hza4rdylqpl9bhucxp",
     "spotify": "https://www.complex.com/style/a/tracewilliamcowen/zendaya-red-carpet-press-style-2026",
     "category": "Zendaya"
   },
   {
-    "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - Billboard",
+    "title": "Inside Zendaya\u2019s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut - The Hollywood Reporter",
+    "artist": "Zendaya",
+    "source": "The Hollywood Reporter",
+    "time": "2026-09-15",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Zendaya-and-Tom-Holland-2026-Emmy-Awards-H.jpg?w=1296&#038;h=730&#038;crop=1",
+    "spotify": "https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Beyonc\u00e9\u2019s \u2018B\u2019Day\u2019 Debuts at No. 1 on Top R&B Albums Chart - billboard.com",
     "artist": "Beyonce",
-    "source": "Billboard",
+    "source": "billboard.com",
     "time": "2026-09-15",
     "image": "https://www.billboard.com/wp-content/uploads/2026/06/P10XA4G-e1782771938306.jpg?w=1024",
     "spotify": "https://www.billboard.com/music/chart-beat/beyonce-bday-number-1-rb-albums-chart-anniversary-deluxe-1236340981/",
