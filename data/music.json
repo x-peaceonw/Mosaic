@@ -1,11 +1,38 @@
 [
   {
+    "title": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+    "artist": "Isaiah 41:10",
+    "source": "OurManna",
+    "time": "2026-09-22",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-09-22",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Zendaya Rules All, Once Again, in the Emmys Red Carpet Power Rankings - The Hollywood Reporter",
     "artist": "Zendaya",
     "source": "The Hollywood Reporter",
     "time": "2026-09-21",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
     "spotify": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUxLdVU1dTlncXNFWFZobUl1MjliU3ZQVTVuV0N3akdiSXdfS19KMFV0LUNrQmdUel83LTB0UUdiNDNSc0tlYnl6dUcta0dRbzlwM0hVVElCeTVTcU82TG1zZGhwa2JNQTAwVmVuaEx5T1JwRVVQVXczTnZnM2JDM0NMaGlVTWF2QTI4c0FEWHlvb3NWb0tDSXZXYlVDMl9IVUxxMkVQeldlZw?oc=5",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Even Zendaya Couldn\u2019t Stop Emmys Fashion From Fizzling - TheWrap",
+    "artist": "Zendaya",
+    "source": "TheWrap",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEFEUWcteEt4b3lDa3IyOHpqUUpQVE9VY1NvT1Nyem1JeTBtXzh3V1ZfbG01TlBHQTFTRkd6QmcxSlBwNS1VVjZJSVBEbTg5Z28weFBqQ2I0NGhlVDlva0dWbHZlNkV1S29HMWdxdHVSNVFNcERaWWs3ZnZZUVByRHhTd2RwOUU?oc=5",
     "category": "Zendaya"
   },
   {
@@ -18,16 +45,7 @@
     "category": "Zendaya"
   },
   {
-    "title": "Zendaya, Nicole Kidman, and More Celebs Are Making This Timeless Nail Color Feel Fresh for Fall - cosmopolitan.com",
-    "artist": "Zendaya",
-    "source": "cosmopolitan.com",
-    "time": "2026-09-21",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlg4VzkxUTRPaE5BUFh0UEFmWEN4T0tCUFNlaUN3OGJtbGtkalY5YVVkS09sNG9jWTZQbml1WFY5UW1KekRPSGRVVkdrZXFRTEJTRW9FODA4VGZTSTJBc0NvZ0h6U1g1b3JGZ0gwazJyQmd1NUlqSVhnTDh1MXBfUVNuRHhwZw?oc=5",
-    "category": "Zendaya"
-  },
-  {
-    "title": "\u2018Spider-Man: Brand New Day\u2019 Sets A Box Office Record, But Not An Attendance Record - Forbes",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Sets A Box Office Record\u2014But Not An Attendance Record - Forbes",
     "artist": "Spider-Man",
     "source": "Forbes",
     "time": "2026-09-21",
@@ -36,30 +54,12 @@
     "category": "Movies"
   },
   {
-    "title": "Spider-Man: Brand New Day Story Changed Repeatedly as Sony Launched Those Terrible Villain Spin-Off Films - ign.com",
+    "title": "Spider-Man: Brand New Day Story Changed Repeatedly as Sony Launched Those Terrible Villain Spin-Off Films - IGN",
     "artist": "Spider-Man",
-    "source": "ign.com",
+    "source": "IGN",
     "time": "2026-09-21",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
     "spotify": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNHlINExRTVo4NF9Ocm9GVXg4YnBFanBJSTRZVWxXc0JiMmhtQmJIZHpvUFVNdnREWF9pTGZCUXgtRDRKdTNfeks1MVJqWHVDZzBYMFMxcExoOUZPYk1ISGptSmpHbHZhLXpkSVlxYW9MeEh6WUlsemVENExINFF5M1FWU1BQTkwzWFJCYm4tOWpoeGtIQm02N1pRdllPc3JDb00xV2RHTlpudjctMEYzcko5OHBGRFBCakE5cnpDYUc5MTNxMnFmOU5CWUY?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "I've Wondered How 'Frustrating' Landing Spider-Man Villains Can Be Between Sony And Marvel. It Sounds Brutal - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-09-21",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRXRfaExyalJLcVZ0VHhvVm5XcjhfdkFJWlpGY29tWGd4d2dyNVpOZG94NzFtU3VmV3dRQlhLTGZ5VGpVWEpRVmRjcnFyNWhZX0xEaC1idlM5eU9yNFdIRXpTNlJKWExWR25XY0pvQjF4SDdKNXJlQ3V4ZlJIT1NWMTljMXFYQTJFQmVJVmdKUFEyVHhvLVc2QWduUjZQRk16ZE94a2ktajhrQQ?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Marvel Announces New MCU Spider-Man Sequel Series Ahead Of Peter Parker's Return - ScreenRant",
-    "artist": "Spider-Man",
-    "source": "ScreenRant",
-    "time": "2026-09-21",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43NE8tNmM2ZnlZQmQyb053ODlvMlJVQUFPd2xIdDVyNVR3RGtveFR4QnlJWmlmQ3BBT01GYUFpaGp0X0NnRThNdUs3MHAzSURUQm5EdzlWWE1fX0h3ZzN4WFVtc1VYbUVPb29QOGdWWlR6WEZZTWxsejFjVQ?oc=5",
     "category": "Movies"
   },
   {
@@ -72,49 +72,67 @@
     "category": "Movies"
   },
   {
-    "title": "Beyonc\u00e9 Skips the Red Carpet But Not the Glamour in Elie Saab - Yahoo",
+    "title": "Marvel Announces New MCU Spider-Man Sequel Series Ahead Of Peter Parker's Return - ScreenRant",
+    "artist": "Spider-Man",
+    "source": "ScreenRant",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43NE8tNmM2ZnlZQmQyb053ODlvMlJVQUFPd2xIdDVyNVR3RGtveFR4QnlJWmlmQ3BBT01GYUFpaGp0X0NnRThNdUs3MHAzSURUQm5EdzlWWE1fX0h3ZzN4WFVtc1VYbUVPb29QOGdWWlR6WEZZTWxsejFjVQ?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "I've Wondered How 'Frustrating' Landing Spider-Man Villains Can Be Between Sony And Marvel. It Sounds Brutal - Cinemablend",
+    "artist": "Spider-Man",
+    "source": "Cinemablend",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnJ2UDYyejd3S1hONDdYb0QxVXAyLWt4MVJRRko1c19fZnJTZkdpQkdtTU1XNVFteUFjNVdqSjYzMTQ4b1p6UDJCY2JVeWl2bUl5N1d2RmJaWThncjllT3pvdmJFTmx6OUJ6TTF1anJ6X29KLXJ2WjZvLTc5amtZZlQ5bnUyVFZsNUdWVk1WVHFTbDRlbGJ4M1JPYml5YWpoWmZfOGJvNDM?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man co-writer reveals early ideas for Brand New Day and No Way Home included \"Home Alone with Kraven\" and a courtroom comedy with Matt Murdock - GamesRadar+",
+    "artist": "Spider-Man",
+    "source": "GamesRadar+",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaWk3YzRzdnBLOWd4QWpvTzBYbWtiWXZ3UHlRMGNnOV9xR3RMYWVpamlxZDFnU0d2cXJXX2NNMEJIMVlQNENrYkVFNWdVU253VkQzSTNzTTlOc0NVN0RwZkNoTE9idHQxR0ljNXd2bnJfSWh0M0tDbGRJR2ZoZVd5MVJ3aGtES3BNQ1RzbF80N1VKN1JwNUJNSTFxR2JLaEpBck1uQkFwSTdxQlpDZ1poQm1KRG9LZUxwTzBJZHpNb1Z1VFR1V1l3d0xrTzhQSHl3UlVvS1dydnF1Vkw3Ym1jSng5ZzRXbzZBQ1pJbEVZTXp5VU9NdU9ac0s4UlpVa0c3aFl3V1RIWjA0X2pmQnFhMFV0VUJtODY4SWZYNTNUZ0dJbW8xcFFkVEJEbw?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9 in Elie Saab Couture at the Jay-Z in 8 Premiere - Red Carpet Fashion Awards",
+    "artist": "Beyonce",
+    "source": "Red Carpet Fashion Awards",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDRnTE5FUHFMUjR4U3R4alRkVXd6MllBOGI0N0swYi01QVNxNVp2QXMydVp3cnVEam0td2NYY092NmJnNlNQTFFKS21mS0dVSWZfUHRHWkFFQWctS0duZkJNVjJ2QXZ5bTc3eEpQazdpaW5wR3NzVENBZVJLa2pVR195V2xvdC1oU3NrUkJhTDN6emdSUHBtRU1wQ1ZFd0FET0pJVjN2QXFMQ3VYYkFuNktxOA?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "She '8' That! Beyonc\u00e9 Steps Out To Support Jay-Z At Film Premiere, Ditches The Red Carpet But Stuns Nonetheless - bossip.com",
+    "artist": "Beyonce",
+    "source": "bossip.com",
+    "time": "2026-09-21",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EWWV2RlVvZmZSWGxwQ3JmcTRGTU9kOUhFVG0tdVB6UFlqbjJZWEppak9xYkh0cXh4NGJldnhTYkpBZmlwYzFQYXBpenptekw4c25zWHpPOE9LbksxN1JkeHF1Z1NjX0RhUEw1WA?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Beyonc\u00e9's 'blunt' kids give grandmother Tina Knowles a lesson in life - Yahoo",
     "artist": "Beyonce",
     "source": "Yahoo",
     "time": "2026-09-21",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU1CaGJWNnpwMGZfWnFzUW81YWg5LW1fdEx0RFdwa2k2RVkyMFRTVFNyUWo0SUFQeExzQVhJRkxZY0Jxak9YNi1KT3lyb3ZaRGNrblNtU2ZQWGZyMTZZZ2ZMZmR5RFA1V3NVNTgzM1hIaDNtUng3aUdEc1NnRkFwWFVJZHJLTmdxZ09SZ0J2LTV3Y3N0WHV6WTJmdVl1dw?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2RfX1RFVnJCZU4wcWVlczlTTjg2a0c3TzR1LUVJUTFLb2NWUmpvd1RSMmtianR2NGc1Vk0tcktnWFBERTRjcG11b2V3UlQydmFCNV9UZUhWRUVsaDZ6aHp2cFhIM3FFQV8yQ2NjSFVNamZObDNrSWlTYlpOdUdjZXZzLTNsbDRveUJKTDhMbHlFd0ZRWGpSeWZBODNJTEljRXhvWmgyOA?oc=5",
     "category": "Beyonce News"
   },
   {
-    "title": "Rhiannon Giddens traces the banjo from her ancestors to Beyonc\u00e9 : Fresh Air - NPR",
+    "title": "Beyonc\u00e9\u2019s C\u00e9cred Takes Its Haircare Empire Across The Pond With UK Launch - - Black Enterprise",
     "artist": "Beyonce",
-    "source": "NPR",
+    "source": "Black Enterprise",
     "time": "2026-09-21",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmpoZWJBMW14VjdJRDdLZVFFeHVMTW9kcXNZME5ONm9JcElwa0hjc2xlYnV0TzFoa3VKU0RPR1VCTUN2Ry04TVNET3k1SndQbkZpV2hfN29iNU9hUDJSWGs1VlVLUnRuQWlPcHdzZTVuQW5UeWFUTnFpS1cwemE5ZUpWeDNpVGZtZWIzRmt4TGE0VGMwcC1haVRtaTVOQm9FdlVndHZ3bGlibXhJ?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rS0FFZmtIeGtNT1ZULXhHcmk1QnF4MURReUJLWUNUcDJWOXRWWkVmNU91OFlkb3ZmNlFSbzFsU3A4cUZveGNSb0NRLXVFSk9nS25UMExYX1l4YU9RVllHRUpwN25odUN4S3c?oc=5",
     "category": "Beyonce News"
-  },
-  {
-    "title": "The unfolding of your words gives light; it gives understanding to the simple.",
-    "artist": "Psalm 119:130",
-    "source": "OurManna",
-    "time": "2026-09-21",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-09-21",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Spider-Man: Brand New Day\u2019s Streaming Release Gets Disappointing Report - The Direct",
-    "artist": "Spider-Man",
-    "source": "The Direct",
-    "time": "2026-09-20",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3lYM0RpLXNaaV9uN3FMLXBZYUpMSTVPWHpqSGpqNlRmcjBUbnRqM2hxYnhoVXFjZW9BSmZIUlN6YjNBQjA2M3JVTEpkVGtqZE5OdTU3TEVXOTl2WWNobE5GSVJkUkZRUWloMzkzUGZ4aXJFbmp6Zy1Sd2Z0Yk5IdHgzVF9Tdw?oc=5",
-    "category": "Movies"
   },
   {
     "title": "Beyonc\u00e9 Dazzles in a Sheer Mesh Corset Naked Dress Dripping in Sequins for Rare Jay-Z Date Night - instyle.com",
@@ -123,15 +141,6 @@
     "time": "2026-09-20",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
     "spotify": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWZqVDZ6NzdPRFRjZUVLaWhCbUREbnN5U3dGUmttQUJqcnFaU0RockRpTXA3Y0hLMHFwTlp3blp4UnNTYUpsRWxqY0xqVURvbm5FckV6NExnX2dvRlpXaEk4NW9Va0c1aC1PSzl0Rm4ta3U3VTJpN0tyMWFjYVVxM0stZzlkNGp0MkU1SjdCZ2hQUmdaY21nSWc1VUMzV0JR?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "More Beyonc\u00e9 gigs at Tottenham Hotspur Stadium than home league wins - thetimes.com",
-    "artist": "Beyonce",
-    "source": "thetimes.com",
-    "time": "2026-09-20",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmhSTTExem8yRENOSjB6WDhXQndmWTI1cGYxT0xTRW51Nk5wUXhFSk9VdzJOODZBNWFkV0pkMElzemtrYXRFOVBrQU9nV2pBRmtxRWc4OXpNOWV4b0ppS21HRXE1LXR5QXl6X2FzLXNvV051bXRfSkdNcy1jNElGYXlzcE5oWGxuSVZjV1R1aW1iTE93YlFyLW1fN1B4cnFWOUE?oc=5",
     "category": "Beyonce News"
   },
   {
@@ -171,18 +180,9 @@
     "category": "Zendaya"
   },
   {
-    "title": "Houston TV host brings rare Beyonc\u00e9 throwback to Jimmy Fallon - Chron",
-    "artist": "Beyonce",
-    "source": "Chron",
-    "time": "2026-09-18",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWm5Ub1IzcW9nb2NhOXBZeW9qc0Q3YUl6TGR2dlZqZVJHZlRiTHpFZjE3aUw3TE5uWUVOMFVrUjBjbzZUalhzajRNS3dqcU9ISWdaNGZXSGFoV1VpRlFEcEdRX0VwX1pRRWdHVGpTYVBnOWRvdk9qY1JXNnowOTdGQ0VYYmFtM3RCMTkyMnJUbzJTZUFLNGIzNGhfeXQ1aWZB?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
+    "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - britannica.com",
     "artist": "Volleyball",
-    "source": "Britannica",
+    "source": "britannica.com",
     "time": "2026-09-14",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
     "spotify": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGVyYzFBaGo4dGVCYXhyTFV4SUVZc1RXTzl6WTJKVTBoY0xMM28tWE03U3VXMWhvU3ViVEVkTnFXRkFrVTB6bTVwOFNkNm9YWHJIMVo0UXAwN0g2S2NyUmRwc2pnM0p5OVVCNmIzZmpPUHlhR2hOUVhkcUtkVHZ1V1lCVHFQLWJlR0lNMElPRHhfbmlTQzZoZA?oc=5",
@@ -195,33 +195,6 @@
     "time": "2026-09-11",
     "image": "https://i.scdn.co/image/ab67616d0000b27349bd89da3bd906d2f8406875",
     "spotify": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK",
-    "category": "Music"
-  },
-  {
-    "title": "Lullaby",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/c607SiKadT4/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=c607SiKadT4",
-    "category": "Music"
-  },
-  {
-    "title": "Unicorn",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/q-ocyt26Q0M/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=q-ocyt26Q0M",
-    "category": "Music"
-  },
-  {
-    "title": "So Good",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/lxZwrMhL6Nc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=lxZwrMhL6Nc",
     "category": "Music"
   },
   {
@@ -261,30 +234,57 @@
     "category": "Music"
   },
   {
-    "title": "Don&#39;t Be That Guy",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/FWsyqkxR8LA/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=FWsyqkxR8LA",
-    "category": "Music"
-  },
-  {
-    "title": "Wild Cat(s)",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/E3C_A_jkBpM/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=E3C_A_jkBpM",
-    "category": "Music"
-  },
-  {
     "title": "Nami\u2019s Haiku",
     "artist": "Jhene Aiko",
     "source": "YouTube",
     "time": "2026-09-11",
     "image": "https://i.ytimg.com/vi/8pmN11ohx2k/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=8pmN11ohx2k",
+    "category": "Music"
+  },
+  {
+    "title": "You",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/WATLkVy9yDY/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=WATLkVy9yDY",
+    "category": "Music"
+  },
+  {
+    "title": "I Don&#39;t Mind",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/sx7AdVXnKVE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=sx7AdVXnKVE",
+    "category": "Music"
+  },
+  {
+    "title": "Mine",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/iu9ZDE76egQ/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=iu9ZDE76egQ",
+    "category": "Music"
+  },
+  {
+    "title": "Golden Coast",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/1ZBvuzOuxK4/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=1ZBvuzOuxK4",
+    "category": "Music"
+  },
+  {
+    "title": "He Belongs",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/cAq9ArWjOBA/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=cAq9ArWjOBA",
     "category": "Music"
   },
   {
