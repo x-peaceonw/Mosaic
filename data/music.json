@@ -1,5 +1,32 @@
 [
   {
+    "title": "\"The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.\"",
+    "artist": "John 10:10",
+    "source": "OurManna",
+    "time": "2026-10-03",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-10-03",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Zendaya Throws Hands in Python Print for On's Newest Drop With Law Roach - Complex",
+    "artist": "Zendaya",
+    "source": "Complex",
+    "time": "2026-10-02",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWxaeDN4UzV4OEhiQkJ1dzB4eTFySUtEU2pEdDVHY2ZEeUFvbE1jVnNTbHk2OGgzSmJaMlc0V2pHQm9nRDVXZXlYMl9HVDBBSXkxa2lINzlBbVM5Sy1KTGZGYnYyUXNZakRSaE1wMnVPWlVabEs4ell1cW9zcHNfdGwwbGhfY3FrcWtCXw?oc=5",
+    "category": "Zendaya"
+  },
+  {
     "title": "On unveils its second collection with Zendaya - FashionNetwork - The World's Fashion Business News",
     "artist": "Zendaya",
     "source": "FashionNetwork - The World's Fashion Business News",
@@ -18,13 +45,22 @@
     "category": "Zendaya"
   },
   {
-    "title": "Kraven actor knew \"in the moment\" the Spider-Man spin-off would be bad: \"I've sort of buried that deep\" - gamesradar.com",
+    "title": "\u201cSpider-Man: Brand New Day\u201d is a Standout, Tumultuous Tide - Community Reporter",
     "artist": "Spider-Man",
-    "source": "gamesradar.com",
+    "source": "Community Reporter",
     "time": "2026-10-02",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG9MR1dTTVZvUXZFaVU5cHFSdDhSTUY5azYtbGhWNlBNYUxqX2QtMl9ZNVBaeEQ2QjJhYUdrUVprVUdZak44S2FaMkc0QU94VEEzVE5ub1hIMWxvN1BIMG4zWVMxbHI5QUdqRkU1VmxkZkM5MmhqNEdfdDFBOHh6UGJGOUItam5ZMXRiQXlzZ0J4aHA1bURBU0xTc0RlcTBuejRQUXNvcVkxYjF6ZExicVZpbW5zNFV6eHFndXg5blczbGJWTkQyTW5MSUw0bHRGLVZQU0RlZmNhbUM4VjBiazdRQWRkVVMy?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHdHWlI2X2lOak42ZWlaVVNSSkx2WlJtaHQ1cGpnTnVmYWx3dzh2SGxGLUlRbUE2RTRHak1uckxvSGxpYmNGYW1rMDgzdWJNa0g0MjdhemNBNUlhVk91T3JWV1I3OERuVzI2Z2xZMXYtQTRVV0RTZmdMdGpnZ0ZLMU5NbHE1d1VhSno4Z1p3?oc=5",
     "category": "Movies"
+  },
+  {
+    "title": "Taylor Swift and Travis Kelce Paid Cash. Why Do Beyonc\u00e9 and Jay-Z Have a Mortgage? - U.S. News Money",
+    "artist": "Beyonce",
+    "source": "U.S. News Money",
+    "time": "2026-10-02",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGpEWXQ0T05WMldrMkhsdWhtYWRzaXNZcEZWc1NJMU0yR2xQbzhPODlLYTZHLUppVERiUlJKYWFEQ05KbXVVdFZiNURQbU52aFdNQXdBSmMwelNmVlhYWWhVbkV0M2JyV2xBM1RwQkwyMDczTGY0RUZpaDhDekxyTUFwNXhKUzZRQXMtYW5fRXFwQUNDbk1YT3QyRXRJWGFybzhTZU9OZXlSWUJWa1BRRjFfa0xDNXEzaWI0RDhucDNJUFdqZ0RuQVlB?oc=5",
+    "category": "Beyonce News"
   },
   {
     "title": "From Beyonc\u00e9 To Blur To B\u2019z, Japan\u2019s Summer Sonic Celebrates 25 Years - Pollstar News",
@@ -33,33 +69,6 @@
     "time": "2026-10-02",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
     "spotify": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1dkZ0dLSTVVdnlXVl9NQ09XSE1nQWc0cmhfbkFHTUttR3BIcXFsZXVHdTJCbzBqTEdfaVBMdFRadWNMcTJjSjZhNVZaT3AxTl80b3NoUG85VDZBazlWLTQ1WkNmV1VXRjNMcWt6NWkzeTl6RW5ESnlCWnZxLVdBVDhZYXJnaHRfMTk0SndKV1pUT2JNQThLN3prenJueWpDQXI1clU1VQ?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 \u2013 Crazy In Love (Frankbeat Mashup with instrumental of \u201cIn My Projects\u201d by Coo Coo Cal) - YouTube",
-    "artist": "Beyonce",
-    "source": "YouTube",
-    "time": "2026-10-02",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzQjllTXNaZVpyWVhNY3g2dy1aOWNPMlI4bE9kQWhSOFRFVElEQ3c3Y1lFSl9ReUJMbHhpZGlSbXY1Zw?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.",
-    "artist": "2 Corinthians 13:14",
-    "source": "OurManna",
-    "time": "2026-10-02",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-10-02",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
     "category": "Beyonce News"
   },
   {
@@ -99,33 +108,6 @@
     "category": "Movies"
   },
   {
-    "title": "14 Celebrities Styled by Law Roach, From Longtime Client Zendaya to Recent Addition Kim Kardashian - instyle.com",
-    "artist": "Zendaya",
-    "source": "instyle.com",
-    "time": "2026-09-29",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6TXhKNDJNQS1NdE9ZUjdVR1FFdUw4aWZjMjJIVnlWREwtZHgyWUNYTUhuR2x5dVA1VThZdzMxaWdlQ1RLZ282SXVuR09UaTZIN0FzX21Ob2dOamdiOGJnRGczQ0pEU3RlNi13VUVGVS1Ydw?oc=5",
-    "category": "Zendaya"
-  },
-  {
-    "title": "'Spider-Man: Brand New Day' is coming to Prime Video October 6. Here's how to watch. - About Amazon",
-    "artist": "Spider-Man",
-    "source": "About Amazon",
-    "time": "2026-09-29",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0lMbENkSF9YaGVjQVdrSE43Y3Etam5EWHlMbFNiNW9xZXdmUEkySy1kU2JJZ0hNRloyaW5rNGhDaklRR3FvcFphWWNVUFY4SmktU29WeFRhN3JlTlZmTmZ5blpSQlZkV0Vua0VMNEpRWkdXSHhEMzBlaWY4MFA1eXZCR3BGTDVWZUR2bzNZS1ViUG5NcTZCLTRWbw?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Here\u2019s When You Can Watch \u2018Spider-Man: Brand New Day\u2019 at Home - Gizmodo",
-    "artist": "Spider-Man",
-    "source": "Gizmodo",
-    "time": "2026-09-29",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-    "spotify": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFdQcUQ0X3EyVUROUDkwbUhkMmZXWlExbHBTNnI3NTFScjZoS01BX0JrR0FMdlhpTHRnNUxxODc1STRtd3F6REJ6ZzJUYmRpN3AyaUNHbHdOX0FwUU9QQmtYcEdpNDMxZG53NVNmSjhCV3dSRUJrck1zRE5YbUdGdVZpbVhSNy1lVTFIdDZqVDdRZw?oc=5",
-    "category": "Movies"
-  },
-  {
     "title": "Taylor Swift surpasses Beyonc\u00e9 to become most decorated solo artist in MTV VMAs history - NBC News",
     "artist": "Beyonce",
     "source": "NBC News",
@@ -162,6 +144,15 @@
     "category": "Music"
   },
   {
+    "title": "Box Office: 'Spider-Man: Brand New Day' Top-Grossing Movie Ever In U.S. - Deadline",
+    "artist": "Spider-Man",
+    "source": "Deadline",
+    "time": "2026-09-16",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "spotify": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDZEdkZjZkpMdHFxN1p3MnhfajBKRklaTWprcG5XeTYyZkUzdGpLMnJKVjJuWWRDS3pmc3M0eFg2OGE3SnF3dmhuenVUTjBaVEp3OVI0bmhqbHpzNlZORVRUbjhkQUJ2c0tENE9Qcm5FNW9PUkU4Q0lMdkM4U0pSUTdNd0NpaFhUTkRlM1EwTWhHNzhnQjBV?oc=5",
+    "category": "Movies"
+  },
+  {
     "title": "The Japanese Women\u2019s Volleyball Team: The Hardest Part - Britannica",
     "artist": "Volleyball",
     "source": "Britannica",
@@ -195,6 +186,15 @@
     "time": "2026-09-11",
     "image": "https://i.ytimg.com/vi/q-ocyt26Q0M/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=q-ocyt26Q0M",
+    "category": "Music"
+  },
+  {
+    "title": "Wild Cat(s)",
+    "artist": "Jhene Aiko",
+    "source": "YouTube",
+    "time": "2026-09-11",
+    "image": "https://i.ytimg.com/vi/aBU1O8Ks0y4/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=aBU1O8Ks0y4",
     "category": "Music"
   },
   {
@@ -252,15 +252,6 @@
     "category": "Music"
   },
   {
-    "title": "Love Bomb",
-    "artist": "Jhene Aiko",
-    "source": "YouTube",
-    "time": "2026-09-11",
-    "image": "https://i.ytimg.com/vi/G_KPMtI03DQ/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=G_KPMtI03DQ",
-    "category": "Music"
-  },
-  {
     "title": "Elsewhere",
     "artist": "Jhene Aiko",
     "source": "Spotify",
@@ -279,12 +270,30 @@
     "category": "Music"
   },
   {
+    "title": "FREAKUM DRESS",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-09-03",
+    "image": "https://i.ytimg.com/vi/koI8EFjYWyU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=koI8EFjYWyU",
+    "category": "Music"
+  },
+  {
     "title": "DEJA VU",
     "artist": "Beyonce",
     "source": "YouTube",
     "time": "2026-09-03",
     "image": "https://i.ytimg.com/vi/QeFplaxwWlo/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=QeFplaxwWlo",
+    "category": "Music"
+  },
+  {
+    "title": "UPGRADE U",
+    "artist": "Beyonce",
+    "source": "YouTube",
+    "time": "2026-09-03",
+    "image": "https://i.ytimg.com/vi/OhPg_g-48OU/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=OhPg_g-48OU",
     "category": "Music"
   }
 ]
