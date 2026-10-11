@@ -3,7 +3,13 @@ import json
 import re
 import requests
 import xml.etree.ElementTree as ET
-from googlenewsdecoder import gnewsdecoder
+try:
+    from googlenewsdecoder import gnewsdecoder
+except Exception as e:
+    # If the decoder (or one of its dependencies) is broken, don't take the
+    # whole feed down: news items just keep their Google link and skip images.
+    print(f"googlenewsdecoder unavailable, skipping link decoding: {e}")
+    gnewsdecoder = None
 from datetime import datetime, timedelta, timezone
 from dotenv import load_dotenv
 
@@ -14,8 +20,8 @@ SPOTIFY_CLIENT_ID = os.getenv("CLIENT_ID")
 SPOTIFY_CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 TICKETMASTER_API_KEY = os.getenv("TICKETMASTER_API_KEY")
 
-ARTISTS = ["Olivia Dean","SZA", "Beyonce","Jhene Aiko", "Olivia Dean", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae","Ariana Grande"]
-TICKET_ARTISTS = ["Beyonce", "Coldplay","Jhene Aiko", "Tori Kelly","Olivia Dean"]
+ARTISTS = ["Olivia Dean", "SZA", "Beyonce", "Jhene Aiko", "Coldplay", "Qendresa", "Solange", "Tori Kelly", "Rascal Flatts", "Sondae", "Ariana Grande"]
+TICKET_ARTISTS = ["Beyonce", "Coldplay", "Jhene Aiko", "Tori Kelly", "Olivia Dean"]
 NEWS_TOPICS = [
     {"query": "Zendaya fashion OR style OR outfit", "category": "Zendaya", "artist": "Zendaya"},
     {"query": "Spider-Man movie", "category": "Movies", "artist": "Spider-Man"},
@@ -181,6 +187,8 @@ def ticketmaster_events(artist_name):
 # (via googlenewsdecoder), then grab that real page's og:image.
 
 def resolve_real_url(google_link):
+    if gnewsdecoder is None:
+        return google_link
     try:
         result = gnewsdecoder(google_link, interval=1)
         if result.get("status") and result.get("decoded_url"):
@@ -235,7 +243,9 @@ def google_news_rss(query, category, artist_name, limit=6):
             continue
 
         real_url = resolve_real_url(google_link)
-        image_url = fetch_og_image(real_url)
+        # Only look for an og:image if decoding actually reached the publisher's
+        # page; otherwise we'd just grab Google News' own generic icon again.
+        image_url = fetch_og_image(real_url) if real_url != google_link else ""
 
         results.append({
             "title": title,
