@@ -1,5 +1,122 @@
 [
   {
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "source": "Spotify",
+    "time": "2026-10-30",
+    "image": "https://i.scdn.co/image/ab67616d0000b27376d471f97bfca9e9c44edcb6",
+    "spotify": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw",
+    "category": "Music"
+  },
+  {
+    "title": "petal (instrumental)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/s8hUTWy4WRc/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=s8hUTWy4WRc",
+    "category": "Music"
+  },
+  {
+    "title": "petal (a cappella)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/aqKj0hy56UE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=aqKj0hy56UE",
+    "category": "Music"
+  },
+  {
+    "title": "petal (instrumental)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/MBnayih-Oz8/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=MBnayih-Oz8",
+    "category": "Music"
+  },
+  {
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/HdhajLRq_vE/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=HdhajLRq_vE",
+    "category": "Music"
+  },
+  {
+    "title": "petal (angry live version)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/BkRZOkQlQG0/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=BkRZOkQlQG0",
+    "category": "Music"
+  },
+  {
+    "title": "petal (angry live version)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/OBHr7G-kvAo/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=OBHr7G-kvAo",
+    "category": "Music"
+  },
+  {
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/CBV7S1v9tMo/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=CBV7S1v9tMo",
+    "category": "Music"
+  },
+  {
+    "title": "petal (a cappella)",
+    "artist": "Ariana Grande",
+    "source": "YouTube",
+    "time": "2026-10-30",
+    "image": "https://i.ytimg.com/vi/EeilCruejQk/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=EeilCruejQk",
+    "category": "Music"
+  },
+  {
+    "title": "Zendaya trades the strobe of the paparazzi cameras for high school football - MARCA",
+    "artist": "Zendaya",
+    "source": "MARCA",
+    "time": "2026-10-30",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM05mR25rZGJDNkUwRzAyQndkSWhXVlVkb01BcHVpaXdoZE1OYUFOU1A0TEVoU1lZQ3VOUlZjQnBjOUtCZDRlWl9CQnJ6S0dZTjhWZm5jRWFjMndjeDl4N3JybVpQRkR1cDZRNkxzTVhWR2E2MkEwRUNiTGhUMDJhelNwcm1qeGJhdzcyZ0otY1p6eHNjNTBBMjlWRE9kMVhWNkRRc1ZKQk5EQzZaNkRZdXZaZWx2dkZkV2habVBaT09ZN08wd2R5cWNuSDNCaUU4c241eNIB1AFBVV95cUxPSjFIOUd2a1M5N1RFRllqcEMwOWFUdG9TNU5YeHB5anBnMTAyUXpZazVnX1dtX2hOTDQ5eFkzQWlxd1BGdjVkUUZDQWV2Z3pqOTQ4bUpfWDBaVXZmSlVZR2kzS2NTVFhUVFFneUoxWTctZ3VEU2xuaGhKXzV4aVZxc1VtbUJOU2JEUWh6dkZMNG9jdERwNlJUMFY0RzJ6MlZiZXE0RUlTOW9UUGRxeVAtMENFN2dZcGltUTQzbXc1RDhNM2k2WGJQQi1OMW0wRGVOcTdwNw?oc=5",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Shiona Turini\u2019s latest style gig with Beyonc\u00e9 - Royal Gazette | Bermuda",
+    "artist": "Beyonce",
+    "source": "Royal Gazette | Bermuda",
+    "time": "2026-10-30",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWhNX2dWdkJOZi05Y2NPRk1YbXl1WlNIZmNPN2JtZld3ZXNqdXp6SENLYWFMcGNaNEo2ektpaHFUVnZJdHY1cjhPYVdRaF9oZUFTUzNhUUJlczRVMXlBZHRCQkhzRHNLNC16Wjk1SDZlOVpzYmQ4UzFQWlVabGpFaWdhTUxvbEM4R3lINm5OS3FOdlhHSmZ3QnVVN1haM3hEeUo4QWd4ei02MlRoQ193?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.",
+    "artist": "Joshua 1:8",
+    "source": "OurManna",
+    "time": "2026-10-30",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-10-30",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "Qendresa- Gave Myself 2 U (Official Music Video)",
     "artist": "Qendresa",
     "source": "YouTube",
@@ -9,57 +126,48 @@
     "category": "Music"
   },
   {
-    "title": "Why medallion jewellery is fashion\u2019s latest obsession - South China Morning Post",
-    "artist": "Zendaya",
-    "source": "South China Morning Post",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDdBSF9FQ24xSEYzcWFqNnlWckJNdk1kMWZsQVh2OWU1MFFRdzZxel9la2lmN3ZuNlgtRUR5OU83YXNnS2R3Q0M5Rm80OFJnUzZuUHp4R0hOSGtjLUJjU3NLRVNMQU0yajM5U2Q4eXRNZ3FIZVVFcHVlbmJUSFVIaTM0b2RfSkRHWVpJSld6Y3VrWVRpVjF2SVlhSmxTeUNOc3RYRFBnMVAwWk9kV0lnRU1Ka2g4OGd6Z3BxbNIBvAFBVV95cUxNbGZZUVVGZjFaNlZsQ2YwWUdNUDIxOVIxSDNmTTJBTUF1dzVmWVFyeFZmenJVNllKcnJtblRBRnRUVi1jLW95T1BrTW1ZRnNFdXdvclgxcjVGOENEMVpSMmtIbjBGRkZJT21JZEpEUkRheXdBR2w1TzZaWF9SV3BEX1NKSFFnbElYMzhLajI1eVZVNkdmZ1d1dnJPU05CRkF5TXFxc19LOGNOZUhJeHl4RTlmYzRwVUptVGpXeA?oc=5",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Fug or Fab: Zendaya in Michael Kors at the CFDA/Vogue Fashion Fund Awards - Go Fug Yourself",
-    "artist": "Zendaya",
-    "source": "Go Fug Yourself",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzN0TkdHMnV1WXZieDRYSnlHYjZYVlQ1UllvQkl6OEdfc3JTSTY1SmdrN0R3bmQzLUhkcWRUZ1pPNlUyRDZRd05DSTZPS0tydjgzbkE2VHBhWHdDVU1tb3JCOWZLbnpfdlNlYnpDQzdrRlE0aDRlZWczc2x4bkNaUzlXNUFCRXc1ZDdoaFEydkkybjQ1LTMwNDFtWUVrenBTSkZHNg?oc=5",
-    "category": "Zendaya"
-  },
-  {
-    "title": "Anne Hathaway\u2019s Divisive $163M Movie Is No. 1, Beats Spider-Man 4 on Digital - Yahoo",
+    "title": "'Spider-Man: Beyond the Spider-Verse' Trailer Features 5 Big Spoilers from the Movie - The Direct",
     "artist": "Spider-Man",
-    "source": "Yahoo",
+    "source": "The Direct",
     "time": "2026-10-29",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmhHY1pONy02UkZ0eFNmZm0wNFJxUzYxa2FiOFZLTXh2OFBGMGgtUjdkOWNwY3BIU0ZKQ0ZURzE4elIzam8xdVZhRzRfSDJhTTZLSlZHLWMyOXN0RVhPN3AtMmFFcXUtcV9yTDRkV2NHQ2lhU3E3TERIZl93cU1GVUJZZldlXzhIVXRRR0tiMEJURWZ3S2Z6cm14SURCbVMyZGc?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXZiaGZfLVF1VFZVcVYtLWxxdFlwOW5ubzhKNjJnUVluanJLUGdlWjBnb1BESUpkY2VicUtMM1c0cVczVGFXUVctb2pfdmhONTFkaVBfVUJlUDBSblRUbktlRmZFTWpDNlFKNnBfZmxtbDNxRE9hQWxPWFRNZFZTbHI4UGJEd2ZyaTdRTzFNaVc?oc=5",
     "category": "Movies"
   },
   {
-    "title": "'Spider-Man: Brand New Day' Deleted Scene? Viral Punisher Van Clip Has Fans Hoping It's Real - Comic Basics",
+    "title": "Forget Spider-Man, Tom Holland's Video Game Movie Is Officially Dominating Streaming - IMDb",
     "artist": "Spider-Man",
-    "source": "Comic Basics",
+    "source": "IMDb",
     "time": "2026-10-29",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3V1Z0FsM0Y5bmlYQlZpSjlnUHdZcjczT09FRzI2ZFZRZEdHejVuMWVJaGFKdkJzMm10akE0TXJVOWEzQnV1U1lXVWFBUFFIajBodnRpeHRvc2ctMWp5NFZ5TF84bG5FbDFNUE1YXzY0RUM4eEVvbDBMbTA3ZE0xeUlfZl90NEFBMkhRTFp5Ujd0ZUpVZFI1UEdjWk1lVXl2MktYX0NQRVJULVhYZk9xRWJXRkwwbVE?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Tei1lUTRxck9ES2xJclhJUE9vUE5rRWtzMWE4TUVLeVVOUGFIMmpxLWwtS0xoaFlQSmJORjBUMjVHb0J0UkRqRjRJdk5odjJzNGFRUmNnajJWbFdFZUR1SnNiUUllb2s?oc=5",
     "category": "Movies"
   },
   {
-    "title": "But even if you should suffer for what is right, you are blessed. \"Do not fear what they fear; do not be frightened.\"",
-    "artist": "1 Peter 3:14",
-    "source": "OurManna",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
+    "title": "Beyonc\u00e9 Funded C\u00e9cred Herself Because Investors 'Didn't Like' Research Budget, Tina Knowles Says - Complex",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "Complex",
     "time": "2026-10-29",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVFlS18xQl9TeGViVUh4UVlyZFBsZ1Zkbk5xbEdJTkdJbkFjRTVyU2NtS3FTelpLQll4M3JvcU93dHpLUkN5Zm5Uc1BDYjZfVTl6NkxJd09tSVJfT2plc09HY3VLNDUwTHhIWFFsUjktSzVLYWREaHBfZFhuQS1DcTJ3?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Minecraft creator Markus Persson paid $70 million for a Beverly Hills mansion in 2014, beating Beyonc\u00e9 an - The Times of India",
+    "artist": "Beyonce",
+    "source": "The Times of India",
+    "time": "2026-10-29",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPMFZkUlRHcTF4ZWZUaEtUc2wzN2xuWi02WnpLYkMxOXNSV1o1S0ZTWkVQcEsxb3EyMWs4WU9vRHUtUXJ3X3dKNExjNUYxREhtZHY0cVl5bHh5Ymo1R2Q2ZWpLTHpha0ozYV92azhMSlN5M3Rpc2RYOTdiMzZOUzl4UUgwMnpFa3VMREhRZUZVcER0eWpRczVBMnZ6bmdZWFRzY0pUQmo2ZHM5WTZuRkp3bDYyMk5LTU54U2lYcHZtMFN0WXA5M1FQdE4zd3U2WjVPdkExSzFiRndZSF9hT2Jlb3lVaDZtdmZvT1VBZDFzS0pPSTg4RUxPQzVPZ0RQWTZuQkFEbDQxdWNMM3dRWWpsX2Y3TzVTV2dhOVlGSjlOSDhXYlE0ODJfUXl4TkpXNXQtU1d2SXZwbkdQcnpRblZTUmllVmk1eXMtaEc2czk0MzVDVE1TNW5YekhobXF6bXNzVGJYWmFkZzRjZVJSTm92UGM1M0VhSHBVSEhtdtIBggNBVV95cUxOV2lFaDJPNUl4VmZsaUk1eFJKMlp2LW10YVQ3dy1MRmNTZGNEenRkTG92MjJxZDh6TTNlVnpEN2NIb2VfN3dYY0s5alF4QjRpT21iR1ltMkI3LXNWajd6dnFISEpKX1FBejBCOFhMYTM3S3dqM3pQOGIxcUtVTDc1VEZoOFo5X3BKbkNPSldXZUxPc0x4N1JWSmRYT0VpTk4xbXJfaDdoeG1KTlJaQVRSenpDWGJkOFpmY19hYmdxSlE3ekVvaVdHeE1IVzRPOTFSeEhuLVJBZ2pta2tMSGl0R0tnemhLNzB4SE92ZC1Mbnk4NXFoLWZNRFFaQTl2QXVBZ21pSDFJTEZtaTdYRV9FN3o5cmEyRVlEeFpkRmN6b1JIWnpCMEZSVTFmMjAyamN6Y0NVeE5qVm5QMlBsQWFrcG0zVXZ1LTNtTGtxSWxKSG8wU3ZaeWVZOUlXSzdaR3JHTWpWcGMwWXlrcEVNd19IejZlTWZlZzUya1hSbU94cWltZw?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Tina Knowles Reveals the Reason Daughter Beyonc\u00e9 Decided to Self-Fund Her Haircare Brand amid Investor Interest - People.com",
+    "artist": "Beyonce",
+    "source": "People.com",
+    "time": "2026-10-28",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVUwYUUwMHk5MkFIZTVDN29VTlpIZGZIc1FkWWRnVEhZbjhJSnI3WHFaVDc3QmM2TmpGUkdyQ1FxZFFJSExKdlVfQTNZVVBBWXc1SDRPODBzX0VzeVlfR2FEVnJKSDI1UUczU1F1YmlDOUpqVktubjdzVUJoTHJJbWtjOVNFMUpPbGc?oc=5",
     "category": "Beyonce News"
   },
   {
@@ -72,21 +180,21 @@
     "category": "Music"
   },
   {
-    "title": "Mona Lisa (Official Video)",
-    "artist": "Sondae",
-    "source": "YouTube",
-    "time": "2026-10-27",
-    "image": "https://i.ytimg.com/vi/bGOs18K5IT8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=bGOs18K5IT8",
-    "category": "Music"
-  },
-  {
     "title": "Zendaya Reps Her Hometown Team in Style at the WNBA Finals - Vogue",
     "artist": "Zendaya",
     "source": "Vogue",
     "time": "2026-10-27",
     "image": "",
     "spotify": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mSkh5VlJXUjJSZkczbF9pb3Z2bjFuZmNseXZZYlB5RUJ2WWlxME9mOVlGenNnRjZyMlE3RU1MZmp4Ny1LV0ZiR3NfRVlqazNLUGRwbnlrdXJyMVZPQkdNMFFWcmxab1ZIYlBjMy03X3o2dDNoLVdzRTBR?oc=5",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Zendaya Ditches Her Typical Red Carpet Glam for a Casual Courtside Look - InStyle",
+    "artist": "Zendaya",
+    "source": "InStyle",
+    "time": "2026-10-27",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3RCcFRFcEY0cHRtT0luaXV3N1lmanpFTVlZVjltUEZJRE05eVpoVnZ1eWUyWVFZMHVEdEo2dTg5LTJ1cFJqc3dMQVQ0UE9FbFY3aUNpcVpRSXNhU3RHandERWFTa3Fia25sWEIySzNINjIyRmdnWUxjY2dfb0Vrb3MzRkxoYnhYNFZRa0licVFuLUtKcXJTUm1n?oc=5",
     "category": "Zendaya"
   },
   {
@@ -108,16 +216,34 @@
     "category": "Zendaya"
   },
   {
-    "title": "Beyonc\u00e9's mom shares emotional message about star's 3 children and the joy found after devastating loss - HELLO!",
-    "artist": "Beyonce",
-    "source": "HELLO!",
+    "title": "Why \u2018Spider-Man\u2019 Can Swing Big After 12 Movies - Forbes",
+    "artist": "Spider-Man",
+    "source": "Forbes",
     "time": "2026-10-27",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTBPdVdsZERYd3hFdy1YOGh6OS03N2pFaWwzYTRMRVp1YlJNVkxubG0wZHBFVHJZNXVPTU01Vm0tVVBKaEZ6VVppVnNVTXhTaEpqUVZzWVhWUUdrVmFTcjRXbGdxM25PMFRHTjFVSklJVWhVbDFYVEhYcGRVZm5BSVBiVXkxMXFtLUc4T2ZTMk16eko2UC1PTC1zMHMwSGM?oc=5",
-    "category": "Beyonce News"
+    "spotify": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYW93YnF4X0Qxa2ZxZklJLUp2M2gzMDlVQ1J4OENlLWJkdDJMVnN2NWVUMnVEZk53LW9BSFBlRFpWNDZ3elNNTktoM3B4Z2JFMVJDdlV5dEtPZXJQWDROb3NEbmdsZ3l3aUdiRXBPQjVYbVdOT1RRcHk4Qi1BaV9tTjN5Y1BvVDZfaEE1Tm90UlNBb2NHQjU4eWJYRDA?oc=5",
+    "category": "Movies"
   },
   {
-    "title": "Will Beyonc\u00e9 Join Jay-Z At The Super Bowl? She Leads Early Odds - Forbes",
+    "title": "Spider-Man: Brand New Day\u2019s Multi-Platform Streaming Success Leaves MCU Fans With One Question - Yahoo",
+    "artist": "Spider-Man",
+    "source": "Yahoo",
+    "time": "2026-10-27",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGEtYlpfRnBidlFNbXFvT2JydjNqZUxLUzNyU242bjBmWHVZaEVOSlFfeElGbG5CeGhfXzhFWXFfOC1vZzNoN1hiZHBVdDJZdUNET2J0STRWX05xZXFyYmtqdDA5c0E5U05VaERUNGN1MXl2REtWVEIzbWZ4anVUWnpHVFpoQmw2Ty1FV21KOGtEM1YzdWdJag?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "James Gunn Officially Replaces Sony's Spider-Man Universe - MovieWeb",
+    "artist": "Spider-Man",
+    "source": "MovieWeb",
+    "time": "2026-10-27",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LVF8tbER4bktrZk1hcVlmZjB2UmtKa2dFVmJHSzNGLU1OZWVEMzNqV09nUWdkSkFPT2VMX284RW0tcHZram1kN280UkFZNTIwOS1zd1dnbHVSQ3YwVnBKLVYxREw2RVhpNEhhazgtbmMxeFZRUEE?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Jay-Z Will Be The Richest Super Bowl Halftime Headliner\u2014These Billionaires Could Join Him On Stage - Forbes",
     "artist": "Beyonce",
     "source": "Forbes",
     "time": "2026-10-27",
@@ -126,40 +252,22 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9\u2019s Super Bowl Halftime Revolutionized How to Deliver a Knockout Performance - Rolling Stone",
+    "title": "See Inside Beyonc\u00e9 and Jay-Z\u2019s Lavish Homes, From Malibu to Manhattan - Yahoo",
     "artist": "Beyonce",
-    "source": "Rolling Stone",
+    "source": "Yahoo",
     "time": "2026-10-27",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnVzbmltTzhRQWRJNjJfcHNLNlhjbHFScTQ5Tnd3VlFBZ0taWDEycF9BUHFNSTZBMThwNGRQVklnWW0tVTlVT0NWdGNraHV1UW9RX01uUkZEVVhHcEZ3dkxwUDNaSmh6WjhoYTBnSDkyMFlXTWViYTYzMHRLOFUtbHJKWXdKSEVnc3ZaM2dSelk4OTZmR053UTFyT2pNODNoR2c?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2x1MWdNOWNvRE5jaFJwNWswcjRDbWZZbUVKODdRelBLTFc3LVRwQzNIaDBjU3hQS1VtU0ZYMHpacGVnVVVDaG45SkRLWVR6amowbnlsWUNHTmZzNFpoSXgxbTRUNjZCd3BEZ2hxSy10aHN1amEwT2ZpNjlOSHpIRV9NWWIzUQ?oc=5",
     "category": "Beyonce News"
   },
   {
-    "title": "Will Jay-Z Give Us a Beyonc\u00e9 Super Bowl Cameo or What? - The Cut",
-    "artist": "Beyonce",
-    "source": "The Cut",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rcFpENUw0TkRtVzZDcHctZXBlNWFWS2dUYW9wakQ4c2FNSktDb3ppQkEyUlk4WVFhSEllOHlUVEZNM0l3bDZFZkFqeGR1em0yMnlmczhCWXdjMVZnWUlTa0VtaURiREFiaWZWeVlwYlZ1UXJnUEt2ckpnekRFSjQ?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Introducing the i-D Beyonc\u00e9 Zine - i-D Magazine",
-    "artist": "Beyonce",
-    "source": "i-D Magazine",
+    "title": "Mona Lisa",
+    "artist": "Sondae",
+    "source": "YouTube",
     "time": "2026-10-26",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41VjJZU2ZFSWxRNHd0T0NuZzBudG9JdnJtT252d201NnFFVjFsQzVadnR1MHJGYUJJYjN5Yy1sM1lBQlVtTUNXNVYwQmhQQmc3bFVldWZB?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Charli D\u2019Amelio Reveals Beyonc\u00e9 and Jay-Z\u2019s Daughters Were Her First Celebrity Fans - People.com",
-    "artist": "Beyonce",
-    "source": "People.com",
-    "time": "2026-10-26",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkxuWmNLRVBUX3dtTFBvMkJrSmwxSU5xejJ3TXVBb0ZLck1JRW5BVk84WGhCeWRUT1NVVHlYLXZNZmRKX0tENWNXNXBEMDdmZk1vTy1MTHBaV1JuT1NMSjBzN2NhVFU4bGl2bE5IRElpcHJUbE5wX2ZmclhselY3QVBkZGQwMkk0ZFQ2bURKdmtNei1MRHkzbHRhcUpWX0NYMEw4UHIyemdJcFA0V2c?oc=5",
-    "category": "Beyonce News"
+    "image": "https://i.ytimg.com/vi/Io0FCw16HHo/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=Io0FCw16HHo",
+    "category": "Music"
   },
   {
     "title": "A Million Chances",
@@ -180,24 +288,6 @@
     "category": "Music"
   },
   {
-    "title": "Lord I Wanna Know Ya (Official Video)",
-    "artist": "Sondae",
-    "source": "YouTube",
-    "time": "2026-10-07",
-    "image": "https://i.ytimg.com/vi/w9xuEs3-RIQ/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=w9xuEs3-RIQ",
-    "category": "Music"
-  },
-  {
-    "title": "Zendaya Wore a Tank and Jeans in the Most French-Girl Way to the Louis Vuitton Show - Who What Wear",
-    "artist": "Zendaya",
-    "source": "Who What Wear",
-    "time": "2026-10-07",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGN3dXBvUl82Qk10WVJHWU9qQTJfNzAtVUp0MUVXYTlvaHgyTkN0cFBjbkVDdHdrVWRGeEY1Qk1PTElBNHpDZW9JdGhPSm1GT1pvSXlMeXhoWktyRVZENG12SVVIVnJhUEl5UGtyLXRiZEdoQTJHMlR3YlZtWVRyNHdNbUd6UlktdUs4RUZRaHY5RUFkVVhxZUNvZzVTUEdJSThpZ1J6c00tZ3N4by1mWU9MMng?oc=5",
-    "category": "Zendaya"
-  },
-  {
     "title": "Lord I Wanna Know Ya",
     "artist": "Sondae",
     "source": "Spotify",
@@ -207,12 +297,12 @@
     "category": "Music"
   },
   {
-    "title": "29 September 2026",
+    "title": "Lord I Wanna Know Ya",
     "artist": "Sondae",
     "source": "YouTube",
-    "time": "2026-09-29",
-    "image": "https://i.ytimg.com/vi/Ffnw_AoMdB8/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=Ffnw_AoMdB8",
+    "time": "2026-10-05",
+    "image": "https://i.ytimg.com/vi/1jSD5RWVU3U/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=1jSD5RWVU3U",
     "category": "Music"
   }
 ]
