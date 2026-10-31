@@ -1,20 +1,47 @@
 [
   {
+    "title": "Everything You Need to Know About Zendaya\u2019s Engagement Ring - Natural Diamond Council",
+    "artist": "Zendaya",
+    "source": "Natural Diamond Council",
+    "time": "2026-10-31",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BaFlWTy1tN3ZOemJQa0N1eHF4WGlXMloyY3hTanpCWl96a1RFSUNRNTcyRjI5Wlo0elFiX24xNTB4aG1kcVlpcDNzM043UkxoZ0tnbjJucTFLUlYwdWYzNGhsTmExS0pTN0g2QnpkOFJ6MnJIc0RwNQ?oc=5",
+    "category": "Zendaya"
+  },
+  {
+    "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage - Polygon.com",
+    "artist": "Spider-Man",
+    "source": "Polygon.com",
+    "time": "2026-10-31",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQllfZGozUG16aHp5VktNdlJrckYtQk1OajRFYUpPNkVpWmw5Wl94SzRnck1BbUVxY3VjbW5CYmpNWm1icDdxNDhXR1lCSzBqb3Jram9tSjJzMl9MTExwcE4yUjFpelc1LS1RVWoyRTA5N1hyYU10Z25HdXBveFY2bUNmNjZkQXRqM2xHcWpSZjU?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Beyonc\u00e9's teen daughter Blue Ivy towers over her in striking three-generation photo - HELLO!",
+    "artist": "Beyonce",
+    "source": "HELLO!",
+    "time": "2026-10-31",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR25VRDdBci13a240ZGV4WFROcV9zR2RWN3BLdWVZRXJ0RC1nTXhhTXNHa3YtZHd2UzU3TUNUVVNBbjRxZDFRVUZsR0dockFaQ0wzclMyWEx3SV95ZDVsbG9IMy1MTDE2Njl0a2lfQndieG84VW05dXQ0R3Q1Qi1sQ0RxMlBRSkxsQ21ybGZkU0N0ZHUzVUdwLUZYa3NITUYtNDd4cU1nVzJ5ZGoyYXJPeU1oVUc1TUZtWEJ2T3dkRzA?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-10-31",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
     "title": "petal",
     "artist": "Ariana Grande",
     "source": "Spotify",
     "time": "2026-10-30",
     "image": "https://i.scdn.co/image/ab67616d0000b27376d471f97bfca9e9c44edcb6",
     "spotify": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw",
-    "category": "Music"
-  },
-  {
-    "title": "petal (instrumental)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-10-30",
-    "image": "https://i.ytimg.com/vi/s8hUTWy4WRc/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=s8hUTWy4WRc",
     "category": "Music"
   },
   {
@@ -36,15 +63,6 @@
     "category": "Music"
   },
   {
-    "title": "petal",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-10-30",
-    "image": "https://i.ytimg.com/vi/HdhajLRq_vE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=HdhajLRq_vE",
-    "category": "Music"
-  },
-  {
     "title": "petal (angry live version)",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -63,15 +81,6 @@
     "category": "Music"
   },
   {
-    "title": "petal",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-10-30",
-    "image": "https://i.ytimg.com/vi/CBV7S1v9tMo/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=CBV7S1v9tMo",
-    "category": "Music"
-  },
-  {
     "title": "petal (a cappella)",
     "artist": "Ariana Grande",
     "source": "YouTube",
@@ -81,39 +90,39 @@
     "category": "Music"
   },
   {
-    "title": "Zendaya trades the strobe of the paparazzi cameras for high school football - MARCA",
-    "artist": "Zendaya",
-    "source": "MARCA",
+    "title": "Before Avengers: Doomsday, Spider-Man: No Way Home proved the best Marvel event movies put character first - GamesRadar+",
+    "artist": "Spider-Man",
+    "source": "GamesRadar+",
     "time": "2026-10-30",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM05mR25rZGJDNkUwRzAyQndkSWhXVlVkb01BcHVpaXdoZE1OYUFOU1A0TEVoU1lZQ3VOUlZjQnBjOUtCZDRlWl9CQnJ6S0dZTjhWZm5jRWFjMndjeDl4N3JybVpQRkR1cDZRNkxzTVhWR2E2MkEwRUNiTGhUMDJhelNwcm1qeGJhdzcyZ0otY1p6eHNjNTBBMjlWRE9kMVhWNkRRc1ZKQk5EQzZaNkRZdXZaZWx2dkZkV2habVBaT09ZN08wd2R5cWNuSDNCaUU4c241eNIB1AFBVV95cUxPSjFIOUd2a1M5N1RFRllqcEMwOWFUdG9TNU5YeHB5anBnMTAyUXpZazVnX1dtX2hOTDQ5eFkzQWlxd1BGdjVkUUZDQWV2Z3pqOTQ4bUpfWDBaVXZmSlVZR2kzS2NTVFhUVFFneUoxWTctZ3VEU2xuaGhKXzV4aVZxc1VtbUJOU2JEUWh6dkZMNG9jdERwNlJUMFY0RzJ6MlZiZXE0RUlTOW9UUGRxeVAtMENFN2dZcGltUTQzbXc1RDhNM2k2WGJQQi1OMW0wRGVOcTdwNw?oc=5",
-    "category": "Zendaya"
+    "spotify": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNTh3emg5VWxrakpINk1tcGtDQW5jZ1pBdlctU1d2UlNHdzNRcnVBU1JNU1hFM01QTWxQOGlUblNEak45M3VwMUpPQjlTRmppQ3J0ckpoaWN2RWpvSDg3djlDYjZMSXVYNHo1aThlQW9OMWNUcmphc0FFZ0ZORGlRUzdMajBlSHBEUF9odWZfSEV0M001Y3FaNVB2aFlFbWxrbFFEb2x4TXd4MUhhLTZnbDB0UmJpMFpBRkFuT2ZBeE00WEJWWktnaVVJMDJiV2hhcmViNGl0Yk1uT1ZlT0x0Y3pabG01eko4azZaUE9aNkw?oc=5",
+    "category": "Movies"
   },
   {
-    "title": "Shiona Turini\u2019s latest style gig with Beyonc\u00e9 - Royal Gazette | Bermuda",
+    "title": "Beyonc\u00e9 Wears a Bright, Tropical Tinsel Look to Jay-Z\u2019s L.A. Concert - Harper's BAZAAR",
     "artist": "Beyonce",
-    "source": "Royal Gazette | Bermuda",
+    "source": "Harper's BAZAAR",
     "time": "2026-10-30",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWhNX2dWdkJOZi05Y2NPRk1YbXl1WlNIZmNPN2JtZld3ZXNqdXp6SENLYWFMcGNaNEo2ektpaHFUVnZJdHY1cjhPYVdRaF9oZUFTUzNhUUJlczRVMXlBZHRCQkhzRHNLNC16Wjk1SDZlOVpzYmQ4UzFQWlVabGpFaWdhTUxvbEM4R3lINm5OS3FOdlhHSmZ3QnVVN1haM3hEeUo4QWd4ei02MlRoQ193?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnF2WFJsSzZDUXBvYmtsdFJyazZFSEtiTDM2TkZRRXVreFc3aDZBV2w5RW01VU1YMTFrNy1nSEZlblpSWGhrMVlvR2hUNV9mZVJVVkc2TjVLZmdaanYtNHJGU0xIWmQzb1Nsd010dFBUa0o2SEtkOWtxa3l1OWwyMEpLUi1wVmtNRW53R2NUWk5oMUtvYUl1ZTFLM3BrX2l1VXI0QUNfUnV1WnFIMU1FSUdLdXE2TWRpNFA1Tm5nb21QcnBUS0Z4c2Q2Qy0tUQ?oc=5",
     "category": "Beyonce News"
   },
   {
-    "title": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.",
-    "artist": "Joshua 1:8",
-    "source": "OurManna",
+    "title": "Beyonc\u00e9 Shares Rare Photos With Blue Ivy Carter Backstage at Jay-Z\u2019s L.A. Concert - ELLE",
+    "artist": "Beyonce",
+    "source": "ELLE",
     "time": "2026-10-30",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
+    "spotify": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWZ1TFh1QjNlUlF6YTE2ZUxWZWZDX0xSVDdtMy1Zcm1wQ0NudW53SHNDejFaVTVFQkMxSi1PUzNYdE9qRDNnSWtqVV94Wk8xVURkaUJQNkQ0T2xObTdsaFBfRGZyOVVSb3BrRG9xY2JhMVcyQlU3YjdTQ2w0LXo0MzQwOWJzV1lFTU1ZeUFTX3daeVU0VUhEQnZNRzQ3d19uS215eExoRkZUM05rSWRrLVhPejVaekZraFE?oc=5",
+    "category": "Beyonce News"
   },
   {
-    "title": "Currently featured on beyonce.com",
+    "title": "See Beyonc\u00e9\u2019s Most Epic Halloween Costumes Through the Years - People.com",
     "artist": "Beyonce",
-    "source": "beyonce.com",
+    "source": "People.com",
     "time": "2026-10-30",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYko4RFFQd2FxbUhqaUR6VV96NTA5d2hlUWdIaGdoWHdfUXZrS2huSUlmTW5xcnJpV1dmUHdjMFUtRDJMOHMwWVVoQlVHcElDRzY0elo0SHhhR1YyMWV5NXdqOTlnaGJFLThMd1I1T0l0bVd5cWFrY2p0a0l6MmtCOUtrTQ?oc=5",
     "category": "Beyonce News"
   },
   {
@@ -124,42 +133,6 @@
     "image": "https://i.ytimg.com/vi/Z1ISEMNDJO4/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=Z1ISEMNDJO4",
     "category": "Music"
-  },
-  {
-    "title": "'Spider-Man: Beyond the Spider-Verse' Trailer Features 5 Big Spoilers from the Movie - The Direct",
-    "artist": "Spider-Man",
-    "source": "The Direct",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXZiaGZfLVF1VFZVcVYtLWxxdFlwOW5ubzhKNjJnUVluanJLUGdlWjBnb1BESUpkY2VicUtMM1c0cVczVGFXUVctb2pfdmhONTFkaVBfVUJlUDBSblRUbktlRmZFTWpDNlFKNnBfZmxtbDNxRE9hQWxPWFRNZFZTbHI4UGJEd2ZyaTdRTzFNaVc?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Forget Spider-Man, Tom Holland's Video Game Movie Is Officially Dominating Streaming - IMDb",
-    "artist": "Spider-Man",
-    "source": "IMDb",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Tei1lUTRxck9ES2xJclhJUE9vUE5rRWtzMWE4TUVLeVVOUGFIMmpxLWwtS0xoaFlQSmJORjBUMjVHb0J0UkRqRjRJdk5odjJzNGFRUmNnajJWbFdFZUR1SnNiUUllb2s?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Beyonc\u00e9 Funded C\u00e9cred Herself Because Investors 'Didn't Like' Research Budget, Tina Knowles Says - Complex",
-    "artist": "Beyonce",
-    "source": "Complex",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVFlS18xQl9TeGViVUh4UVlyZFBsZ1Zkbk5xbEdJTkdJbkFjRTVyU2NtS3FTelpLQll4M3JvcU93dHpLUkN5Zm5Uc1BDYjZfVTl6NkxJd09tSVJfT2plc09HY3VLNDUwTHhIWFFsUjktSzVLYWREaHBfZFhuQS1DcTJ3?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Minecraft creator Markus Persson paid $70 million for a Beverly Hills mansion in 2014, beating Beyonc\u00e9 an - The Times of India",
-    "artist": "Beyonce",
-    "source": "The Times of India",
-    "time": "2026-10-29",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPMFZkUlRHcTF4ZWZUaEtUc2wzN2xuWi02WnpLYkMxOXNSV1o1S0ZTWkVQcEsxb3EyMWs4WU9vRHUtUXJ3X3dKNExjNUYxREhtZHY0cVl5bHh5Ymo1R2Q2ZWpLTHpha0ozYV92azhMSlN5M3Rpc2RYOTdiMzZOUzl4UUgwMnpFa3VMREhRZUZVcER0eWpRczVBMnZ6bmdZWFRzY0pUQmo2ZHM5WTZuRkp3bDYyMk5LTU54U2lYcHZtMFN0WXA5M1FQdE4zd3U2WjVPdkExSzFiRndZSF9hT2Jlb3lVaDZtdmZvT1VBZDFzS0pPSTg4RUxPQzVPZ0RQWTZuQkFEbDQxdWNMM3dRWWpsX2Y3TzVTV2dhOVlGSjlOSDhXYlE0ODJfUXl4TkpXNXQtU1d2SXZwbkdQcnpRblZTUmllVmk1eXMtaEc2czk0MzVDVE1TNW5YekhobXF6bXNzVGJYWmFkZzRjZVJSTm92UGM1M0VhSHBVSEhtdtIBggNBVV95cUxOV2lFaDJPNUl4VmZsaUk1eFJKMlp2LW10YVQ3dy1MRmNTZGNEenRkTG92MjJxZDh6TTNlVnpEN2NIb2VfN3dYY0s5alF4QjRpT21iR1ltMkI3LXNWajd6dnFISEpKX1FBejBCOFhMYTM3S3dqM3pQOGIxcUtVTDc1VEZoOFo5X3BKbkNPSldXZUxPc0x4N1JWSmRYT0VpTk4xbXJfaDdoeG1KTlJaQVRSenpDWGJkOFpmY19hYmdxSlE3ekVvaVdHeE1IVzRPOTFSeEhuLVJBZ2pta2tMSGl0R0tnemhLNzB4SE92ZC1Mbnk4NXFoLWZNRFFaQTl2QXVBZ21pSDFJTEZtaTdYRV9FN3o5cmEyRVlEeFpkRmN6b1JIWnpCMEZSVTFmMjAyamN6Y0NVeE5qVm5QMlBsQWFrcG0zVXZ1LTNtTGtxSWxKSG8wU3ZaeWVZOUlXSzdaR3JHTWpWcGMwWXlrcEVNd19IejZlTWZlZzUya1hSbU94cWltZw?oc=5",
-    "category": "Beyonce News"
   },
   {
     "title": "Tina Knowles Reveals the Reason Daughter Beyonc\u00e9 Decided to Self-Fund Her Haircare Brand amid Investor Interest - People.com",
@@ -216,51 +189,6 @@
     "category": "Zendaya"
   },
   {
-    "title": "Why \u2018Spider-Man\u2019 Can Swing Big After 12 Movies - Forbes",
-    "artist": "Spider-Man",
-    "source": "Forbes",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYW93YnF4X0Qxa2ZxZklJLUp2M2gzMDlVQ1J4OENlLWJkdDJMVnN2NWVUMnVEZk53LW9BSFBlRFpWNDZ3elNNTktoM3B4Z2JFMVJDdlV5dEtPZXJQWDROb3NEbmdsZ3l3aUdiRXBPQjVYbVdOT1RRcHk4Qi1BaV9tTjN5Y1BvVDZfaEE1Tm90UlNBb2NHQjU4eWJYRDA?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Spider-Man: Brand New Day\u2019s Multi-Platform Streaming Success Leaves MCU Fans With One Question - Yahoo",
-    "artist": "Spider-Man",
-    "source": "Yahoo",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGEtYlpfRnBidlFNbXFvT2JydjNqZUxLUzNyU242bjBmWHVZaEVOSlFfeElGbG5CeGhfXzhFWXFfOC1vZzNoN1hiZHBVdDJZdUNET2J0STRWX05xZXFyYmtqdDA5c0E5U05VaERUNGN1MXl2REtWVEIzbWZ4anVUWnpHVFpoQmw2Ty1FV21KOGtEM1YzdWdJag?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "James Gunn Officially Replaces Sony's Spider-Man Universe - MovieWeb",
-    "artist": "Spider-Man",
-    "source": "MovieWeb",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LVF8tbER4bktrZk1hcVlmZjB2UmtKa2dFVmJHSzNGLU1OZWVEMzNqV09nUWdkSkFPT2VMX284RW0tcHZram1kN280UkFZNTIwOS1zd1dnbHVSQ3YwVnBKLVYxREw2RVhpNEhhazgtbmMxeFZRUEE?oc=5",
-    "category": "Movies"
-  },
-  {
-    "title": "Jay-Z Will Be The Richest Super Bowl Halftime Headliner\u2014These Billionaires Could Join Him On Stage - Forbes",
-    "artist": "Beyonce",
-    "source": "Forbes",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQkdhQ3pZRkZTcE12WTREV1RYRnM5UGVZUVNqblhFYnZqVUZkTmU1dU9QdF9qY0l2dFZEOEJ0OEZTWWkzREdFVF9IczdBMnBHbDNWS0M0d2ZKeEE3OExUdE1hSWJVNUZxSDFBTlh1WDh5UHp0V1ZfSjI0dGZQRVItY3FPOS1hcHN1OWtNVjN1RUdaRkM3SWViZFdjNWh6XzZCVUlvcTBUS3FOelVjeEhTX0MyM19YVHFVb3JMZ1k3SzNMQWs0NTNFbTZEejJVTUdYZHJTeS1tcnJSUVdrQ1FZTnMzcVd4QQ?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "See Inside Beyonc\u00e9 and Jay-Z\u2019s Lavish Homes, From Malibu to Manhattan - Yahoo",
-    "artist": "Beyonce",
-    "source": "Yahoo",
-    "time": "2026-10-27",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2x1MWdNOWNvRE5jaFJwNWswcjRDbWZZbUVKODdRelBLTFc3LVRwQzNIaDBjU3hQS1VtU0ZYMHpacGVnVVVDaG45SkRLWVR6amowbnlsWUNHTmZzNFpoSXgxbTRUNjZCd3BEZ2hxSy10aHN1amEwT2ZpNjlOSHpIRV9NWWIzUQ?oc=5",
-    "category": "Beyonce News"
-  },
-  {
     "title": "Mona Lisa",
     "artist": "Sondae",
     "source": "YouTube",
@@ -268,6 +196,15 @@
     "image": "https://i.ytimg.com/vi/Io0FCw16HHo/hqdefault.jpg",
     "spotify": "https://youtube.com/watch?v=Io0FCw16HHo",
     "category": "Music"
+  },
+  {
+    "title": "Jay-Z Brings Daughter Blue Ivy, 14, Out During L.A. Concert, Destiny\u2019s Child Reunites - People.com",
+    "artist": "Beyonce",
+    "source": "People.com",
+    "time": "2026-10-24",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakxaMUFlSjJEelNHYm5RbHNYR3YtM0Y5NW54QmJ0UEk0VmtqQjF1dklFSjhjX3FrZS1jRFN3S0FUekVLMVlxcFRkdmdzSThUYWdNVUduVEw0RG44OEVxajZscHlabWdXaUt3STRPX0ZqRW1fLXgxVjVWTFNwWF9GeVdrSFRoTGFpTE9ISWVoZVBCR2JXLU5mZUhBR3lPaVczLUZSdHE3UDNYdlE?oc=5",
+    "category": "Beyonce News"
   },
   {
     "title": "A Million Chances",
