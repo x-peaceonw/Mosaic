@@ -1,11 +1,83 @@
 [
   {
-    "title": "Tom Holland's Spider-Man Trilogy Gets a Stunning New Boxset - The Direct",
+    "title": "Wash (feat. HILLARI)",
+    "artist": "Tori Kelly",
+    "source": "Spotify",
+    "time": "2026-11-13",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731a5b6a147132898870bdc3a6",
+    "spotify": "https://open.spotify.com/album/3AW3TheYh6k1F1YWRUnsBb",
+    "category": "Music"
+  },
+  {
+    "title": "Spider-Man, Captain Marvel, and 4 MCU heroes NOT in Avengers: Doomsday - Bam Smack Pow",
+    "artist": "Spider-Man",
+    "source": "Bam Smack Pow",
+    "time": "2026-11-13",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTRVM21rSkYxTExaX25OcE5yREVJanV4ZHhyNVg2X09tZ21JTG5PaXd5MVNDTUVIamNXemFaNDR3ODlxU2hqaENWdXRmdlZ4Vlc4S3dwcUl4WXQ4Tk85QXBSU285M00ydWVGSWJHY0lYakpGNWxQdVlhV1RpUWZzQnJrOV9LREloWHlNd21DVU92V3RweXROakRB?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Inside Beyonc\u00e9 and Jay-Z\u2019s Ultra-Private Penthouse Wedding in New York - InStyle",
+    "artist": "Beyonce",
+    "source": "InStyle",
+    "time": "2026-11-13",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcEVQZUhibHgxUkU0Wm9tWUpTTDh5Ri1sWU5NQUlGSUgzT0pyNFh6VXRzVzZBcFZfTjh3SllyenhfdVF3VExXWDFCMmFyeUV1eTgyVXNpYk9RNHVIajdaU3BmMzJiLTRRZW5ZZVV4TEsxcDZ1bktxLTNoalZYZmN1MWwwUFhnM1RvUHRRRUUySHN5REtQYTJEamlhNEtpbXc?oc=5",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "I love the Lord, for he heard my voice; he heard my cry for mercy. Because he turned his ear to me, I will call on him as long as I live.",
+    "artist": "Psalm 116:1-2",
+    "source": "OurManna",
+    "time": "2026-11-13",
+    "image": "",
+    "spotify": "http://www.ourmanna.com/",
+    "category": "Faith"
+  },
+  {
+    "title": "Currently featured on beyonce.com",
+    "artist": "Beyonce",
+    "source": "beyonce.com",
+    "time": "2026-11-13",
+    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
+    "spotify": "https://beyonce.com",
+    "category": "Beyonce News"
+  },
+  {
+    "title": "Wash",
+    "artist": "Tori Kelly",
+    "source": "YouTube",
+    "time": "2026-11-12",
+    "image": "https://i.ytimg.com/vi/1e1lzvEZfWk/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=1e1lzvEZfWk",
+    "category": "Music"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' Re-Release Title and Release Date - Gizmodo",
+    "artist": "Spider-Man",
+    "source": "Gizmodo",
+    "time": "2026-11-12",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJNbk1UbnRockJDcG5BSkljWGlkX21VYkhTd29zQ3JRazFFNEw3SFRSd2M5OGx2MWd1OTlrNVR1NlJBMGJ5bUpHQnpDTW9Od3J5NHFBNzViTG5NNURCNlktVGVHUzB2c0lHVTRMdHdVbHpfS1U0djlJdWdEVElOUUlDRHRicnVTZ2lJT2tPQjk1X3pLSFhyT01nMmdpT2tOeGZlamVzWmI?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' Sets December Release for Extended Cut - MovieWeb",
+    "artist": "Spider-Man",
+    "source": "MovieWeb",
+    "time": "2026-11-12",
+    "image": "",
+    "spotify": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZGVBZFdpeW9oMmoxdG1qenpMX3JteUhxMnk1NW1VTms2SzlyRTdubVd0LUZ1Wm45eTlpM1VwQmJoZ1FfYUJqUTlUektHbEl3RldtbGNBWmt3d1VROFNoQnZiYnNhMm1KSmdkYzhWMmkzeVRfbGZ5bERydGM?oc=5",
+    "category": "Movies"
+  },
+  {
+    "title": "Spider-Man: Brand New Day\u2019s Extended Cut Gets Official Release Date, Title Change & Runtime - The Direct",
     "artist": "Spider-Man",
     "source": "The Direct",
     "time": "2026-11-12",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12VmRfbW0wMDNnbXJ5TTkyNDJUeXVMVHFJeGN0Yl9EQmh2QktKWXZHcExsY0JzMGppZUFlbEU1cTlPMi1qNDFJdXFldUFETHNJN2dWRDRnMFFCNjhseThaUDExSTI1OXRPbzVJR3NRbkJ1aEhGTEE?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNm5MNHVuTzZsY1V0MGthbzR3dUthSEFCZ0NyQ0tGMGh4QzdDN0UxZEk2QkRIZEdQU1paWmUtMWctejNWUnpWR2ltdXNIemhqTm9Kc09sWU9VMWYzTTBxeUJ3Tno4ZGkzUGhtWWhmcVdFN2dPTkotbUgyX3h6Qmx6bFdSTks4bkxfWmkxVHVNdU5nT0ZQNDdkWUhn?oc=5",
     "category": "Movies"
   },
   {
@@ -18,31 +90,22 @@
     "category": "Sports"
   },
   {
-    "title": "To do what is right and just is more acceptable to the LORD than sacrifice.",
-    "artist": "Proverbs 21:3",
-    "source": "OurManna",
+    "title": "Beyonce's daughter Rumi's budget wardrobe is a far cry from billionaire mom's as she makes frugal revelation - Yahoo",
+    "artist": "Beyonce",
+    "source": "Yahoo",
     "time": "2026-11-12",
     "image": "",
-    "spotify": "http://www.ourmanna.com/",
-    "category": "Faith"
-  },
-  {
-    "title": "Currently featured on beyonce.com",
-    "artist": "Beyonce",
-    "source": "beyonce.com",
-    "time": "2026-11-12",
-    "image": "https://cdn.sanity.io/images/fvrrd1kn/production/b3b9cafcaa5992600b483529afb9a6b4c7124a7e-1200x630.png?w=1200",
-    "spotify": "https://beyonce.com",
+    "spotify": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2d0VDg1bEtsQ3phUVBQLWFFVURXMTl4NkhEa2hXeVAySnpyTkU5dDI4RU44Sy1XVjJ3S1lqbGVNdU5qYkdZTGQ2UVUzdy1HSnYwS05GNE1wLWtQR2I3NGJ6RVpFNVJnclVZVG5yX2VjWHhzWm5BaEhpNUV6TmlfWjRMLTRqV2lPTDFFdU9YV3U3UlR2Z1p0UGhxOVVhRTBIM0ExcU1JNUtlUmN0WWRVWDRSZ2Z5WGd0?oc=5",
     "category": "Beyonce News"
   },
   {
-    "title": "Heroes Need People Too - Vocal",
-    "artist": "Spider-Man",
-    "source": "Vocal",
+    "title": "Beyonc\u00e9 Says Her Wedding Dress Is Her \u2018Favorite\u2019 Thing Mom Tina Knowles Has Designed for Her - People.com",
+    "artist": "Beyonce",
+    "source": "People.com",
     "time": "2026-11-11",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHbHZydzlzOEVmRURZTWFqX0E2ejJ5RVJIQlNkYkt3a1BkcUk2R21HcFZmNzFmSExjR3Y0QzNNV2JsRDd1Y05lMHc4LXdxc1NoT055bnNjclk2WXpf?oc=5",
-    "category": "Movies"
+    "spotify": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZU5zWldDb21FbnRLZ3JFX1k1MlFrNDJsTkxYSl8zNHpsVGdNWnBZSWZpdDNncFVHYzVVRU5oYzdNQVM5blUwNmpWTWFLallOQWpMdjNkWl9heWJLSnhhMVZ6Mi04Y0h6c3RFeHpnWGJJRUlLdTQ2SXVNWmpNSEI4NUVBcndxbHNZYlpNZklXQ0lyMzBMUjFReGJCN3k3bC1xTThILXR3?oc=5",
+    "category": "Beyonce News"
   },
   {
     "title": "Beyonc\u00e9 talks C\u00e9cred, surprise wedding to Jay-Z, and daughter Rumi - USA Today",
@@ -54,21 +117,12 @@
     "category": "Beyonce News"
   },
   {
-    "title": "Beyonc\u00e9 Gets \u2018Goosebumps\u2019 From RAYE, Sienna Spiro & Olivia Dean: \u2018I Just Burst With Pride When I See Them\u2019 - Billboard",
+    "title": "The Story of C\u00e9cred - i-D Magazine",
     "artist": "Beyonce",
-    "source": "Billboard",
+    "source": "i-D Magazine",
     "time": "2026-11-11",
     "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmlWTndVR1FRQVgxNFBQSW1VdXBlVW94QnBCMVo5dHZkcWR3cDdabEtpVnZrMmdReVZJRXQxQW1ncnh6RFdKZy1GaXBIT2V2NmZQX0dHWVFQUlRLdHZSdG1pa3dxdDFnMkxLZW5TNTc5MDFQLTdXV0NZRlBBaEI2WUJLd01wb3kweWJ3NVEydW9sVml2c3ZRbGdsV20zUkV6Nnc?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonc\u00e9 says favourite part of London is drive to Tottenham Stadium as superstar singer reveals why she loves the area - The Sun",
-    "artist": "Beyonce",
-    "source": "The Sun",
-    "time": "2026-11-11",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0RPcnNlRjkxVUlPNVFCZ01HbEwzMHBlQlpSaFJrUFhZYzNBMC1kYlhuT1l6bWJFNkQ0MEtfTzNvdEJDSnBzaTVObi14b2N0Z0ZocldpWFU3Y3c5X2ZNUmZnOXBsSE93ZFNuWF9UN3dRdTVycDJJREV3QW9wMDFjZmo0REZDNGdBZFZhQVJtWGlIM1VpSVhybGxB?oc=5",
+    "spotify": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PV2VlRERwamRJYjBoNVJSUTRpZUh4cjBsWjdZQ3lJZkNKTzJfY1ByOWpUUHFrc1NCdFNKUlZ0cWx2UmhtZU5fQzhUOVo1T29SUzZjb2IxZUZ1OHF3?oc=5",
     "category": "Beyonce News"
   },
   {
@@ -81,24 +135,6 @@
     "category": "Beyonce News"
   },
   {
-    "title": "USC launches Beyonce MBA course - KTLA",
-    "artist": "Beyonce",
-    "source": "KTLA",
-    "time": "2026-11-10",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hVS1icVVpbHBnUGpiTEpSY2M0NmV1dFhEMFZ5RHNmQTlwSVpIUWZqWGxRSXNnMzBwaF9jRmcwYUtYZ3BfVHVQZy1WVm50cUtJQXJIX0xxb1J6OEN2NURpUWJkUXZwcWZpbVpWbUhETF_SAXZBVV95cUxQeEIyY2JacG1tTVprTzdpdlJpY2Z3Q2VrazNMeEtabFhydzI2RUlRTmZkREZtV2VuVk0wb2ZwY1RtaWF0ZnZUeDJoTVgzOGt1M21kZWE3bnlycXAyVm9oblQ0VnFzTEg5OVUtM000Y1NYYjMxazBn?oc=5",
-    "category": "Beyonce News"
-  },
-  {
-    "title": "Beyonce | Biography, Songs, Movies, Grammy Awards, & Facts - Britannica",
-    "artist": "Beyonce",
-    "source": "Britannica",
-    "time": "2026-11-08",
-    "image": "",
-    "spotify": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CMm8yNmtQRHFXSDczaFJJSGlDd0tKOEVDOGpXYTFka1p3b1BkZUJOa2pjaWl5VjZXV1djOHRvaUY4WlM3UjJYTzNLWXVmZVdjcXlTNkoxMA?oc=5",
-    "category": "Beyonce News"
-  },
-  {
     "title": "petal",
     "artist": "Ariana Grande",
     "source": "Spotify",
@@ -108,21 +144,12 @@
     "category": "Music"
   },
   {
-    "title": "petal (a cappella)",
+    "title": "surprise  \ua564 \uff61\u02da ! petal, the bundle, featuring petal (angry version), is out now ! listen wherever. \u263d",
     "artist": "Ariana Grande",
     "source": "YouTube",
     "time": "2026-10-30",
-    "image": "https://i.ytimg.com/vi/aqKj0hy56UE/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=aqKj0hy56UE",
-    "category": "Music"
-  },
-  {
-    "title": "petal (angry live version)",
-    "artist": "Ariana Grande",
-    "source": "YouTube",
-    "time": "2026-10-30",
-    "image": "https://i.ytimg.com/vi/OBHr7G-kvAo/hqdefault.jpg",
-    "spotify": "https://youtube.com/watch?v=OBHr7G-kvAo",
+    "image": "https://i.ytimg.com/vi/65yGzGBe1ds/hqdefault.jpg",
+    "spotify": "https://youtube.com/watch?v=65yGzGBe1ds",
     "category": "Music"
   },
   {
